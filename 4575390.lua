@@ -1,0 +1,2 @@
+addappid(4575390) -- Bow-wow Battle
+addappid(4575391, 1, "5db43126ea3762c201898ae2e6b08c448e65d75e9fd759804c40a9b2b6752166") -- Depot 4575391

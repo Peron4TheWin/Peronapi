@@ -1,0 +1,4 @@
+addappid(4046590, 1, "a6a58664380cd5770de9b2d2e4fcf3e5a6a09237eaaa812dea5571124c746c29") -- Better Days
+addappid(4046591, 1, "0340313a7ad8fc08a401861522527cc9cc722d83d568d5f13198a6e3c7d5db27") -- Depot 4046591
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)

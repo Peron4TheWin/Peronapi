@@ -1,0 +1,31 @@
+-- Configuração gerada por Onekey para AppID 220050
+
+addappid(220050, 1, "None") -- Adiciona o AppID principal
+
+-- Configuração para Depot ID 220051
+addappid(220051, 1, "490dc502c58229ece677e73ea2893612a5e59214ed00466cc6b66ecb4acfc663")
+-- setManifestid(220051,"1125845634715264015") -- Bloqueia para o manifesto mais recente: 1125845634715264015
+
+-- Configuração para Depot ID 220052
+addappid(220052, 1, "882f978b1a56f216b0cb3955e2ec485e0f2a8b55c8a65d51d67ee6e50bd316e4")
+-- setManifestid(220052,"216992498389571283") -- Bloqueia para o manifesto mais recente: 216992498389571283
+
+-- Configuração para Depot ID 220053
+addappid(220053, 1, "5e1f25d95e5f700b24e0785f59ded13f443fe9d51a44ab914d9c6145e3dcf44c")
+-- setManifestid(220053,"6573332310461649874") -- Bloqueia para o manifesto mais recente: 6573332310461649874
+
+-- Configuração para Depot ID 220054
+addappid(220054, 1, "4c6ae276a9f1de7658b09c231b02d1316eadd247978742edaa87ddbad04f657b")
+-- setManifestid(220054,"3545827340767531371") -- Bloqueia para o manifesto mais recente: 3545827340767531371
+
+-- Configuração para Depot ID 220055
+addappid(220055, 1, "24a42feaa0585f12d75c6f1db5da37a317c099b13b5dd666f13c1bc65a1d3c67")
+-- setManifestid(220055,"6651780762444708115") -- Bloqueia para o manifesto mais recente: 6651780762444708115
+
+-- Configuração para Depot ID 220056
+addappid(220056, 1, "e9f26d7a00ca525a46bb2932fe383e46e18e72680b839f33524d82941c3650a5")
+-- setManifestid(220056,"2017837124185418320") -- Bloqueia para o manifesto mais recente: 2017837124185418320
+
+-- Configuração para Depot ID 220057
+addappid(220057, 1, "d4be42588e6a754420b5441b6380970132f413b385012a58aabda0c0646448aa")
+-- setManifestid(220057,"662891083502325767") -- Bloqueia para o manifesto mais recente: 662891083502325767

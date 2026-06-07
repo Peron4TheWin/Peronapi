@@ -1,0 +1,4 @@
+addappid(2720920, 1, "226301dc61e0d86335913d2cc57ed753e0c7b84b03e736001ec2cbee936108c6") -- ASTROBOTANICA
+addappid(2720921, 1, "f9fc8122946a0a1c6329648121d3483fe457c67d21d4e5cda661b596fa55ff2e") -- Depot 2720921
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)

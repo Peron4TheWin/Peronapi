@@ -1,0 +1,17 @@
+addappid(250900, 1, "cb1c1ac5bf12aa887c898dcfcb962eca6ddb2dc729d5e49ee4e41bb24a95ea39") -- The Binding of Isaac: Rebirth
+addappid(250902, 1, "ad8a374561fd8769aac243917372237482caa7a94aafbcdaa45adc4208916b7a") -- Win32
+addappid(250903, 1, "40e55a223f52c70c427117df402eee6152118a11d9c17f28bc849252cde5337b") -- Linux
+addappid(250904, 1, "210036fb298fd6b8c2d227c9a803614edb0a6e2d9949968b46321c25d298155d") -- OSX
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
+addappid(401920)
+addappid(250905, 1, "42e1eb359f37040d6a198d7b0aef616b100b9ac5405667f89c15aeaf217a47ed") -- The Binding of Isaac Afterbirth - Afterbirth Win32
+addappid(250906, 1, "d83d1ccc6ec53ebb8724d9dbaa3fd1b7d417fef3dcf9f9260d5fcd49b3dc771e") -- The Binding of Isaac Afterbirth - Afterbirth Linux
+addappid(250907, 1, "748829017a20ec0570ef232ad6b5b12539ebe511fcf85c494ac7856e5015e48a") -- The Binding of Isaac Afterbirth - Afterbirth OSX
+addappid(570660)
+addappid(250908, 1, "5a6d9cc4f7864cadb061e3c6f91f8c3f2ee7509f31db0c926f7c4066ff737366") -- The Binding of Isaac Afterbirth - Afterbirth Plus Win32
+addappid(250909, 1, "80ee47ebd3ec21428656ac288e189aeb671034dbed479347ac2b553f822d5899") -- The Binding of Isaac Afterbirth - Afterbirth Plus Linux
+addappid(250910, 1, "6624d0874bc231a99b0f107bd111eaaaac393405c68773a6641e4e82f1232172") -- The Binding of Isaac Afterbirth - Afterbirth Plus OSX
+addappid(1426300)
+addappid(250911, 1, "91f532dc0f4bd27b98705c41e9c5b1171df5c8254c92409b9faf40bbe8708639") -- The Binding of Isaac Repentance - Repentance Win32
+addappid(3353470)
+addappid(3353471, 1, "b1b260b7116c50497bfe54b1df79bc30dbca77c3d8d7d2698f96657fdb2829e8") -- The Binding of Isaac Repentance - Depot 3353471

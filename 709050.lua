@@ -1,0 +1,25 @@
+-- 709050's Lua and Manifest Created by Morrenus
+-- GHOUL
+-- Created: December 11, 2025 at 11:25:51 EST
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 5
+-- Total DLCs: 1
+-- Shared Depots: 3
+
+-- MAIN APPLICATION
+addappid(709050) -- GHOUL
+-- MAIN APP DEPOTS
+addappid(709051, 1, "3f21e8305938bbcad80a49fd4b36d067e925862d43513ef0cfbd04ea89b9d47c") -- GHOUL Content
+-- setManifestid(709051, "4307148218738076238", 5119069728)
+-- SHARED DEPOTS (from other apps)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
+-- setManifestid(228986, "8782296191957114623", 29759921)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+-- setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229004, 1, "56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0") -- .NET 4.5.2 Redist (Shared from App 228980)
+-- setManifestid(229004, "5220958916987797232", 70000464)
+-- DLCS WITH DEDICATED DEPOTS
+-- GHOUL OST (AppID: 866880)
+addappid(866880)
+addappid(866880, 1, "79b40b5cbf0e8f64aacc7bfc7cce20c2cb3274d003ce936b3acdde700880ad83") -- GHOUL OST - GHOUL OST (866880) Depo
+-- setManifestid(866880, "5000432460433258532", 54485247)

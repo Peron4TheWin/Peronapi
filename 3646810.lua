@@ -1,0 +1,12 @@
+-- 3646810's Lua and Manifest Created by Morrenus
+-- Mara
+-- Created: November 27, 2025 at 11:59:24 EST
+-- Website: https://manifest.morrenus.xyz/
+-- Total Depots: 1
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(3646810) -- Mara
+-- MAIN APP DEPOTS
+addappid(3646811, 1, "3099d8680b09f32189111de429ee29fe9142a448df2ef5f76b43c8e3a768e27f") -- Depot 3646811
+-- setManifestid(3646811, "5201156653455790750", 10728859878)

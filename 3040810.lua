@@ -1,0 +1,8 @@
+
+addappid(3040810) -- Green Horizon: VR Golf
+addappid(3040811, 1, "0f18c8dc78c0db23aa93e0f041f619d730cb98ce5972b6885afd2b0f28da54c5") -- Depot 3040811
+-- setManifestid(3040811, "1878374461076095889", 1674641336)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+-- setManifestid(228989, "3514306556860204959", 39590283)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+-- setManifestid(228990, "1829726630299308803", 102931551)

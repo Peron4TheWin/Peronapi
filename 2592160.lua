@@ -1,0 +1,7 @@
+-- dispatch
+addappid(2592160)
+addappid(3920280)
+addappid(2592161,0,"5b4a3a4477e47584b99200004c6f4ef8cf41be05df586de9e1771e160fc7527d")
+
+-- atualizaçao
+-- setManifestid(2592161,"646291489769966641")

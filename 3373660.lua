@@ -1,0 +1,4 @@
+
+addappid(3373660) -- Look Outside
+addappid(3373661, 1, "88c6e87f7634aef8353a85a294ee8c152ecf785deb98dfec994bfa3181e747d1") -- Depot 3373661
+-- setManifestid(3373661, "7331557256141472752", 1033430397)

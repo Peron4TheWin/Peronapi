@@ -1,0 +1,7 @@
+-- Configuração gerada por Onekey para AppID 33420
+
+addappid(33420, 1, "None") -- Adiciona o AppID principal
+
+-- Configuração para Depot ID 33421
+addappid(33421, 1, "861b3f3d2782d67fac666be1f488f819ab78b2079b91a8aa773c29157f5c372b")
+-- setManifestid(33421,"5929977698197962956") -- Bloqueia para o manifesto mais recente: 5929977698197962956

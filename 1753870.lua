@@ -1,0 +1,3 @@
+-- peace island
+addappid(1753870) -- Peace Island
+addappid(1753872, 1, "d60eaf9e3c1212964ab8214601e6c849379d2666248d0725c3d9a6efadb73643") -- Depot 1753872

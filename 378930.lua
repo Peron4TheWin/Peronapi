@@ -1,0 +1,16 @@
+
+addappid(378930) -- Pesadelo - Regressão
+addappid(378931, 1, "3461e1f67f424ff2e876e1f6cf01621a2ac9ec370968086724742c7a645a8435") -- Depot 378931
+-- setManifestid(378931, "8395555744959152276", 2936337563)
+addappid(378933, 1, "41aa1806261801102af7a9649d1e132f1e05960c8f05d6cc7c63ef344f49ae8d") -- Depot 378933
+-- setManifestid(378933, "2028179244505779749", 2482092630)
+addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
+-- setManifestid(228984, "2547553897526095397", 13742505)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+-- setManifestid(228990, "1829726630299308803", 102931551)
+addappid(229000, 1, "3aae9271fb93da5395ffbfe338d3647de5dcfab3fc6fb901ca2ec28849b3d6bf") -- .NET 3.5 Redist (Shared from App 228980)
+-- setManifestid(229000, "4622705914179893434", 242743889)
+addappid(229002, 1, "f95e8545cfe871c330a483b25520ba7ed3750d21b9a51791ff0f0ed0dae33738") -- .NET 4.0 Redist (Shared from App 228980)
+-- setManifestid(229002, "7260605429366465749", 50450161)
+addappid(229020, 1, "efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9") -- OpenAL 2.0.7.0 Redist (Shared from App 228980)
+-- setManifestid(229020, "5799761707845834510", 810085)
