@@ -2,7 +2,7 @@ name: Sync & Extract LUAs
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # cada 30 min
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       full_sync:
@@ -24,7 +24,6 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Guardamos el SHA en cache para no commitearlo al repo
       - name: Restore last SHA
         id: cache-sha
         uses: actions/cache@v4
@@ -35,8 +34,8 @@ jobs:
       - name: Check upstream for new commits
         id: check
         env:
-          UPSTREAM_OWNER: skyflarefox   # <-- cambiá esto
-          UPSTREAM_REPO: Skyapi   # <-- y esto
+          UPSTREAM_OWNER: skyflarefox
+          UPSTREAM_REPO: Skyapi
         run: |
           UPSTREAM_SHA=$(curl -sf \
             "https://api.github.com/repos/$UPSTREAM_OWNER/$UPSTREAM_REPO/commits/main" \
@@ -47,8 +46,12 @@ jobs:
           echo "upstream=$UPSTREAM_SHA" >> $GITHUB_OUTPUT
           echo "last=$LAST_SHA"         >> $GITHUB_OUTPUT
 
+          echo "SHA upstream:  $UPSTREAM_SHA"
+          echo "SHA guardado:  $LAST_SHA"
+
           if [ "$UPSTREAM_SHA" != "$LAST_SHA" ] || [ "${{ inputs.full_sync }}" = "true" ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✓ Hay cambios, continuando..."
           else
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "Sin cambios, saliendo."
@@ -63,8 +66,14 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream "https://github.com/$UPSTREAM_OWNER/$UPSTREAM_REPO.git"
+
+          echo "Fetching upstream..."
           git fetch upstream main
+
+          echo "Mergeando..."
           git merge upstream/main --ff-only || git merge upstream/main --no-edit
+
+          echo "✓ Fork sincronizado"
 
       - name: Detect changed ZIPs
         if: steps.check.outputs.changed == 'true'
@@ -74,16 +83,18 @@ jobs:
           FULL="${{ inputs.full_sync }}"
 
           if [ -z "$LAST" ] || [ "$FULL" = "true" ]; then
-            echo "Sync completo: procesando todos los ZIPs..."
+            echo "Modo: sync completo"
             find . -name "*.zip" -not -path "./.git/*" > /tmp/changed_zips.txt
           else
-            echo "Sync incremental: ZIPs nuevos/modificados..."
+            echo "Modo: sync incremental"
             git diff --name-only --diff-filter=ACM "$LAST" HEAD \
               | grep '\.zip$' > /tmp/changed_zips.txt
           fi
 
           COUNT=$(wc -l < /tmp/changed_zips.txt)
+          echo "==============================="
           echo "ZIPs a procesar: $COUNT"
+          echo "==============================="
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
       - name: Extract and patch LUAs
@@ -91,29 +102,44 @@ jobs:
         run: |
           mkdir -p /tmp/luas
 
+          TOTAL=$(wc -l < /tmp/changed_zips.txt)
+          COUNT=0
+          SKIPPED=0
+
           while IFS= read -r zipfile; do
             [ -z "$zipfile" ] && continue
 
-            # El nombre del ZIP es el appid
+            COUNT=$((COUNT + 1))
             appid=$(basename "$zipfile" .zip)
 
-            # Extraer — asumimos un solo .lua por ZIP
+            echo "[$COUNT/$TOTAL] Extrayendo $appid..."
+
             tmpdir=$(mktemp -d)
             unzip -q "$zipfile" -d "$tmpdir"
 
             luafile=$(find "$tmpdir" -name "*.lua" | head -1)
-            [ -z "$luafile" ] && continue
+            if [ -z "$luafile" ]; then
+              echo "  ⚠ Sin lua, saltando"
+              SKIPPED=$((SKIPPED + 1))
+              rm -rf "$tmpdir"
+              continue
+            fi
 
-            # Comentar todas las líneas setManifestid(...)
             sed -i 's/^\(setManifestid(.*)\)/-- \1/' "$luafile"
-
-            # Guardar con nombre = appid.lua
             cp "$luafile" "/tmp/luas/${appid}.lua"
             rm -rf "$tmpdir"
 
+            echo "  ✓ Parchado y guardado"
+
           done < /tmp/changed_zips.txt
 
-          echo "LUAs procesados: $(ls /tmp/luas | wc -l)"
+          PROCESADOS=$(ls /tmp/luas | wc -l)
+          echo ""
+          echo "==============================="
+          echo "Total ZIPs:    $TOTAL"
+          echo "Procesados:    $PROCESADOS"
+          echo "Saltados:      $SKIPPED"
+          echo "==============================="
 
       - name: Push LUAs to branch
         if: steps.check.outputs.changed == 'true' && steps.zips.outputs.count != '0'
@@ -121,16 +147,37 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Crear o cambiar a la rama luas
           git checkout luas 2>/dev/null || git checkout -b luas
 
-          # Limpiar LUAs viejos y copiar los nuevos
+          ANTES=$(git ls-files "*.lua" | wc -l)
+          echo "LUAs en rama antes: $ANTES"
+
           cp /tmp/luas/*.lua ./
+
+          NUEVOS=$(ls /tmp/luas/*.lua | wc -l)
+          echo "LUAs copiados: $NUEVOS"
+
           git add *.lua
-          git commit -m "sync: update LUAs" || echo "Nada nuevo para commitear"
+
+          STAGED=$(git diff --cached --name-only | wc -l)
+          echo "Archivos con cambios: $STAGED"
+
+          git commit -m "sync: update LUAs ($STAGED archivos)" || echo "Nada nuevo para commitear"
+
+          echo "Pusheando a rama luas..."
           git push origin luas --force
+
+          DESPUES=$(git ls-files "*.lua" | wc -l)
+          echo ""
+          echo "==============================="
+          echo "LUAs antes:    $ANTES"
+          echo "LUAs subidos:  $NUEVOS"
+          echo "Cambiados:     $STAGED"
+          echo "Total en rama: $DESPUES"
+          echo "==============================="
 
       - name: Save new SHA to cache
         if: steps.check.outputs.changed == 'true'
         run: |
           echo "${{ steps.check.outputs.upstream }}" > .last_sha
+          echo "✓ SHA guardado"
