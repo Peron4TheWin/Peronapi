@@ -115,25 +115,20 @@ jobs:
 
           echo "LUAs procesados: $(ls /tmp/luas | wc -l)"
 
-      - name: Upload to Release
+      - name: Push LUAs to branch
         if: steps.check.outputs.changed == 'true' && steps.zips.outputs.count != '0'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Crear release si no existe
-          gh release view latest-luas --repo "$GITHUB_REPOSITORY" 2>/dev/null || \
-            gh release create latest-luas \
-              --repo "$GITHUB_REPOSITORY" \
-              --title "LUAs (auto-updated)" \
-              --notes "Actualizado automáticamente desde upstream." \
-              --latest
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Subir/reemplazar cada LUA
-          for lua in /tmp/luas/*.lua; do
-            gh release upload latest-luas "$lua" \
-              --repo "$GITHUB_REPOSITORY" \
-              --clobber   # sobreescribe si ya existe el archivo
-          done
+          # Crear o cambiar a la rama luas
+          git checkout luas 2>/dev/null || git checkout -b luas
+
+          # Limpiar LUAs viejos y copiar los nuevos
+          cp /tmp/luas/*.lua ./
+          git add *.lua
+          git commit -m "sync: update LUAs" || echo "Nada nuevo para commitear"
+          git push origin luas --force
 
       - name: Save new SHA to cache
         if: steps.check.outputs.changed == 'true'
