@@ -35,8 +35,8 @@ jobs:
       - name: Check upstream for new commits
         id: check
         env:
-          UPSTREAM_OWNER: owner-original   # <-- cambiá esto
-          UPSTREAM_REPO: nombre-del-repo   # <-- y esto
+          UPSTREAM_OWNER: skyflarefox   # <-- cambiá esto
+          UPSTREAM_REPO: Skyapi   # <-- y esto
         run: |
           UPSTREAM_SHA=$(curl -sf \
             "https://api.github.com/repos/$UPSTREAM_OWNER/$UPSTREAM_REPO/commits/main" \
@@ -57,8 +57,8 @@ jobs:
       - name: Sync fork with upstream
         if: steps.check.outputs.changed == 'true'
         env:
-          UPSTREAM_OWNER: owner-original
-          UPSTREAM_REPO: nombre-del-repo
+          UPSTREAM_OWNER: skyflarefox
+          UPSTREAM_REPO: Skyapi
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
