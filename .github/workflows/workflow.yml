@@ -1,0 +1,141 @@
+name: Sync & Extract LUAs
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # cada 30 min
+  workflow_dispatch:
+    inputs:
+      full_sync:
+        description: 'Forzar extracción completa de todos los ZIPs'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Guardamos el SHA en cache para no commitearlo al repo
+      - name: Restore last SHA
+        id: cache-sha
+        uses: actions/cache@v4
+        with:
+          path: .last_sha
+          key: last-upstream-sha
+
+      - name: Check upstream for new commits
+        id: check
+        env:
+          UPSTREAM_OWNER: owner-original   # <-- cambiá esto
+          UPSTREAM_REPO: nombre-del-repo   # <-- y esto
+        run: |
+          UPSTREAM_SHA=$(curl -sf \
+            "https://api.github.com/repos/$UPSTREAM_OWNER/$UPSTREAM_REPO/commits/main" \
+            | jq -r '.sha')
+
+          LAST_SHA=$(cat .last_sha 2>/dev/null || echo "")
+
+          echo "upstream=$UPSTREAM_SHA" >> $GITHUB_OUTPUT
+          echo "last=$LAST_SHA"         >> $GITHUB_OUTPUT
+
+          if [ "$UPSTREAM_SHA" != "$LAST_SHA" ] || [ "${{ inputs.full_sync }}" = "true" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "Sin cambios, saliendo."
+          fi
+
+      - name: Sync fork with upstream
+        if: steps.check.outputs.changed == 'true'
+        env:
+          UPSTREAM_OWNER: owner-original
+          UPSTREAM_REPO: nombre-del-repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add upstream "https://github.com/$UPSTREAM_OWNER/$UPSTREAM_REPO.git"
+          git fetch upstream main
+          git merge upstream/main --ff-only || git merge upstream/main --no-edit
+
+      - name: Detect changed ZIPs
+        if: steps.check.outputs.changed == 'true'
+        id: zips
+        run: |
+          LAST="${{ steps.check.outputs.last }}"
+          FULL="${{ inputs.full_sync }}"
+
+          if [ -z "$LAST" ] || [ "$FULL" = "true" ]; then
+            echo "Sync completo: procesando todos los ZIPs..."
+            find . -name "*.zip" -not -path "./.git/*" > /tmp/changed_zips.txt
+          else
+            echo "Sync incremental: ZIPs nuevos/modificados..."
+            git diff --name-only --diff-filter=ACM "$LAST" HEAD \
+              | grep '\.zip$' > /tmp/changed_zips.txt
+          fi
+
+          COUNT=$(wc -l < /tmp/changed_zips.txt)
+          echo "ZIPs a procesar: $COUNT"
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Extract and patch LUAs
+        if: steps.check.outputs.changed == 'true' && steps.zips.outputs.count != '0'
+        run: |
+          mkdir -p /tmp/luas
+
+          while IFS= read -r zipfile; do
+            [ -z "$zipfile" ] && continue
+
+            # El nombre del ZIP es el appid
+            appid=$(basename "$zipfile" .zip)
+
+            # Extraer — asumimos un solo .lua por ZIP
+            tmpdir=$(mktemp -d)
+            unzip -q "$zipfile" -d "$tmpdir"
+
+            luafile=$(find "$tmpdir" -name "*.lua" | head -1)
+            [ -z "$luafile" ] && continue
+
+            # Comentar todas las líneas setManifestid(...)
+            sed -i 's/^\(setManifestid(.*)\)/-- \1/' "$luafile"
+
+            # Guardar con nombre = appid.lua
+            cp "$luafile" "/tmp/luas/${appid}.lua"
+            rm -rf "$tmpdir"
+
+          done < /tmp/changed_zips.txt
+
+          echo "LUAs procesados: $(ls /tmp/luas | wc -l)"
+
+      - name: Upload to Release
+        if: steps.check.outputs.changed == 'true' && steps.zips.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Crear release si no existe
+          gh release view latest-luas --repo "$GITHUB_REPOSITORY" 2>/dev/null || \
+            gh release create latest-luas \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "LUAs (auto-updated)" \
+              --notes "Actualizado automáticamente desde upstream." \
+              --latest
+
+          # Subir/reemplazar cada LUA
+          for lua in /tmp/luas/*.lua; do
+            gh release upload latest-luas "$lua" \
+              --repo "$GITHUB_REPOSITORY" \
+              --clobber   # sobreescribe si ya existe el archivo
+          done
+
+      - name: Save new SHA to cache
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          echo "${{ steps.check.outputs.upstream }}" > .last_sha
