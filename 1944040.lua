@@ -1,3 +1,2 @@
--- goblinamerica
-addappid(1944040)
-addappid(1944041,1,"?")
+addappid(1944040) -- goblinAmerica
+addappid(1944042, 1, "6aa265c57de06efa030af2efd18a629b43e54be0239bbaa52a49ff5fb08068f2")
