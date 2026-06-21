@@ -1,7 +1,7 @@
--- 224060's Lua and Manifest Created by Morrenus
+-- 224060's Lua and Manifest Created by Hubcap Manifest
 -- Deadpool
 -- Created: September 29, 2025 at 06:59:29 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 8
 -- Total DLCs: 1
 
