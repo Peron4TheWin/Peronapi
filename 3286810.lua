@@ -1,0 +1,4 @@
+
+addappid(3286810, 1, "23e44a1dc2c7e9e883f85342da3d4896c7842b87eae0f03a56a7f9a6dc789ae7") -- Lana Longbeard and the Golden Stacks
+addappid(3286811, 1, "381aa26ee9d10f615ff0a67a87112ea66eae8eaa2bd307be6b079f612769f933") -- Depot 3286811
+-- setManifestid(3286811, "8013173534801972677", 901583455)
