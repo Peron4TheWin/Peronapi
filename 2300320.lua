@@ -1,3 +1,4 @@
+-- farming simulator 25 (fixed content encripted)
 addappid(2300320, 1, "7c0ac74f428b6c8d7c059b22347a2bcc3b6cc11ae5f142dba0327533ce49b52c") -- Farming Simulator 25
 addappid(2300321, 1, "e5e857b4939e3993f78ae1bfa1857aa4dca14c90680aec0e63f48565c885c2ae") -- Depot 2300321
 -- setManifestid(2300321, "1360109902471624728", 41955493608)
@@ -49,6 +50,7 @@ addappid(2981106, 1, "8f6f1b07d0ff2a282fbaa971eb841ec96e4cea021abb7fdbb8b788a0c2
 -- setManifestid(2981106, "2141179524058091071", 0)
 addappid(2981107, 1, "402e70f1a56080cfdac842c33ef75226c38fd20e3e390c6e67dcae0b01e28a95") -- Depot 2981107
 -- setManifestid(2981107, "782481009953151439", 0)
+-- DLCS WITH DEDICATED DEPOTS
 -- Farming Simulator 25 MacDon Pack (AppID: 2981090)
 addappid(2981090)
 addappid(2981090, 1, "0651e56ae954c27ffee937a46ec72d5a6d9838157153e18713a5f5367b6655dd") -- Farming Simulator 25 MacDon Pack - FS25 - MacDon Pack
@@ -86,9 +88,9 @@ addappid(4348790)
 addappid(4348790, 1, "057b03766cf1beaefd052d018f8e29d180a83a7ba2db94f80b1b327c8e87f36a") -- Farming Simulator 25 Vredo Pack - Depot 4348790
 -- setManifestid(4348790, "2111753178596610231", 505103904)
 -- Farming Simulator 25 Emergency Pack (AppID: 4651570)
-addappid(4651570)
-addappid(4651570, 1, "032b8d74bf5fb219023587fa1f8aee8fbb1fc7b10e97fc023889418dd76e1459") -- Farming Simulator 25 Emergency Pack - Depot 4651570
--- setManifestid(4651570, "1302160996874873379", 503222848)
--- DLCS WITHOUT DEDICATED DEPOTS
 addappid(2981100) -- Farming Simulator 25 Year 1 Season Pass
 addappid(3453810) -- Farming Simulator 25 Year 2 Season Pass
+
+-- dlcs que nao estao funcionando
+--addappid(4651570, 1, "032b8d74bf5fb219023587fa1f8aee8fbb1fc7b10e97fc023889418dd76e1459") -- Farming Simulator 25 Emergency Pack - nao esta funcionando
+-- 4348800 nao esta funcionando
