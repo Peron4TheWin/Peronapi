@@ -1,17 +1,8 @@
--- 2300320's Lua and Manifest Created by Morrenus
--- Farming Simulator 25
--- Created: December 02, 2025 at 09:21:53 EST
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 33
--- Total DLCs: 10
-
--- MAIN APPLICATION
 addappid(2300320, 1, "7c0ac74f428b6c8d7c059b22347a2bcc3b6cc11ae5f142dba0327533ce49b52c") -- Farming Simulator 25
--- MAIN APP DEPOTS
 addappid(2300321, 1, "e5e857b4939e3993f78ae1bfa1857aa4dca14c90680aec0e63f48565c885c2ae") -- Depot 2300321
--- setManifestid(2300321, "8800493534589667248", 41814474659)
+-- setManifestid(2300321, "1360109902471624728", 41955493608)
 addappid(2300322, 1, "e60dffe1f9b3a6f6fb4475045e0d66ec6a40410ffb036ce2dd37fd88c3acd6a5") -- Depot 2300322
--- setManifestid(2300322, "6203460151556712391", 40241538026)
+-- setManifestid(2300322, "7679207762279431451", 40336811245)
 addappid(2300323, 1, "3de49a7eee583d841ab3194df793f8db9fe186930c8623d2a864a81ff5586afd") -- Depot 2300323
 -- setManifestid(2300323, "1550107122794757569", 0)
 addappid(2300324, 1, "f8938589cbd4ca4f7c8031839fe15759ac1c8c79ef2eaef69e6a00241703a2c5") -- Depot 2300324
@@ -58,7 +49,6 @@ addappid(2981106, 1, "8f6f1b07d0ff2a282fbaa971eb841ec96e4cea021abb7fdbb8b788a0c2
 -- setManifestid(2981106, "2141179524058091071", 0)
 addappid(2981107, 1, "402e70f1a56080cfdac842c33ef75226c38fd20e3e390c6e67dcae0b01e28a95") -- Depot 2981107
 -- setManifestid(2981107, "782481009953151439", 0)
--- DLCS WITH DEDICATED DEPOTS
 -- Farming Simulator 25 MacDon Pack (AppID: 2981090)
 addappid(2981090)
 addappid(2981090, 1, "0651e56ae954c27ffee937a46ec72d5a6d9838157153e18713a5f5367b6655dd") -- Farming Simulator 25 MacDon Pack - FS25 - MacDon Pack
@@ -82,7 +72,7 @@ addappid(3453960, 1, "2316b4442225a84b1c071368fbca8259d035c27a00d6bd261001f64344
 -- Farming Simulator 25 Highlands Fishing Expansion (AppID: 3453970)
 addappid(3453970)
 addappid(3453970, 1, "bda31b60d517b56988250720f32f8e205ae01b8e0137f6e0c65150a0d7ff4a02") -- Farming Simulator 25 Highlands Fishing Expansion - Depot 3453970
--- setManifestid(3453970, "3391943801573231940", 5885631584)
+-- setManifestid(3453970, "9107997170241092572", 5883320800)
 -- Farming Simulator 25 Straw Harvest Pack (AppID: 3816190)
 addappid(3816190)
 addappid(3816190, 1, "c4bb89ebe43f8f1e8d233156a2b7ded8c2696eb186afbdfdbe7a58b9c53e9f97") -- Farming Simulator 25 Straw Harvest Pack - Depot 3816190
@@ -91,6 +81,14 @@ addappid(3816190, 1, "c4bb89ebe43f8f1e8d233156a2b7ded8c2696eb186afbdfdbe7a58b9c5
 addappid(4054370)
 addappid(4054370, 1, "c184b40eca33e8c19bd297e07790abb95aaf1420d694646707ca7bedbd8cd6a7") -- Farming Simulator 25 JCB - WFT - Depot 4054370
 -- setManifestid(4054370, "2097302948663994711", 135904)
+-- Farming Simulator 25 Vredo Pack (AppID: 4348790)
+addappid(4348790)
+addappid(4348790, 1, "057b03766cf1beaefd052d018f8e29d180a83a7ba2db94f80b1b327c8e87f36a") -- Farming Simulator 25 Vredo Pack - Depot 4348790
+-- setManifestid(4348790, "2111753178596610231", 505103904)
+-- Farming Simulator 25 Emergency Pack (AppID: 4651570)
+addappid(4651570)
+addappid(4651570, 1, "032b8d74bf5fb219023587fa1f8aee8fbb1fc7b10e97fc023889418dd76e1459") -- Farming Simulator 25 Emergency Pack - Depot 4651570
+-- setManifestid(4651570, "1302160996874873379", 503222848)
 -- DLCS WITHOUT DEDICATED DEPOTS
 addappid(2981100) -- Farming Simulator 25 Year 1 Season Pass
 addappid(3453810) -- Farming Simulator 25 Year 2 Season Pass
