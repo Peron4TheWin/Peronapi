@@ -1,0 +1,4 @@
+addappid(4487840) -- Hard Truck 2: King of the Road
+addappid(4487841, 1, "a2a76c25ed18862017be948bf807ab69a3ad9e971e58b8d078bc8fb1f3f98a71") -- Depot 4487841
+addappid(4487842, 1, "20883b4a6a7f6c5cc7640f92bf486a23cb8fec4f0a62370c6f6386233caef3aa") -- Depot 4487842
+addappid(4487843, 1, "299339d97ea5c8deb006b1dfd773c5fc8bc29151ced696fd43384b94850dde93") -- Depot 4487843
