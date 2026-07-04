@@ -2,3 +2,5 @@
 -- Game: Project Skylab
 addappid(907160)
 addappid(907161, 1, "da9de771229739621462499d16d2254976644fd4aaf74cda12c81bb452faf5ca")
+addappid(907162, 1, "e8c4bbf87177d81a87fbf506afab9b996f430986dbe770f400a79da7b500c447")
+addappid(907163, 1, "8f54dd8768c6ff7b0bbe8b5ea30b114df2ef86dafa63d34b9831f7452abb492d")

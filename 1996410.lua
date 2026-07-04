@@ -2,3 +2,4 @@
 -- Game: Shotgun King: The Final Checkmate Soundtrack
 addappid(1996410)
 addappid(1996411, 1, "6510fda6491952149f4f1edf2e7779b8ee6aed3ec70272c6a1b17dc939b76717")
+addappid(1996412, 1, "166792537690bdb4d93453fe52cfb4726ff264f7ce17b3237dfefbebff8fe065")

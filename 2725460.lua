@@ -2,3 +2,4 @@
 -- Game: Cover Yourself in Blood
 addappid(2725460)
 addappid(2725461, 1, "d0ee3e83ab975d2778116b4797351b3721ab383b326a1b781d3e9c922926f5fe")
+addappid(2725462, 1, "aadbcbc7e343d8867220ef9299517a5a23f1d100fdf6d094e295eb54b39900d7")

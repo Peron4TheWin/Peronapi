@@ -2,3 +2,5 @@
 -- Game: Hyper Gunsport
 addappid(1663250)
 addappid(1663251, 1, "9489e99009101126acbeaf56a1e8ce25c6c705c37da21fd7cde591bc236d7406")
+addappid(1663252, 1, "218943dc97959cf64395acddb32435200039ed4469eda252f1efe1f55d67bb81")
+addappid(1663253, 1, "8326a7ccfe57adbe63e24feef2854e78a93c4e9a9aa884abfc9af1fddd6eafa3")

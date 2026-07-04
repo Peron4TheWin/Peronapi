@@ -2,3 +2,4 @@
 -- Game: The Guise
 addappid(1154680)
 addappid(1154681, 1, "dc9509e841c436458831fd3d4ac355fd51fbed07e79e79f561407e5b92fb9074")
+addappid(1154682, 1, "a5380bea42e909dc618ea9cf52c49e4d60f6cc4d943bad532f8761ab0c2ce252")

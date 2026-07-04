@@ -2,3 +2,4 @@
 -- Game: Aliya's Awakening: DOGE 2042
 addappid(3338000)
 addappid(3338001, 1, "a1aedfc452ea1206f3a73ba3ec75ab321af6ad44490a8441fd541f29a22da7b7")
+addappid(3338002, 1, "4119206f8cd08cb0b1453225f1ffa230959721125ae4e7c2a9fe42a6abc76b35")

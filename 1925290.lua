@@ -2,3 +2,4 @@
 -- Game: Seventh Lair Original Soundtrack
 addappid(1925290)
 addappid(1925291, 1, "ed675e5ae131587d9e2f439d929d36a12e76549fa4c417dd143e7d71c1a88e42")
+addappid(1925292, 1, "412892b42dc3a42bad9cf6f07b7825572885603a3382e15c556a6aad5abbef1e")

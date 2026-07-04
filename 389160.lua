@@ -2,4 +2,5 @@
 -- Game: Shadow Ninja: Apocalypse
 addappid(389160)
 addappid(389161, 1, "25bb075807b3c64d0faea0f6904a5a594e217b11df79ad31c9817edbe9c24be7")
+addappid(389162, 1, "12c64e3beae6f21d9d6aa77416b53a485547c4c0f2a6f48aa38f412649383273")
 addappid(420050)

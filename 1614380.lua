@@ -2,3 +2,5 @@
 -- Game: Pnevmo-Capsula: Domiki
 addappid(1614380)
 addappid(1614381, 1, "1c3b5a364a02bd89e76b78fcbb2b5bbceeccfc5fed93c35a855f70ef917aed30")
+addappid(1614382, 1, "c9e86dacf6a9102acf8ccce235c69fd2e52596e03c7e1d8dde47eada9d0cf44a")
+addappid(1614384, 1, "0d02b46678e674ff7ed1560ff655911adc2c827ccbcd469d5e66f2b2a85b5c9f")

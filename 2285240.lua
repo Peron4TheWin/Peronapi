@@ -2,3 +2,4 @@
 -- Game: Wo Long: Fallen Dynasty Complete Edition Demo
 addappid(2285240)
 addappid(2285241, 1, "3acfb048541223d510f190c927528671d2d996f0af5a56a208d35bd8ec9ea29b")
+addappid(2285242, 1, "079d2e7c855e57e7e85fec430170d4c5fac5ff13310f1e93eae46b0c42cb0e90")

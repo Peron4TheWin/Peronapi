@@ -2,3 +2,4 @@
 -- Game: Omega Crafter Soundtrack
 addappid(3484000)
 addappid(3484001, 1, "afd67809cacd751ef8eb3117941f302ff66604c79d0024903d306b43cff11f03")
+addappid(3484002, 1, "a58885ab4cdcc0e0cc4cf85a188eae8fc451c54b8f3d20363e5eee8081a5ecb5")

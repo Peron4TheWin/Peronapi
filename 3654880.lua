@@ -2,3 +2,4 @@
 -- Game: Haramimura: When a Wife Becomes a Villager
 addappid(3654880)
 addappid(3654881, 1, "46087c55a22588ff9c6c28abf4b475abcc2b36abf7e1f6e7f382281946c8f8eb")
+addappid(3654882, 1, "38a8db12b4c833b6477a3ac310a9c059a63e62a995a6206fa78d54a9a9122801")

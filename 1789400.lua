@@ -2,3 +2,4 @@
 -- Game: Mokoko X Soundtrack
 addappid(1789400)
 addappid(1789401, 1, "cac35e893915532d81e6021a0d1c059c3fa1dd03c8b7f9783add631456ffa313")
+addappid(1789402, 1, "2380a4e7001b361b1ebc2dc6c04a3a4491f2950835ef6bebf04658861dcd02f3")

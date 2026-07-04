@@ -2,3 +2,4 @@
 -- Game: Trapper's Delight
 addappid(467760)
 addappid(467761, 1, "23ebe3dea302590cd5f742951d87b0ac9ed41735c19f411bf29dbb3ad6811fc3")
+addappid(467762, 1, "8198f1b2c61ba98c32047e00d4237e84ed36f2d1d0c1c5341afd78f3381fb845")

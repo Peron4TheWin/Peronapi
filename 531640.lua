@@ -2,4 +2,6 @@
 -- Game: Eternal Card Game
 addappid(531640)
 addappid(531641, 1, "a86e9ad44c674a5cf80a7f3df59ebef9154e209caa7727a514a0572578ef6109")
+addappid(531642, 1, "4e8df50b57b398d9e8c8c738fd77ac67237393065aedb7d3635fe4f86ad1117f")
+addappid(531643, 1, "1a5ca5be1c92946c074b8e62d6be9f645cc61c8defa7e7fb6f075015ab612855")
 addappid(1210990)

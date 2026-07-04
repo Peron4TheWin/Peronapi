@@ -2,3 +2,4 @@
 -- Game: Instant Farmer - Logic Puzzle
 addappid(1399670)
 addappid(1399671, 1, "ea15318730a08cca49ba6a63df94575a45bdf60e4089f0ec64680d3fda84a6dc")
+addappid(1399672, 1, "7fb548892805f4dc7ff322953b4b6ba3a4c57b89a5c0b460fa008f5fdb93fdc0")

@@ -2,3 +2,5 @@
 -- Game: The Emerald Maiden: Symphony of Dreams
 addappid(429610)
 addappid(429611, 1, "069d8626fd179249048376d1b5ee0055d8cab35bcde4b9fc8f80955696fb14c2")
+addappid(429612, 1, "b360dd9723cb4ae6d24d12d8de073f51cf48ec4df1d99031dbf2cda9c26f19db")
+addappid(429613, 1, "f9e606acca3f88b301acc682e41d88db322c3c2cd1c1811338595d3302a9c01a")

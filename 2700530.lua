@@ -2,3 +2,6 @@
 -- Game: CuckoldxCosplay 绝色扮演 ネトラレイヤー 真绮篇1
 addappid(2700530)
 addappid(2700531, 1, "ba1987dcaae07967b8fc559f8ab07c029667fbfd1dd0cff8b77ef1bce3a93d99")
+addappid(2700532, 1, "11c64ea0650665df4f81a37d94850e587f6b22b959f3608580e0906b2b4cd18a")
+addappid(2700533, 1, "c475f7bfab64f3eaa4efab1672ee92b3b8b1cd6022f4827e70f6cac0aeeebe11")
+addappid(2700535, 1, "728c9b4a8dea1fb64afd457e0173620ce6550c0ae4faabf627d72cb4726f9ef5")

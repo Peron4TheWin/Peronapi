@@ -2,3 +2,4 @@
 -- Game: Break the Empire Soundtrack
 addappid(3837150)
 addappid(3837151, 1, "e79066ebec21991977c0b823e85dc6bd494c8959408f68e2cdd5fa57befe8b7e")
+addappid(3837152, 1, "c7c903dda2a5631b16bcc866be549019c6986c0a5879ef9ea1b308b1cfc3eef1")

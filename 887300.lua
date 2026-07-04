@@ -2,3 +2,4 @@
 -- Game: Bleeding Sun
 addappid(887300)
 addappid(887301, 1, "bdfc75298e03ffbc7bb34ab4bf1ba190502f3ab106f655299ad9ddc6a8a976a4")
+addappid(887304, 1, "aae18b9b0f1e4249b4939597aaca86899036b089352d8993687d898c91074e1b")

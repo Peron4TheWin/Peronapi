@@ -2,3 +2,4 @@
 -- Game: Lost Castle 2: Original Soundtrack
 addappid(3063440)
 addappid(3063441, 1, "c1d21ca1858801ffae2c9192fb45d3bdd99237ca7e8618c1219ff376a3a71d2b")
+addappid(3063442, 1, "29d2548be087391509e333ae33590454d6a4cf74613834d2f0f1aad240ec9adb")

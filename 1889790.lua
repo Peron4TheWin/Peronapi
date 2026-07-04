@@ -2,3 +2,4 @@
 -- Game: Chest Mate
 addappid(1889790)
 addappid(1889791, 1, "51597155a43c19dcd5cadc7e8ee4be35da3ef91bb15975e571f2225166b93d56")
+addappid(1889792, 1, "7b20feaa003dfc4d903cf1b8b55a11926a8aea266968b2bb720efb0a4585674d")

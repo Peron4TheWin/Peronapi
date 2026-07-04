@@ -2,3 +2,4 @@
 -- Game: Reign of the Succubus
 addappid(893500)
 addappid(893501, 1, "58025d366aff3ec647bb2a94c2cb230640a2f3f7cc5eacfb9a6840aa948d7fff")
+addappid(893502, 1, "e16abb7ada67f4efe82cd58dcd2bb4f84b95d53952795b7805b6ad17f8610eea")

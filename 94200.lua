@@ -2,4 +2,8 @@
 -- Game: Jamestown
 addappid(94200)
 addappid(94201, 1, "a4591b9f36a901802d9c8dbe0b7a1aa356d7e67158974bb259d90e0f1b259864")
+addappid(94204, 1, "23571e369b06f2e610915ea3279a783915cf952f8973fc7fc1f3e59e3278f709")
 addappid(94202)
+addappid(228982)
+addappid(228990)
+addappid(229020)

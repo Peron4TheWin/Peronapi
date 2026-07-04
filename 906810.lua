@@ -2,6 +2,8 @@
 -- Game: AppID 906810
 addappid(906810)
 addappid(906811, 1, "4fbae35cd2c99e883a5996c71b32c6d14c6d62ff27ddf4789d888febb764bada")
+addappid(906812, 1, "33d14acad29c26c558b51ee9c5e17180a956dbfb72cddeba0c4cac6937c624f5")
+addappid(906813, 1, "236fea6285a33595044de5185c976ee21e46b0b4db0ea6c58e92c0e71366f4b9")
 addappid(907660)
 addappid(907661)
 addappid(907662)

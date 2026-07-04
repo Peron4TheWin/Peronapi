@@ -2,3 +2,4 @@
 -- Game: Infindustry
 addappid(1944210)
 addappid(1944211, 1, "3aaad33140c8896866241eb729564227e1c9b440fead5abd18346472f63b0177")
+addappid(1944212, 1, "73aa4aceb65f0f89d52e6b843ec46ca15648bfc27e3d77ce47152aef4a1fdd1c")

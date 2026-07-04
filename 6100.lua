@@ -2,3 +2,5 @@
 -- Game: Eets
 addappid(6100)
 addappid(6101, 1, "df1de8915ad96c880ed83aa7b1cd045b66f793aba9541b2f6bddc9c98fb4fc40")
+addappid(6102, 1, "487d470a959ceec5a9a0206118284ade24808ef319e8f0f2928ccfcc9be49126")
+addappid(6103, 1, "1c6af85b427611c8d3d0db66bde55331cc8a6c46a6114cc83bd62d2468f24efb")

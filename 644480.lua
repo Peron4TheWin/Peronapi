@@ -2,5 +2,7 @@
 -- Game: Outbreak: The New Nightmare
 addappid(644480)
 addappid(644481, 1, "e3da485762b1924ea8474dcb0e8d8704f13edcbe05ffe501154cba0db323e369")
+addappid(644482, 1, "d3ec7db56218dfdbf8dfe0c2af372f21899bc9c1fce5fdcb5266081387351a6a")
+addappid(644483, 1, "5c31cbea9f04fed73da59bcf0848bf654af6ed92e4a89fc0e68864875227e301")
 addappid(1241010)
 addappid(1246370)

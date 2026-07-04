@@ -2,3 +2,4 @@
 -- Game: Farming 6-in-1 bundle
 addappid(467430)
 addappid(467431, 1, "9aae89d8145bd83c3dbed08c8b4d895e511257202d5494bc7140c1318ce8e956")
+addappid(467439, 1, "743120e77b53bd2a4fb3f9eb05d32528af8780a281b625b616b7a6fa4cb2aa2d")

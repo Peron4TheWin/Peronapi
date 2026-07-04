@@ -2,4 +2,6 @@
 -- Game: Styx: Shards of Darkness
 addappid(355790)
 addappid(355791, 1, "f6f2eddd25996d1bcab2d0e2d2f58a8d2c7b68151c78d0471ab64ebf83597338")
+addappid(355798, 1, "b8b78e28377ae79a37aebc418943f5251b3f40a1876ce97e491e625cdfb2de5e")
+addappid(465251, 1, "6153def17eb931ae46694c4c97df2b398ca6298270d699cec191eaf303b142a6")
 addappid(465250)

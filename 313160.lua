@@ -2,6 +2,7 @@
 -- Game: Farming Simulator 15
 addappid(313160)
 addappid(313161, 1, "6d9326de17be17ef5be4e5adf2b1ca9d23921b0e4f3fa06d07c1d6a68e790d77")
+addappid(313162, 1, "27d6461f13f1a77c2db66f2aaa53f2fffda90f9c584b58c1d52f8eb9c50bdb68")
 addappid(327540)
 addappid(327541)
 addappid(327542)

@@ -2,3 +2,4 @@
 -- Game: Lethis - Daring Discoverers
 addappid(580570)
 addappid(580571, 1, "47851dd8d4389a14ed5a805e365c0c3e6149ae925e169915c44b6583351f34c7")
+addappid(580572, 1, "73465b26c453ec5e51ab8ad7e036428076e0a5d6727a84a53513c1de6bbc534d")

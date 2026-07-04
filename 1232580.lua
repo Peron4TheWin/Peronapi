@@ -2,3 +2,4 @@
 -- Game: Knock on the Coffin Lid
 addappid(1232580)
 addappid(1232581, 1, "32718d93ad2804ff032dfb35bdbcd1b786c02ed19a8e40fec6ead1248c34f692")
+addappid(1232583, 1, "d745e38afb2ee29d553671803bcd54ec499f0e8d9d479d5d4377b38841c64c5a")

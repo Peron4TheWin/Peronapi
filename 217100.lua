@@ -2,3 +2,5 @@
 -- Game: Dementium II HD
 addappid(217100)
 addappid(217101, 1, "0ca67e4d028a7f0591ba1b4b60bac0ba80d916444bb00c316689b394d2ee997f")
+addappid(228982)
+addappid(228983)

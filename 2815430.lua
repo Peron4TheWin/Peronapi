@@ -2,6 +2,8 @@
 -- Game: The Sims™ 4 Storybook Nursery Kit
 addappid(2815430)
 addappid(2815431, 1, "6f11c2cd35390bf19d51a1d0e5b8f5086903b464a3a04e9b897f889b0932762f")
+addappid(2815436, 1, "38b27ad7b6e90c4548252ab0daffb1dbafdaf221f46ad7ee3feb0c9a2520fe1d")
+addappid(2815437, 1, "616c7c7ae71e1f4ab19a1fead7415b9c5a55d5f3f24405343028b9fc669bcd22")
 addappid(3200920)
 addappid(3200921, 0, "33ed66efdc02adf65b3c372ad59dd63020175cc147272e09899931815cd0f9bc")
 addappid(3200922)

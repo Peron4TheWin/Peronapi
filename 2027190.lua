@@ -2,3 +2,4 @@
 -- Game: 东方光耀夜 ~ Lost Branch of Legend Soundtrack
 addappid(2027190)
 addappid(2027191, 1, "b63134969e8571641c49f65bd811990f95b9a1aa477bc949b974db89c4304289")
+addappid(2027192, 1, "d919c89a62af840d6bbc17b4e74a2f1863567ab7fe3619918a09fc8166d89109")

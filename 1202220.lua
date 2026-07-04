@@ -2,3 +2,4 @@
 -- Game: Egypt Solitaire. Match 2 Cards
 addappid(1202220)
 addappid(1202221, 1, "79c288de16a762a57477ba0c7f175562b1dda586555bdf2a9bc140fbd7a7ad66")
+addappid(1202224, 1, "4ed9922c282900dfe1850884a0eb6b74e8924a64f136a94428ed284db114e4cf")

@@ -2,3 +2,4 @@
 -- Game: Demolition Company Gold Edition
 addappid(65270)
 addappid(65271, 1, "f7abf32bd32e9244aad1fcd9ed1eeac19d90aa09f02a07968fe904823ff25d60")
+addappid(65272, 1, "ca03fa4555987a1b7a7420148f95005f047b02e3ea500505f7942f49e7ed384b")

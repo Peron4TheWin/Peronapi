@@ -2,3 +2,4 @@
 -- Game: Save the Planet
 addappid(1469350)
 addappid(1469351, 1, "1443526653fec4f34daab4fc101739cdbd7ea91db8d4a560b7f0ef94b2549b3d")
+addappid(1469352, 1, "c6f7097de0f1a39a995776f44cbe5a3e9cb8d8f2115e4f0799a8095401ad98f5")

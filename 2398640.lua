@@ -2,3 +2,4 @@
 -- Game: Noxious Weeds: Prologue
 addappid(2398640)
 addappid(2398641, 1, "5cec81061144cf6e5abd37758796ccd9bb5c6d63c49a75a1940530dc1974a718")
+addappid(2398642, 1, "0ebdda7ea17458022f2c84a36b0b3b5dc6cd84179f7be494f4a2f11bdf1e4789")

@@ -2,3 +2,5 @@
 -- Game: Exiled Survivors
 addappid(2694210)
 addappid(2694211, 1, "27dddf10ddc0ec6482dfcfba0ca204454febd7ed4810e36789932c2742ce7589")
+addappid(2694212, 1, "2c0ed43ce14cfe5cde5c5488310a83f6583c97611abea284491a43cff7f4e910")
+addappid(2694213, 1, "865fe6e5db6aa3269ba3923e2fe6dbcdffbe195a8b3e16b18985f545c7a80532")

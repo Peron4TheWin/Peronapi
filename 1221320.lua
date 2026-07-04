@@ -2,3 +2,4 @@
 -- Game: Self-Checkout Unlimited
 addappid(1221320)
 addappid(1221321, 1, "d883df76e4ab73afd79b5b81495eb76710bd9fbe9c361de7fbd42e064ba3a547")
+addappid(1221322, 1, "19318be58d6b8dc0b623f5200fd35deb11903a0eb2c86addb63ad7ed87e3dfbd")

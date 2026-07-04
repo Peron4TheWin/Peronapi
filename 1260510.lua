@@ -2,3 +2,4 @@
 -- Game: MADNESS: Project Nexus Soundtrack
 addappid(1260510)
 addappid(1260511, 1, "7d331c43e9a83b68a922a89a643b7b1a8cd131fddd855047054632190a88eb7c")
+addappid(1260512, 1, "157ee99635424072e161d0184bf6548169977c7cb91e6f0ddec3fb560462e6ce")

@@ -2,3 +2,4 @@
 -- Game: Freaky Clown : Town Mystery
 addappid(1490970)
 addappid(1490971, 1, "ddc6d7ac986c3dc4f8c82ea7f7e24f00fa491d2368f579128a2f85faced392cc")
+addappid(1490972, 1, "a114699e9dc995869f16a94037003de0c8dce2479a33380f253ee56686b06b46")

@@ -2,3 +2,4 @@
 -- Game: Thought Experiment Simulator
 addappid(2696320)
 addappid(2696321, 1, "3ba4efb2e812141d70f414d0c3379211ca787d7db7f843d1c79d3879571486f2")
+addappid(2696322, 1, "424c2b7bdbcb213ac0cb6be1f05db48160ec93f7e6b892b819ddd1f45e08658e")

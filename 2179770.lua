@@ -2,3 +2,4 @@
 -- Game: Unboxing
 addappid(2179770)
 addappid(2179771, 1, "7b489386cbdd65423aa9df6574fbb6944876be02f6688dbb8f61eb2dd982e08c")
+addappid(2179773, 1, "d07465be6f4359af81e5ae1bbd06fdf6a966e7a95291207278cd9fc5a7e942a0")

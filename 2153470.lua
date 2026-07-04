@@ -2,3 +2,4 @@
 -- Game: Little Witch Nobeta Original Soundtrack
 addappid(2153470)
 addappid(2153471, 1, "33309aeef092d515097aa501fec917413806f33563442ac01b886452e9ae1838")
+addappid(2153472, 1, "164b110a1b22a60dfc6b45eae1b5ded35b144b06b42e83bf503a93e8c4e94582")

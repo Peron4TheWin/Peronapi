@@ -2,3 +2,4 @@
 -- Game: BOXVR
 addappid(641960)
 addappid(641961, 1, "defa24f8ae3f8e69cf198ef773e311b06c61f618d3a3079edaacc63f80d79d50")
+addappid(641962, 1, "44f8bd071e711b1a291c063586b9e652acd129cbb619f5befa516c8e73a59dd0")

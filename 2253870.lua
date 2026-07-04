@@ -2,3 +2,4 @@
 -- Game: The Great War: Western Front™ Soundtrack
 addappid(2253870)
 addappid(2253871, 1, "c574f2abb91a36a0d1976f0d8474c69f5361b4ae0be6e8e0f98c1f2cb0e88034")
+addappid(2253872, 1, "fddf5cce596fff5dc8b4064d16b6d0756e9beb1061108617b6df539c8fc9a5e6")

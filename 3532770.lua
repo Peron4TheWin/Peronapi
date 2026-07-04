@@ -2,3 +2,4 @@
 -- Game: The Lost Village Soundtrack
 addappid(3532770)
 addappid(3532771, 1, "e19cb41cee301fbec021ad10d5e6621e16cda119a906633c2cc16ddeef57344e")
+addappid(3532772, 1, "31a9c5b573fb849cd644bc04e57107411d996b4ab4864406881d11c9c9ed25f1")

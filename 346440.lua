@@ -2,3 +2,4 @@
 -- Game: Musclecar Online
 addappid(346440)
 addappid(346441, 1, "4a11dbeaff954b92d2512a5855867e3d971f03c6f70333855b54ea154911f8c3")
+addappid(346442, 1, "4ffc2afa53b8d54f7f086ece6608b3042f4f349f955b408099bc8e6a380e265d")

@@ -2,3 +2,4 @@
 -- Game: Ironbound
 addappid(643980)
 addappid(643981, 1, "6ae7d5e6162e0a7df73e80eaf966e51fee8704bee518b59218272b943d20ddf6")
+addappid(643982, 1, "2c2523c86ae8df1b558f2efd9f0437b854e7e3f70c2c36e439b9f88724cf068f")

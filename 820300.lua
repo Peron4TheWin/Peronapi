@@ -2,3 +2,4 @@
 -- Game: Crypto Girl The Visual Novel
 addappid(820300)
 addappid(820301, 1, "72fae0c30944a4fac05caa726c698a42895a09bd122ba969b7986451b906dca5")
+addappid(820303, 1, "fc73e9b70928644911e482a0860a683216cd17d7b8ca492bcc4db3331ab9b82c")

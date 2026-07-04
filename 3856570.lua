@@ -2,3 +2,4 @@
 -- Game: Silent Tales‌: Vermilion Embers Original Sound Track
 addappid(3856570)
 addappid(3856571, 1, "ea2ba6d0623f490a7be5ef8b9e0af43268d55157781726ebe579963b83493128")
+addappid(3856572, 1, "724a65d664780a0477c52ec140e08e6cd2c7381bbea299b75bf65674cd0382bf")

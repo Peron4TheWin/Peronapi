@@ -2,3 +2,4 @@
 -- Game: Womb Defense Force
 addappid(2881090)
 addappid(2881091, 1, "5c13f8184e002067b09a89718bff3b1963a50fcaa16b57bfb1cb53186172a28b")
+addappid(2881093, 1, "674c8b1bdfdf238b9dc13e7e77ef4b3820b90de2729786d1b736b3d90dc5836b")

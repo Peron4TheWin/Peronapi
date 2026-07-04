@@ -2,3 +2,4 @@
 -- Game: RollerCoaster Tycoon® 3: Complete Edition
 addappid(1368820)
 addappid(1368821, 1, "f0743d378ea2b0ec9a037ce889330cec3dbfe17982142a7ab26f82427d081faf")
+addappid(1368822, 1, "8015b2ef9ac9ed50d5029b603d2d802cf5244ac035c4a109e4f95ca47f7fc604")

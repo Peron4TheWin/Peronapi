@@ -2,3 +2,4 @@
 -- Game: Futa Fix Dick Dine and Dash
 addappid(1173400)
 addappid(1173401, 1, "0cb6481a0def4668ab4eba9df8ee0d97c6f987427c64ea11aed7ebe0c44a919f")
+addappid(1173402, 1, "463c07eddf2dd982c46cad273257d96d3d77043b17b7d77e39c1d2a0a52380ef")

@@ -2,3 +2,4 @@
 -- Game: Summa Expeditionis
 addappid(2056200)
 addappid(2056201, 1, "404b59722add8cd7714ff57934290484f19a2bbd9bf5f72fe84dcab19b639712")
+addappid(2056202, 1, "7e60955eb80e94b8902c5f213eb5d4e23572f1e29ff8888e9320fa312a7bdb7e")

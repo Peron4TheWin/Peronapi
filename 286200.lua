@@ -2,3 +2,5 @@
 -- Game: ReignMaker
 addappid(286200)
 addappid(286201, 1, "dd3cde9d1e46d3e070aabee1cbe685c37f054d9d093440db2bbfc74d4cd94076")
+addappid(286202, 1, "4215cd3fe8c80afa72a0be35ef9d8d99d09a9a667a6afe8fcd430f30f5b580a6")
+addappid(286203, 1, "0f91025547018ed14d85f61a6a7e15931fab2021aa76e76671e3b1ff09b270f8")

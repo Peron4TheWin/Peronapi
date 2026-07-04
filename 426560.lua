@@ -2,3 +2,4 @@
 -- Game: Full Tilt Poker
 addappid(426560)
 addappid(426561, 1, "e6dfa6a65c6af9225b2c7355d25ffd25a8f5ff763b58412f4da97a8261cd2b02")
+addappid(426562, 1, "e28eb6890737cdf771bc16acc2ec1dcc7216cbb1b8295d73b6c90d245db87368")

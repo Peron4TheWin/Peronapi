@@ -2,3 +2,4 @@
 -- Game: Puzzle Pirates
 addappid(99910)
 addappid(99911, 1, "5de10fe4c43b0402fd76ad49fd0e4242c7b0577e0690f015b5f61de43127b378")
+addappid(99912, 1, "3c2e957be2e3774f2e8496e38166b936ee5d12547a280bc382bebb953615fbdf")

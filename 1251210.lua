@@ -2,3 +2,4 @@
 -- Game: Dungeon No Dungeon
 addappid(1251210)
 addappid(1251211, 1, "078e2e89476668beb00fe2219eb56e90179fc728e62bc2e22dedd1136a75f056")
+addappid(1251212, 1, "88e13e45742d05071e6dc79d237ffcf5975e78254c02a0f35a3b25b01ebfad8f")

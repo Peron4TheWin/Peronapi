@@ -2,3 +2,5 @@
 -- Game: The Warmth Between Us
 addappid(1203970)
 addappid(1203971, 1, "452b485717fe00159e62e7da347ee434f099487ccbe8e46d9b0c9c9d3de22daa")
+addappid(1203972, 1, "4d6c70951d0eea522dada8685eddfdd3e2ae62e3d310de176ff343977867cec5")
+addappid(1203973, 1, "e4b096e74955137dfaf876c365f3ec340b4414c1f6f766de467e30a5a753cf94")

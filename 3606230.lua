@@ -2,3 +2,4 @@
 -- Game: Dune: Awakening - Digital Soundtrack
 addappid(3606230)
 addappid(3606231, 1, "ca0ee83880d267061df382406615325f02daa5699160aefa18cad241ea6fabb1")
+addappid(3606233, 1, "3789b4e8b94b8e7ea4daa70b42d5a7990260e7119e6aede1c9f8fef6ca4ec1bc")

@@ -2,3 +2,4 @@
 -- Game: Hentai Girl Hime
 addappid(963690)
 addappid(963691, 1, "73551fc92a4b33a27f05b4b3ebc1749fe6aba91fc48acf27103ea2e816285d1f")
+addappid(963692, 1, "74acfcbac59a704e8cd737a321f008d53efc42976f63f137c82a1de128479bb5")

@@ -2,3 +2,4 @@
 -- Game: Midnight Mysteries 3: Devil on the Mississippi
 addappid(208630)
 addappid(208631, 1, "14412ac3b3b9daffd5aebf6ee9a0be71531d21274c7c786861bbdd80f16512c6")
+addappid(208632, 1, "4960e229fa266bb38e970bd085340a379461255d8b362af758f7053e03b434c4")

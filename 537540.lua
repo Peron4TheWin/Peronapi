@@ -2,3 +2,5 @@
 -- Game: The Last Journey
 addappid(537540)
 addappid(537541, 1, "7726ea85401bac62ccbab45eaebfba4a385975bc1c308bdaac09d3fb59695127")
+addappid(537542, 1, "a385c598c645ab0ac25b0826257ec035faad31a83daa0730a519261fbda02cf2")
+addappid(537543, 1, "db87fee284eba3cd19508a6ce7e612e3072ebef1141173367b14743ba2a89784")

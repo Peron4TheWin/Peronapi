@@ -2,3 +2,4 @@
 -- Game: Shapik: The Moon Quest
 addappid(1073810)
 addappid(1073811, 1, "a394548422f604daea72467ea236e8b7d9ae039992d1bfb5c91c181ccaa0c57f")
+addappid(1073812, 1, "54993c8439d59df0343f43b5d6c6b23254cdc76c6409603652455996abed264a")

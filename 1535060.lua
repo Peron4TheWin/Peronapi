@@ -2,3 +2,4 @@
 -- Game: Incremental Epic Breakers
 addappid(1535060)
 addappid(1535061, 1, "d8f045162e386002455dd2f95083511550390836ff26a602cd9661bc06d918b7")
+addappid(1535062, 1, "9250bfd6f625ca7b521ead52e98a01812b0ce821e36d5572a0beb3de99fae78f")

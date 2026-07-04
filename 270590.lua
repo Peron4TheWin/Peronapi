@@ -2,3 +2,4 @@
 -- Game: Long Night
 addappid(270590)
 addappid(270591, 1, "65885c310f8030171be1971e2135fac702bdcd2548f623519942f6e47c8b0db0")
+addappid(270592, 1, "e8d194e5d0c393ebb2cbc5425bea8aceaaabe79dd16e71a137ad84a1c8cd84a6")

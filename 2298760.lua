@@ -2,3 +2,4 @@
 -- Game: Poozle Mania Soundtrack
 addappid(2298760)
 addappid(2298761, 1, "6b7e92d4436e77367ee1f22e6a4fd0ab577abdca0e1d569873d4350e5d7bda5c")
+addappid(2298762, 1, "50d5832235c1a1322caffa3d2facc6f4099020a3a0f339ae72e95422d615fda0")

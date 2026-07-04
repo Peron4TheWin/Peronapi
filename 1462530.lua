@@ -2,3 +2,4 @@
 -- Game: CARRION Deluxe Edition Content
 addappid(1462530)
 addappid(1462531, 1, "e2aec49ad9cb9e8dd1ef4ceafde3ca110e7c482e44b225145a4983f8b61dd9b1")
+addappid(1462532, 1, "098d587fe71772f7050761e21fb69ce6145417439e1366006dfdfc9283a7cb4e")

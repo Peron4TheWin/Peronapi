@@ -2,3 +2,4 @@
 -- Game: Paganitzu
 addappid(358230)
 addappid(358231, 1, "d4afe938a93ce5633040896010cb54c7d7a79bf2ae2295aa94531b6739147fe1")
+addappid(358232, 1, "219237a33a15fbd69b4743b7fdf20b2f9b4e73f29e2e6bc4baaa2bc676cb52f2")

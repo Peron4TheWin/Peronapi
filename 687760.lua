@@ -2,3 +2,4 @@
 -- Game: Occultus - Mediterranean Cabal
 addappid(687760)
 addappid(687761, 1, "a95cc3d34f0ad1b093a0fa474433868dab3c10abcbd0501db279ed7cc2b3ca80")
+addappid(687762, 1, "7611c0fd5a12d08f68034fd0932a71a988416b9d82595ff4abfe08ca406593d2")

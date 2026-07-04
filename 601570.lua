@@ -2,4 +2,6 @@
 -- Game: Fix Me Fix You
 addappid(601570)
 addappid(601571, 1, "1fa11dacd85e7497a6d6be11828f2f42af435558ec4a98bd1f5491d0fbf9fd2b")
+addappid(601572, 1, "f84993ebbced2f3ac06e8bd89f4eabe5e35d230b040c02c64aa2fa9226f5c970")
+addappid(601573, 1, "b74418d396e48b7aea8909634dfa2f4d8811fc4cb2f8257c8b4e855ad5cac9e2")
 addappid(605880)

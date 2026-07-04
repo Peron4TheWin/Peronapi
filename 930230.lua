@@ -2,3 +2,5 @@
 -- Game: King under the Mountain
 addappid(930230)
 addappid(930231, 1, "5761084c42b6ecebfcf953618e8879617e8de8f5848048bada1e88fa3bd6d753")
+addappid(930232, 1, "d1c61d02c52fd07be8d3b7966327997f37ee530d4e71991c01396e7bf3daa2d5")
+addappid(930233, 1, "67b516fd7a8864e40df85b949cb593cd78499e77123ba5c8c3bfbe7ec647d8f8")

@@ -2,5 +2,7 @@
 -- Game: Death Goat
 addappid(340770)
 addappid(340771, 1, "fe78335d645e6762c9bb5a0d80180ea44e1c5d7a6353cf59b076df0d18de99bd")
+addappid(340772, 1, "3b324c655a5946c4dc6ae6f6b07a302d1c581e884dd2be86a2cef9dc749145d8")
+addappid(340773, 1, "3531893dc390207dd340fbf7b1f9f3cb5cc923fa7f6df296090944fb2f5ad64a")
 addappid(417770)
 addappid(444780)

@@ -2,4 +2,5 @@
 -- Game: Tractage aux Portes 2: Mob à la Cafétéria
 addappid(1110780)
 addappid(1110781, 1, "0742d071a9821d5853436fe0c96cf1e003ba6c605e6af059e0cc3b236aacd518")
+addappid(1110782, 1, "794a081e72c11c20efe3bca57f2b9b1cf8763f37c2e5ff7964bd28d50a684983")
 addappid(1246700)

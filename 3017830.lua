@@ -2,4 +2,5 @@
 -- Game: Sky Resort 2
 addappid(3017830)
 addappid(3017831, 1, "9275462968d30aa2fa21aa6923ea1be771924dbe15f24af6b52e66fb4fbaf9fb")
+addappid(3017832, 1, "b11bcf0ad1915e2ab6a23999dfa901784aa8dc0a3e5f71cdb20da3b84df582b3")
 addappid(3030660)

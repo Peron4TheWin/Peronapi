@@ -2,3 +2,4 @@
 -- Game: OneBit Adventure
 addappid(1688320)
 addappid(1688321, 1, "37ad439ee6078661c3bec338bd706f23ddb7e9fd8d1c2329800b05ee644c932b")
+addappid(1688322, 1, "81e507b7b6947fecc45d1cb1d8f23152c021bc0de8f118c88867868eae675cb3")

@@ -2,3 +2,5 @@
 -- Game: Potions: A Curious Tale
 addappid(378690)
 addappid(378691, 1, "a2309f6a21279764824b797aceabaf894408f4e8a1e6408c8b7b07012fb70bca")
+addappid(378692, 1, "2f2d79364070317efecf9c88513d16dbab645795d4050a0703981596ce8d8bd1")
+addappid(378693, 1, "f75f157ce7b202fa05a44864c799bd63c49b2eae3cabfded1d14998c6be64e8b")

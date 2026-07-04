@@ -2,6 +2,8 @@
 -- Game: Don't Starve Together
 addappid(322330)
 addappid(322331, 1, "3ee94d4c47554fc580de37cdeb4bb41020ece2d5ab195d51d8b87f5e438e9f23")
+addappid(322332, 1, "8f36286253d1b2e61f2e7bfec57510d6ec34da84a9d126dc4adf19f6cff117be")
+addappid(322333, 1, "065e9fc3141e45c895786254045560d2af8860c513d0a6077fceaca5fda4c32f")
 addappid(798740)
 addappid(798750)
 addappid(840750)

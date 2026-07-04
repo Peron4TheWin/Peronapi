@@ -2,3 +2,4 @@
 -- Game: To Ash
 addappid(453950)
 addappid(453951, 1, "af77564adb0080fae05d382db0ef7e5b2acd7b58a790977cd61107af93251724")
+addappid(453952, 1, "cf24b6f800749b22412153a086e9dcdd99de2a1fcee2697fcb359d23e5f1eae4")

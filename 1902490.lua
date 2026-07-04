@@ -2,3 +2,5 @@
 -- Game: Aperture Desk Job
 addappid(1902490)
 addappid(1902491, 1, "7b4bca0e4c7ec51479de7910bd8aabeaa3cd0fa7af14dc6520cf7f32579e8ef5")
+addappid(1902492, 1, "a1c9040f34b5c6df6d1dbeb93ba178609b71425dfcde1d4e26ff3cb4a5885497")
+addappid(1902493, 1, "0a7d2aef906f57aa620e70ca60ecbfa35dd1782932a542bfb51152b290b4334e")

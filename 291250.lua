@@ -2,3 +2,4 @@
 -- Game: Jumpdrive
 addappid(291250)
 addappid(291251, 1, "e0ad4d11bf949af8a1a77b630b5eac6d61917f3d7c8a15b243669f70f30fdfe2")
+addappid(291252, 1, "5a0ccb712833981f1188ced8cc989cf5dbd1b0c55930b2990aae06543873648d")

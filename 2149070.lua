@@ -2,3 +2,5 @@
 -- Game: Cosplay Collection
 addappid(2149070)
 addappid(2149071, 1, "0367cbae01f6ebbb59c61cc2af6b6a1c649f5ca4f6447a3eccc445c1b7ebdc16")
+addappid(2149072, 1, "62824a249cd3aae6d41f74262aefa8cd9083bdcdf8c5433cee61f2cbe2b7e52d")
+addappid(2149073, 1, "e8992306aace0a1a95fcbf42c99cd56bc76e0c3ad768740970c167f88718a235")

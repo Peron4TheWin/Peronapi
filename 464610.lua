@@ -2,3 +2,4 @@
 -- Game: Led It Rain
 addappid(464610)
 addappid(464611, 1, "bfffad4563c880623ea4eafe79bd3431891592fb7ac058fb8bd9148cd9c2b2ce")
+addappid(464612, 1, "e49e910bb24f0556614d52672ccc255ea3cdaa06f9a7185ac18ec055337e89ba")

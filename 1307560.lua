@@ -2,3 +2,5 @@
 -- Game: DEMON'S SWORD SNAKES -Sweet Dreams of the Cursed Snake-
 addappid(1307560)
 addappid(1307561, 1, "a98045a2a4fe5b1e73db842edfe61606f136ab5dbea276a87ab6dd8651e493df")
+addappid(1307562, 1, "34c1e09830b45639215dfe67495051928408e3c8d240a57ce5461815fdc8a0c8")
+addappid(1307563, 1, "54d0291dedccc208f667f02a1c48ffd0ee7ac606a0fbef6dba459d7fc76a12f2")

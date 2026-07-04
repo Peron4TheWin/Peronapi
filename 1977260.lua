@@ -2,3 +2,4 @@
 -- Game: DEVOUR: Soundtrack
 addappid(1977260)
 addappid(1977261, 1, "b8fe2b413baf1a2f70d13eb0189a16a2113ca9b11dcad56196a5ee8f618c81ac")
+addappid(1977262, 1, "a94dd08266eee983f548031945f935947eb7b6148f4af8167ab67e2993aceb0b")

@@ -2,3 +2,4 @@
 -- Game: DJMAX RESPECT V - Clazziquai Edition Original Soundtrack(REMASTERED)
 addappid(1315140)
 addappid(1315141, 1, "f61373e1b4ec79bc481ac76d975c715ee9203566b22e2c845dc01aafad32d866")
+addappid(1315142, 1, "d6c71fb386c967dbf8cdfbaa4aeddf75aa84cd12bc840330d346d04012787005")

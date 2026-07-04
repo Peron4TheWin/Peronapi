@@ -2,3 +2,5 @@
 -- Game: The Bridge
 addappid(204240)
 addappid(204241, 1, "72aa01d0cdf67535811df02a1c63f7bbffe143d2dc260b33b3308055424d9e0c")
+addappid(204242, 1, "1baf71fd2f6a4c5bf335da8725de933d860b36717b97c8c49df0cdec33a0f99c")
+addappid(204243, 1, "d5638abd50a73a308dfe1254237ef1f91027d4dba6f8b667c52bdeabdc402c52")

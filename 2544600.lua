@@ -2,3 +2,4 @@
 -- Game: GLASS2 Original Soundtrack
 addappid(2544600)
 addappid(2544601, 1, "e8da2d68fb4318b096ca08474e47cd6eff9540cd797ccd50e2a52f289b531add")
+addappid(2544602, 1, "11098e11f9715c0f424f8857d6dfc8aebad8582cad8f50065f6679deb5f988a3")

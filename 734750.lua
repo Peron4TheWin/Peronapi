@@ -2,3 +2,4 @@
 -- Game: PickCrafter
 addappid(734750)
 addappid(734751, 1, "caa1c84454779b44a33ef8047f8fc38b65a57ecab0026cf27d764cc5fe69fd63")
+addappid(734752, 1, "a2868bfb4e21aa4a0f3101edfdc4f1dbe177ab260e7631070419361ad81120c8")

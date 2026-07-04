@@ -2,3 +2,4 @@
 -- Game: Furry Shades of Gay 2: A Shade Gayer Soundtrack
 addappid(2403210)
 addappid(2403211, 1, "d157ea96b2f08913d40d64061e748653e204053ad271cba16d18c4da875dbf30")
+addappid(2403212, 1, "85d2ca2ad457cb4b7e596616bef4dadf7dd55dbaa94dd15a4d608a8727b38042")

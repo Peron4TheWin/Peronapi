@@ -2,3 +2,5 @@
 -- Game: Kingdoms Of Marazia: Classic
 addappid(672310)
 addappid(672311, 1, "acdb86be965d09c8eeb4ad8bb0043354a4f7a15c21bf4427ed311d3d6a440a4e")
+addappid(672312, 1, "bf5db5466eb822a32e16276c8bbc8f6c2db17854345df1f1445ec5c7540054c6")
+addappid(672313, 1, "c661aaac1252a43ac30dda15c8e68187fe585142912a9aaf1af89154072b512d")

@@ -2,3 +2,4 @@
 -- Game: Hot Brass Original Soundtrack
 addappid(1302900)
 addappid(1302901, 1, "425f87187ce4420e99e422aebc3ba516a91e17f7bdb5f8674acebcd707df2cad")
+addappid(1302902, 1, "20d462c19235b553f5219c1f56a24354911ec645f24826814ecb827c6ca068b1")

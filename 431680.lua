@@ -2,3 +2,4 @@
 -- Game: Nuts!: The Battle of the Bulge
 addappid(431680)
 addappid(431681, 1, "a89bd86d64ff5f3c1a1d79e3a9ba83f6558475ffc7345ac907b15913efbed2c4")
+addappid(431682, 1, "75919bc259211f7e25276222e3d824548138db5e8ac70c067f2ae47a5ce2de96")

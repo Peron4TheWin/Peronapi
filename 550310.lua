@@ -2,3 +2,4 @@
 -- Game: Root Of Evil: The Tailor
 addappid(550310)
 addappid(550311, 1, "7749fb825c1e4cfe4e7429fce483bfa6e2993ef95d3253eb60b31f15df23eb38")
+addappid(550312, 1, "d40ffab45089b309e822d7da6302b561a26a8daa567a6512aa21dba55493f043")

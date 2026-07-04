@@ -2,3 +2,4 @@
 -- Game: Alone in the Dark Soundtrack
 addappid(2450970)
 addappid(2450971, 1, "69c3b29b16198c61484b01ded056d3a1bbd739a7445b9fe46bcf7f7bf9b93ba6")
+addappid(2450972, 1, "9a7e27470305d222181970ffcec27538389c5e45267bebabdda487662f4227ac")

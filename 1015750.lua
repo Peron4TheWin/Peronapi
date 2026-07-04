@@ -2,3 +2,4 @@
 -- Game: Escape from Fortress Lugohm
 addappid(1015750)
 addappid(1015751, 1, "3350581406d9477a0fa83a1eab7ec5ba0cb5379fac928d278c4d660875fbdae5")
+addappid(1015752, 1, "31165fdf05917e3cc9d7ca31d8e2f1821658878f34c58fecc0ab5cc2a15176fb")

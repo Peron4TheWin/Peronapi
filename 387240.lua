@@ -2,3 +2,4 @@
 -- Game: Steel Rain
 addappid(387240)
 addappid(387241, 1, "ec400b4070505fc34f44b539d11bc3a834e1d78d074eb00b984e7cca97ef6cdb")
+addappid(387242, 1, "876ea6514fd4d5dda84f6acc90c40cc980965d44f5e4ef3dbb9086266d24d83e")

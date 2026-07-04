@@ -2,3 +2,4 @@
 -- Game: Blood Wizard Odyssey
 addappid(2222970)
 addappid(2222971, 1, "1bb534128fa8641c94ff512e559b176a470b2bc860b9cbc4f171dd707c8a698a")
+addappid(2222973, 1, "f699796d9172741b611b747b12ade5ea44fea0fbbff2b876ac5d88c4c7d33f2a")

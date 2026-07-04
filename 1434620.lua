@@ -2,3 +2,4 @@
 -- Game: Emberlight
 addappid(1434620)
 addappid(1434621, 1, "79013a9c562dd3ceefb88bf8e1d530a73b25c09b91a61e54108ba515c9e4bb93")
+addappid(1434623, 1, "49d2d4fa536aef5bb1ee8b68ef6cb51fcf82433962a2f1be1b09cc7d9e93b5a1")

@@ -2,4 +2,5 @@
 -- Game: Reverse Collapse: Code Name Bakery
 addappid(1127700)
 addappid(1127701, 1, "f74669129bc19c878f47cc095bfb15c4c0d472048e850e00b0fa8a33e5aaff4d")
+addappid(1127702, 1, "cfb1a932eeb81a8e4f7a650a550b5af1d6e71d3bf68ddc6deb487c36d33fbb90")
 addappid(2849110, 0, "3bdbd5e6ca4c09deacef9ced3ab8e553a9c11e4c77806f3aae80b211348606b2")

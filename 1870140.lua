@@ -2,4 +2,5 @@
 -- Game: Xuan-Yuan Sword: The Cloud of Han
 addappid(1870140)
 addappid(1870141, 1, "7e769976167dd3da522b6b55beaaa428c8d9f025edbb01ff58648e00dfa44951")
+addappid(1870142, 1, "aa4ff45c593d2813b5036901d2d8f660aeb3dfec17645ec6604ce1b6920b2a40")
 addappid(2016890, 0, "c49181c0a8bac343b417c4a1d2b7bd1a4d15640a23ae49b6c67d3d738e572a52")

@@ -2,6 +2,8 @@
 -- Game: Project Nimbus: Complete Edition
 addappid(257030)
 addappid(257031, 1, "14b9ca4589b7020ddd93e6f663502817a97cecd2ded753717f113f80f810b890")
+addappid(257032, 1, "c644d7abe1b6e4f2f1d49706145f9028396d38486bb1deaa235c4ff7b311233d")
+addappid(257033, 1, "97ed62460add002ae02c22d4f57c3844f26b0422805126654246c7bb1e2b9124")
 addappid(932470)
 addappid(932471)
 addappid(932472)

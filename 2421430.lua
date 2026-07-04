@@ -2,3 +2,5 @@
 -- Game: War For Galaxy: New Era
 addappid(2421430)
 addappid(2421431, 1, "f2a3a9d64b881b1e5272b2c5978852862f7fda506957a773bce538f92ff6c92e")
+addappid(2421432, 1, "9dc1ae60671ebe719f6fede5ddbbfb29a56c937d6a6fcc25e46dd1ce90f8bcb2")
+addappid(2421433, 1, "1240563f2969790b8afb2da104f919f48d1a23bf192cf33ea72013f70e4386ef")

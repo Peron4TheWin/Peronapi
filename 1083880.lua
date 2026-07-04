@@ -2,3 +2,4 @@
 -- Game: Princess & Conquest
 addappid(1083880)
 addappid(1083881, 1, "025fca5d3d90f5c08b853a3a764709c5e39e826f6c6e10c586260b8e8950c341")
+addappid(1083882, 1, "16141777c2eda442b1401de3bc408ca42de6cc15dc9df673c00353adf2c558d1")

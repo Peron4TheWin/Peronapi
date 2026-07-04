@@ -2,3 +2,4 @@
 -- Game: Submerged: Hidden Depths Soundtrack
 addappid(1732080)
 addappid(1732081, 1, "2866164dc8f752d34eeec63e6cde91e177888453757e1c192b9f28e1295f3a7a")
+addappid(1732082, 1, "022b9a2c0c0cf25da8e748bfa32d502155f4609ff005d1c842e0d159459ae888")

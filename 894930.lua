@@ -2,3 +2,4 @@
 -- Game: The Cage
 addappid(894930)
 addappid(894931, 1, "665948b9d08d03d9dcc07a6f09d60f7b702f21e2da36bf5f4854f7a56593b5f1")
+addappid(894934, 1, "b6c714f21edd6099f3d94546bac6d392e3303a2cf010bc4e2ef0ee1b31ec7c47")

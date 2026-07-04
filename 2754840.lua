@@ -2,3 +2,4 @@
 -- Game: Dodecadone
 addappid(2754840)
 addappid(2754841, 1, "95751499cd7ec3c8bcafb52894a9ef226f04b08ffd1a32ebf8ea3c3d0ca8be3e")
+addappid(2754842, 1, "2f8129544d3badcd1c47437439bfe385078eff1d37525655532f45cee0828350")

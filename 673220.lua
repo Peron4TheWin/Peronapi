@@ -2,3 +2,4 @@
 -- Game: Joumee The Hedgehog
 addappid(673220)
 addappid(673221, 1, "561beaead80c1cbd9c0550d8181e9cf368f52ec6d1336b1e0579850fdac69d74")
+addappid(673222, 1, "e77af33dc4d77fabdd1f1f671141f839cee18a89c3e55a62477387173f4d3ac1")

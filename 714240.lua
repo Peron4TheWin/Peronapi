@@ -2,4 +2,5 @@
 -- Game: SWARMRIDER OMEGA
 addappid(714240)
 addappid(714241, 1, "f9c31d3944f63c6e73be701a78b224b04aca04cb2e354c9dc92e8d3baac129e3")
+addappid(714242, 1, "436d829b473403de609de27fa1fbe54fffff6277f36e75569b9593b8372eda59")
 addappid(749610)

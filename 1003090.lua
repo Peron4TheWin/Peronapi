@@ -2,3 +2,4 @@
 -- Game: Through the Darkest of Times
 addappid(1003090)
 addappid(1003091, 1, "a95780aad678e43259fdd98abbf9a31d593aeb33d42fd0decd53593da98cc587")
+addappid(1003092, 1, "1c718dba3a9d57c76f34a4886d999c540ec93ca0da8fd580d97c15718d6229e5")

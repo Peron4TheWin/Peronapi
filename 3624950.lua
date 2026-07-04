@@ -2,3 +2,4 @@
 -- Game: Garden of Witches - Original Soundtrack
 addappid(3624950)
 addappid(3624951, 1, "2fa12b55190f7c23817d3be03f766e81a91a2334e5b0466688591321a652584d")
+addappid(3624952, 1, "9192993f77e9ea4539b2e38bcaf68e2fc986cefabe3ab3d2a43b1e909fa1fe4d")

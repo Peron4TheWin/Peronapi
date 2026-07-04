@@ -2,3 +2,4 @@
 -- Game: Age of Mythology: Retold Original Soundtrack
 addappid(3076160)
 addappid(3076161, 1, "332bc0bb9f61297e37a4f41bd6ae645b9572f527337f421429989228d86377fb")
+addappid(3076162, 1, "9ec22e5e7c6db1454a651e961e7de31cc280033a7faa3d4f6c19cf87ce998e91")

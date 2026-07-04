@@ -2,3 +2,4 @@
 -- Game: reD:起始的旋转之音(The beginning of the Melody)
 addappid(1101850)
 addappid(1101851, 1, "8b11e6e9ad1c1d6f8ddf4f2d7a7868ec64c8ac6a967422d2f9e2daf81f84a00f")
+addappid(1101852, 1, "a621f17bc14d70ba96ef0c303a38e530f9bd9ffb7a26ba40430ed915a65b0956")

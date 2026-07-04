@@ -2,3 +2,6 @@
 -- Game: Dropped into the Modern World: Surviving the Red-Light District
 addappid(2841070)
 addappid(2841071, 1, "1caa83446f8095aa22d8e60b4db9a73123eb052c7381308611f271b58b354bce")
+addappid(2841072, 1, "457462e9e823d178ba09754393cf951c75916acfaa66fcd5a70e279b2cba2185")
+addappid(2841073, 1, "7185c5fa9a2e2a501dff54c6de54efbf184070ce490719fcb36616373ac5def2")
+addappid(2841074, 1, "feaca06700fae83ba5933704b9f3a0286a8413ab266d3bf478c6bddf9a6ebd2d")

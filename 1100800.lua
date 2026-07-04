@@ -2,3 +2,4 @@
 -- Game: I Walk Among Zombies Vol. 2 (Adult Version)
 addappid(1100800)
 addappid(1100801, 1, "00ac52021c5ffdbebd25cecfb98e8a25161be29e0da87933461263bcb4e2d474")
+addappid(1100802, 1, "e60b625515ee1e4ad5d94fa67c6667340c0ae326c23b24f774668e70c2c3f5a0")

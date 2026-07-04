@@ -2,3 +2,4 @@
 -- Game: rendez Vous en hiver: Stardom 3 OST
 addappid(1904090)
 addappid(1904091, 1, "c026659232346b96db0084b08b49ea6cb8a99bf62afe893c858ab943a4f9e989")
+addappid(1904092, 1, "823b1a738274d97e49986f86588ac7fa47919a8e39bb570463699aa01b5518e3")

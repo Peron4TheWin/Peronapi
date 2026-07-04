@@ -2,3 +2,4 @@
 -- Game: Love Is All Around-Love In The Room
 addappid(2670930)
 addappid(2670931, 1, "d76bd9a7d2ea306052e48ad896cad20c27bd736307756b8cfb8a44d0c0c0d3ee")
+addappid(2670932, 1, "46d474a30b36c9570a5ccd7724956fc97bb3b66f73fb4f498d5baaade5917c03")

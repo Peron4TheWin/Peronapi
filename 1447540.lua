@@ -2,3 +2,4 @@
 -- Game: Enypnion
 addappid(1447540)
 addappid(1447541, 1, "01fd35d1846855ecb157c845bab1ff9321f451b7d7d8f4d092e70f709a7eb77b")
+addappid(1447543, 1, "8c6df9d8e0b6a6a62beedef42745ecaf8b6c526297f4701468489bc2f062df0e")

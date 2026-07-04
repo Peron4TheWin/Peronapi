@@ -2,3 +2,4 @@
 -- Game: Dorfromantik Soundtrack Vol.1
 addappid(1585900)
 addappid(1585901, 1, "de923ccf0fdc17fe0166f74f1a9fc922f0bec1c72045acd4038d2c6224d6880d")
+addappid(1585902, 1, "8465cc9f1e54ed1b971b39b34fb5569b35acbdb9587f4beef9f73c8d6e6a8a89")

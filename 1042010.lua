@@ -2,3 +2,4 @@
 -- Game: OMEGA: The Beginning - Episode 1
 addappid(1042010)
 addappid(1042011, 1, "4b6eeab18b66bb72fa09cf8ea02da9c248058aff367f778cc2236ab98b10949f")
+addappid(1042012, 1, "f96951d3001465cda95a86506714900c25281580549e537185d526c6e75ecabe")

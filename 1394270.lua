@@ -2,3 +2,4 @@
 -- Game: SCP: Escape Together
 addappid(1394270)
 addappid(1394271, 1, "800ac544ce69f22e2bdd6fac06bdc0ae40d0fd5c70a14ee50fe2a261862d562d")
+addappid(1394272, 1, "cbc90f08a9485012d1a49dc9d0fa5f136822982c0a0c316ba71d7c1fcc39c406")

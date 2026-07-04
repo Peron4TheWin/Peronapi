@@ -2,3 +2,4 @@
 -- Game: EroPhone Soundtrack
 addappid(1610400)
 addappid(1610401, 1, "ddabb9acc498d6ca5c1dc4fd58430e252eea1fc0cdc79e511dd08b038de49650")
+addappid(1610402, 1, "b612985b3095ebca4f3a087e0650396499a461fc0d766f17bec166e4ce2f6345")

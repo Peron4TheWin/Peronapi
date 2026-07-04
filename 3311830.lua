@@ -2,3 +2,4 @@
 -- Game: Wild Woods - Soundtrack
 addappid(3311830)
 addappid(3311831, 1, "783d0d997a7c1acf18e51f6dd96c04601542b6cbedb8cbab517e67147cc11714")
+addappid(3311832, 1, "8a35c732225809d62db620a4b27e77b19a826539ca12474d8d988adf1ddac6a0")

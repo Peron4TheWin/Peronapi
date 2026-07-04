@@ -2,3 +2,4 @@
 -- Game: Spirit Hunters: Infinite Horde
 addappid(1914580)
 addappid(1914581, 1, "71d0a93f27cafb2c32472bc3232cf53a558168e9fe708b9620f60d48eac3c385")
+addappid(1914582, 1, "cc71e75fe5eb8d8308c05f369afa7595390ab688d21084f05fa2850e371f1cb7")

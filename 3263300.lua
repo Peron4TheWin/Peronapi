@@ -2,3 +2,4 @@
 -- Game: Find the Demon Soundtrack
 addappid(3263300)
 addappid(3263301, 1, "19a893b4fa4f1ca240fdd6255bf03d694e3dad61127550f5bd3c20e494287227")
+addappid(3263302, 1, "b771576199a0a1743841af096321ca7bd1660f9050dd4484b22cc4fddd78d79b")

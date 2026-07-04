@@ -2,3 +2,4 @@
 -- Game: Treachery in Beatdown City U.N. Trouble
 addappid(2578270)
 addappid(2578271, 1, "0dbbb1329f9bfc2b39d57ac94da2a7155d0214d9fd8be2f5ba28abfca3f7d193")
+addappid(2578272, 1, "8c5e2054874cf8da093f9c02f64b8ada8951f17ce3d405b2fe28c40a0f50d579")

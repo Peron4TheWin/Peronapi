@@ -2,3 +2,4 @@
 -- Game: The Thaumaturge: Original Soundtrack
 addappid(2776970)
 addappid(2776971, 1, "9e39ed8c277a480283c4d1ab37fa6c50bd603ea4faa88def09b4a70b00fa4960")
+addappid(2776972, 1, "038f373d3beebb9e3517186c75182d35c13b8caa3857adb7a423a8164dad85f1")

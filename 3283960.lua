@@ -2,3 +2,4 @@
 -- Game: Cabernet - Soundtrack
 addappid(3283960)
 addappid(3283961, 1, "24d78deaa13c6a8b36338c9599028c0a5b226d512573eede264ca34492f6bfac")
+addappid(3283962, 1, "9fd59c657219dcdc072388cb52ba39587008e85fb6d56d3af4bc499256db3102")

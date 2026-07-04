@@ -2,3 +2,4 @@
 -- Game: She Remembered Caterpillars
 addappid(470780)
 addappid(470781, 1, "7f673f95283eeaa44b0f741980db21b9755eb69abe54959d2588c45c16296907")
+addappid(470782, 1, "bb65212eb95fbd5bbfbc83d557d9e23d868cb0e782947f87bc5bb8f0239d2aa5")

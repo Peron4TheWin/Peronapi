@@ -2,3 +2,4 @@
 -- Game: Twin Mind: Power of Love Collector's Edition
 addappid(1767580)
 addappid(1767581, 1, "5b62a9f32f34a2f09ff4aec758d1d1fcde2e7a082e34a26e28f498ff8707efdc")
+addappid(1767582, 1, "04ab609978a395b554514c2fdebb7f1649efc98f88aebc285aa86ddc4b1eb139")

@@ -2,3 +2,4 @@
 -- Game: shapez 2 Extended Soundtrack
 addappid(3008500)
 addappid(3008501, 1, "902e5b98ca84882cf5480d22f7eaaa1a0245cec61e59dd139812bac670ace905")
+addappid(3008502, 1, "303f491e850a5c649dafc30c45e7fb414fc85035c4e511ea69179e43df68a329")

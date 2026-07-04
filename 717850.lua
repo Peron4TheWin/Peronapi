@@ -2,3 +2,4 @@
 -- Game: Sable's Grimoire
 addappid(717850)
 addappid(717851, 1, "34e9ba2e96366e2d015384f880506486d0ed32a3b85e3a32f1c5f187cfa2f8aa")
+addappid(717853, 1, "61956048aa0765a9af1acf633041f9707f0163ded9e3669fd0bcfbc89395ac50")

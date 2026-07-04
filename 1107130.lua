@@ -2,3 +2,4 @@
 -- Game: The Way of Cinnamon
 addappid(1107130)
 addappid(1107131, 1, "ec435edbc3336dca5d338ef5031b936190cab511077fc169edf78a108aee10f2")
+addappid(1107132, 1, "b42f2703037494fdef5140f08921a325c4dc8f73b6df95cb54b424f608d7645d")

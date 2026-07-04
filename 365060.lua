@@ -2,3 +2,4 @@
 -- Game: Titanis
 addappid(365060)
 addappid(365061, 1, "a8dded9ff66877f9bd20763c9354f10812787d3edeb893e18477b318f169e0a0")
+addappid(365062, 1, "369ad4d1ac813cad5c644e78ce2bd178fda7cc8e5262d0b4b98219f8605af7d9")

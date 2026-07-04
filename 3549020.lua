@@ -2,5 +2,6 @@
 -- Game: Caribbean Legend: Age of Pirates
 addappid(3549020)
 addappid(3549021, 1, "160945e93b5d049b7bff421558fed9b170f6cae8a60ab4b01942837731bbc6ff")
+addappid(3549022, 1, "86a067e810534fe43250e86d71700ac719f575efe91399780077b5b4737eac21")
 addappid(4238730)
 addappid(4631460)

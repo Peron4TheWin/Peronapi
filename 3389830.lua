@@ -2,3 +2,4 @@
 -- Game: Hunt: Showdown 1896 - Port Sulphur Band - The Devil's Match
 addappid(3389830)
 addappid(3389831, 1, "42c000a5ccae066e5965848d4c890a3484afb665bfd2346906d91b314efaaa20")
+addappid(3389832, 1, "302a61470970a4a69b5bc7eb5bd030513128c0ea6eb4f135d5a57353d777f0bd")

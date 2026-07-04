@@ -2,3 +2,5 @@
 -- Game: EXAPUNKS
 addappid(716490)
 addappid(716491, 1, "073b9cc0793c0e46222c5f40a0ab20e9018de00297df5c03cfa69a3c86daed43")
+addappid(716492, 1, "ce8edcf26b2aa51f791ba11a0df23f94acff9d6bc9efc0762c539d608e09fc2a")
+addappid(716493, 1, "942debf71aa3e14a161e4d6ebdcf33bb9abf217b8818848e9d565e97640d1086")

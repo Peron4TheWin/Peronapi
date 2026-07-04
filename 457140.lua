@@ -2,6 +2,8 @@
 -- Game: Oxygen Not Included
 addappid(457140)
 addappid(457141, 1, "1f77f3d9ef1b69fc77d28031a5ed6d04cc279101faa6ffe5f1e0915b4baab79c")
+addappid(457142, 1, "16847f270c721a9adf7256bc88d288af678193f74c533f2cd44bccff1ceccdf4")
+addappid(457143, 1, "3199b2ed10129547be0ba6efa9fbb4aa5c740f09fe158c1cf9b8879fc7aba8e4")
 addappid(1452490)
 addappid(1452491, 0, "65272efbc87a5b051b30af08129c729e7069bf5fb8152d68d21fa0588bdbaa42")
 addappid(1452492, 0, "0b9f63b77607bdc6f37c6bdb210dae04b2b0c754c15f23d35f821faedde16c18")

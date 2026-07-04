@@ -2,3 +2,4 @@
 -- Game: Roads Of Rome: Portals Collector's Edition
 addappid(1796210)
 addappid(1796211, 1, "3dd949cef5a2cf5b5dcbeb888d80d63dc35e3dd852e05b367018324168e75a04")
+addappid(1796216, 1, "c28f846760835d84d627a7b92c8f21c6abe195bdad58ceb5ffca5829c911cc7a")

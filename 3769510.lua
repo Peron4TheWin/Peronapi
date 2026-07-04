@@ -2,3 +2,4 @@
 -- Game: Nanomon: Virtual Pet - Soundtrack
 addappid(3769510)
 addappid(3769511, 1, "8d2630a79988c5f509c2a0b7b06aa8082989b187fd33b1ec831e9c4bbf5f3bf9")
+addappid(3769512, 1, "4afc06a619e8277f108ad79acde3173e45b6f620a0d63f655c12f529fbe695a5")

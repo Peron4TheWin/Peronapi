@@ -2,6 +2,8 @@
 -- Game: Kingdom Come: Deliverance
 addappid(379430)
 addappid(379431, 1, "28025aa521351af4da4b05336ce0cdeb467cf54ab15af771b6e96e777e6e11ef")
+addappid(379432, 1, "108f95cce2562576671a8d1deb159b583397b664cafabd96f622beaae2a38655")
+addappid(379433, 1, "b73a679f54e714c4f1faf2c054cb3acaf90fcdd998e96984742b9f5f20d5325e")
 addappid(768530)
 addappid(801980)
 addappid(836890, 0, "7e4b67dfff0691c120ae20411dd923d92fe00e434fc66529e528c431dcacf0ef")

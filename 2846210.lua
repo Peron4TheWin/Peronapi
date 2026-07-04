@@ -2,3 +2,5 @@
 -- Game: Let's Get Fit at Midnight, Shall We?
 addappid(2846210)
 addappid(2846211, 1, "faaf33604b93662ba4ff86b8a59b2371727aaa445c36f52baf33df3f5843568f")
+addappid(2846212, 1, "0ab037cdeb8e7de550a318332762adb9239050cf9b9bc16ee8011809fcc1cf67")
+addappid(2846213, 1, "e9f60723ace76fe47da0f9a4e0eee4c12bf062c37f77869e4310208e47b1b383")

@@ -2,3 +2,4 @@
 -- Game: Rust Soundtrack
 addappid(1701720)
 addappid(1701721, 1, "bb2d77fa0840435c4f482147731f6e1050acf3695f83ddb23eb3fa5e39b489b0")
+addappid(1701722, 1, "031921c4cd796f5a4d6de63473f1c6f3adfe37f0b6ce7e1ce98f9d66836d7085")

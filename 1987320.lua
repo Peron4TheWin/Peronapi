@@ -2,3 +2,4 @@
 -- Game: Super Nano Blaster Soundtrack
 addappid(1987320)
 addappid(1987321, 1, "ce0d30cda4aec3e133a0ce6cc4f44f141dd770b00fa1b510d39b8f95c249500a")
+addappid(1987322, 1, "56206fe63e4ae82504e74823cd4c09e872e2bf4ea81e4c9fb222918087ef77de")

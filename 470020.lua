@@ -2,3 +2,5 @@
 -- Game: SnarfQuest Tales, Episode 1: The Beginning
 addappid(470020)
 addappid(470021, 1, "db156119baf07f9775b436a191e27d81cf34027bef2a304907a3a93786ec29c1")
+addappid(470022, 1, "90f92cdbb2616357305480a2e391d4017b08667f25f7c9c13faaadf6b74f11f2")
+addappid(470023, 1, "5b5bceb37f3ccb55c4cd6b3696e657c935d85a647f260e913ea8a13bcf444ca3")

@@ -2,3 +2,4 @@
 -- Game: Rain World: Downpour - Soundtrack
 addappid(2282210)
 addappid(2282211, 1, "099e2d6e7b4cf927fd000cfc936b650273429c4ea2131ba325b8d1e3b8b9d782")
+addappid(2282212, 1, "2c67cabbc82a1b1921503214969f7e616938985e730245cfff3c5e165005366f")

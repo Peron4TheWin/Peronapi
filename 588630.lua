@@ -2,3 +2,4 @@
 -- Game: Draw Rider 2
 addappid(588630)
 addappid(588631, 1, "ec4e56e908e3b107212c78e4e3113194905dfc6bbce4468f97b0ecabd4a95a69")
+addappid(588632, 1, "7c4944ba647959010b0fdb3d154e62aa3f0a804e1f9dd47c2c2aa1ddfe8dc944")

@@ -2,3 +2,5 @@
 -- Game: Cat Boy Creator
 addappid(2315660)
 addappid(2315661, 1, "df1e4bf8774b88d6769d9f543853b2e9cfdae4a775ab5efa02f3277e5efce63f")
+addappid(2315662, 1, "d00bd858231e8fadf0944b19d942bda905afcca8b44b3920aa111ca7ecb5a147")
+addappid(2315663, 1, "f596d7411299fd6b6a9863d038596f2d38d88cefc3cab7a78fed8e16f8283ced")

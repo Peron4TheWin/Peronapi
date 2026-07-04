@@ -2,3 +2,4 @@
 -- Game: Fuga: Melodies of Steel OST Vol. 2
 addappid(3027410)
 addappid(3027411, 1, "a72fe258aadf91d0619b2ddbea7045530d72158b95dc6ae3b7d76181adce0d1a")
+addappid(3027413, 1, "68230f3bc1e4e34beba11beca2ae968d0e52feda4e2ca8de039902e60d88a4b5")

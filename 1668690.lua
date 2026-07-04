@@ -2,3 +2,4 @@
 -- Game: Alina of the Arena
 addappid(1668690)
 addappid(1668691, 1, "a8c05f5886a43cec24f32dfce40170f9251abc0799139f031df3a75644f54b76")
+addappid(1668692, 1, "7a581bb1283b7b3778f6ffda6d89c35e7e88faf5ae7c9eb0442a96dad10aaf05")

@@ -2,4 +2,6 @@
 -- Game: Karmaflow: The Rock Opera Videogame - Act I & Act II
 addappid(317940)
 addappid(317941, 1, "f67977fcdf59bf92539f56e6b7be09cb4c5d1181dd445b15a62d050e4efef2a9")
+addappid(317942, 1, "f08d542e457933ea985057f1c37ad083322cd3ca92e151f639db2b3b2f19a80c")
+addappid(317943, 1, "f56cf093e10063bfde0ee0a9c61394f47cdfb327eda0c4eff4bca56d7bbc10bc")
 addappid(368550)

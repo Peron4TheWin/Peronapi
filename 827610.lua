@@ -2,3 +2,4 @@
 -- Game: Dead End Job
 addappid(827610)
 addappid(827611, 1, "a139f354a87b82a71c153df87dde88ec8e9f4075a60226ad8483a0a6eed6c700")
+addappid(827613, 1, "a285c6022cf2ab5fe7ace1ee0a83b90e0e49d70a2694541780b11ff810f6f687")

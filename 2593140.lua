@@ -2,3 +2,4 @@
 -- Game: Storm's Harvest
 addappid(2593140)
 addappid(2593141, 1, "8c815a996b5253d863b517d0b5c81bc3515878181037abac542d2ec91bdadc6f")
+addappid(2593142, 1, "3ebbd4c1ac31080946f5a437398f2b535fed836b8fdfc1644e9232f3c76be439")

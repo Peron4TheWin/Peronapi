@@ -2,3 +2,4 @@
 -- Game: Combat Mission Fortress Italy
 addappid(2551110)
 addappid(2551111, 1, "fa43efda5fd9b2d0e460e6a782d21f9f56fa03b5ba7b382de44342987c66f423")
+addappid(2551112, 1, "4c3a98847206aeb8240228fa05041c277d693e96e7516ed375dc521fa2c3ae7c")

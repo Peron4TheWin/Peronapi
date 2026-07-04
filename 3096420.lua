@@ -2,3 +2,4 @@
 -- Game: RANDOMAX
 addappid(3096420)
 addappid(3096421, 1, "e4ab8d615623b74bcac0aa639b03d30c4aea3472b22ea12a64f17dce69874b9b")
+addappid(3096423, 1, "44d65db345963f57107bec39bb3d18262da9e7c8ad1c1fadcfae73f4b64c32d6")

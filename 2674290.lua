@@ -2,3 +2,4 @@
 -- Game: Kings Call
 addappid(2674290)
 addappid(2674291, 1, "da2e5de9d2861f52eaaebdf2b27574f086b6e87eb8b446123d37132bf2a4776c")
+addappid(2674292, 1, "11737fdbebce0aae6ccc703ef2ac177ee4aaf49e133bd3fd7cef48bd70e6aa94")

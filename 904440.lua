@@ -2,3 +2,5 @@
 -- Game: Type Defense
 addappid(904440)
 addappid(904441, 1, "da646d2ea635dfcd2ce2ed5196381196c36caf84c06a77916f2f8ca2156346d7")
+addappid(904442, 1, "fce58f60b2a7196899e7fcb878f42e4ec2688c7f88c23e0891060abe0f240d24")
+addappid(904443, 1, "e2c9a9eaf250a2694fbdeb38a7cfce7d2fc9e919ab5c02181cd7a4edd848bc35")

@@ -2,3 +2,4 @@
 -- Game: Year Unknown Soundtrack
 addappid(3331890)
 addappid(3331891, 1, "8e3cce442d0909c2d198cc88815544d197c51f2b7f1b795cc2d49b9516c868e0")
+addappid(3331892, 1, "bd88bb2b82e6e2e970386bfc48de3ad68a683b4ea9b27e892d86e733549e095c")

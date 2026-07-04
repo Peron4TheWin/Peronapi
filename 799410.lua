@@ -2,3 +2,4 @@
 -- Game: The Outbreak Story
 addappid(799410)
 addappid(799411, 1, "96d4b42517e631e690a79fb50b22f1f90bc66f84d2d18cae98092c4ef8e7cfa5")
+addappid(799412, 1, "4d9d5e67705bea19798e7b0dab93c079245988dbd0cd3e0dec37fd28dabfaf2d")

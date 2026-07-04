@@ -2,3 +2,5 @@
 -- Game: Fieldrunners
 addappid(209690)
 addappid(209691, 1, "7c3e3ded3241d7293ca4df9e32d18b31f6c08ae252d5312d9924a58abe7a43f6")
+addappid(209692, 1, "afdcec3ece8142360c867499ba2454b3f43aeab8085bf350aa9cf8268d37cc69")
+addappid(209693, 1, "9ff813232d465012e91422552fbc1c4f18fb3bf5ee532adf8acf91d55ba9fc9e")

@@ -2,4 +2,5 @@
 -- Game: Story Of the Survivor
 addappid(440950)
 addappid(440951, 1, "52b84171fec0054e3305138f1d7b4e204269327f3c48f2d965e8ba17f233caba")
+addappid(440952, 1, "33c41428ae82d81beb26985427d431a9c5cc71a8e5f7fdfda708c7055a7be25a")
 addappid(469780)

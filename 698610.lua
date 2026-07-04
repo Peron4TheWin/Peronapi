@@ -2,3 +2,4 @@
 -- Game: Through Blocks
 addappid(698610)
 addappid(698611, 1, "054d1e893363c30721e75a6725decd984e7cc95f04550cf17afa66e0f49dfaa6")
+addappid(698612, 1, "aa95edcb6322fbe07d0c6a2d4bf6c31beced14db82f2ec08dfd1dc8e3d41a7dc")

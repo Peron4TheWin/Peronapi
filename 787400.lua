@@ -3,3 +3,4 @@
 addappid(787400)
 addappid(787401, 1, "74c03c9bd9223fc3eeab68a26db4703d78f068f507b9f88007285c9f2abb2be7")
 addappid(863740)
+addappid(863741)

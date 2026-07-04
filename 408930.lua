@@ -2,6 +2,8 @@
 -- Game: AppID 408930
 addappid(408930)
 addappid(408931, 1, "d7a5d39934f01aafef397d314a52c2c32d9715eaf2d23bccaef82b7d60d33489")
+addappid(408932, 1, "f369bdf9d4c354fe16aafd61491f0aaacf2ba35c06de47d8ce7514fbf2bbdebd")
+addappid(408933, 1, "ae0f2a9639b6ce02306e60cd992c5e16c41f48af5d5869da8e78627ea5681754")
 addappid(409190)
 addappid(409191)
 addappid(409192)

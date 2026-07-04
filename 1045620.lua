@@ -2,3 +2,6 @@
 -- Game: Atelier Lulua ~The Scion of Arland~
 addappid(1045620)
 addappid(1045621, 1, "490ffcc0c9f0ba4c56d787480136462b5961a3945b0f73f6e7f4c1dca9556d33")
+addappid(1045622, 1, "3681982b4bfe595fb60cec70ac77ff041d1ccd9bca8ed898c9e6fa162f6ed3fa")
+addappid(1045623, 1, "9304ce57c4bf1309cf65a872fcaddd0da90058528988d7c0c44fbd655cae01ab")
+addappid(1045624, 1, "75ffb096f502f79054537a034dc87af558b1ebc7ff55848153e1217ea9e8156d")

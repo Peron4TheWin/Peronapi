@@ -2,3 +2,4 @@
 -- Game: Rain World: The Watcher - Soundtrack
 addappid(3588290)
 addappid(3588291, 1, "c82ba1d1991db8a741ede184960b07edb56d2c0f44679f58d0427cdec86114a0")
+addappid(3588292, 1, "2bbda8e103e2ec9e5a8e6e2a8ff85fc6fc3937e3fd7acf811326c25dc2d7edce")

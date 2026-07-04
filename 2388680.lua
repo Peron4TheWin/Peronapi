@@ -2,3 +2,5 @@
 -- Game: Monospaced Lovers: Prologue
 addappid(2388680)
 addappid(2388681, 1, "c41e717e09d1774034691c5a0b31aeafa7c47428f07fcaf5a64b51e1a44ddc20")
+addappid(2388682, 1, "383698e5cac948dbd12bd443d9a10a82d6c86cd20b7d59eb074d5f8962bf316a")
+addappid(2388683, 1, "c51869b3caabf1d76b93e5c3713a4bc71828f6d8bfe132abff1701e9fb8ab6b9")

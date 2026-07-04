@@ -2,3 +2,5 @@
 -- Game: Magrunner: Dark Pulse
 addappid(209630)
 addappid(209631, 1, "97142639fc20406d84e03b70a2784fd885878b1bbbc0392208e8b8ac940b094e")
+addappid(228983)
+addappid(228990)

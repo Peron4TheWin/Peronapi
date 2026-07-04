@@ -2,3 +2,4 @@
 -- Game: Cruelty Squad
 addappid(1388770)
 addappid(1388771, 1, "3cdfc9db282b7c09a51a2b71319178f5f099d61e8d80d76936ec2c3ef503541e")
+addappid(1388772, 1, "662089c7638eddd88c0944ef6d8a4bafa15aa4754e3898bad6c6719b2e117b8a")

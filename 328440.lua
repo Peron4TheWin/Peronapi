@@ -2,3 +2,4 @@
 -- Game: Deadlock: Planetary Conquest
 addappid(328440)
 addappid(328441, 1, "76cc416805fa7c1fc089f389e86772ef9b3ac0a8ec1b82513f12f0b136eeb1a1")
+addappid(328442, 1, "97f9964d0f03ff944b3718da328211f206013ce95d4c2887961e87ed9c8f44bb")

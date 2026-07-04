@@ -2,3 +2,6 @@
 -- Game: AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
 addappid(15560)
 addappid(15561, 1, "9ef70c34efb2d02303d95ca2cfdf6f887d1f2e513f9d2347c5d7dfec982bfd83")
+addappid(15562, 1, "d0ee6502b9aa26741a93ca127abe99647a2e572f58787d51319f396d3ed734ab")
+addappid(15563, 1, "1518c1953493b8d5dad72c9b0487b29849dca89120a6197ec398c965d08b291b")
+addappid(228985)

@@ -2,3 +2,4 @@
 -- Game: Tanks2.DE
 addappid(660830)
 addappid(660831, 1, "8af5a52d422fe2f9cb345a51d9e1b3a7f57cb8d3603b19e25579e92ae42cbd8b")
+addappid(660833, 1, "ea7eb460af2c476e52b14b9daad2f9d53e4b922368e7ecec92ab5d5e778dadd4")

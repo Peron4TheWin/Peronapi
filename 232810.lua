@@ -2,3 +2,4 @@
 -- Game: Godus
 addappid(232810)
 addappid(232811, 1, "c86dcabce6705c07eca90d01d8d8e2dd33d3f35d5369b0cb25f8b12ca100ec51")
+addappid(232812, 1, "6d4af3d4730fbf734d78f90a07e504c902d559615ca03f6a1ca3397b4d2217b6")

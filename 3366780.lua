@@ -2,3 +2,4 @@
 -- Game: Outlaws + Handful of Missions: Remaster
 addappid(3366780)
 addappid(3366781, 1, "3b300a5c5b6d2c4a457be6a06e58e631bad38f60fe4acc1e22fd14d092f447f5")
+addappid(3366782, 1, "f2e328a6348139f9e465c1074fb1d78721fac62a620d71c96c4d47c1a286108a")

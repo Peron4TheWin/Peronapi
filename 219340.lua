@@ -2,3 +2,4 @@
 -- Game: The Banner Saga: Factions
 addappid(219340)
 addappid(219341, 1, "f3c57d394cc04dcc2ecb87106738a1987afb43a587adfcf6dbbe2fa89b427748")
+addappid(219343, 1, "192017df6205710727b9724dd1f4098958f6b7ef104ee83cb1049a8a1485d7d9")

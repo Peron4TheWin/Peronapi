@@ -2,3 +2,4 @@
 -- Game: Let the Cat in
 addappid(369400)
 addappid(369401, 1, "b641e5ebb990bb3a42fadcc10b4105abc4458f62d59358965b7c3bd92c8abacb")
+addappid(369402, 1, "fd0e19f941f6deb2b87c54feca6f28d6038f6652245595d98189a5ad47a832f9")

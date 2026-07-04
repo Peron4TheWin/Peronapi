@@ -2,3 +2,4 @@
 -- Game: Shikkoku no Sharnoth
 addappid(1776400)
 addappid(1776401, 1, "41626386b08adff56746e60a6f7b94948da092e38693aa6ee10d5f3793d74bfe")
+addappid(1776402, 1, "c72f0d4ba3b46e9aff78e751143b8cd5b08561152150e5b089ff08b821cd5107")

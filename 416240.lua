@@ -2,3 +2,4 @@
 -- Game: Space Impossible
 addappid(416240)
 addappid(416241, 1, "dc8726f4bef65e7d5474da6c8f2e6ecc2f7dcc31592347317640688bda732f55")
+addappid(416242, 1, "3b76d59b1e18d17362dd88cdebdf7f1fc2606e47e34a205b019093927f5623f8")

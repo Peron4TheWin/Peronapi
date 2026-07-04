@@ -2,3 +2,4 @@
 -- Game: Lost Artifacts: Golden Island
 addappid(873900)
 addappid(873901, 1, "8d79d6d27818556914d2817ceccae3fc2dd6f4160e9b21ff0a2166fb3730a318")
+addappid(873904, 1, "128e4c37f0beeea01113a748980c8d92349362be5d5d684bf6159e834c054cbd")

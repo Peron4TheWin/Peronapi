@@ -2,3 +2,4 @@
 -- Game: Deathless. The Hero Quest Soundtrack
 addappid(2981660)
 addappid(2981661, 1, "1b9ee6a82afed55f0eeea2762edc317809f1288e197794282f546e60cdc15496")
+addappid(2981662, 1, "660e4aa6a4833c019c00916328b8bae3946d3587a944a501c50d72cc7228b031")

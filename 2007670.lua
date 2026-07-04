@@ -2,3 +2,4 @@
 -- Game: TOKOYO: The Tower of Perpetuity Soundtrack
 addappid(2007670)
 addappid(2007671, 1, "926630b5bff82d7f6cc9d22ed77fa531ed0fff229641d805072e964e705fa79e")
+addappid(2007672, 1, "b02c142ffb4fc0dd61247802206d4861ce5d8802d56988a9d73a3f226ae1e354")

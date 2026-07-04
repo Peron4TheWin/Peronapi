@@ -2,3 +2,4 @@
 -- Game: Super Puzzle Platformer Deluxe
 addappid(238530)
 addappid(238531, 1, "f8e158ee6a4eaa95a38cd9b6452f16f34b91ccf2a5e50b103547409d60868d1c")
+addappid(238532, 1, "4bc4ce26d3a7e7cc2c0c4a7a9bf86aa5ffac9bbdc5e1285b2a341003e0f152a5")

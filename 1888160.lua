@@ -2,5 +2,7 @@
 -- Game: ARMORED CORE™ VI FIRES OF RUBICON™
 addappid(1888160)
 addappid(1888161, 1, "2cbbae38e8fbb1cffbba8ca059d96e8b2ee29f77fdce9a9f47e666d333366341")
+addappid(1888163, 1, "62410873212f70aa077827699bc4f786c4eefdd31e94201dfc9de87a63d491b8")
+addappid(1888164, 1, "347a0ccf0383122fcfc3fc32a9e06d397e3b39da49a87e3404dae449bac0b8bf")
 addappid(2308560)
 addappid(2308563, 0, "153004e3a9c40c3aece51551c6ffce884a22228a32c036de74ade86eb0be6576")

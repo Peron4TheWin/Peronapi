@@ -2,3 +2,4 @@
 -- Game: Wanderlust: Rebirth
 addappid(211580)
 addappid(211581, 1, "93ffd969e8c84192e54e81263adfd77a8b9770a39170bb6a9cd227f2c3e272ec")
+addappid(228982)

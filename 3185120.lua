@@ -2,3 +2,4 @@
 -- Game: Copycat Original Soundtrack
 addappid(3185120)
 addappid(3185121, 1, "322e04c98c08b7b465e950fbb7e4867ca24bedac212e1af088c66ed14283207e")
+addappid(3185122, 1, "4272d40a31f011ce02cf6b3807472c4dff1c9506698374ff2c1a4c2e33ebed51")

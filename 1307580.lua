@@ -2,3 +2,5 @@
 -- Game: TOEM: A Photo Adventure
 addappid(1307580)
 addappid(1307581, 1, "4156f45a2723b8c8f06ca5bfd488ae1404fb6cf00408cf75d7f601f2dccb64e7")
+addappid(1307582, 1, "b78a6ce5c36e193a1608dba8b9a05983c47ea081fe3e1d7af47f20a4070f0461")
+addappid(1307583, 1, "2eed6b18421c1e6a78ecdd126703d16b824d387ad5dc05e7f5843f67fdfa5cec")

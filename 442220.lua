@@ -2,3 +2,4 @@
 -- Game: Iron Madness
 addappid(442220)
 addappid(442221, 1, "63c5f8a164bd753cd69df6d4a006598c35acc0a9f0bb9367cb28f2aedd4f4be5")
+addappid(442223, 1, "0222dcf0b0d69f6dee34a914b4f99be2197f39aef573c3cd26afc801699662a3")

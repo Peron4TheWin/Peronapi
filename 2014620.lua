@@ -2,3 +2,4 @@
 -- Game: Farming Fever - Pizza and Burger Cooking game
 addappid(2014620)
 addappid(2014621, 1, "b2faec3e3c658f61210b993136270eb6757212aa5cfdb61f5316f0dbff1c93e7")
+addappid(2014622, 1, "f035fde57c89194846df42aac5151e00125443c270b76d0e4cbc09121477e4ad")

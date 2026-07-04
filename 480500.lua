@@ -2,3 +2,4 @@
 -- Game: Dogfight Elite
 addappid(480500)
 addappid(480501, 1, "5ea4c50c1446cf8162c132734db6c08b937b899fcd4dbfafe9445f2e94bd7100")
+addappid(480502, 1, "53a60fa4ea9cc7dc3ba525dc30ef8cd96bab28ca9de43e05feaf23116f22ed47")

@@ -2,3 +2,4 @@
 -- Game: Cartomante – Fortune Teller
 addappid(1361760)
 addappid(1361761, 1, "fc872705e87c1606c3fbd3bb4edbb2ac023f815e37656dd03d0cdfd2692f2147")
+addappid(1361762, 1, "75c91572463053e11c3d882a9efc4e1c17616cd7f0dfafc8146f7e0755448df2")

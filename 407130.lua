@@ -2,6 +2,7 @@
 -- Game: Tank Mechanic Simulator
 addappid(407130)
 addappid(407131, 1, "989efb78a9368874e2d18ac087df37d06459b0dc786fa054628e00bd27a9867c")
+addappid(407132, 1, "0bd11b4aebe64e0fd0d926b63f8fe3f9eb86ce78b954d2a208ebbde79eb0ab09")
 addappid(1065400)
 addappid(1065403, 0, "ddd06be3ac29a3ced9b5bcda682295cd0d7a64b075eebd0ec406c31a20b9c653")
 addappid(1485420, 0, "eeed40b3a7fc89c6cc44631639551f329dd573372eb17a2d9155b8545c7643de")

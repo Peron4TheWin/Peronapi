@@ -2,3 +2,4 @@
 -- Game: Empires and Tribes
 addappid(1273790)
 addappid(1273791, 1, "4bf3345bed5275e7d1ad22a27c223816fd644be451218afcad966aa2e85e0988")
+addappid(1273792, 1, "2b38c11ac2bc8f9705971f9bb4a5b1b79356a0d83baadc20b47e3135bcad564d")

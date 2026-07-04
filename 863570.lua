@@ -2,6 +2,7 @@
 -- Game: Super Seducer 2 - Advanced Seduction Tactics
 addappid(863570)
 addappid(863571, 1, "fb2d93c02635569ff2bf7ef5b07f3dbdba2bcd6cd066d7e2fc50577cb106e82e")
+addappid(863573, 1, "a4c810f834421521e0af5d08f74b6deaf4985ee9832a1aa5ad25c3a71e30902d")
 addappid(932740, 0, "e59d01c8887583f31b255d621aa8230ee7b20a1e71d2fd31896345dbcfdf7501")
 addappid(932741, 0, "5a340aed95a5a9fea2f808de34a4c3d8abd23cdd82a43bdb917b27a73346736d")
 addappid(932742, 0, "08cf4544b0421f0c8f633f15898bb283a3f4aa8e5af4911e404f05b4aaeb82eb")

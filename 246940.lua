@@ -2,3 +2,4 @@
 -- Game: Lords of the Black Sun
 addappid(246940)
 addappid(246941, 1, "d3c49518670ab3264a78ba7ebbeb5a93d9da11eccb48baab3ea540f2cd8250fe")
+addappid(246942, 1, "1a21d9d9a62d5ee4d9905c1c874924f903c8e1ce89894c5e0e5044d9bd77d27f")

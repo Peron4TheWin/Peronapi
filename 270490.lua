@@ -2,3 +2,5 @@
 -- Game: The Forest of Doom (Standalone)
 addappid(270490)
 addappid(270491, 1, "e7fb5ef23202d9720ad465c00daeadf68890bf988d1fab0f81893d70d21b1ef0")
+addappid(270492, 1, "4b16371f674d00cd5973acc01de206eee7be9a3ffedbd9548d9c7da5b30631f5")
+addappid(270493, 1, "d8cb31479c20534cba99b2c65c100b023e8173441c514b34cf104be24d541538")

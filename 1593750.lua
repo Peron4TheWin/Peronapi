@@ -2,3 +2,5 @@
 -- Game: Creatures of Aether
 addappid(1593750)
 addappid(1593751, 1, "d206b677e3ad8ed0db6f7d4fe8dcb391bd15bf8943adbfa39ec41e8375dcd108")
+addappid(1593753, 1, "dda9c58ec1c224b0a636108a299796dbc91806f7639581d7e1158e6be3b6b00f")
+addappid(1593754, 1, "188512ba87f2da884d75fbe76d247a5147bd0d6ff0a53776a4be0ceb6f9a5949")

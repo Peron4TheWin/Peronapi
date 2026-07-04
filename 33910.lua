@@ -2,3 +2,4 @@
 -- Game: ARMA 2
 addappid(33910)
 addappid(33911, 1, "b4bae85e5006274c8aeb976c8613caa3a06e304eef6e945533b1f266aee8b0dd")
+addappid(33912, 1, "070c4b56d793fb31c18730b3f3c226a1de3870bdb2306b7c8af21df0ca0dbd43")

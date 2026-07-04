@@ -2,3 +2,4 @@
 -- Game: Metahorror Therapy Session
 addappid(3560830)
 addappid(3560831, 1, "c40b51eb777940beebdd27a40bcc6f65575579400f1f45b05ce2fe9e2b11403c")
+addappid(3560832, 1, "53e23bc00013c90b110e438546a4253564f6ffb79c7af6e7529aebe61160bc1b")

@@ -2,3 +2,5 @@
 -- Game: Children of Orc
 addappid(544840)
 addappid(544841, 1, "1b838ec512f6bbbafab5102e5073727d8ce54793b304df81c24ac5fdefef9f14")
+addappid(544842, 1, "07cbdc65bb9b8879ce82fd52b28d448a1df9be1d83b0afa0fa4fa8e30eb55014")
+addappid(544843, 1, "9981f910f4f3a2b3e36cb1c2dfcd10a7ea8fc8bde6bd15a10a3828a990f8cb96")

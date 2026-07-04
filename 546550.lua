@@ -2,3 +2,4 @@
 -- Game: Snowball!
 addappid(546550)
 addappid(546551, 1, "63db8881ecb250e269f89c444094991e9b341fe363e861e4b2a356b5efff622f")
+addappid(546552, 1, "a962c1aff429f1b3f8ff081165b0aa30d7c3f69cd6e9d376638fdf7a12dac985")

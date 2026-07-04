@@ -2,3 +2,4 @@
 -- Game: Picot Ether
 addappid(2106820)
 addappid(2106821, 1, "0190aa652ed2db39bd534dc802fe9f98e7bc5ac92b102d46ec569517b6d28767")
+addappid(2106822, 1, "535c6a3740abe297cbdcc3cb437f21ca120eb6ea8003a2fe14bb6770ce5e27ef")

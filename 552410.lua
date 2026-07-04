@@ -2,4 +2,5 @@
 -- Game: Project Abyss
 addappid(552410)
 addappid(552411, 1, "581a90f6e0b230afcd956629bc275a4a66e8ca21df314fdc0084f47d4a03a369")
+addappid(552412, 1, "d51c368e3ced480f9a93d2eeebc085d63ae9d63ce7780f6cb0cea250a08a4e83")
 addappid(561130)

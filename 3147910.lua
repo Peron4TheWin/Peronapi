@@ -2,3 +2,4 @@
 -- Game: Dustborn (Original Game Soundtrack)
 addappid(3147910)
 addappid(3147911, 1, "4e9201518fe5f8d7e905db19a2008a87191890f338adfb805ba16650f6d74ab0")
+addappid(3147912, 1, "bc6a66c9b9c15c1e2fa47c2de2ed0aaa458d09403ade25bd7ab3822fbb2c8710")

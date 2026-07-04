@@ -2,3 +2,4 @@
 -- Game: Thief: Deadly Shadows
 addappid(6980)
 addappid(6981, 1, "a277f2c456a3ca06798aff4c8d1dbfd68be2bb6fff47f2652e58e2f5b596aaca")
+addappid(6982, 1, "ccab98a7f4f43967469e1c4dc32fcbb1d17c5b6e928081b601cafec14e3ac250")

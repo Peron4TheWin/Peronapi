@@ -2,3 +2,4 @@
 -- Game: Sunset Arena
 addappid(3050200)
 addappid(3050201, 1, "1239af402bdd076bd8cfbabd15eee9f52308e17e4ef72b30ccd5722f8441b020")
+addappid(3050202, 1, "716c0ea53a80bf3bbe6c1c132b758eac6babb4de26332d14625b0054de05310e")

@@ -2,3 +2,5 @@
 -- Game: Phoenix Wright: Ace Attorney Original Soundtrack
 addappid(1335140)
 addappid(1335141, 1, "3f0f6b8ce32e9e908faffd68ccfa6e315b94a935d698682e6f21666c5eeab3a6")
+addappid(1335142, 1, "4b6cfd1e718fa9ded6e8aacc6b06bec94d10ce5511537ad583fa278477b6ad7a")
+addappid(1335143, 1, "2ffdeb68fd05dcada973adb3f8900aa2f1ca5eb88f3a3a7696fe569d7fe447f6")

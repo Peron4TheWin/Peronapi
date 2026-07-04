@@ -2,3 +2,5 @@
 -- Game: Fairies vs. Darklings: Arcane Edition
 addappid(434230)
 addappid(434231, 1, "ffdc29cf5773af94ccf32f826cdcaac4e13cd0a503a8c3dad66d9db0c2e23c01")
+addappid(434232, 1, "a63f21e7de44ed97baa9cddfdf46f5159e530624049f6c002541f82bcfcc9f7d")
+addappid(434233, 1, "8b634933f620e3791254ea3592ccf559ee38bf2750f4868088063e5eecb59b9a")

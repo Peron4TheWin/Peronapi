@@ -2,3 +2,4 @@
 -- Game: Dead Age 2 Original Soundtrack
 addappid(1443660)
 addappid(1443661, 1, "73aaec4ed5218b012e23d0feb57a5c47a35bd1e7abf87361064c9f5042d9b19d")
+addappid(1443662, 1, "162991c5e1b3b8ffc076df0ed7690db951adac1577ce99e08f6327d99571526b")

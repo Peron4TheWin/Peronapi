@@ -2,3 +2,5 @@
 -- Game: The Away Team: Lost Exodus
 addappid(426290)
 addappid(426291, 1, "7b10ae8d6e1da654a90b66ca8a7b077a5d66011ed0508ec14fea04b7db70f4ed")
+addappid(426295, 1, "677f0185a35d848e073e8c870984bf551f4b2af0ed0d4cb2cadb81249b55e75a")
+addappid(426297, 1, "6b7a926de419bddfa614bbe7024d14792a90c9ef71c007f932cfb3286455b093")

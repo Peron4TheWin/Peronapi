@@ -2,4 +2,5 @@
 -- Game: Lust Academy - Season 2
 addappid(2126680)
 addappid(2126681, 1, "9db3c5f4c6827bcdef0c529f6881912556efbacec8964cf7a1ec5e3efadc5b50")
+addappid(2126683, 1, "6ac6d25c211f3a8c68e0b88306d36e1e97a8038c4087a70c6b6668b738487a72")
 addappid(2361800)

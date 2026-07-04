@@ -2,3 +2,4 @@
 -- Game: Rytmik Player
 addappid(430890)
 addappid(430891, 1, "22e8e91f7de865119b75f807f6b2dc5b80f32d7e3acb3f3a33b108baca90efb5")
+addappid(430892, 1, "f67fc41ff12e9e2debd76a8b026a6f5a04ad29f5c80b3f1b1293c68580a6bffd")

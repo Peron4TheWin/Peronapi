@@ -2,3 +2,4 @@
 -- Game: Pocket Mirror ~ GoldenerTraum Official Soundtrack
 addappid(2399050)
 addappid(2399051, 1, "dbf200cfe517bf9a2a9599ff506f285a83fdb2461306ca3fd8c6182dfb6a143c")
+addappid(2399052, 1, "99fd3976dcd018168c751252cfaeb7c1dddd4ccc83d2a6a4a2b32f2de228ebbf")

@@ -2,3 +2,5 @@
 -- Game: The Cursed Tower of Lust
 addappid(2716820)
 addappid(2716821, 1, "84905a939bcc44f3d63390b433b50ce1c8c142cd2096dfda3d4e841242617e6b")
+addappid(2716822, 1, "54ae041cf130fd79d2c37c121aeaa534c6a04feed93321f86baee530332f00d8")
+addappid(2716823, 1, "0cab2450cecc5d87b5677f6438fbb0ccb56f45f6e289c8ad34d999ae5fa1f834")

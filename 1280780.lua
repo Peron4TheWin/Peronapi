@@ -2,3 +2,4 @@
 -- Game: War on the Sea
 addappid(1280780)
 addappid(1280781, 1, "1d1f1657a18f8451651712f511316d887e81004e3b0e189e6ac7da28c59a93aa")
+addappid(1280782, 1, "3a60eab177178a206ca5ac350ecfa4ce5feffc7c4ebdc878bc5088fac4b5c586")

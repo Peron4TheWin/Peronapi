@@ -2,3 +2,4 @@
 -- Game: Evaverse
 addappid(1628750)
 addappid(1628751, 1, "24da49e6396a1caee784f025f0bddd623b4a41967cf8fec76c60cbf3d482e90e")
+addappid(1628752, 1, "e61f73d792f01ae70ad3da46ec0b3d05d5de000ec022b74e70beb1e1a6a9fa82")

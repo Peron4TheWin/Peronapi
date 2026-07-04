@@ -2,3 +2,4 @@
 -- Game: HUMANKIND™ - Music for the Ages, Vol. VI
 addappid(2006820)
 addappid(2006821, 1, "a81cd5c341e4184721b6eac4a05ffc6583fe3a51cc238f127b0afa1e715ee6a6")
+addappid(2006822, 1, "fc59fb8a704bc5958114532d1740db2dcdf641870fde89c1dd52b97f8460e745")

@@ -2,3 +2,4 @@
 -- Game: Glass Masquerade 3: Honeylines
 addappid(1536980)
 addappid(1536981, 1, "79d44fbaab425191d7d4dae87062773e4021c88156b2bd41d6c2e3c6d750458e")
+addappid(1536982, 1, "ae0e6259d8dcb6b204d425c18874c6a916136698f3b2d8af34521c2bf660c450")

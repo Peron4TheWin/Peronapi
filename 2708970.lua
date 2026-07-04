@@ -2,3 +2,4 @@
 -- Game: Goodnight Icarus Demo
 addappid(2708970)
 addappid(2708971, 1, "20a3c25efa6d9ae929741d8522fe177d0296a897206e5ad10032bd649aac6c62")
+addappid(2708972, 1, "cb65316bf220d1bcfd7c08ec38f239426e0ad524fde12064e5d8d7f0d3d5e5e8")

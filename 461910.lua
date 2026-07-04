@@ -2,6 +2,7 @@
 -- Game: Forge of Gods (RPG)
 addappid(461910)
 addappid(461911, 1, "7ac07ce28a26e712351956324207af0aa6545928068344d74acdf232ba59def6")
+addappid(461912, 1, "7c714100820178a32b0d5c6dbb71e4207dd0a05ad0bfe11b66b5b3e06ff97936")
 addappid(462660)
 addappid(476390)
 addappid(476392)

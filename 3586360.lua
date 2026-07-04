@@ -2,3 +2,4 @@
 -- Game: JR EAST Train Simulator: Hachikō Line（Takasaki to Komagawa）KIHA110 - 200 series
 addappid(3586360)
 addappid(3586361, 1, "ef9ff268f581d79f48eebc370c565323828f31193ffd8a85564a3bfdb57a0ce5")
+addappid(3586362, 1, "5836a36825eddeb938ffb3bc7e8725bcc1f3cd7e10f5ef0afbc9d8f873eeb2b6")

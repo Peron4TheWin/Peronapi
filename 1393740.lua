@@ -2,3 +2,4 @@
 -- Game: Vincula
 addappid(1393740)
 addappid(1393741, 1, "8b9f3876e46edf04d6052ec08e2ec452ec22651df6b34ef8f471ae63b67f87dc")
+addappid(1393742, 1, "26aec90345374664d0d9f89dbb08fb4ba5cc60cfe22d315ed8fcac26f47efb85")

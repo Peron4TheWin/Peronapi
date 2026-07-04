@@ -2,3 +2,4 @@
 -- Game: Timpu's treasure
 addappid(1186690)
 addappid(1186691, 1, "57abba56e4e19b8e666eda31ddab7644519238ceae8e4ff3c5e09285aac9304d")
+addappid(1186692, 1, "947fb1ba5f8621c8937c1886cde8a91b53ddf1253c17ab14f2f600ba40ffaaa1")

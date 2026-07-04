@@ -2,3 +2,4 @@
 -- Game: Touhou Artificial Dream in Arcadia Soundtrack
 addappid(2569550)
 addappid(2569551, 1, "0db742c3f959ed7792825b049aba20039c9ef8dfadf5d28371119d4027ac8f23")
+addappid(2569552, 1, "db684ae8ca3e328a492c586ff019b8194f868c030b3b6cfde5cc07ea1b246b0d")

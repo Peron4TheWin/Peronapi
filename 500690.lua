@@ -2,3 +2,4 @@
 -- Game: Secret Santa
 addappid(500690)
 addappid(500691, 1, "7b34689a3fd8884b18c572af22c3ea4388a933f14f0afec894dea9c8319af246")
+addappid(500692, 1, "b94a37574cbc6ebdee5cf00514cfa85841617d911ba373ad39511cd7eaf141e9")

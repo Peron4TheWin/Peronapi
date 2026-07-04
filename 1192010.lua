@@ -2,3 +2,5 @@
 -- Game: Open Country
 addappid(1192010)
 addappid(1192011, 1, "a482bb7216e2c261d0979cac0c11a018ebd9df530fb5c1824d0a690f5cd32762")
+addappid(1192013, 1, "b1ee3e123a7c4c30ecebee2d78b1f54109c27545aa21ec45fb49f3e4bbf3478f")
+addappid(1192014, 1, "156a1af8732e0fb8a52cc9ade7a7a1f1f4566f73d91c3b5ba141b573e9be87e4")

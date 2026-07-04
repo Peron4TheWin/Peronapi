@@ -2,3 +2,4 @@
 -- Game: Cut to the Core OST
 addappid(2420940)
 addappid(2420941, 1, "61003e76cdba7d88f01143de0fa1669e244b37cfa7a346084ab86e97af04e9aa")
+addappid(2420942, 1, "b790b49e5e32cb42f9c3819393afce278d51c8c774a2853ef8d7490950df6a32")

@@ -2,3 +2,4 @@
 -- Game: Urban Myth Dissolution Center Original Soundtrack
 addappid(3449720)
 addappid(3449721, 1, "e402462dc10f717185c3f68f33309505fc0f62597b4ae01833a1effeefa97a41")
+addappid(3449722, 1, "11c213a488453d08ef95de28509c406ed01cb0134a14153c626774ba82029acd")

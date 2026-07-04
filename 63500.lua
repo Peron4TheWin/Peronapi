@@ -2,4 +2,6 @@
 -- Game: Swords and Soldiers HD
 addappid(63500)
 addappid(63501, 1, "b5e8b612345df3949fdc5983b43b6dad79a491f7dc7c4ca3d0f9cd5cbedc32a5")
+addappid(63503, 1, "380d582e2a8b3e50a6fd60a008b304dd35f6c72e5bebd51d9e57d3031a88ee9e")
+addappid(63504, 1, "62ef2eb699652bc64d3ceeb441a7b84d7b3b983fb525067e74d71296589f2544")
 addappid(210510)

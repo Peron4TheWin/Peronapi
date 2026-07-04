@@ -2,3 +2,4 @@
 -- Game: Tomorrow's Land
 addappid(3258670)
 addappid(3258671, 1, "26f53ccee75c03512ee89aa058fe2a1630bedffcc397a2d9fbcc13812fd40121")
+addappid(3258672, 1, "6b23f8521fb88dd0928235238b2811fdd3ce83ca68df30be3b13d8ef35a4a415")

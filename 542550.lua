@@ -2,3 +2,6 @@
 -- Game: Plankton
 addappid(542550)
 addappid(542551, 1, "84bd73456caed7d0aa064b21d3ba3ed21eea804442143d59ac495796189b04f6")
+addappid(542552, 1, "72da5ac4c026d7348bbb7861d4fcd183eb60405c108a5fe51e054337f89831f5")
+addappid(542553, 1, "4feb63b7ddf24c1b7234dbaecc7d0e4d303ea1ec1d39bde5d3bb4ec0e4aaba3c")
+addappid(542554, 1, "02f2d0cd3eeee282f72da97b55a9d797f931682d5f70acaa76dccd2028bbcb07")

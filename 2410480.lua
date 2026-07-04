@@ -2,3 +2,4 @@
 -- Game: Magic Charge Duet
 addappid(2410480)
 addappid(2410481, 1, "9be6f28e57691ae75be7da8fc8b6744ae7a4cea6c1b6409422f080618eb0a27e")
+addappid(2410482, 1, "d718b32f175e502169f9c9cfdfed68a9af6f23a886491d7dfd1331cf95ee0154")

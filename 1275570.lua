@@ -2,3 +2,4 @@
 -- Game: ENDLESS™ Space 2 - Harmonic Memories Soundtrack
 addappid(1275570)
 addappid(1275571, 1, "07e85a2b18552c98193e316f4befdd7f7b8a2d388d6315a2f4c1365ab47e252a")
+addappid(1275572, 1, "3ab531bfcba0ec3e25130f48467f0d96c74e81497f980b5bc7d621a902e8ec3b")

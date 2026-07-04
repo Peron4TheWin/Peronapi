@@ -2,3 +2,4 @@
 -- Game: HIBIKI of the Cosmos - SFS: The Gun-Dog Digital Soundtrack
 addappid(3471160)
 addappid(3471161, 1, "22ed64aceed43dbc017dee7524337d9ace2620edc407fe74108cd6650c6b5916")
+addappid(3471162, 1, "9a491e0c2c210909eec6780e04f6049e1005184c05ade4513bdf329904e26ea5")

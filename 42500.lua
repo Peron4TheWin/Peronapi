@@ -2,3 +2,6 @@
 -- Game: AppID 42500
 addappid(42500)
 addappid(42501, 1, "067d3ed4d8b73ef420345b0b49f01c70470089dcbdde9b83f62da86fed4b8310")
+addappid(228984)
+addappid(228990)
+addappid(229032)

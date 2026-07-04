@@ -2,3 +2,4 @@
 -- Game: Tell Me Why Original Soundtrack
 addappid(1432030)
 addappid(1432031, 1, "38bdfe9cb9202e4956aaaf7e0256fca2bac256bbb9f3580bf68e886aa218cb27")
+addappid(1432032, 1, "4af454ac8d0c80b415830265c02407fe2fc492261d24fde99189173fbed1c24a")

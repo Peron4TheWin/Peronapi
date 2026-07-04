@@ -2,3 +2,4 @@
 -- Game: Vital Signs: Emergency Department
 addappid(1096640)
 addappid(1096641, 1, "b831b42b111f4745fd6c847b7b4b0447bb433be79ffcd2b19ea84f2deb3e381b")
+addappid(1096642, 1, "ef5150c50f1bbd7011f1a9c0d78b1e7c3d4b1dbcd406e4c76b1662df149f6430")

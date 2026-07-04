@@ -2,3 +2,4 @@
 -- Game: 私のリアルは充実しすぎている フルボイス版
 addappid(2106520)
 addappid(2106521, 1, "151d64d7ca44cb48e2d04536ecee834fe0f6d24fe41497dac53f2f6d0ead0561")
+addappid(2106522, 1, "8d76607c38c78894a8b2c107d2caa42ece76065bd62b0f81f86194f452fef59a")

@@ -2,3 +2,4 @@
 -- Game: JR EAST Train Simulator: Oito Line (Matsumoto to Minami-Otari) 211 series
 addappid(2219200)
 addappid(2219201, 1, "10deaf708a392ab796bd3c6014d9bcf74286dc0ab4e7a651cb77ee96710ad47f")
+addappid(2219202, 1, "bbb71d0c6fef393dd080d54f6f9ef2d4d9d81a66d8c0550bd312ce78217f9824")

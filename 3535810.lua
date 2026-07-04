@@ -2,3 +2,4 @@
 -- Game: KARMA: The Dark World - EP
 addappid(3535810)
 addappid(3535811, 1, "e46697ff0a867ac283ca1c3ae3afd0cbb590d14503fddd82848909fd324e6973")
+addappid(3535812, 1, "f5d208765313257994ea55c418ae337da82cbce050d93a0a5d1b7ae8a1d20779")

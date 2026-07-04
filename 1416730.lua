@@ -2,4 +2,7 @@
 -- Game: Ball at Work: The Ultimate Speedrun Platformer!
 addappid(1416730)
 addappid(1416731, 1, "3f9f1dff58b54d31f94cccd83d90ec69ea369d4a006cc374994c7de3fd93bd54")
+addappid(1416732, 1, "f5644815a6c32a987e7093b3d7487c1370e6e5ca968d85bf7994b15b3351532d")
 addappid(1456660)
+addappid(1456661)
+addappid(1456662)

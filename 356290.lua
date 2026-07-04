@@ -2,3 +2,4 @@
 -- Game: Cuban Missile Crisis: Ice Crusade
 addappid(356290)
 addappid(356291, 1, "1d616146e7a6ff4ab15fc8a8452df6b8a3affa4f0b57388509a025b5510d502d")
+addappid(356292, 1, "94fa373b32bdf8c119d690728141177b28355d38d7558c329502f845ae5873e1")

@@ -2,3 +2,4 @@
 -- Game: Weird West: Definitive Edition
 addappid(1097350)
 addappid(1097351, 1, "77d35d8bc6e68f2ccced7ca6a30cc5f078c00132b84bf57330f38cdea6e4702f")
+addappid(1097352, 1, "d22d42504aa77b998102d10c9eba3fc812819846a43e60a95659b4cb75455462")

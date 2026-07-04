@@ -2,3 +2,4 @@
 -- Game: The Great Fusion
 addappid(341690)
 addappid(341691, 1, "10bf79ea154db24a5a04f4b5fa4b4bd301b250c5b06f18df832cf50e759d8ee4")
+addappid(341694, 1, "8f234c302c3c40acf4ac9f7e5b3ed2255eacc19c3035841e6cb047c7d9a35fa3")

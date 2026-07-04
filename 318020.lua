@@ -2,3 +2,4 @@
 -- Game: Act of Aggression - Reboot Edition
 addappid(318020)
 addappid(318021, 1, "7ab6dd8f67baf01fb48b29ac386cd3f4b22475129d3b66fbf64be0db43a3a268")
+addappid(318022, 1, "ca5d707ad774b637e77e40e61a2fc760e706784a1dc15c773c71d99f756dca65")

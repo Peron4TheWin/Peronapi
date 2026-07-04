@@ -2,3 +2,4 @@
 -- Game: Home Darkness - Escape?
 addappid(761640)
 addappid(761641, 1, "50c491343eab246f5114f72107ae9b7867e3f1ef5dbdb5ba03a43ea5193ec52d")
+addappid(761642, 1, "c01b91d31070e3451dd5b0dc7c2fe7f682a1650211d90c24aea1281ad79becfe")

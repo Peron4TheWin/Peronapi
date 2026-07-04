@@ -2,3 +2,5 @@
 -- Game: Starship Titanic
 addappid(467290)
 addappid(467291, 1, "8bdfecaab3316abcfc4214dd7b64b2eb09ad8a4c18fb7ab5a4768af54a193a86")
+addappid(467292, 1, "7808a05404951cfec6bba0d61cac2735ddc3a8ab839fe80a6381d9aa161f98c0")
+addappid(467293, 1, "9accf6ec067f84bfd53a1b32039c1050f2700e8dc461231bbac97d4d0507ddb0")

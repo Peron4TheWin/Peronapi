@@ -2,3 +2,4 @@
 -- Game: Little Goody Two Shoes Official Soundtrack
 addappid(2645050)
 addappid(2645051, 1, "d30d6d06c0c13968c67564548a02dd8642d72f229b4be684497a467afb176eb6")
+addappid(2645052, 1, "0a14c18edd4d9aab0fa93c400aa3f49d782c76f5e0e474e1af50efba40be30b2")

@@ -2,3 +2,4 @@
 -- Game: Waveform Wipeout
 addappid(897560)
 addappid(897561, 1, "3abd0d340fc89b7ae8a71fbe93a84efbd3b6109cd9254c9c0584cbc4d257aac5")
+addappid(897562, 1, "2912a85d0f9c322a4cf5a1ab8101a50d6b7c69bc052c56fdf16c1286c65ea8b7")

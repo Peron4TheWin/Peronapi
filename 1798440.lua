@@ -2,3 +2,4 @@
 -- Game: Fetish Locator Week Two Soundtrack
 addappid(1798440)
 addappid(1798441, 1, "3ea0861ed6a367ee7b24c9f69973121efdf6c0210e3f8b273e7082f6eac5ca4e")
+addappid(1798442, 1, "b8ada4218c4ba707180e3fdd1fe2232b8a7180575d7182e49d10b6b7df668910")

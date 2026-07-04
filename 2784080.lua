@@ -2,3 +2,4 @@
 -- Game: Zeitz Machz √Rhapsody
 addappid(2784080)
 addappid(2784081, 1, "f2fe396f6574bd48044aecc646534796f6c985b4661f187b1c6550ab5a3ffb99")
+addappid(2784082, 1, "dd31faae9b55c995ae20b7590797fe9603aeee9ca48253b9e82090e3f1f57fff")

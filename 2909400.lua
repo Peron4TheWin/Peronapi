@@ -2,6 +2,7 @@
 -- Game: FINAL FANTASY VII REBIRTH
 addappid(2909400)
 addappid(2909401, 1, "7ab31662f5cf76b4197f27c340a2a0589dc4713c137aadfd22b281df42c07a56")
+addappid(2909402, 1, "fd15686ace81b2e7a839997e1bcc40d7dd9c15f49ce21714252771aa357fd67f")
 addappid(3260650)
 addappid(3312260)
 addappid(3312270)

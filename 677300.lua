@@ -2,3 +2,4 @@
 -- Game: Ghosts of Miami
 addappid(677300)
 addappid(677301, 1, "ab20343c15fce2dc8fdbc3b719e1a75920c0bb299b4fc7cd01b2828cdaf2b294")
+addappid(677302, 1, "f6839199eb33d353e4f4f4d09664427937e1372aadc3f4953bf59ad6a2840c8d")

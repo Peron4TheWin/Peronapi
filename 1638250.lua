@@ -2,3 +2,4 @@
 -- Game: Sword And Fairy 4: Original Soundtrack Collection
 addappid(1638250)
 addappid(1638251, 1, "e6bd7c4e02855b4e7fd6f2ef9a27d3cb03f908d378add93124079315666efb0f")
+addappid(1638252, 1, "979c2b95dc57ebe8a7761a47190c08d7eb960f1fd496e49e96a46143ae779a4b")

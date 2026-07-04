@@ -2,3 +2,4 @@
 -- Game: Champions of Breakfast
 addappid(454380)
 addappid(454381, 1, "04a9f7159725368dc240d34ab0fe6d472c5cb7e93c80916b579c0333b6212320")
+addappid(454383, 1, "648f4bc04ca826e7e277757cf69c90e2a3a1cafc20dd9297b11396dc4dd4d462")

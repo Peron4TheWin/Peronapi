@@ -2,4 +2,8 @@
 -- Game: Anime And Your Life
 addappid(973240)
 addappid(973241, 1, "f54451aeacf0ba44ee4eb09d8abca5e69d7a90d7efc4bade1b611bde7c080f0d")
+addappid(973242, 1, "4cc41e1f787282eba0772fe79654c74db49c71c97fd3bbadfb0118d2d92ea28a")
+addappid(973243, 1, "a0f74224dd57a0cb3b6071da55f653d177e2d76426b8e8a700ce589f8e8ecea3")
 addappid(985860, 0, "09d4d9899ef160db8943bfc4bbd9cefbb4636d599e8ee863ece03b44a80c7789")
+addappid(985861)
+addappid(985862)

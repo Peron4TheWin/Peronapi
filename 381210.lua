@@ -2,6 +2,7 @@
 -- Game: Dead by Daylight
 addappid(381210)
 addappid(381211, 1, "66477a849ed619510d127ff3f05d4d37b38a04fd7074654337053dfe817798ca")
+addappid(381212, 1, "d514d170477029b1fc73e157f9550e3591facfc4508a7568deaf4599fc3a54b4")
 addappid(489980)
 addappid(492360)
 addappid(509060)

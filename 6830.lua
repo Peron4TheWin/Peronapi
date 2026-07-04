@@ -2,3 +2,4 @@
 -- Game: Commandos 2: Men of Courage
 addappid(6830)
 addappid(6831, 1, "e04b4f9dd9943ffc7501be1139cfe2b5554e8f88805b365c86145857b32d257a")
+addappid(6832, 1, "bbfe670f578a7d4a46554df8bcc304e285b4d3de88a06c5998f2cab3d95c82ab")

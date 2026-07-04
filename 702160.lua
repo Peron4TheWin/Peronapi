@@ -2,3 +2,4 @@
 -- Game: Rocketboat - Pilot
 addappid(702160)
 addappid(702161, 1, "950efc4b6154d7c581168e31d71ddc586170b60c8c940d15dfa4732d0c44721b")
+addappid(702162, 1, "dc4d77007089adc7a8da7e061c27ef0696f691679d990ba14a020fdaba125a2d")

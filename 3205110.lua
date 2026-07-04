@@ -2,3 +2,4 @@
 -- Game: CATO: Buttered Cat Soundtrack
 addappid(3205110)
 addappid(3205111, 1, "c688750b44f7005987a4d1621cbb1052533f809a35c068d0957b37ebbe083cff")
+addappid(3205112, 1, "98fda67da5c80b97324ac48f2d9fcf8e75d7f60cc13d487a879dcff0b286af81")

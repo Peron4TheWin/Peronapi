@@ -2,3 +2,4 @@
 -- Game: Personality Excretion Hero Silvy's Rebirth
 addappid(3164910)
 addappid(3164911, 1, "5d71ef62ebe292eb21af67877b1aab7f1c270c25dc58fa90892310738d1f518f")
+addappid(3164912, 1, "4b2705b748da4f5f935cf8d5f3289e55597ff2a7cdd9372c1f0029700d81cabd")

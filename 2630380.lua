@@ -2,3 +2,4 @@
 -- Game: Touhou Meijinka ~ Song of Divine Tempest
 addappid(2630380)
 addappid(2630381, 1, "519ee0341ff3bd486edb3d8cabfd5a1c1f354c551437971bd412a59af3e56847")
+addappid(2630382, 1, "278743ba5c8f7c4bdb93991ff50c2063a4c4077a9330746023e31a1774d41083")

@@ -2,3 +2,4 @@
 -- Game: The Rise of the Golden Idol Soundtrack
 addappid(3324020)
 addappid(3324021, 1, "759b6986fa7579af7acf19d74034d072a2bf4b84103100deca14aa77a8eb4ee8")
+addappid(3324022, 1, "debfc39e8ac5dd18a2c7f28e68e8e66f329f9d231a9ab65a68d31f9dce400943")

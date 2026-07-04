@@ -2,3 +2,4 @@
 -- Game: Final Exam
 addappid(233190)
 addappid(233191, 1, "37d4d62230532359fcfc10eb76b30f45a21f817dc6e949b22c16d26697768ff8")
+addappid(233192, 1, "0806c06cadfac7f3d4aa64d627214f76f7a683be270eaeecc111fa6e44763b8c")

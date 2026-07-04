@@ -2,3 +2,5 @@
 -- Game: Radiator 2: Anniversary Edition
 addappid(385370)
 addappid(385371, 1, "773963f7ba465a5fa50044f0055c9285197d9325fc0c679caed6e1a6c3407689")
+addappid(385372, 1, "0c5c4e4634c528cb471cba9c503f62917797f598fd686bad1537dec5a55ae012")
+addappid(385373, 1, "8b3e465c87b5d89b87afedf63e23baca880dfef05c8fff98a57be986588acf43")

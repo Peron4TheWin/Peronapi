@@ -2,3 +2,4 @@
 -- Game: Pascal's Wager Original Game Soundtrack
 addappid(1517910)
 addappid(1517911, 1, "4e1cee4f0480510d6e56a1338113131d636e08cbdac4c0488a1e563b287daa6f")
+addappid(1517912, 1, "55553d709e9932d777fdb193c261624dc98a095b1f4f4fe5d736fb810f41dc1e")

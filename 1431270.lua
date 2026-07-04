@@ -2,3 +2,4 @@
 -- Game: Arcana Sands of Destiny
 addappid(1431270)
 addappid(1431271, 1, "dd6d32982d8b9c86df886d67a1b7ee2a0760c0d9d51ac6ae1bd48fba566406fd")
+addappid(1431273, 1, "53ca984c40507b1106fed869761c7c7a06ba31b117359377b0caabee3d55b5f5")

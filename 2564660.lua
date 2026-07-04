@@ -2,3 +2,5 @@
 -- Game: Frontline 1942: Battles of the World War 2
 addappid(2564660)
 addappid(2564661, 1, "d3c5f162a16eb9d9eed2c8f55a357eb1bace1ee1b2e1de736fee78afa1d37c6f")
+addappid(2564662, 1, "d6cddcbb4657b4f888736ae064cc00c421547b5112bd8f7ada0e8bbdac9d91d1")
+addappid(2564663, 1, "b129fa72b9967328c90c54905aa2f66ebdd10824602866b2afa409f5e41fdeaf")

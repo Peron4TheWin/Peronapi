@@ -2,3 +2,4 @@
 -- Game: Drunken Robot Pornography
 addappid(209060)
 addappid(209061, 1, "5abbde831dea043f64c49b401a94377be9df7a7ef0c99deaa74ac0e65502a2ef")
+addappid(209062, 1, "016acbc82417cd9bf7b7442fe45a03131e1757ba48b324a25544ae10b9b3a5f5")

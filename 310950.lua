@@ -2,6 +2,7 @@
 -- Game: Street Fighter V
 addappid(310950)
 addappid(310951, 1, "cde3f482aedb4b88421d61be7343f46674d5871746b189c56dc10b10ee3cada9")
+addappid(310953, 1, "18d1e71626cb0a8e17e55bb098bedea9b4737fc4cb7e52081175c7e03af05c1e")
 addappid(425110)
 addappid(439410)
 addappid(475230, 0, "d508e856e2373e136a7f87a1756386fcae717c758409c450ed7c7fbf4efdee3e")

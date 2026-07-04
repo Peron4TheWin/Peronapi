@@ -2,3 +2,4 @@
 -- Game: Another Adventure
 addappid(604450)
 addappid(604451, 1, "60579bc4c32b53a2077720dcf89a5951587f9aff48be70d7e75ef1c0c5dfbb14")
+addappid(604452, 1, "ea4084159bfbbc5bee5cb6b9f9f8222fcad8f7ea89190a548002dee6b77573ec")

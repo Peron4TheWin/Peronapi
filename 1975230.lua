@@ -2,3 +2,4 @@
 -- Game: Night Loops - Original Soundtrack
 addappid(1975230)
 addappid(1975231, 1, "144c55dba96b9accc72b3d030893c4084f491a8c87fc9872f8b8f415eab1aaf7")
+addappid(1975232, 1, "3ffee90ee47fe265d54902e9a13968c79ce3e2f76146120455abba6cecc7eb5e")

@@ -2,3 +2,4 @@
 -- Game: Maid of Sker Soundtrack
 addappid(1356980)
 addappid(1356981, 1, "f404f4de7cf5ddb23dd8520c71ec888ea500b48671c212dea1b02620795ede23")
+addappid(1356982, 1, "f85822c3c4698b6eca86fdb7b7efccd21b699506a5269813c6d91dd12057019d")

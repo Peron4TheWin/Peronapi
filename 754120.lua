@@ -2,3 +2,4 @@
 -- Game: Ninja Stealth 3
 addappid(754120)
 addappid(754121, 1, "feaa731634ecb4386ddfb742994133ab3093375ba3b036d6b73bd9601562a731")
+addappid(754122, 1, "fe9be667af750854abdba833d968e997985cd0ad6fc848b2b9286ecdd4b701bb")

@@ -2,3 +2,4 @@
 -- Game: Auditorium
 addappid(205870)
 addappid(205871, 1, "8b599397bf05d4ee466980574f68dab3587dc79732f554e1d4254b009f855fb9")
+addappid(205872, 1, "2e298c1665d1afa1725d6bcbbccc7f520e5e56403afcd491d2a4f558dcbddbe3")

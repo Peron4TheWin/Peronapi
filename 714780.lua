@@ -2,3 +2,4 @@
 -- Game: Google Spotlight Stories: Special Delivery
 addappid(714780)
 addappid(714781, 1, "77fba53b93fd3aad9823d1cedf46cc2520c798107dd5678969703029236e8548")
+addappid(714782, 1, "9f14b37d0a095caaaa89c870e378972fecf1fc32c573dfb7d4bee5a116bb0d01")

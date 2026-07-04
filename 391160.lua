@@ -2,3 +2,4 @@
 -- Game: The Deletion
 addappid(391160)
 addappid(391161, 1, "c609266495c7c43315a12ecd16aa598d59bacb38b1a3af80bc4db074d7d6f34b")
+addappid(391162, 1, "7927d1a6450e812d7b097f51e563ada0ccec8317ba45507784380ed8b2866f4c")

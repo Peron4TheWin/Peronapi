@@ -2,3 +2,4 @@
 -- Game: SeaOrama: World of Shipping
 addappid(2002570)
 addappid(2002571, 1, "aa32c1da58ad926f546878097f7dcb24c4b1ed8e3e41e4b07f4042ce5340447f")
+addappid(2002572, 1, "350424c837a8115d7e855c35fba84a05fedae3c84939227ece880e78e04289d3")

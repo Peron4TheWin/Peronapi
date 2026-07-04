@@ -2,3 +2,4 @@
 -- Game: Watergate Xtreme
 addappid(666320)
 addappid(666321, 1, "5156c653489c667cedf23aeb99cf5cbe24549a79d782730bb3a0e4f25c74a780")
+addappid(666322, 1, "011ed071d4737ee27ef83ec8fc36035cbae2bd51f7e392e0a068eb088c4380b8")

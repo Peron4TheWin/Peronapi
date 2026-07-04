@@ -2,3 +2,4 @@
 -- Game: Last Inua
 addappid(331980)
 addappid(331981, 1, "0afdeabcb6ef1133d24e46f8dbe0ceedf4ddf9362b8f14e55c2eefc3ffed2cf8")
+addappid(331982, 1, "19ada600f2a86b699909049ab7dcc33a6a891169caebffcfc53813c0cf486680")

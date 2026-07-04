@@ -2,3 +2,4 @@
 -- Game: Pudding: Lyre Knight Original Soundtrack
 addappid(2424920)
 addappid(2424921, 1, "4a7e2398a1e10cf8b4d66764ea259d6d7e5293b7ea7f92799439ee6fea82b29f")
+addappid(2424922, 1, "34b9abae0f81dfdf806f9d2c21a26e840b889d796edb5d41ba55d224d0348a22")

@@ -2,3 +2,4 @@
 -- Game: 安堂的心理咨询室：杯中之心〈ANDOU：Pulse of cup〉
 addappid(1416160)
 addappid(1416161, 1, "792cd288278d997089e00e30053dc55f2bb3ae55cec4625a3b08718ceab2ca0a")
+addappid(1416163, 1, "9a55208104f36b3c15089b9bb2d8db577d823f740eb59a8578e0c231997726ff")

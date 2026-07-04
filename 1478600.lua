@@ -2,3 +2,4 @@
 -- Game: Amulet of Time: Shadow of La Rochelle
 addappid(1478600)
 addappid(1478601, 1, "18f0677fb40dd23989229571eaaba334b38f51494fdd1c19a4a40b9154dffcc5")
+addappid(1478602, 1, "698b24ff03ab9c6fc6f6fba9538df74b27de5e5ad6598412842db500cf9d9820")

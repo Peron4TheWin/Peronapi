@@ -2,4 +2,5 @@
 -- Game: Little Big Workshop
 addappid(574720)
 addappid(574721, 1, "3639fec2e6886f768df5a18f61f57086cb4ac9eb28f086648d0db45ef6c81d56")
+addappid(574722, 1, "7b383b5204c7a2aaaaf20f553b86a2b63981886349b250a12774f50d8c7579f3")
 addappid(1426880)

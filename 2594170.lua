@@ -2,3 +2,4 @@
 -- Game: AK-xolotl Soundtrack
 addappid(2594170)
 addappid(2594171, 1, "571c94ded5c04bebe19d5ba5c5f1fc94d62cf0bdf641b4b1d65f987830b99755")
+addappid(2594172, 1, "ee6127216b1b553131b840394d320a588c9854792eacf820ed3eb9bce314eae1")

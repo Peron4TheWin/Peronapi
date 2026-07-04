@@ -2,6 +2,8 @@
 -- Game: Freddi Fish 2: The Case of the Haunted Schoolhouse
 addappid(294530)
 addappid(294531, 1, "6531615fedbab769d6048f2efc4943f938d81182bb40e1214fcec738abcbb87f")
+addappid(294534, 1, "65743bf379f6b3a4fd6f0e7dc28bc4af8220b6258a8bd12ce11174123b02ed44")
+addappid(294535, 1, "79d6f6a01cbcd998e57e2f3e2fc521f2608632127c25b502b8fc3695d62d97c9")
 addappid(302990)
 addappid(302991)
 addappid(302992)

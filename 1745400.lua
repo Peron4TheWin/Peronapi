@@ -2,3 +2,4 @@
 -- Game: League Manager 2022
 addappid(1745400)
 addappid(1745401, 1, "efe455ae09fa8ecf123e235da0c0a907d109bf354f4598de8a19f2b129a4d84d")
+addappid(1745402, 1, "ad351a38f19fbfc8a962e7afeff331331f9dfcdd95411094861daca75f5a3230")

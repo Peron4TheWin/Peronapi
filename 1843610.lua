@@ -2,3 +2,4 @@
 -- Game: RetroArch - Beetle PCE
 addappid(1843610)
 addappid(1843611, 1, "93784e3ede0b1eede7b1a0a7c62a5500dceb25ed4bd634685516efdcbdcce8bf")
+addappid(1843612, 1, "5c774d185963bca618e871ed7eb998086549e143c0a23a0767e63b3ed6f39a96")

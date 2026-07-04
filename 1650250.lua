@@ -2,3 +2,4 @@
 -- Game: ToruTaru
 addappid(1650250)
 addappid(1650251, 1, "f3cde8c44ee7aaba727698484ce284fea2a8104f2d2686862e172fc474c0e815")
+addappid(1650252, 1, "e97cd17cb66396d7a8496714689e6cff13ad989fefb434c7d41d405afaf181ce")

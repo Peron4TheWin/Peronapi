@@ -2,3 +2,4 @@
 -- Game: 30XX Original Soundtrack
 addappid(1553350)
 addappid(1553351, 1, "ec73bcf187b255b7d0cf005667e84ec79a66b6041b04dbecc54de9bf938b2275")
+addappid(1553352, 1, "ec816ea81dc2fcbfc96e11c8f05fc537a5933f11a03cbda760f006e758546578")

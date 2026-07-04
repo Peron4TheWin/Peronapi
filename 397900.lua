@@ -2,3 +2,4 @@
 -- Game: Business Tour - Board Game with Online Multiplayer(大富翁)
 addappid(397900)
 addappid(397901, 1, "004c56553d38452e960e65fa55a078ec817e63e8950dd328b3d97451153226fc")
+addappid(397902, 1, "b86431dee863340e061be97814a86761c58cdc8a2994abde77c9b41490bca126")

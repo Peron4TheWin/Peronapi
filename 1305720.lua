@@ -2,3 +2,5 @@
 -- Game: Delores: A Thimbleweed Park Mini-Adventure
 addappid(1305720)
 addappid(1305721, 1, "864ba5ec5e9bb8d154802def11346d82e18a50a13bb49f765a1d1ffe2bffa719")
+addappid(1305722, 1, "cd57b9caa13f29c26f2dfb44cd2f56d538eaafa5aaf279942cf4f1611703663b")
+addappid(1305723, 1, "dd3f81f60d97e70fa61f7c7523d9874e9e61e1f44cc60e1d562b60171edf8125")

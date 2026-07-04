@@ -2,6 +2,7 @@
 -- Game: DGU: Death God University
 addappid(352850)
 addappid(352851, 1, "d5fafaa5fa172f8e616f43442b142d94d9aae212f31436eb604b1fc9d4991f40")
+addappid(352852, 1, "134bbbba8efce86b8f9232712061bd1a4633d97d34c4fc5c5d349a10a8eff76c")
 addappid(381160)
 addappid(381161)
 addappid(381162)

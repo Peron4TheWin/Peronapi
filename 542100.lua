@@ -2,3 +2,4 @@
 -- Game: Train Crisis
 addappid(542100)
 addappid(542101, 1, "0c02a3493636d39254ae9a6881b27db001da7012b3b12f4485db79e4c3975fd8")
+addappid(542102, 1, "bb8d2369eac3ef509cc6544ef4d0002f48ef9bcbf13dd870c4c549d4c309a33d")

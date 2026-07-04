@@ -2,3 +2,4 @@
 -- Game: Grisaia Phantom Trigger Vol.1
 addappid(606510)
 addappid(606511, 1, "8f4bfd5225b7704c251d41801ab159469ddd81eafca56c302b044fd71c23b037")
+addappid(606512, 1, "282d79ed834cbf679e92aab21652e698e45566427b9a3f5ee7e3d3cb0b523e0a")

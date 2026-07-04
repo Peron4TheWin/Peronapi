@@ -2,3 +2,4 @@
 -- Game: Snail Racer Extreme
 addappid(854150)
 addappid(854151, 1, "c5e33516ef2505727fccc226a3eac7cc8c8eff0d10368724c1db7e88bfb4127c")
+addappid(854153, 1, "06df9444c20814a75783acad3f8c063b32c8d0f47440169a35e9e4be8b9dc4a9")

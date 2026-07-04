@@ -2,6 +2,8 @@
 -- Game: Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch
 addappid(294550)
 addappid(294551, 1, "a80ba36bd93f8f84863cb36f610f0ea2a676ebf5e294fb2961e02dc5af635683")
+addappid(294554, 1, "b0c4c68ad9eeb2266089054c6d25b660aa3bab6c7881c8310be343dec5e9a754")
+addappid(294555, 1, "1102ff4d1ee1ed3d6614b2c072626056c8d05d1f9bd0f1a140f8b5770b4660a2")
 addappid(303030)
 addappid(303031)
 addappid(303032)

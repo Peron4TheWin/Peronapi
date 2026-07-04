@@ -2,3 +2,4 @@
 -- Game: Bleak Sword Soundtrack
 addappid(2467560)
 addappid(2467561, 1, "1865161456097225e949c0c3afaf2f77222dfbafbba7791b91ef67680bed8ac0")
+addappid(2467562, 1, "38fb8b124f0503f797b74c498eadf6280e06c5e393e703c9ac02f5a360725667")

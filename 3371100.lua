@@ -2,3 +2,4 @@
 -- Game: DJMAX RESPECT V - V LIBERTY II Original Soundtrack
 addappid(3371100)
 addappid(3371101, 1, "b9cfce1bdad0d8f7a0a78e04ddd0d0dee30aa496f7b80a2967067055f81f747a")
+addappid(3371102, 1, "b8a8d734924c03bdf0fc7863b28951a4c8650536ddfe4eb4ef6c9cdc154f9846")

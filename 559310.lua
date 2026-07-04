@@ -2,3 +2,4 @@
 -- Game: Illyriad - Grand Strategy MMO
 addappid(559310)
 addappid(559311, 1, "e8cf8edeade1cd31e11240e2879a32bd4249acc9ce63a7cf05301cda0315fa8f")
+addappid(559312, 1, "7e996eed7c24af1ccdd31cc9e17c42094c7cf2d940f1d584f78f0e978254ba25")

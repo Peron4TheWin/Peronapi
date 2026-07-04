@@ -2,3 +2,4 @@
 -- Game: There You Are
 addappid(1648040)
 addappid(1648041, 1, "e6292158f54c1e8aa5f4da77fba4084f7dd311e84cdd946c0ca198983182621f")
+addappid(1648042, 1, "7b1af3f24209810cd744f938c1b6cc6e6db68c43fe567d0fc227d57d7745aa23")

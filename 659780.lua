@@ -2,3 +2,4 @@
 -- Game: Darkness and a Crowd
 addappid(659780)
 addappid(659781, 1, "4620d2c5897b9f2dab0a1bc5a27dcc4bcc3819bbae0f7eb2985dc74fe6491a62")
+addappid(659783, 1, "399278cc5fc410cbf70aca5979a59e53459bc6a809eebd0de887e309a5f704af")

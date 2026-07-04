@@ -2,3 +2,4 @@
 -- Game: Two Worlds II Castle Defense
 addappid(7530)
 addappid(7531, 1, "a38976318d393bc8b8e5542e9a29a301fb7d6a59ebb48e8e760527c3d0b1955c")
+addappid(7532, 1, "fde89634bf404c758bff6919dffea3da04a6229c8a5f6950a287a56c86f9ccf3")

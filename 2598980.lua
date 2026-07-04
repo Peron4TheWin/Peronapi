@@ -2,3 +2,4 @@
 -- Game: Oh Baby Kart
 addappid(2598980)
 addappid(2598981, 1, "11986323be9ae06ce28bd1c2d9afad6870b425fb50a907a99cb25cbe9239b033")
+addappid(2598982, 1, "ad1939abbc22c82237cf10a1707ad2be59f8781683965fd23fc522f9dc8bc257")

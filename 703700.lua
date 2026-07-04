@@ -2,3 +2,4 @@
 -- Game: Our End of the World
 addappid(703700)
 addappid(703701, 1, "a715357a3e82bac60a246a8ccbabe7507e1ce96db09cec24aeaae028a9733411")
+addappid(703702, 1, "016a5439648df35ff3d2a19a582ddc0d2cd3eafc4053216d0c8449adb6b05dd8")

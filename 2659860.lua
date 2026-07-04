@@ -2,3 +2,5 @@
 -- Game: Burning High The Warrior of Fire
 addappid(2659860)
 addappid(2659861, 1, "ce6a32ec600c669e50ca7996debb93cef82d45ff6e1e500d83d116686448aa98")
+addappid(2659862, 1, "92b94c27e21409f0149ac4b7cfbbf6dd6c139ea27bde87d914090685e0a1c9b1")
+addappid(2659863, 1, "03587a9b310257b90ef51bfcb010075ec5df7ce5645e6940b66dacda1e8499b6")

@@ -2,3 +2,4 @@
 -- Game: iOMoon
 addappid(465450)
 addappid(465451, 1, "0156cd9b9d1f60f767bc493f616bbb0098102ab0b8ac3bab2f323e6381a37ebb")
+addappid(465452, 1, "0a6aaa4253d6e2c7da1bf082daff7b1d7f2fdfe5b91020aefda007194014d120")

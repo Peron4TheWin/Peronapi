@@ -2,3 +2,4 @@
 -- Game: DIG THE GROUND
 addappid(1435840)
 addappid(1435841, 1, "b95c2e9b87dbc2f359bb86f51c193dbb7c8c4b70274e1c79b4a4be0bd51d79ec")
+addappid(1435842, 1, "d8bab19b07b911bede7583c8f380e606aafb4ff4fe0d09e9f4444eb82164deba")

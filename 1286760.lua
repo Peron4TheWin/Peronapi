@@ -2,3 +2,4 @@
 -- Game: Outer Wilds - Original Soundtrack
 addappid(1286760)
 addappid(1286761, 1, "fe1f5c1aa43c2b20ced2cd057779325ecce557cb042e9e7b0495f4121835f040")
+addappid(1286762, 1, "072b2e0718e046f8123748103b16f4429876b372296e1a1f1abaa03131ca6ec8")

@@ -2,3 +2,4 @@
 -- Game: Flight Control HD
 addappid(62000)
 addappid(62001, 1, "f5194cd102ea7c4d4a0b3f11adb39c85b31cf57ff372a379fc058d819318149a")
+addappid(62002, 1, "79d00b0f5321d3403ce0cf7fc79c6433f1be0ed1b41ba28408caf8746a58b2c3")

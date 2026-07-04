@@ -2,3 +2,5 @@
 -- Game: Eden's Ritter 1:2 - Priestess of Pleasure
 addappid(1566840)
 addappid(1566841, 1, "79d388d747a94e90babd55643f7d2a009a696cdeede1123e20368b71da20b4ec")
+addappid(1566842, 1, "f12d338e6d11cd71ca37b0b3ca002f55bb53d5485aa4a610a10fe1bb5faf9508")
+addappid(1566843, 1, "4b9537d1a212a1a85f3784c9f30ef8185481e2ba391bff6283598ee483c1f36c")

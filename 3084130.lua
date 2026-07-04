@@ -2,3 +2,5 @@
 -- Game: Ruruka and the Grand Sorcerer's Erotic Trap Dungeon
 addappid(3084130)
 addappid(3084131, 1, "f260b4fc9bafe37a827baa62e3a719471999f2ccf86b1562f3946075bac899b4")
+addappid(3084133, 1, "31e047ab69597f312b920ec3157378ca9ce0bcd7ca23f250c891e901c7e83f8a")
+addappid(3084134, 1, "22023fc038a0da2a5d16ae04604125020f8d38fff9528c05e7321e317ae6c841")

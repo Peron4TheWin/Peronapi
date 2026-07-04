@@ -2,3 +2,4 @@
 -- Game: Potion Commotion
 addappid(1209450)
 addappid(1209451, 1, "31b7e25422e3dedfe0dc957f2ae372bbcb58fff1c68779b1f4475fd2b401602b")
+addappid(1209454, 1, "56ee8801fc051bdad3db6689274f717c4ba553ab20b01ce9787189f72978f04a")

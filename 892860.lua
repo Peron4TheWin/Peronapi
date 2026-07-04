@@ -2,3 +2,4 @@
 -- Game: Hot Brass
 addappid(892860)
 addappid(892861, 1, "ce35461f40680e1e024bd4501e1d9a9dfec479bc611b67b7bdfa85e57c65f69f")
+addappid(892862, 1, "5f6a780c5fd1d0eb07ad69784e214b5e8125de8c519ea659cfbb8ed6d42a0b34")

@@ -2,4 +2,5 @@
 -- Game: Demons with Shotguns
 addappid(370940)
 addappid(370941, 1, "e5dc24595628ef6f898b989b0434219911e14bc90a7ba6eee2bd84b85c31e1aa")
+addappid(370942, 1, "a1407b5b6621d602c1446fb1bcd03e5d0840efeb9d8126c9aac7c7a5b2e3d9dd")
 addappid(461440)

@@ -2,3 +2,5 @@
 -- Game: F.E.A.R.2: Project Origin Demo
 addappid(16420)
 addappid(16421, 1, "5d502c01a730f10e231360fb0d3c0c631ffaece0067f787d2fb1b22d7cc84c4f")
+addappid(16422, 1, "605bb685a77d05d4fdb53ff564fcf8bdad86d0b667b0879fbfda32e98ac39548")
+addappid(16424, 1, "b80182a6458ebebffd7b9825ca53652ec2eb385b9840b85edae4ac78904eda74")

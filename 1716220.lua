@@ -2,3 +2,4 @@
 -- Game: Holiday Jigsaw Easter
 addappid(1716220)
 addappid(1716221, 1, "250319ef4fc758cc542dec15acf4ecda972c3ed6d7426891df5afe3845c6333a")
+addappid(1716224, 1, "8f0eeb80d4c31961c46ac421e8e6fafc4e95e111b3506558c62d1cc042f54e94")

@@ -2,3 +2,4 @@
 -- Game: Home
 addappid(215670)
 addappid(215671, 1, "3d315bf5620c9dd58eae99067191f529697ac8e519a1253d4cba5d35ac159ab9")
+addappid(215672, 1, "1c68f636a8e850ee4fd3b9d62389cba4bbcab0c6a038121108c763badc1ee43b")

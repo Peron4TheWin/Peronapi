@@ -2,4 +2,8 @@
 -- Game: Pajama Sam 3: You Are What You Eat From Your Head To Your Feet
 addappid(292800)
 addappid(292801, 1, "f4e9e712ba87894f333d29e02e0e7935224d02d2e244b845e90f68e63ce404db")
+addappid(292804, 1, "9a9c89bfaaaf50d8e3229bb917fc77d84e17801b6ed28ae5ae5d8e69f632556a")
+addappid(292805, 1, "a83ba92d7c3b9da9e010e30c3effd413673fef453408a8cc471bb8240a54d727")
+addappid(292812, 1, "366c37fef8b6e6cfd8366fdbb407d1b371eb3b69740c4cb28a325eca98847afd")
+addappid(292813, 1, "85ef186dbea60e86daa6ad60c90fd0fe41ea8b7db333ec14b6ca370c21a9db0f")
 addappid(364150, 0, "0c3022e38f3086c538dc231adef5c64dd2f578e8be9ab504985cecf03870a347")

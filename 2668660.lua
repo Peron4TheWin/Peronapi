@@ -2,3 +2,4 @@
 -- Game: Manwhore Merchant: Breeding in Bulk
 addappid(2668660)
 addappid(2668661, 1, "57cac671c8b3900c2ec33da95efa0533698a66bb5e3584876e0b15cd1f3cde6e")
+addappid(2668662, 1, "eb4e83978058fcd00948a5dd8898bf512eac2a4b8879ad6ea020448a17c0bbbd")

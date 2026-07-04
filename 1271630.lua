@@ -2,3 +2,4 @@
 -- Game: Hentai I'm coming!
 addappid(1271630)
 addappid(1271631, 1, "80ac086420083e87dad2cc93c01ec27e87ff77efba96827195202b08dddf1431")
+addappid(1271632, 1, "13ff290dbc10a15867cd6cb9dbd694cdd5c75e1fc145533d80e6f165471a0a40")

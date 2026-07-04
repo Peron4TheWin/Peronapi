@@ -2,3 +2,5 @@
 -- Game: Knights in Tight Spaces - Official Game Soundtrack
 addappid(3301150)
 addappid(3301151, 1, "8d6d6316e80faa9c2094bea3e45754f2f296f6ff84aee68e8fc6e620ed99437e")
+addappid(3301152, 1, "baae5714e7fadc513439f244de26dabb2ceb1284cae8735e68022d002693b7f8")
+addappid(3301153, 1, "1d6c4335b799e7593645f6fb06212341e73af1a2250287fc1f97a8b0774cd55d")

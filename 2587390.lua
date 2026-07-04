@@ -2,3 +2,4 @@
 -- Game: Cuckies & Cream: Maids for Milking
 addappid(2587390)
 addappid(2587391, 1, "9b1288b76741a79da0298320ead7934495dc79f52c7ff2f6688b2f82a81a7a6f")
+addappid(2587392, 1, "005b6b87a9f599f45d4e8846d93ca8eb7d6cb786a19840e698fa06d255c12982")

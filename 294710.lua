@@ -2,5 +2,7 @@
 -- Game: Putt-Putt® and Pep's Dog on a Stick
 addappid(294710)
 addappid(294711, 1, "50e12bae530ee3d59807ac7bfd46566b3e4b274484a49d5a9ceab8a265ea8b70")
+addappid(294714, 1, "922a8999b95d92d7ee56bf218416157647f56154de1c19a0fed686cf040095f8")
+addappid(294715, 1, "8e05b69fa58930cea6bc626794e7ae660fee001c6ec84e34abfd14de92e481b3")
 addappid(303190)
 addappid(303191)

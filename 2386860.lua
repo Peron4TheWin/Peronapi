@@ -2,3 +2,4 @@
 -- Game: Jagged Alliance 3 Demo
 addappid(2386860)
 addappid(2386861, 1, "786967e41c63a233a8ae35e0ddd91efb0af989d7b67898bd67d214f55816effd")
+addappid(2386862, 1, "fb652a3ef9a919ab833dd01ab8ded50b105ff0630770f2456590ed41fa97b2ae")

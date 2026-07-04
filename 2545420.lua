@@ -2,3 +2,4 @@
 -- Game: Fort Solis Soundtrack
 addappid(2545420)
 addappid(2545421, 1, "845638590ba9494eb86a5e9979bc377bdd4275c8401891436c55cdc8fc6e4354")
+addappid(2545422, 1, "5a94c880b21dfd300f4a9ab9b91373080d91df0c73ab3ab2e734ffd282e16f67")

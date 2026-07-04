@@ -2,3 +2,4 @@
 -- Game: Radical Spectrum: Volume 2
 addappid(661300)
 addappid(661301, 1, "aa60b67f2dabd3be77a15d7a42e6929a15813c751ce2ea460d7016b8c6f7511f")
+addappid(661302, 1, "361d99fa5bc33ddd97b0050ffab2e2749e15abb850dbdfe2052e8160289a148c")

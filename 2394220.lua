@@ -2,3 +2,4 @@
 -- Game: [Demo]Nine-Tailed Okitsune Tale
 addappid(2394220)
 addappid(2394221, 1, "ec60458099f743f978d45bd7ced28d09514997e64bb98ccf2cb1f873119e2937")
+addappid(2394225, 1, "1062a5c217597b25cf8fb648d8a19fd0198daa13ea63cc8d7f40058846193d65")

@@ -2,3 +2,4 @@
 -- Game: Shadow Play
 addappid(937820)
 addappid(937821, 1, "60dbf24ff93e950ae1f7dcf0b8f596327baf6df5c3f7321cef985d451c598213")
+addappid(937823, 1, "4f582e7b059c73f808b00d97057790815f8580bcdd2d30c89d7faa5ea2b34508")

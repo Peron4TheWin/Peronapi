@@ -2,3 +2,4 @@
 -- Game: Zoria: Prologue (2020)
 addappid(1216470)
 addappid(1216471, 1, "3b88e82aa5f9523a09d48471ecf1fa333d8d532dd06fef8195b2571ec2639593")
+addappid(1216472, 1, "56ef3ad6ceae7579ad80dab4d704637f8db945c1f79a30de2db755a6c51dd43c")

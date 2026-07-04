@@ -2,3 +2,4 @@
 -- Game: Putt-Putt®: Pep's Birthday Surprise
 addappid(294700)
 addappid(294701, 1, "6eed730bc4d6c39b8ccbd504d100a0f8f9bf747e05fc848a4c27f8e85b229557")
+addappid(294702, 1, "65617be4fa51c475a12f452ccdd8ac54f53517f3719db2129d24d15298358d79")

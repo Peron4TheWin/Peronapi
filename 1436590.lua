@@ -2,3 +2,4 @@
 -- Game: Phoenotopia: Awakening
 addappid(1436590)
 addappid(1436591, 1, "77506110fd05eb01494056518f33edb6cb4a358c73b482c209e0646a79bc018c")
+addappid(1436592, 1, "07f01e0a087e9c3169acd14d500b1c766d302487aba3eb8bb7a83bb44fe40884")

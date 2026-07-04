@@ -2,3 +2,4 @@
 -- Game: Yasha: Legends of the Demon Blade - Singles
 addappid(3711400)
 addappid(3711401, 1, "313019292227a4a5064753920a1c2f090dd04c88862033508f5446ed4c0c47aa")
+addappid(3711402, 1, "2d982a1c4e56cd4859ef824bfe4b2d4c5cda310dd801fb35f8d9e1f457a248ae")

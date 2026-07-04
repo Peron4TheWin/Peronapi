@@ -2,3 +2,4 @@
 -- Game: Google Spotlight Stories: On Ice
 addappid(750360)
 addappid(750361, 1, "7eac766eca0fe8cfc9d47a51befab0b6d4e248d8d0fbdced42b285cc70851121")
+addappid(750362, 1, "3008e38aff830af061434f063115191e2faf7a98f8185467bda5cfae2c6b5203")

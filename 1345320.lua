@@ -2,3 +2,4 @@
 -- Game: Deep Space Gardening
 addappid(1345320)
 addappid(1345321, 1, "bbc5a4eaf265ff6a5d7f6ce8ec006aabbadce75e07ea89bfcd17a435f282d650")
+addappid(1345322, 1, "413ecd7f4aa81bd0387d722c563845465ad48e3829edd5fa61b5899224349060")

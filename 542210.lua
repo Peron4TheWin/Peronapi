@@ -2,3 +2,4 @@
 -- Game: Xemo® : Robot Simulation
 addappid(542210)
 addappid(542211, 1, "eaaabbb3261bd571daf40bdd046296e5de70c52069cb6dc8f19640492f8829a3")
+addappid(542212, 1, "08c3fa11f447c61a07f1cd01c762b67d3927b616c87207d4f9dfe950ba03f70f")

@@ -2,3 +2,4 @@
 -- Game: Dwarves Craft. Mountain Brothers
 addappid(1671630)
 addappid(1671631, 1, "abefa136d167d692a965dbf4be02c3d0d6de6dc94a74313a295fe668f738ab77")
+addappid(1671637, 1, "69b209d36b42930c44e07b0d96ed0e1a8faaaa33531437a2cc3fb8a836bdde9c")

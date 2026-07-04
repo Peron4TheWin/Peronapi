@@ -2,4 +2,5 @@
 -- Game: Battlezone 98 Redux
 addappid(301650)
 addappid(301651, 1, "630b891df838326614dcc7ef4fdecd0ba39ee2f80415032aa2b92e71f4a9a407")
+addappid(301652, 1, "c5989798e72e617a4104f8bde57b2a79da9bbb590b27b5021f4a1afb057d1fbc")
 addappid(470750)

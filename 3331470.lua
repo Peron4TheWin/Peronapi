@@ -2,3 +2,4 @@
 -- Game: Half-Demon Shinobi Soundtrack
 addappid(3331470)
 addappid(3331471, 1, "fa0f4a7243419084f247574033cbd118c40d37114e0d91dd87331d80c4da49da")
+addappid(3331472, 1, "1b9524cf6e42545496bcb5b737663450b35ba58b6c5cd4dba84560c29add81dc")

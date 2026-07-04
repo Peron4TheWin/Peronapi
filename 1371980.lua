@@ -2,3 +2,4 @@
 -- Game: No Rest for the Wicked
 addappid(1371980)
 addappid(1371981, 1, "9598cfe06b948f9eca5cbd915b40bec41730f61f6349bbd41d5ee6e86c47a3f6")
+addappid(1371982, 1, "d2a7d91fcd80393c3bf0c9e55165cba9c37c264dbe3eddb717215de20508e607")

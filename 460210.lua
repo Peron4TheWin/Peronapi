@@ -2,3 +2,5 @@
 -- Game: Bearslayer
 addappid(460210)
 addappid(460211, 1, "c71c52648c167a086172363f0da0ab60d084be2b4feb4e1cdd9dab0b367a0ff7")
+addappid(460212, 1, "4d86ba4e1e90740a92cd9841bc2929ae3684149d19ac346493c527b633bd277b")
+addappid(460213, 1, "f3a1dcd6628eaaad3e4dde7115a8c25052a6dde87a77bfb3fc5560dea340e76c")

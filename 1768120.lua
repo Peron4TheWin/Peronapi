@@ -2,3 +2,4 @@
 -- Game: Idle Champions - Bardic Inspiration Vol 1.5
 addappid(1768120)
 addappid(1768121, 1, "1945bef007186ef164b39459f836989bfe0c36d9775babd9577f41e36842eed1")
+addappid(1768122, 1, "8cabb269517a99af99ae93af0609915daa9340d0f6e1f579d8eaa3e46ca39fe7")

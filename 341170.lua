@@ -2,3 +2,4 @@
 -- Game: Adventures of Chris
 addappid(341170)
 addappid(341171, 1, "3eca4fca4895b8ff6ecd62e96ab1dfc3f18548f2010f765a1692fc6954e33fc8")
+addappid(341174, 1, "896f7e84d9a023e53a9f2ded41a26390cb61452960b14949a1a0e735040f1416")

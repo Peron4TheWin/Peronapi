@@ -2,3 +2,6 @@
 -- Game: Sea Dogs: To Each His Own
 addappid(223330)
 addappid(223331, 1, "a2783d031dbf51a5794f677fc9838be70d48561a68c6bbd9a1dcf8e309d9642a")
+addappid(223332, 1, "2da3ab8a20d6c98aafb7eca66059a33c0301df0d258409518ba2372ab21bfca5")
+addappid(223333, 1, "74c94c665b759e7cc3572b420fb1fe72ba371a22f472c11192b7f61d85cc97df")
+addappid(223334, 1, "86d5cd1df645d09b1090a9c8c96620de03adf81a3e95cead0cf66a2c3fe9419a")

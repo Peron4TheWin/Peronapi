@@ -2,3 +2,4 @@
 -- Game: Super Galaxy Squadron EX Turbo
 addappid(345860)
 addappid(345861, 1, "716eaceaf9a76c0bb9fa37dc690c005270b212685a3617a4894c7296755f40d3")
+addappid(345862, 1, "a23659e59e89079bf3a758e55adf308104d5eca8377d440188caaa36f8b21884")

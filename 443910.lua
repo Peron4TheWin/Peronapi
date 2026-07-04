@@ -2,3 +2,5 @@
 -- Game: TGV Voyages Train Simulator
 addappid(443910)
 addappid(443911, 1, "1aa1a33ad1b9d46f1688aff101ae9a73a555b2215037f1af6a362e0ad7fbe647")
+addappid(443912, 1, "77f97da4e3eb71d9fc3ab1b46f182969cdd02474545b86ed251ea6df839c3ede")
+addappid(443913, 1, "9292151582dcce3269fef0ae5265ca9b4ef2cfaacae16821aedd5ee3c7961ad1")

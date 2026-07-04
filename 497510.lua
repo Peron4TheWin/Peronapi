@@ -2,3 +2,4 @@
 -- Game: Crystal Quest Classic
 addappid(497510)
 addappid(497511, 1, "3b82111e3584a22f51fd241c17eda6d30e8568217433fa8ae553a089723551e6")
+addappid(497512, 1, "6ff442e11b29e02de8e518ac833547b0737a8ffbc93c2f80af51d878af3eeb01")

@@ -2,3 +2,4 @@
 -- Game: Hatsumira -from the future undying-
 addappid(1783190)
 addappid(1783191, 1, "c666eae138472183d9250dc83b46f3a4fb01abcd893b5a9863e025acc1025499")
+addappid(1783193, 1, "a3bdadba9064e2e67254f30e401c0d940539e22f3a2f1f904f897ce21905d0cc")

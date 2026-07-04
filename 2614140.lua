@@ -2,3 +2,4 @@
 -- Game: AURA: Hentai Cards Soundtrack
 addappid(2614140)
 addappid(2614141, 1, "21fae77bb4cadb75ca60a53071501e7dec36a0e2975a80cdf313be4092fb1f58")
+addappid(2614142, 1, "c16f47c4b7eb290ce0e3ab970e92b6324af38bf1f515603991275d9c54cd1d30")

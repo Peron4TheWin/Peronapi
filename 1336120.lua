@@ -2,3 +2,5 @@
 -- Game: Bridge Constructor: The Walking Dead
 addappid(1336120)
 addappid(1336121, 1, "a7834896172f1c81be446e9cdb1b2baf9c9bd305d752b2d2b260c3d79bd92f21")
+addappid(1336122, 1, "e1ac8447884f56b49a1f635450081742fd6d391dea9365a5689c43a8ffb8245e")
+addappid(1336123, 1, "6346726b91fff8a0121dbec3432a88fa9c44bc9f0b9bcca0306a43c647c61a4e")

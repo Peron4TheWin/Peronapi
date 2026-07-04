@@ -2,3 +2,4 @@
 -- Game: Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls?
 addappid(1585450)
 addappid(1585451, 1, "cfc6b7d91d24a836c60dc442f2066efa966b7efd3104211acfaaaffb7acfbba5")
+addappid(1585452, 1, "2fbcb4cdb75bff977cac9ca02008177d9099a6382f237112c57181a35e7e1307")

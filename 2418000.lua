@@ -2,3 +2,4 @@
 -- Game: Combat Mission: Red Thunder
 addappid(2418000)
 addappid(2418001, 1, "5c63c2dc3d093413e53ddd6d468eea7a77ab6e88f06f5d08ff5006693e82bacb")
+addappid(2418002, 1, "77058588c3fcf0d73410cb55c33974bea54846519c62e9dcb96c6b96bef512fa")

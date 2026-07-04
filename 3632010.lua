@@ -2,3 +2,4 @@
 -- Game: //signal.
 addappid(3632010)
 addappid(3632011, 1, "0b3b7fb62d02bbaec8e43cd516c05b77ae7a7e97e6b520bc91dc93ed753456bb")
+addappid(3632012, 1, "dded63e86f2e3060e95774400a47d0d11452cb4740238b8cf29ad80bc4674a11")

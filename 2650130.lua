@@ -2,3 +2,4 @@
 -- Game: Ghostwire: Tokyo - Spider's Thread Soundtrack
 addappid(2650130)
 addappid(2650131, 1, "f0179dffec41bcd4566fc7672f9e0830fa31ca35eb8c57151c214052139c9fe5")
+addappid(2650132, 1, "7cd509081aff2f9616fd4454aa9011005b41cde4f99c011904480fc7cdcc22ae")

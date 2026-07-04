@@ -2,3 +2,4 @@
 -- Game: Xuan-Yuan Sword I & II Art Conllection
 addappid(1511180)
 addappid(1511181, 1, "78ffa3622fe25634ec02bb117b639f00f9be3e25a6c318afdaef88f54f1d8a87")
+addappid(1511182, 1, "8bb321335cda99d1ace1866647a8ca9138e6537dae8ae657c161fc5b850ef147")

@@ -2,3 +2,4 @@
 -- Game: Snow Light
 addappid(329480)
 addappid(329481, 1, "aef5cb4d77f7b50e3aff837676f705012e73ca5e77307011cd041b6f72ca8e2a")
+addappid(329482, 1, "60fc801f0cd100de541bd6a06a94951ef51b62f4e478247e73dd16c7a02026a9")

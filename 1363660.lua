@@ -2,3 +2,4 @@
 -- Game: Emerald Lake
 addappid(1363660)
 addappid(1363661, 1, "b19151f6c66220e42fb7e57dcce06f43ca34125244663471b8a8b25bbc751dd6")
+addappid(1363662, 1, "aa7ce234dc9279808644aece9513babdad694c9630eefad41d7950edd140ce0d")

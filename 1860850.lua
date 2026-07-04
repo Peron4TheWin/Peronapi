@@ -2,3 +2,4 @@
 -- Game: Entropy
 addappid(1860850)
 addappid(1860851, 1, "3f643ad94e8e4d0d1639d6deb0362a1fa22a9dff3ad021e14e8b1b5569d55d93")
+addappid(1860852, 1, "b0dae708c5c964e938e789d45d20b20661f89e000d50e420ae5dcbbf629fa9f7")

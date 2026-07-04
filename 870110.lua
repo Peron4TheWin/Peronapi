@@ -2,4 +2,6 @@
 -- Game: The Monsters' History Book
 addappid(870110)
 addappid(870111, 1, "537dff5ad32188aedfd8a0e81318b4dfbe3392519906e5382149fe6bb7f5e7bf")
+addappid(870112, 1, "3b04d7b99ac2237492d78ee7517dc818f9f16b8aad0472150a25ca569e9b3b49")
+addappid(870113, 1, "2a6189835d5aaf0300417d8c66ff3b75d7962832d5bfe5f39c3c390545f3f28f")
 addappid(873660)

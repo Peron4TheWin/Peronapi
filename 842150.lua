@@ -2,3 +2,5 @@
 -- Game: Wild West Saga: Idle Tycoon Clicker
 addappid(842150)
 addappid(842151, 1, "fc066bffb430336f0d9aef5ac3086888b9b8c53d7294308331d1970f439ff9c3")
+addappid(842152, 1, "b9ddc46bd1d46df8f0580b8ffc6d83bc14416f35091999303be3cfbd4ba94c46")
+addappid(842153, 1, "34e4deb6f5eddeeba9fd65091f22a600ca7d3d85bc5192a31d2f69e9eff37a2c")

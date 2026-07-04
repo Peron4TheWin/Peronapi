@@ -2,3 +2,4 @@
 -- Game: Duck Detective: The Secret Salami Soundtrack
 addappid(2975760)
 addappid(2975761, 1, "e0eb427efb9517ed35ff16bdfcda73617e684840041dcc616edab6ec4ff9bb11")
+addappid(2975762, 1, "9772fc883de142d4c4168c918c68b6b0fafa77a740e8e901a8459ab07efdd0fc")

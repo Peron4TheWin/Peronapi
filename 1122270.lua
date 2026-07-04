@@ -2,3 +2,4 @@
 -- Game: Hidden Fears (Moonlight Edition)
 addappid(1122270)
 addappid(1122271, 1, "8bf8d768b2abe7fe122741143c6d23cda85428929ba5c06694feac7a435335ee")
+addappid(1122272, 1, "fdd39fb89bc23a63508d2a153e44d49f9411173f9af01e2d0db0495271aab37e")

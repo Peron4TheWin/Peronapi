@@ -2,3 +2,4 @@
 -- Game: 食用系少女 Food Girls
 addappid(985080)
 addappid(985081, 1, "81c80b0b2bfcdbec67723c5d57acd61439b1e9e050aa7bbad4f78d8551f42c20")
+addappid(985082, 1, "ea71063e8a1dd06660ab4e4f562e7dd0aa0ee78313ec3ea4a452e18f1737ed7e")

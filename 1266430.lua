@@ -2,3 +2,4 @@
 -- Game: Lost In Fantaland
 addappid(1266430)
 addappid(1266431, 1, "e3b9f795f3c00808cc5bdda941384e8ff28172192504e4da48676a833b8f377c")
+addappid(1266432, 1, "4c0ee0c50f566e689fcdb3fd0fae19645e29bbc233a1cab7a6950239031898a3")

@@ -2,3 +2,4 @@
 -- Game: Point Perfect
 addappid(303840)
 addappid(303841, 1, "a21fc70ae53b81c1059ac8f0857b55abd4dc63f0f565439076687c4dc36a2a3d")
+addappid(303842, 1, "70bcaeedff0feecb13624818dcd4031c5340bd4f053254d26c4e5bb68c41669d")

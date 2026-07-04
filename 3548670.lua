@@ -2,3 +2,5 @@
 -- Game: Exo-Calibre Soundtrack
 addappid(3548670)
 addappid(3548671, 1, "4b21257917fbfbdb35fde266a4f1e61b73472c25a9f758b404779fea2f546a9d")
+addappid(3548672, 1, "376c89da7e6afe578ad0535cf9522102d7c1d96b0fb9482bea03df2b23d97b6d")
+addappid(3548673, 1, "2d9fc61df9d6336bb9ecf8b9ee0d4f6fc398ce68aee15b79a6fc13571bb9aa99")

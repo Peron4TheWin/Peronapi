@@ -2,3 +2,4 @@
 -- Game: Music Racer
 addappid(893030)
 addappid(893031, 1, "3e905f2c4fe37332d819d661afbef85cc1c280493e06d6ef8bbab19d0ac47b7c")
+addappid(893032, 1, "a5832cdc44059d6682efabab39d18e872b292d8f618f3d3a42eeb7fb263ad02b")

@@ -2,3 +2,4 @@
 -- Game: 1 Moment Of Time: Silentville
 addappid(497400)
 addappid(497401, 1, "8be9b47154f81c8ef6f6d925117f7c179d20fa6b11f2cd3a131475983469d4b1")
+addappid(497402, 1, "2b9cb4b3ea21fefad673b90e4addbdcb9a81e715f1b10916b281750aa68a63a0")

@@ -2,3 +2,4 @@
 -- Game: Aerial Destruction
 addappid(592730)
 addappid(592731, 1, "c3a735120d051a25d9847eac1125e39868f8cc0fea641c9d83d85afec243331f")
+addappid(592732, 1, "ee283a26ef79049aafdaaede29439e0dc5e0cbff98211bc0ac0fe1c967acbe24")

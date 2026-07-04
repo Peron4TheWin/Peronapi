@@ -2,4 +2,5 @@
 -- Game: Sinister City
 addappid(326180)
 addappid(326181, 1, "6ced3675400852ab5a05db3d4ee76d2154fd8531440d509971b058e1408cb9d8")
+addappid(326185, 1, "52ff06d2b2b911a296d39fe2f677df58717b5f5704b14ab2cfac9a38a09126d1")
 addappid(370580)

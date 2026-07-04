@@ -2,3 +2,4 @@
 -- Game: Poly Bridge 2 Soundtrack
 addappid(1334490)
 addappid(1334491, 1, "035b08d6fceef7eb37221093037d9527653e684fb8ff0070936641260015e4a5")
+addappid(1334492, 1, "229f3ba0f5e92c3e2519ea23f8f0d3dfc77b34211b647c6f02afa2cba8b1780c")

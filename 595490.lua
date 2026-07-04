@@ -2,3 +2,4 @@
 -- Game: LookVR
 addappid(595490)
 addappid(595491, 1, "60076a753a698f72d92b61a1a6309e7d4d162f21d3fb0ecc0d48154fec784d8c")
+addappid(595492, 1, "dac8d6c04c0ab8edd3c731c985e7ac24bfa36e8604854ff17ddd7db1d733a007")

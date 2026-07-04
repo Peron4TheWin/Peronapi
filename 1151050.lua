@@ -2,3 +2,4 @@
 -- Game: Golf Gang
 addappid(1151050)
 addappid(1151051, 1, "b18d347736f92f24007af38a274c1fec5c114d8826bcc7ec65335f4fd056e2cf")
+addappid(1151052, 1, "32382cd56d9bc3b30df848a196f05acb168e289abda976c35bda6fff8388d6eb")

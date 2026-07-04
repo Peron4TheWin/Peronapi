@@ -2,3 +2,4 @@
 -- Game: Heroes Of Hellas 4: Birth Of Legend
 addappid(792160)
 addappid(792161, 1, "5fc624081d15375651b43dd458df68906642f277448fd8c27e138c0b606d38fa")
+addappid(792162, 1, "550a65dc9879007d539db3f66c9fe4a03cf8b226fecb401c24a8ec5dedda8a18")

@@ -2,3 +2,4 @@
 -- Game: Rusty Lake: Roots
 addappid(532110)
 addappid(532111, 1, "44589f66e86bc4ee4c60f5dbadb7f2bde1693af8d931c1cf2b1ed85d66f59493")
+addappid(532112, 1, "c413c4da07badf4f1a96403eccce9da9afa54b53c61682768c47233aa1237582")

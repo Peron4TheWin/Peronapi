@@ -2,3 +2,4 @@
 -- Game: Power Sink Original Soundtrack
 addappid(3714770)
 addappid(3714771, 1, "29f51c3d96fec7c14c1e7eea97ebcb09f900989cdcce919f3fe0906519b3215c")
+addappid(3714772, 1, "a56bfc7b66bddcfd79b5e2e2895d6825c5a235b19147ac9f4ceb914bafa2a473")

@@ -2,3 +2,4 @@
 -- Game: Vampire Survivors Soundtrack
 addappid(2169090)
 addappid(2169091, 1, "a1d5fe077e67c81f538c116db600b84c92be512ddd7d6e5bd0b019d06bc8e1fd")
+addappid(2169092, 1, "ae860c496ca9c4599afe20772bdbeefa31f8d026f1dc45fe7df7241825e879f5")

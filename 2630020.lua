@@ -2,3 +2,5 @@
 -- Game: Nightmare Knight ~Sacred Maiden & Fallen Magic~
 addappid(2630020)
 addappid(2630021, 1, "fce8a249fca8f7ca90a1c07b59461501e7d9e097968ddff0cbd9e633cb0a485d")
+addappid(2630022, 1, "5bb927d646015c0d347b2f7ff8e549c13979f4a10412e760645843d7b4c5f872")
+addappid(2630023, 1, "530868cd7a8978ee42af20513b9b61d82d1cca514f1219e3b864ef4a68d27545")

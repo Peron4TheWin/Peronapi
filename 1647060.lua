@@ -2,3 +2,4 @@
 -- Game: Hentai VR 4
 addappid(1647060)
 addappid(1647061, 1, "6099da7f9385af82b1a169d611f243f54b98e72dc0f6059b9ec402ff55c71a84")
+addappid(1647062, 1, "baaf43630b6cd689c3dcc5a845a0f1e94e6f19c971bd5f4d0310c1ce2ebc5822")

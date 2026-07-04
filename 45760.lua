@@ -2,4 +2,9 @@
 -- Game: Ultra Street Fighter® IV
 addappid(45760)
 addappid(45761, 1, "57e09e51340949bac89d9a3b1be1274426a0a8c44c04288e78aeee7cebd1afdc")
+addappid(45762, 1, "0f3e423d8ebb2d9c2d875bb9d44f676e13cee2feea0f61448af5778f3f27bf90")
+addappid(45763, 1, "021020f02f3e53dfb27c215dd29ba45e93912dd1a18c10352f10fbe7c11cbeb4")
+addappid(45764, 1, "ea6267f4b30c43759f65516977082415e1ad11bf6c0eaa71b513070efc06bbb9")
+addappid(45765, 1, "ac6275726b29b5307f9c08e9e09aadeab062553c74ecd91405f6fd4f881b34e7")
+addappid(228983)
 addappid(301660, 0, "6bf7af0f3e6c1d6f19ce09adc0fcae00b25d17bc42ad7d30cb0ae095a6e5a89f")

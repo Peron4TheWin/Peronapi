@@ -2,3 +2,4 @@
 -- Game: Qorena
 addappid(1049640)
 addappid(1049641, 1, "8542a59fedf633f773d0ddde4b72e78c9f93fc59d3c7ce13aba3b802e65c1c37")
+addappid(1049642, 1, "aa8ff60223ace5711ce4e8344eba2af15a4fd0fb080443b0c43c807945f2df9d")

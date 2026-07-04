@@ -2,4 +2,6 @@
 -- Game: GoBlock's Impossible Medley
 addappid(619220)
 addappid(619221, 1, "5a113a903175431fb4458255747fbca9e0e294c1de8090c853fd40b2f12f68a7")
+addappid(619222, 1, "3c24502fc9560979cdcc744ea6b5faed63b215c742f3857b94e13d92544b2008")
+addappid(619223, 1, "64f471e46c363cf3b7febed5f446af1b8b78eafcc0599c51ec06de0b84473ec0")
 addappid(816680)

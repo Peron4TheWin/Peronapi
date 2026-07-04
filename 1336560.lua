@@ -2,3 +2,5 @@
 -- Game: Hashiriya Drifter-Online Drift Racing Multiplayer (DRIFT/DRAG/RACING)
 addappid(1336560)
 addappid(1336561, 1, "f26ad6b814dba55853ba177e011a795492704f4ed10fe94c21d7edd87bdd83b9")
+addappid(1336562, 1, "e3c2d00cca51b5bac936bec418918890d244a69a359844925952c0059d253d88")
+addappid(1336563, 1, "f59b74ff1cc846bcf9a1daf29c132c47abf8838fd1a8e16f2ef4b7ce645d6585")

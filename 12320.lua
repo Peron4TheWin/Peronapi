@@ -2,3 +2,4 @@
 -- Game: Sacred Gold
 addappid(12320)
 addappid(12321, 1, "47d9b30cbbaae20345058acf2967468c6e8fc571e2693f1a4149a4bf9ae1a729")
+addappid(12322, 1, "7db73eb7a433d4989ea7f24a9c66063d411dc8fa3bda0feb566ab5b0b0c4efd1")

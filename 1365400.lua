@@ -2,3 +2,4 @@
 -- Game: My Universe - Pet Clinic Cats & Dogs
 addappid(1365400)
 addappid(1365401, 1, "402edc8bd0e5fe15f671a797bc4115caafcc50f8ded0ab65b1521a5423a59c28")
+addappid(1365402, 1, "ac61b01734754b08de5cec24d196c7f45d6b53fda41150bc69187531d9c1c2ac")

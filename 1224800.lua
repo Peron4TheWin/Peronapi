@@ -2,3 +2,4 @@
 -- Game: Trine 4: The Nightmare Prince Soundtrack
 addappid(1224800)
 addappid(1224801, 1, "9709b449a3f85572abc5e327b197e80e0b9ddd11ec5da083d773365d45cfba75")
+addappid(1224802, 1, "aecd53a59585dbad33b6df8bc4412db1746b5a2319de516bd5c044098cc704b8")

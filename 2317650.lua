@@ -2,3 +2,4 @@
 -- Game: Sword and Fairy Inn Soundtrack
 addappid(2317650)
 addappid(2317651, 1, "6211b5cbb9d8b17896df0cab671fa2577fe96e0a02be9baa6cb30383ad0047bc")
+addappid(2317652, 1, "7fca1fdc997703ed7ee432327fb22e91cd2d1dc9fab41facec5cfa177fad6305")

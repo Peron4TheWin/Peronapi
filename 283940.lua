@@ -2,6 +2,8 @@
 -- Game: Freddi Fish and the Case of the Missing Kelp Seeds
 addappid(283940)
 addappid(283941, 1, "7f2cd5aadcf618dabc0aa40fe4dd130c40205f4cf434494ca288a6c243bb0dbf")
+addappid(283944, 1, "4e9d87dada1a8f352b8b2ed84fe6fe743734ef159e72cb94c758ea2b93eaece4")
+addappid(283945, 1, "5f5e08d9b1fa3ec4001284397b61183b303255bfe566b30e556ac585f7a6bdd6")
 addappid(305240)
 addappid(305241)
 addappid(305242)

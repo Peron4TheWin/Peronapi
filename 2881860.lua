@@ -2,3 +2,4 @@
 -- Game: TaleSpire - Guest Edition
 addappid(2881860)
 addappid(2881861, 1, "cbd8ce4646d9d45d308b6d2924a5906f88d43fa7fd67cede83b6801a8be9a253")
+addappid(2881862, 1, "82466bde9b6d5c552f145d95417ee2420f808fc41490c403a0cda479e48766c2")

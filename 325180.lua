@@ -2,3 +2,5 @@
 -- Game: AppGameKit Classic: Easy Game Development
 addappid(325180)
 addappid(325181, 1, "6c0edbd8d7a8ad48841e8f80ef03786b676e1264faafb0b92c710f617f9ff960")
+addappid(325182, 1, "40436563225e9602f7a54d97f71b65f0c695dbfa54c170b1c2b81743e872cecc")
+addappid(325183, 1, "1af060e6c3b618e5f7efb096b1a66cc50809e8710eea9cc3600d142c2c4d23a6")

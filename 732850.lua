@@ -2,3 +2,4 @@
 -- Game: Sector Assault
 addappid(732850)
 addappid(732851, 1, "a01ccf9c61eabe15eae1b83e4c2052b0dad4ff358437adee2c25417b34258855")
+addappid(732852, 1, "1eb9ea73576a265f870ba4fe9c6b272ba9facc38b5d95f3c93995f7011976417")

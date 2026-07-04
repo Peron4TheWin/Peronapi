@@ -2,3 +2,4 @@
 -- Game: Air Marty
 addappid(1076880)
 addappid(1076881, 1, "c544f0ef43a260367493d3d2d4dc6cf714444b00011fdc7fe2011a930fc77da2")
+addappid(1076884, 1, "d9bfeb936fb8715f9c11fccafb7e9e67cb9e28cd482fd2272fee3d19c1984b59")

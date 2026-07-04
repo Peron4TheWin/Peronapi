@@ -2,4 +2,5 @@
 -- Game: Aliens: Dark Descent
 addappid(1150440)
 addappid(1150441, 1, "328cb288abceeee524857fca615b3536ef66edfed9f90abf1688db72e4306db4")
+addappid(1150443, 1, "43054529bc8dfc949bd87ace2a922a6d49baaf1502d9ab61114c312f3d0778f1")
 addappid(2272330)

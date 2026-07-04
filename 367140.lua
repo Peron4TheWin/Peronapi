@@ -2,3 +2,4 @@
 -- Game: Wish Project
 addappid(367140)
 addappid(367141, 1, "26c017139f5ac45f729cb84483d4a3efe3482bc9d4fb33e11aab545218609cfb")
+addappid(367142, 1, "d221f77c1e577f12ae7c62b14a4d8b0be4710a5652738a2e969fa0e3cb58edd0")

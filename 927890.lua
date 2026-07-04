@@ -2,3 +2,4 @@
 -- Game: Hentai Girl Linda
 addappid(927890)
 addappid(927891, 1, "764ea0d3fc8ad62d9cc01ce956a618f07f864d79487c3f2c6740577e929cbc8b")
+addappid(927892, 1, "e4c1f08a84102b5b297dfcf57f6b425204453919db7655c7b8eff5f42bc505ad")

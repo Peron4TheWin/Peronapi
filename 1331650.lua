@@ -2,3 +2,4 @@
 -- Game: Troll Patrol
 addappid(1331650)
 addappid(1331651, 1, "c8c59fca1e5c7a2b84638d2491ebaee2c3e8bd460fa8a1e6fd95f19d82368ee3")
+addappid(1331652, 1, "e3e9f6d371ebd95b711c17d4b40695bb2c5373bbb5ee1666bea14fe29960b9bb")

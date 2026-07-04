@@ -2,3 +2,4 @@
 -- Game: Battle for Enlor
 addappid(614880)
 addappid(614881, 1, "de7b51c5f4b6d0db4bcd1e67314574011785163988052427ef638c4222c4b73a")
+addappid(614882, 1, "bf8fd68309afa76d850a94329a77da6d4dabcab2653c474afa4f169fc7720436")

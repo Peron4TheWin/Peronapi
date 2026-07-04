@@ -2,3 +2,4 @@
 -- Game: Christmas Cats Revenge
 addappid(1201500)
 addappid(1201501, 1, "a781613a3cd499a64ce7c1b439fb5196577fc30cdae95fc812b855199a25c7e7")
+addappid(1201502, 1, "a5e0a8098bbe5494e7a7473334846b46f72d77f205ac22a96abac3b2da9743b9")

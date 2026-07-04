@@ -2,4 +2,5 @@
 -- Game: Girl and Goblin
 addappid(880510)
 addappid(880511, 1, "42cf14a9e4ad28579db60472eed36efd9ba15d5561851d89854b06ea2d93a974")
+addappid(880512, 1, "60dc94ea02bb9daddb6c4a0747c226170a1976a9715f112f5d8acee8b1fe6d70")
 addappid(1070060)

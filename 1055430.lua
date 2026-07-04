@@ -2,3 +2,4 @@
 -- Game: Swords and Sandals Classic Collection
 addappid(1055430)
 addappid(1055431, 1, "af53138e64141dad64c3418cc1cef32f4df29b2a8667d6daaffc9a41c669ee11")
+addappid(1055432, 1, "a76e19417ad344b132f127e1e30afbe5acb7058130665602d4cc586bfc7c122c")

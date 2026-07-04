@@ -2,3 +2,4 @@
 -- Game: Disco Elysium - The Final Cut Soundtrack
 addappid(1233220)
 addappid(1233221, 1, "c18511718169a4fccb59f0fec3cd617fc8a15992efeba3ad36f858791bb023d2")
+addappid(1233222, 1, "c7ccebdd784293d8d0c020fff4166931d5afa69729545ddd6a3b2fc54cf6f25a")

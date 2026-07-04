@@ -2,3 +2,4 @@
 -- Game: MiniOne Racing
 addappid(380000)
 addappid(380001, 1, "3c9ef5affb4d6a0aa53837086e1295a389140aec66992bdbea55de39e1fa10db")
+addappid(380002, 1, "e34bfee095b6e5584d858b85fc779bc8b1a7d7b2a16cff073e46535fd7f99f49")

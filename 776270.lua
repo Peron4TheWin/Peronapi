@@ -2,3 +2,4 @@
 -- Game: Earl's Minecart Adventures
 addappid(776270)
 addappid(776271, 1, "f75f2786622fd4a8ac5f5aed335acdaa9ae3f9edf23325448c4df3007abf1547")
+addappid(776273, 1, "14bead69f83550ccf6e74dfe48ed8f782710e78480ac3d481739740bc54611e9")

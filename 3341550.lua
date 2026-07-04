@@ -2,3 +2,4 @@
 -- Game: Neptunia Riders VS Dogoos Soundtrack
 addappid(3341550)
 addappid(3341551, 1, "0dacc4e5ae9e36bcea4fcd25c2d4f1639e4ff6bfe6a1d3fc5f8772f0537bcb37")
+addappid(3341552, 1, "75652cfcf3179bef96fbab3ae402e68faeb2c12030c8be7009ef23a9fcdc4c78")

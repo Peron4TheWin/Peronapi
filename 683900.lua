@@ -2,3 +2,4 @@
 -- Game: RollerCoaster Tycoon® Classic
 addappid(683900)
 addappid(683901, 1, "75a7eba78181218a222110bc5e1c68edf298b335b16fb0ce91fbc285732cde5f")
+addappid(683902, 1, "6c8ec21f32d0ad18e712e5fb00572d7a8dd3f00bad4e8ba3bdec3e4464388717")

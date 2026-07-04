@@ -2,3 +2,4 @@
 -- Game: Spirit Clash
 addappid(1329240)
 addappid(1329241, 1, "eceb21a46477e0eb62db22590acafaa37cb300378ee5b305a3a3a4d8e912bac5")
+addappid(1329242, 1, "16095b5b708f474622528d82a8dd9016e32d69ec96912e4ffc5c200eb944e75e")

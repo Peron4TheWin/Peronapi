@@ -2,3 +2,4 @@
 -- Game: Fling with a Tiefling Original Soundtrack (Extended)
 addappid(3355490)
 addappid(3355491, 1, "441cb7f199530cfab3c060d41f6658d0c33b8c459d36bfed7ede4cb1c5be5eb1")
+addappid(3355492, 1, "d6c5e687b16ba7e9defe8285abed0d043818bc4c426c744774c5bdde6450a6d2")

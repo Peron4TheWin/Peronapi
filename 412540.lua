@@ -2,4 +2,5 @@
 -- Game: The Minotaur
 addappid(412540)
 addappid(412541, 1, "86f4006cc7628f6c0b2b49de2511a2ba79362ce47b715467ecfcbd0be32a2e29")
+addappid(412542, 1, "a5424cc2e4d9250c180e66e90ea80bc5283b62009bd598984fbb141f673bdfec")
 addappid(412550)

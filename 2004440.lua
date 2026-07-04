@@ -2,3 +2,4 @@
 -- Game: Pocket City
 addappid(2004440)
 addappid(2004441, 1, "5a4bc9a15231f3cdc2301c8cb8b5c38804afd058d75639a93ee7532f3a768dc9")
+addappid(2004442, 1, "289e381f86a8620e08eab2a5c272b9c8b387eb0aeb7caa3c988eab4f619ea28c")

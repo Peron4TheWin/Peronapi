@@ -2,3 +2,4 @@
 -- Game: Hunting Labyrinth
 addappid(2165380)
 addappid(2165381, 1, "c43aa40070ddf38995d5f1f3bd3d9273002c14a3ebcba65068237b30ddac3960")
+addappid(2165382, 1, "4516b1885e09aabab6b36c65e814416b6a12fda4f182a58f5b2446c9a4e0152c")

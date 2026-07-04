@@ -2,3 +2,5 @@
 -- Game: The Narrator is a DICK : Longer, Harder, and Uncut
 addappid(1275770)
 addappid(1275771, 1, "26cafbf530a10244290e2c639aa6d5a4980e18fcbd1fb5834cb0baa7f08de6f6")
+addappid(1275772, 1, "5b1cf161f906e069225995d43fe865e2727320c35f5a2ba39a5d2b038ad40519")
+addappid(1275773, 1, "965d04b6117674d98d9a3600f780a0478af10824fadac773d0a3ebafda22761b")

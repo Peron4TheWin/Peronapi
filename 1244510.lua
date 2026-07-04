@@ -2,3 +2,4 @@
 -- Game: Sniper Ghost Warrior Contracts - Soundtrack
 addappid(1244510)
 addappid(1244511, 1, "44064b8770448a30c9019a5391b77c242c84744e5e7fd0bd79be31ccead4ca93")
+addappid(1244512, 1, "b80fddcf1a2e85662e13252fa2f4aec9540ba16540f6559ccea2ed0aacbf4d10")

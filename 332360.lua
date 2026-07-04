@@ -2,6 +2,9 @@
 -- Game: Spriter Pro
 addappid(332360)
 addappid(332361, 1, "7994e727fc6275f4adffa505d6ef984cb3cbb44fe93fef2ba9559613372da046")
+addappid(332362, 1, "a055c26778e8f68ea7da3ebbbe5c0d85511edca37d43a87969b5c730888dffef")
+addappid(332363, 1, "f7de686e51b4e8cac0c56c0c0537c7c5bc4305a2d99b971d6f3009f579e2b1a5")
+addappid(332364, 1, "88e350cfeac7e370c036af0b7e40ecb993037705c41f1ab7a2a9e4f582a3f510")
 addappid(333770)
 addappid(333771)
 addappid(333772)

@@ -2,3 +2,4 @@
 -- Game: Alien Shooter 2: Reloaded
 addappid(33120)
 addappid(33121, 1, "afb736109009384132a272b67473fee29cab331676bc9b4a521156103d312337")
+addappid(33122, 1, "9c07cfa7d6f256360de6e79cf1b4ba973fb71c54f7c13ad9dedce1649d27f20e")

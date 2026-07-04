@@ -2,3 +2,4 @@
 -- Game: Wormster Dash
 addappid(818050)
 addappid(818051, 1, "4fb4d7065c6b7a88c80954bd6dfd0052839489fd68a3aaa83fc989bae1679380")
+addappid(818052, 1, "48a3c192a7e45f086c7565025100712db391a6cbf1ffc8bba815bb9a7221bc20")

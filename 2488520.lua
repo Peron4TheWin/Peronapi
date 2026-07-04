@@ -2,3 +2,4 @@
 -- Game: Tempest Rising Soundtrack
 addappid(2488520)
 addappid(2488521, 1, "a2b6d87f86ca0a85031b592070b8a77f88e741eaff207b555ce3dad8eb7d8faa")
+addappid(2488522, 1, "a83d7ae843a8ce85ebbb3cde04b685a0be56036671999c3a43b74a4f25874dca")

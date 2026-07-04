@@ -2,3 +2,4 @@
 -- Game: Coromon
 addappid(1218210)
 addappid(1218211, 1, "a44e5a8864ac9ae38c773e4cfe08bb51c17a0c94d53f0c0ac1d85bf6920faff2")
+addappid(1218212, 1, "e8b87f831b61338b8757de9a578bca7a90cd50420fda23be387085276c55a700")

@@ -2,3 +2,4 @@
 -- Game: My Little Universe
 addappid(2328750)
 addappid(2328751, 1, "846941da547d79a01a391458d9e9f7b02c5bafef58fcb61de86243e4f2b9a886")
+addappid(2328752, 1, "767bdbd3d47ee4fa4be2af1f86d51b24e2593978d32fd86e0779b36034680559")

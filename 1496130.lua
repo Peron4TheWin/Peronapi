@@ -2,3 +2,4 @@
 -- Game: Elite Dangerous: Odyssey Official Soundtrack
 addappid(1496130)
 addappid(1496131, 1, "ed26275a34b85ad2843b081a948d763ad2c4c55e2847ff76fd6f605db4ad327a")
+addappid(1496132, 1, "7a0a8a2a7d93b8efa7ca88fee9c9b379c74ae78a1217c05167aed4cf55be0c64")

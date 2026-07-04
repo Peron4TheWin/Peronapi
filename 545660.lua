@@ -2,3 +2,4 @@
 -- Game: Roofbot
 addappid(545660)
 addappid(545661, 1, "43829f5f0e0023e7a2d847c63ce78710bc15c67bc9f1cba84e1f823b4f8953df")
+addappid(545662, 1, "8bfa241a1a2ea4639ae132d948f698ac59ffc8d745f993cb36db8bc3fe40c719")

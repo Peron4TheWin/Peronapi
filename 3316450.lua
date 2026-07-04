@@ -2,3 +2,4 @@
 -- Game: Olympia: Festival of the Gods
 addappid(3316450)
 addappid(3316451, 1, "5eb454c978cdd287dbaab52834071fc0d0b4d40e3fc7e61d391000293a4ebc3d")
+addappid(3316452, 1, "9783f73f6e8787810ab2b4b9cca1c67eca9cfd2498f764651d45e2f2c7d5c277")

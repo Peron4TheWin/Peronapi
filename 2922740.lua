@@ -2,3 +2,4 @@
 -- Game: DogDogDog
 addappid(2922740)
 addappid(2922741, 1, "b7a3dc7eec3b3561e967312ceead198025ce32d0bca6dcda36fda3fde433a3f7")
+addappid(2922743, 1, "66e1fcbe508727958d43e63c2b45b358502a7616f121f605ea68b95331a2b930")

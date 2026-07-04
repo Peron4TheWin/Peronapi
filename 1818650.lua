@@ -2,3 +2,4 @@
 -- Game: The Pathless - Official Soundtrack
 addappid(1818650)
 addappid(1818651, 1, "d5940a1fd25d3bb63c30cde1b409a397d42d220c0b913841b869497b6b42166a")
+addappid(1818652, 1, "8317523a223f7d28cdba2a2f955d37ba4d405dd0faa42c89421bf8db8867af00")

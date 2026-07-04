@@ -2,3 +2,4 @@
 -- Game: DJMAX RESPECT V - TRILOGY Original Soundtrack(REMASTERED)
 addappid(1271680)
 addappid(1271681, 1, "b75ac469538a2102a50d3f5d4ac42c0c83d0710c55fc33e9cc5085a550bed88b")
+addappid(1271682, 1, "e85d182738b479b4253033bee1c3d083b7d6bca989dc94f462b99188d78cdbed")

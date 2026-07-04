@@ -2,3 +2,10 @@
 -- Game: Dogs of War Online
 addappid(219700)
 addappid(219701, 1, "f83eceb59b38dffd31ab94e9ded4cd5d455bdad5b67ec55e7d329ce7edac62de")
+addappid(219702, 1, "442d43b456e16f6e38d2d6e4b2063cc2e520902cd5db05f9bc84aa355bce10f2")
+addappid(219703, 1, "a166d03562e60168d45f1a408d7348d0ae2efb44d02f1f655fef346183d6b131")
+addappid(219704, 1, "20af66f26e41f43de3a4871c02494db9c5db94c204287203bede51a8edabeace")
+addappid(219705, 1, "0b3c0a12c8838baf1b9f20d6b78c455f930c51f695b1a49a1d2534db0d481fbb")
+addappid(228981)
+addappid(228982)
+addappid(228990)

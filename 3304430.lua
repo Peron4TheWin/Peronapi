@@ -2,3 +2,4 @@
 -- Game: Vasrak Kingdom: Battle on the frontier
 addappid(3304430)
 addappid(3304431, 1, "0a8659891d2decd158141229ec6a61504fe7801286f8a1fa77fdb9a398ec9287")
+addappid(3304432, 1, "3cb1abfd8aa472dbb291e2bc326549ba01f1b7bc29f81198f2999ff2613da0be")

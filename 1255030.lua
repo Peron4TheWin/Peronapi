@@ -2,3 +2,4 @@
 -- Game: Bunny Quest
 addappid(1255030)
 addappid(1255031, 1, "5a2ab5acdb7ec55b350260ce0b4c032fa39e6b65b1cb05e5e00d4cf8f2e57687")
+addappid(1255032, 1, "299f160efdd9f3d368a67dcdc123b7a4c1d23f52a7e4a27feda19099b1356c59")

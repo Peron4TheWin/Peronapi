@@ -2,3 +2,4 @@
 -- Game: Blasphemous 2 - Mea Culpa - OST
 addappid(3314480)
 addappid(3314481, 1, "81e6d9c278bc4b5570282fec0897873368855d80b92a1b5970370a51665c667a")
+addappid(3314482, 1, "5d4dbd9289aa3f2db54773d2641ca4dc6f5547760bf6341658ffb89ef30e4c0d")

@@ -2,3 +2,4 @@
 -- Game: Techtonica Soundtrack
 addappid(2477520)
 addappid(2477521, 1, "c64fdee6b26b534639167219bedd630aaef6aafe352f49320a608db0d930e4e8")
+addappid(2477522, 1, "b39fe20d70d1897fef0fea6cfa7da420df9ab24bd21142656eb14d3783447453")

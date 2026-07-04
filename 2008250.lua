@@ -2,3 +2,5 @@
 -- Game: Bonfire Peaks - Lost Memories
 addappid(2008250)
 addappid(2008251, 1, "32b72c374ced1025b79371dc824b9b5bcad844ee7cafa4924e360ec15ee1c59c")
+addappid(2008252, 1, "b7519d5dcc27b23be0f0009fb63d8b77ed581d610072eb056b41926aa23ca25a")
+addappid(2008253, 1, "cbb7d13d1cde7e88018e28dadb59f4a4d3ced8851d6da62fe8d8451db82b98fa")

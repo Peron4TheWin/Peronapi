@@ -2,3 +2,4 @@
 -- Game: CUSTOM ORDER MAID 3D2 × NEKO WORKS: NEKOPARA - Chocolat maid clothes set
 addappid(1914880)
 addappid(1914881, 1, "d27e7a25fb3c60abd1724c861d7026b121e5a6faafa431b3c9976b019bd4d3cd")
+addappid(1914882, 1, "962326dbeeb44b386480857a8e371793d02c372ec2133a8524b808df64ae6afe")

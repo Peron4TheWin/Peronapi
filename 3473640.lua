@@ -2,3 +2,4 @@
 -- Game: Nice Day for Fishing Official Soundtrack
 addappid(3473640)
 addappid(3473641, 1, "de60345975253bcfcdae9c635aeb1761052bfc6c7bb3142ae2b09505ed32b172")
+addappid(3473642, 1, "5907cd834946680001dbce3352bd30ee6a1daaf8e787b67997a8cd47b77dc186")

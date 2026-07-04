@@ -2,3 +2,4 @@
 -- Game: TAOTH - The Adventures of the Herkulez
 addappid(749470)
 addappid(749471, 1, "5b460f4b6c54816f18c37e6519fe2f05ec5e9b0d3bdc568c006031addbf172b7")
+addappid(749472, 1, "e08b04c31c545c9d1a1f704d757faf7a4b4e8027de636175eb3fbc8d4021b07a")

@@ -2,3 +2,5 @@
 -- Game: The Journey Down: Chapter Three
 addappid(579760)
 addappid(579761, 1, "6e3307052d7ebb743162f958bb4f68faff4ad34f958c69fffddb2e1c59e7c33c")
+addappid(579762, 1, "faafdee824062111ee98d76384e9ff3237cdee2f858d62c2b734a1f3e545944b")
+addappid(579763, 1, "a0fed0e597c883360f0bd5603fa11e3fcb771f9461082b88f34e7220bc7e1d7e")

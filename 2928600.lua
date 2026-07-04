@@ -2,6 +2,7 @@
 -- Game: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 addappid(2928600)
 addappid(2928601, 1, "486448df6cd95d0d663ae6dbc0dc5cb7ed590875a2a7481fee25ffe7572b60fc")
+addappid(2928602, 1, "76573f4e73223ad90162699e12cab632fe18a64d6ff74dfd5fefee3383a8f20b")
 addappid(3371870)
 addappid(3371880)
 addappid(3371890)

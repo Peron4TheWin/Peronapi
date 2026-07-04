@@ -2,3 +2,4 @@
 -- Game: Mommy Sensei: Horny Homework
 addappid(2434670)
 addappid(2434671, 1, "9df14313a97835f3ca4a11c22ba5bc62e3237744d2db9b28b64c435539a688c7")
+addappid(2434672, 1, "0c2b8957fe5bd2cb71238a89f34733e0b27616279e4b922c68085fc7fd985d86")

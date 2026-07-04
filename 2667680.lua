@@ -2,3 +2,4 @@
 -- Game: cyber_serpent
 addappid(2667680)
 addappid(2667681, 1, "d3cb75a003649e32cdb5694c716c3857f04be515a88a003cda98ef8544a70ff5")
+addappid(2667682, 1, "4431ced73ae5b133afc5b6f5fffea690f6c343dfadfaba1ad4cf3b43bff3736c")

@@ -2,3 +2,4 @@
 -- Game: 降妖散记 Soundtrack
 addappid(2432560)
 addappid(2432561, 1, "c75099f4e1cfd0549c0a80a433bd40110ef398688cac5b9544c62e59439c4317")
+addappid(2432562, 1, "00ec62e62e5d5bbb40531a8042225db93d2c79a54f86bd5a3bedbed821fa54e0")

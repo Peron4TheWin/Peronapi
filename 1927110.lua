@@ -2,3 +2,4 @@
 -- Game: Touhou Mystia's Izakaya DLC2 Pack - Former Hell & Chireiden
 addappid(1927110)
 addappid(1927111, 1, "a2c87de0aa72853670544233e715acc81b75ccb1d6d9d6622d2376136e9630c3")
+addappid(1927112, 1, "81db4096966234b8690ecd73a689f2043bf973a8878c3af75f6a7ef4049c4008")

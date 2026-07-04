@@ -2,3 +2,4 @@
 -- Game: My life as a cat
 addappid(2663910)
 addappid(2663911, 1, "18cf64ae0e332fab7f8c02e3e009161eafe36de13011239795a8fcc2db8f728d")
+addappid(2663912, 1, "bb4435bd4ff8c6b256a4ae5f71bc2495af6afb646f93e2e10d9e90cf9f85fab8")

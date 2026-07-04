@@ -2,3 +2,4 @@
 -- Game: Elsia War
 addappid(2298570)
 addappid(2298571, 1, "d6a001e4b4cc526afe5c3a6a2b4504f864ba691124bb2cc4cb089e2f9e1eec0d")
+addappid(2298572, 1, "9bc3e6f832f426f0a4407ecaeb1655f6c3882fcf32a3d0883facadf08ba225d6")

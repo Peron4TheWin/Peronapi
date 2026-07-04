@@ -2,4 +2,5 @@
 -- Game: FPV Freerider Recharged
 addappid(813530)
 addappid(813531, 1, "8eebe27f588bcb9541f38dc067f78316ef3b1e9d2293be28000f1a22d0997017")
+addappid(813532, 1, "4d1d5dd1d3eec60b2f15907fc2d22c154f44703ce37f20d50189f225b58914e1")
 addappid(849540)

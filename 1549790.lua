@@ -2,3 +2,4 @@
 -- Game: Retis Tormentum Soundtrack
 addappid(1549790)
 addappid(1549791, 1, "24b3430b9794eda0ff5a9763a91d69037316e4e9401214444d78a1d61e6178ca")
+addappid(1549792, 1, "aaa8143f9b2244df8e5aae3ea70370433fdb156736e39fc1c5cda6fa7b036693")

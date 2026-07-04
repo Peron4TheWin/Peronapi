@@ -2,3 +2,4 @@
 -- Game: Memory Lost: Chapter One
 addappid(2129490)
 addappid(2129491, 1, "0ac983068109aa74cad8b4fa2abbe4638e0438f3cd7b539378a2506f77de5ff1")
+addappid(2129492, 1, "a5a4a676a09e672f082440e1245954cf6c8e2d166d72a75415d6d9d55d3a4d49")

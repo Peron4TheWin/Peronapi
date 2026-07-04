@@ -2,3 +2,4 @@
 -- Game: Border Overload
 addappid(3692890)
 addappid(3692891, 1, "00335bc7481844a9ca8abc86485eb2207dff56d393b2895a826125fea7f52d14")
+addappid(3692892, 1, "4c7cb6d9bd748558965ddcc3c7c46b3416b06db8ca616d23220e0e0e0b0fb73b")

@@ -2,3 +2,4 @@
 -- Game: Miss Lisette's Assassin Maid
 addappid(1071490)
 addappid(1071491, 1, "2143061b5e415800ef04761cbac93bdf199f8ede5ac897de5998c3b347c52e65")
+addappid(1071492, 1, "859aeca310b07583b56d33a1414ae80dce41317c4503ffd6429ebf9c1acd8a7b")

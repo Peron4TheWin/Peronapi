@@ -2,3 +2,4 @@
 -- Game: Mercury Abbey
 addappid(1689080)
 addappid(1689081, 1, "1f766a4d0a185c7227f5cf3b9045c69a8a13d6143e95f7dca6fd96acf8c276d1")
+addappid(1689082, 1, "edfc7315beef5075865bb9b53de44119ec2d85e58fd224d95788b305d4828d01")

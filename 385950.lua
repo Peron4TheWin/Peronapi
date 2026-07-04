@@ -2,3 +2,4 @@
 -- Game: Infection: Humanity's Last Gasp
 addappid(385950)
 addappid(385951, 1, "7808672b3b97b8cf52cd8c55bd041c1df57b33a06d70324c0e0572d3579bbda1")
+addappid(385952, 1, "1bc6e8f5ca6087a78877c85cec22fe93a6080f401ba6a8b43a8cf706b706f886")

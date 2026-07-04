@@ -2,3 +2,4 @@
 -- Game: SMITE®
 addappid(386360)
 addappid(386361, 1, "aab516d242cdba6330e9a992d37812ab205600a106e16864558b413a8a77fca2")
+addappid(386363, 1, "23c3383bfe62ff551a9b42efbb819526eee49cc0dc2548ed6c4cf252ebbb523e")

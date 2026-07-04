@@ -2,4 +2,5 @@
 -- Game: Kill to Collect
 addappid(241760)
 addappid(241761, 1, "061d3b0848011a2edd82db31166a2046226602c9bc280b76d24adab522438ec5")
+addappid(241762, 1, "6f79e01f194a5fcd463b9c67bb789f3e0cb72259d63b609a6add4d228340f963")
 addappid(457430)

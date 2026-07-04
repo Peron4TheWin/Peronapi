@@ -2,3 +2,4 @@
 -- Game: Dandy Ace
 addappid(1037130)
 addappid(1037131, 1, "1d869b4f227caf86a477a0d9a902871fa80682321d406afdbcab4c6db7118058")
+addappid(1037132, 1, "63922ddabe569e8f6af8ab8c07af3891f0947436201dad2e30a2369f9afe7af8")

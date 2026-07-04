@@ -2,4 +2,5 @@
 -- Game: Abrix 2 - Diamond version
 addappid(461850)
 addappid(461851, 1, "8ca2c0a220bc056a94e2a918a78cd8dfd4a6a15e5100d830db83319de73c70c0")
+addappid(461853, 1, "92e89975f25a6f08bdc18b3fcfc6a84c85770dd20e0f3e45732c6bf3d61376b1")
 addappid(465340)

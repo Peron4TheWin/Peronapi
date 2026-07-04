@@ -2,3 +2,5 @@
 -- Game: Warhammer Quest (Classic)
 addappid(326670)
 addappid(326671, 1, "e25c61923561c5cccb0dcd3e59962b2a754d2f79b416d637ff055b926f56f509")
+addappid(326672, 1, "c4074f045cc14a1aac951180c52ccc92556656a75b152e27fa3aa0b9c6d91f84")
+addappid(326673, 1, "9c88ee2dcc0aac0f06c807e20b0b9024d97df85bca94124ff6a4bd0b9eedc2b8")

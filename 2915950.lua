@@ -2,3 +2,4 @@
 -- Game: Mega Mosaic
 addappid(2915950)
 addappid(2915951, 1, "164c5c25d6f44e3ebd4afaf8b52103ce47edcfc3f5ba4b8d0918081f19f66ada")
+addappid(2915952, 1, "fd2ae52c13fa54085e89bac382e29e4051765a0620dffc433cf191138a31329c")

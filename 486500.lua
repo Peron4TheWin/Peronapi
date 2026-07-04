@@ -2,3 +2,4 @@
 -- Game: Spooky Heroes
 addappid(486500)
 addappid(486501, 1, "69909e3b7c8a885b61ce7e03eec30ec2ca75deb2aea38fd60f4b8f364858aa0b")
+addappid(486502, 1, "4d4c6393896cd60e61595b8068fd035ce8e6daef0c4ea525d522fdd21dd0a19d")

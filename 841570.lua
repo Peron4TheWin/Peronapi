@@ -2,3 +2,4 @@
 -- Game: BlindMaze
 addappid(841570)
 addappid(841571, 1, "ff38736d5315a6f2721f90d2f84085184336f55dcd619aac5d8408fddeb729ac")
+addappid(841572, 1, "0371f7abcb4dea7e65ad83c6bfacc9362cc87648adfcfbbe95caf50993a7912a")

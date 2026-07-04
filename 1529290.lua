@@ -2,3 +2,4 @@
 -- Game: Prison Wars
 addappid(1529290)
 addappid(1529291, 1, "a52c7f969d411f0c3a38195484898be8e491e5b15906ee251b4f5c27acd170bd")
+addappid(1529292, 1, "f311efa618f0e4ff2e3ede7a2ed54d837cfc2e843f82b3e3df081c0134cf27ea")

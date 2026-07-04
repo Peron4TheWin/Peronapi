@@ -2,3 +2,5 @@
 -- Game: The Chronicles of Nyanya
 addappid(704200)
 addappid(704201, 1, "69c6bdae43ebf0dc644667d220d6e2e03acffd65a0ee2ce0537f966bc128c60a")
+addappid(704202, 1, "c6a6c6e19ecc2b6a54b63bb456cfeaec1b0f7dc34e6d09b60494301eb80d6014")
+addappid(704203, 1, "7852a5f2a58060347b30df1674eec5577fe5c797647c933d6b6f0483ce1b7fd2")

@@ -2,3 +2,4 @@
 -- Game: Mr. Prepper Soundtrack
 addappid(1557320)
 addappid(1557321, 1, "c0fd2ef95037ca7c49a73479a39c0cbf0b40c5a993410432a16b6bca2548bf84")
+addappid(1557322, 1, "63b42eeba78ac4ce97e5b007743d9f7d9697b8fa5a51354e4485a9db840a54a4")

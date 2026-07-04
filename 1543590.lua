@@ -2,4 +2,6 @@
 -- Game: Wildshape - Map Editor (free demo)
 addappid(1543590)
 addappid(1543591, 1, "0f577fa5a6dd29c243c56f035b175c86e1a2f3517ed45f12eda4ccbb72c5feaf")
+addappid(1543592, 1, "e52702c382f9543f14f26281888e660b0f46bd9f40e65993d5a3fa45f3345c64")
+addappid(1543593, 1, "4a80b1af74330a8c1a3d1551fc52ca9e38ffc74241f7a794fcc1b97af50b1df8")
 addappid(1756290)

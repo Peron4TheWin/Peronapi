@@ -2,3 +2,4 @@
 -- Game: Defense Technica
 addappid(233110)
 addappid(233111, 1, "d38d561357c4c11317c71f96962485d2ed7048a444f7df8e04dbae1325d9ca4f")
+addappid(233112, 1, "4faf49c38482f86c1a6e277b8eb568408a4f61d9add08ee1be17a466e48071f6")

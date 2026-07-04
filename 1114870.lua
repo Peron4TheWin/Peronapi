@@ -2,3 +2,4 @@
 -- Game: Lenna's Inception
 addappid(1114870)
 addappid(1114871, 1, "c273c35f4fa6d2b36df884ee74144fcd2fcfb25c37f572105f76cb9cde0e6927")
+addappid(1114874, 1, "2f9da10eea104c0f92df44fba7b7e1767da07fcf140875957a569a75574fa34c")

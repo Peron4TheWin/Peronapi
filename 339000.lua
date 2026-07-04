@@ -2,3 +2,4 @@
 -- Game: Ukrainian Ninja
 addappid(339000)
 addappid(339001, 1, "762dcb49ea573666aac1fb1e1632b5e0202f5eb184fd56aa1b4b4b3db9d91fd7")
+addappid(339003, 1, "e21f349aca94f8f6c43c399db4b5170112fae49740f80f2c42cbfd9abe70e3a7")

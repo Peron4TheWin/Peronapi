@@ -2,3 +2,5 @@
 -- Game: Empires of the Undergrowth
 addappid(463530)
 addappid(463531, 1, "913b6f7c71e6b2453f127bfaa8581883b1fda1fa980ddbe4b1ef1b3f9b6c9cef")
+addappid(463532, 1, "f933bfcc5faca765720f0b113d3ca3048cec73afc259ec932c39cd7980444066")
+addappid(463533, 1, "ee2baffa6fd92a5208e990513c71a8ea15fe00f12c67f74b6a45cc1b993f8191")

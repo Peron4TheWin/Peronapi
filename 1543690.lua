@@ -2,3 +2,4 @@
 -- Game: Bara Giants
 addappid(1543690)
 addappid(1543691, 1, "45f7f97fe02932caee78202f5775ca9e7b11bfc0ca24e7e1f82edfecaf969864")
+addappid(1543692, 1, "377626c47109b09f964a4de7510132b0e57c5bf934a0792da3d8b6c082e9ab61")

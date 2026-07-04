@@ -2,3 +2,4 @@
 -- Game: Barro GT
 addappid(1990740)
 addappid(1990741, 1, "84fa5dd4ee0cd89e37c3ed1f89656a8a614bbcc1ec42668205e2f8c638c458fb")
+addappid(1990742, 1, "7c9348fb0b5cf30e34a9a97391808acaa85f358598676e977eaa89cdd5a733d5")

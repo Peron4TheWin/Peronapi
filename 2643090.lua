@@ -2,4 +2,5 @@
 -- Game: CyVenge
 addappid(2643090)
 addappid(2643091, 1, "254b5b2bebb07cdab1df8571010e36b09922bee5903ddc51fd5b93998870231a")
+addappid(2643092, 1, "26dbd3089fec2a7c9cf8674632dc2b5ae90ca40edf65a61960968b5db8adf965")
 addappid(2722410)

@@ -2,3 +2,4 @@
 -- Game: Momonga Pinball Adventures
 addappid(491560)
 addappid(491561, 1, "05ca412c17f705ed77591efdbbfc596c2138d1cde2dfbfa6a3f42f373ea9da60")
+addappid(491562, 1, "8da7a6106bdbb18c465fab6819474fb413e2663d8148f60243e27ea4b1370273")

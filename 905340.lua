@@ -2,3 +2,4 @@
 -- Game: Heave Ho
 addappid(905340)
 addappid(905341, 1, "d2feafb2ea5cfe7f5f393a9bf6da4b7d3e8763508c75b13c220b098a03697767")
+addappid(905342, 1, "523756578180035782dbfcb2ce0d63803b9cbeaa2db68c4b599b2967bc1fcdcb")

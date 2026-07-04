@@ -2,6 +2,7 @@
 -- Game: Resident Evil 0
 addappid(339340)
 addappid(339341, 1, "e9299de2069122e5731bd097c02d35efe353b7dc40f59ca9ab568a382f3753c9")
+addappid(339342, 1, "5152d943dbe7913f463d7f9deab9da7bc6fcd382c8cb835b83182e1b7ef6ba46")
 addappid(381710, 0, "ad086aff51fa29ecb7fd9e505054a2eea1a4d7ec52ab5e375278abeb78a7e16e")
 addappid(381711, 0, "8983531cfd5d11e8574db04b0e6b0b9fff62a72b1c96d3a49c0eec8d6cb3229b")
 addappid(381712, 0, "75c7d7d7a3b9d267b81318fb7cfd61f1cd78d4b757e70f71efecde5fff153bcf")

@@ -2,3 +2,4 @@
 -- Game: Titanic: Adventure Out Of Time
 addappid(785480)
 addappid(785481, 1, "0856170e60687e3639654046517fab3060863565fca9f1df9deddaea2c1d32f4")
+addappid(785482, 1, "7d570cf5507c3821fb126d3122ab8254586dc07769d68e4e82534476d6d6f5e0")

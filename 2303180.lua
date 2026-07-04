@@ -2,3 +2,4 @@
 -- Game: Resoraki: The racing
 addappid(2303180)
 addappid(2303181, 1, "19776f932bbfe7ce541446998c5a30318c552975a33ed44d89fc69ff2fc168d2")
+addappid(2303182, 1, "47622adaf8a73167e8aa01627cc1af804b7771e201e46d0be0582eb291ff2e51")

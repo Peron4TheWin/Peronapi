@@ -2,3 +2,4 @@
 -- Game: Shards of Chaos Soundtrack
 addappid(2821130)
 addappid(2821131, 1, "6dabc7487966503b6abdb4fd612515d9089f94d0ea9a3039435f69b1dcc93e78")
+addappid(2821132, 1, "912ffe49654a1ccf696b315c47dc33bf7d7d6ed99f5a180a480e6f4ee3cb66ee")

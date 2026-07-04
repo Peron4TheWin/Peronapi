@@ -2,3 +2,6 @@
 -- Game: Sceelix - Procedural Power
 addappid(509020)
 addappid(509021, 1, "48a289ff6884d4c49411c659c6d7c6d1519ae669af46cec88613adda0e05d486")
+addappid(509022, 1, "ea546f2cb6e793caedad840cec1fcdbb5b24c1cdb7a5de1ab6d43bbc917153cb")
+addappid(509023, 1, "3b952e4895368b1b1d693313d80bdbc46a7111368fa8539e5b3bf62e7d3dacbc")
+addappid(509024, 1, "a4796720d341565cda3f94e31dbadb1e8116b9de9e27a033f723ea0040bdd031")

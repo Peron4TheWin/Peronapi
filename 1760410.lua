@@ -2,3 +2,4 @@
 -- Game: Masters of Mayhem Playtest
 addappid(1760410)
 addappid(1760411, 1, "27f91c2bd56da75a14d266e7f18c2c68e160d5d684bcdbff883f85e503b1ebb6")
+addappid(1760412, 1, "50371e56356024e0fae74fdc485a593b07dcef1f5484b66f2edee036eb805ac2")

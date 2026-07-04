@@ -2,3 +2,4 @@
 -- Game: Codename: Terranova
 addappid(1236670)
 addappid(1236671, 1, "7c9e713d236ef93923a0221bc8ef984cb2755b8cb8e0b4b835fd856766712a02")
+addappid(1236673, 1, "a1bc3d2752ce7905ffdd849bf56df4ea4fc3b33fea20747b43e579b12b363319")

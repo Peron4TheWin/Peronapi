@@ -2,3 +2,4 @@
 -- Game: Deliverance
 addappid(1916270)
 addappid(1916271, 1, "5a20867c04b57847a02b4d1e0569eb4b3faa4ccbfb0beba40bb897499889dca3")
+addappid(1916272, 1, "a5762aa6be472efa6e7d4eb0967dab400892243d1cacea47c8d57252d7d63a6f")

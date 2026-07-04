@@ -2,4 +2,7 @@
 -- Game: Knights of Pen and Paper +1 Edition
 addappid(231740)
 addappid(231741, 1, "bae429d8a46151e75fd448f4b07af002066ebb49756ff7377ea55fb753eebd2e")
+addappid(231742, 1, "c8e5e9883efb134b9b319ee3cfde1214bc540978a4699791b2ec92b166bb5cbd")
+addappid(231743, 1, "c442f3142334c2930f0828b435c34a868b395acfd1f49447bc10790fe72fcad3")
+addappid(238652, 1, "b151a0ca9f1b7dae4a8dd4afba7fc1e0fe7321784f12cb9de7fccba0816fc682")
 addappid(324250)

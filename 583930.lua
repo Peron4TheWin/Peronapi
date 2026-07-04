@@ -2,4 +2,6 @@
 -- Game: Faerie Solitaire Remastered
 addappid(583930)
 addappid(583931, 1, "25ab78b683c0e3e9057abe3fd034e4828e9fe2e7c32fd4d55b049970cb8c9a36")
+addappid(583932, 1, "aee63f14b84ec26fffb3a6e24a008bf400ef71159703e304bdcdde7ee9141bad")
+addappid(583933, 1, "0fc58496a7c546dd5eb57b95e1b4ca02efd0658ad4109eaf0cc6cb272dd6fc94")
 addappid(4144670)

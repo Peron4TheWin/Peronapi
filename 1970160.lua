@@ -2,3 +2,5 @@
 -- Game: Cuties Hacked: Oh no someone stole my photos!
 addappid(1970160)
 addappid(1970161, 1, "56d7d1f89ad9561354bb1fd8f455ec7f880a63c0f440c3d445dae842d2cf267b")
+addappid(1970162, 1, "d224105ad4dcbb9859750185ef4a69ee1c7c8d7d880aad8d22fe9681e075e86d")
+addappid(1970163, 1, "ea82cc6969fa7df094ef99bc2924d0f410e1269b2d52df57edffaeeb4632f311")

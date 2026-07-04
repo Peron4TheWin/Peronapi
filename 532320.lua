@@ -2,3 +2,4 @@
 -- Game: de Blob
 addappid(532320)
 addappid(532321, 1, "fbba3fa7002cb8c8ce32cd9d80309e3bc28abf4985b6362cdb7580eeae1b7697")
+addappid(532322, 1, "24bb46608a7efdd6316890dcc24b6120fd5c0f2de2845a83b43f71a795b2275b")

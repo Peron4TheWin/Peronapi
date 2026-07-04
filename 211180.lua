@@ -2,3 +2,8 @@
 -- Game: Unmechanical
 addappid(211180)
 addappid(211181, 1, "4e195c22ca92ca97b2597729ba0454d27bb6104c22e660fa809c0fb7a5ff31bc")
+addappid(211194, 1, "4fab4d36e6cce56f0230408dc41a9a1b685fcd9dd855db00e0935250cfb00282")
+addappid(211195, 1, "adf1fb0a2dec375b9f6c4a734de3ed86cd81d2aed9b636c494749aa991e59cfd")
+addappid(228983)
+addappid(228990)
+addappid(229002)

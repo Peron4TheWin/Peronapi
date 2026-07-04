@@ -2,3 +2,4 @@
 -- Game: Skald: Against the Black Priory Prologue Soundtrack
 addappid(1712620)
 addappid(1712621, 1, "0f816ed356ff9fbb47c534d02b64a5fe5c6f090ce900f8b2fe5169edc06322db")
+addappid(1712622, 1, "62b342b70fc752dd71d8a61f54f387198fb4f2098a085237dc11724c14317726")

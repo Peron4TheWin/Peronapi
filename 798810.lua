@@ -2,3 +2,4 @@
 -- Game: Natural Locomotion
 addappid(798810)
 addappid(798811, 1, "a96b9d9fdc61844aa84a2009e42960c70ea8537a371fed9650a30f765e535bd4")
+addappid(798813, 1, "4b082b3203af7253974e49cbc57fc223615e6b9fa239ebf6b98fbf5e2a6f6075")

@@ -2,3 +2,4 @@
 -- Game: Blood Code
 addappid(386480)
 addappid(386481, 1, "fcbada8188b60108b51f19ec8fad943e88d29903333a0ad8b8a97629ab0967cd")
+addappid(386482, 1, "28ad9afdded3d74fed9b5f639607d4736b77db0a156a2e984c25c677a9c6f3ad")

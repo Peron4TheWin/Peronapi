@@ -2,3 +2,4 @@
 -- Game: LineWay
 addappid(661430)
 addappid(661431, 1, "bcdd25e5891aba384d0410eca4d1758c3f37b9406c2f37f661b710e0bc3ed2fb")
+addappid(661432, 1, "20be729bf4757d8dd00f10ad38ee1fe6ba636e15ee8f762c50e752ef28a85cd2")

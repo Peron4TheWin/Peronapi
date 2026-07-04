@@ -2,3 +2,4 @@
 -- Game: Elemental Raiders
 addappid(2182500)
 addappid(2182501, 1, "834c344f6f21c38efc5d834992844e5e8aa636c64ddee9ac7b122740faec6156")
+addappid(2182502, 1, "89722f84ab6d978e63b29fcf20ace92334ccafe28a59d2002442d13b66a3635b")

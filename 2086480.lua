@@ -2,3 +2,4 @@
 -- Game: DJMAX RESPECT V - Portable Original Soundtrack(REMASTERED)
 addappid(2086480)
 addappid(2086481, 1, "7513451e65de5ae2d1ef901e39d40a08bd13bb6a57cadfadc68c134c598b7317")
+addappid(2086482, 1, "2f943cefc6c76c8aa7ad5ed41ee9f2bfa9a78d6cd852c811b7da1af9cfedb09f")

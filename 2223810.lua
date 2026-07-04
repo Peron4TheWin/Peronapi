@@ -2,3 +2,4 @@
 -- Game: Hedgewars
 addappid(2223810)
 addappid(2223811, 1, "9af4cb8336b815e6e72c08be43aca2ab39bc14cd9dee34672419ed9d8bd6a945")
+addappid(2223812, 1, "631bdd4dca54fbee605be8a8e61c25bedd9848b7455d75f96f50b635a639584c")

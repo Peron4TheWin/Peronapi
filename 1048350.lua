@@ -2,3 +2,4 @@
 -- Game: Nigate Tale
 addappid(1048350)
 addappid(1048351, 1, "bba11e728718bd5b261407b3dc4592eaf36ba60665af5f27411b638e3733daf5")
+addappid(1048352, 1, "fd59b597b19381ab889c44cf1cc0fe66da99920098126f6a4cad2a16ecb21c3e")

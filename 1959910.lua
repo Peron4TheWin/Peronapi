@@ -2,3 +2,4 @@
 -- Game: The Dark Pictures Anthology: The Devil in Me Demo
 addappid(1959910)
 addappid(1959911, 1, "e66dc9c1306c293d3cba7c5872396268bba071d954278fc1cf4278e44589c305")
+addappid(1959912, 1, "9430134d43ff4132c829718eba68263021abde93efb240c259230de9191621e2")

@@ -2,3 +2,4 @@
 -- Game: Once Upon A Puppet - Soundtrack
 addappid(3314130)
 addappid(3314131, 1, "d74f923c166194be6519149b83f327f46028bfb53912901031c4a825ef64cf5a")
+addappid(3314132, 1, "d165f912c1028580042b90b1f2f5f1e53a7043f3fc01c0d5bdd412a6dae92f0a")

@@ -2,3 +2,6 @@
 -- Game: Day of the Tentacle Remastered
 addappid(388210)
 addappid(388211, 1, "5d7d18fd5916bddba2e9340b05c731f4b0f33de544c10fb6bd189e4818a5338d")
+addappid(388212, 1, "2af35768347bca8d72d4610cb9216d855486acc7a3e5db6327fed4bf0d4bc1eb")
+addappid(388213, 1, "54a06f47ff6d1a27a8a93c066f08ccdd016f5fe399abd0c1920a5edc48a6005e")
+addappid(388214, 1, "a41ca3c5abf6ec55dd43e88b87f0a2c955e1e780df4e33615347c8895c8f969c")

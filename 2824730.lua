@@ -2,3 +2,4 @@
 -- Game: Yawnoc
 addappid(2824730)
 addappid(2824731, 1, "843fe88e06bf58dcfdc9b679923242691eef5bf49b805ad4a690c8782f360b3c")
+addappid(2824732, 1, "7d926edc6ed4d99e868b4a5371eecff469d7dc286201bd2f5351229cf4cfbf3b")

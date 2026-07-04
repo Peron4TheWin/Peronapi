@@ -2,3 +2,4 @@
 -- Game: Core Keeper Soundtrack
 addappid(3398360)
 addappid(3398361, 1, "180124e31c574b4ad24f56c4ba57f64c25dcc30b3563ef17c36228b9e9b37afb")
+addappid(3398362, 1, "6f09589d37f1ac9b9e5e741c88a2dda83ada5412bc6d85674e33753f3deb48e0")

@@ -2,3 +2,4 @@
 -- Game: Fate Seeker II OST
 addappid(1776180)
 addappid(1776181, 1, "fa013fbf14e92bde624f4efcbf2bc4c41594756264d47c3c89de843f7add71bc")
+addappid(1776182, 1, "0dd60fa01c1f2870fb3ea74eada7df0cad42fa79253bf7d98bae5634aaf81866")

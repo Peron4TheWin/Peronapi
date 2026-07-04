@@ -2,3 +2,4 @@
 -- Game: Tom Clancy's Ghost Recon® Island Thunder™
 addappid(13630)
 addappid(13631, 1, "71d3ac8c91a40b84b4fd34431d328f92fa28a1cdadad4d54a02f404d2ebfa9b5")
+addappid(15301, 0, "92b2da80ef447bbbaa42b8639427e44852bf9b6517ef8e184c7343783cdcb029")

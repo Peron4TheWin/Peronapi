@@ -2,3 +2,4 @@
 -- Game: Slip
 addappid(291070)
 addappid(291071, 1, "b71a76e2dc8b1d8a13ecb8bea02371ad8b97a83894a523bcae3c6898a3c6bead")
+addappid(291072, 1, "e2f463d8d6c7dc4b6752e4ffc05e8ebd3d6320fda3b50df331a00bcde88600f4")

@@ -2,3 +2,4 @@
 -- Game: Petit GLASS
 addappid(1549670)
 addappid(1549671, 1, "715a3d16e3396a239ca7bb0959317956bf424bbced6c2af2268a37168b0ffa87")
+addappid(1549672, 1, "b68a8a1249c0aaae30e2077b0a307e8d7dc3cdc9aec1c0751ef131fd881bb92f")

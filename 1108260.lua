@@ -2,3 +2,4 @@
 -- Game: The Messenger Soundtrack - Disc III: Picnic Panic
 addappid(1108260)
 addappid(1108261, 1, "085889a4bb1365fddcc414c31b926a5972291e13257de574a0979db586d3c7eb")
+addappid(1108262, 1, "937df947acfbc826b96970f5ec69494e5c48d770d699c32b2d93ee4be255135b")

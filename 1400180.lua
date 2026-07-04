@@ -2,3 +2,4 @@
 -- Game: Monster Girl Breeder
 addappid(1400180)
 addappid(1400181, 1, "c901563d5156845aabed4da0d50d2473d27ee03e4c0e60c9d506c2cd460e182a")
+addappid(1400182, 1, "cad8780299a9df9a22ecd33c68f082427eaa5c8655f12e8f54451c6e1c81ea5a")

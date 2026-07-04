@@ -2,3 +2,4 @@
 -- Game: Engare
 addappid(415170)
 addappid(415171, 1, "c2efe33f49d2788af78961a99d50a2899710e23e4fca0ded9a7d155be65f0959")
+addappid(415172, 1, "b6bab9c8741b4fde189e602adae1074db8d52bb9ce13dcda392c3737279fb4d7")

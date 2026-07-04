@@ -2,3 +2,4 @@
 -- Game: Near-Mage Soundtrack
 addappid(3747230)
 addappid(3747231, 1, "0900f4f60b6e2bbfe2e6741b162d8cd663b8d4a8e2289773cfb2231d03734809")
+addappid(3747232, 1, "186f5eb2622c130045bc6fdae7fd187508594e3b278d2edc1d0c4c59278b890a")

@@ -2,3 +2,5 @@
 -- Game: Rising World
 addappid(324080)
 addappid(324081, 1, "15ddb75872372f5f287317d991d16f6c3287a378ab860c177b5c8c9d1b242207")
+addappid(324086, 1, "e304084c0fe5b6a2da873f35b5d4eda8c27fd67906ac94cb78ae1dfc5ec1a8b6")
+addappid(324087, 1, "f2a385e511df8d915cfca6d0d2af4ac20b21404a087bb4efc91ad5679afead78")

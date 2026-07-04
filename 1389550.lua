@@ -2,3 +2,4 @@
 -- Game: Mind Scanners
 addappid(1389550)
 addappid(1389551, 1, "4e0c70fa54c378ae222263d616ea2dd8cbdc5b4d5630bf1e0e0e7684e66aea8d")
+addappid(1389552, 1, "6279d2ca68e9829a4d3cbbf96a65e44a1e697e568865a99b87a281c59c3a2f72")

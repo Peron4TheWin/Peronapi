@@ -2,3 +2,5 @@
 -- Game: SUMICO - The Numbers Game
 addappid(383190)
 addappid(383191, 1, "3dabdbfaf7012812b9434df5bd8f27cabac26c4c4775b6d214298535e7fdfa3b")
+addappid(383192, 1, "e15eb74a76926130e32050e7566ae36e758fdfa3e98ef922b27e55567a6a1619")
+addappid(383194, 1, "b047dc892f6afc273a4dc80fca6ff4f48cbc9b0d6f9460726a450bfe48417965")

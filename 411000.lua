@@ -2,3 +2,4 @@
 -- Game: Sorcery! Parts 1 and 2
 addappid(411000)
 addappid(411001, 1, "94b9fbeb214e5d4db93d3d78f8f6677e6e33b31de669e6d0396eb01fdf7527f0")
+addappid(411002, 1, "aa6ce007b9e80e264275ef5b94ec2a8afd4edab9e80b820dcd308ab807d2e565")

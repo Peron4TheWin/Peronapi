@@ -2,3 +2,4 @@
 -- Game: The Devil Within: Satgat Soundtrack
 addappid(3642230)
 addappid(3642231, 1, "5bb2f546f29e5db80de2f65266f3a305cf446a85159cfc7efe7e8c7d0d0f9fb3")
+addappid(3642233, 1, "afcd3dd72f0d56b81e17c3b364064b38085c27cacf67a2074241d3baac9743ad")

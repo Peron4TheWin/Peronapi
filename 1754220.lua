@@ -2,3 +2,4 @@
 -- Game: Severed Steel Soundtrack
 addappid(1754220)
 addappid(1754221, 1, "b5fec50138bdf3d56dc42d93c316f65eccc16c2faf20569bf61ebe2147bb3209")
+addappid(1754222, 1, "cfc1b13a34431c6aefa4255a8c49790ad644d93fe53dfab20a979959bab3d6e2")

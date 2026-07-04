@@ -2,3 +2,4 @@
 -- Game: Sandmason
 addappid(350620)
 addappid(350621, 1, "302a3334a187ec0154ae4da0a94763ebf54d4c3af29e8cf76aa72127ded07d2f")
+addappid(350622, 1, "1dd33a7b67739b0c223d905929e111b280df829accc8ba4a1e7f8b19e3f3f71f")

@@ -2,3 +2,4 @@
 -- Game: Songs of Wuxia Soundtrack
 addappid(1417580)
 addappid(1417581, 1, "746c9efffb7a522b930fba583a6bd38a737108a4c46e431d19bed14b7c34ec3b")
+addappid(1417582, 1, "a772b8a38ecc0aa97785405a3ea950d7bc0dd64583751596db1c94143425d6d1")

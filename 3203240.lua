@@ -2,3 +2,4 @@
 -- Game: Rift of the NecroDancer: OST - Volume 1
 addappid(3203240)
 addappid(3203241, 1, "25fd61d38ab97b24ebabef0417b9ca9cb2284ea2b46134f710add87548f8160c")
+addappid(3203242, 1, "76c0adea4da199283b96970f6a4ab55827a4d30d9fe25e752dfb0e8f0d814a99")

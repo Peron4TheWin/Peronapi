@@ -2,3 +2,5 @@
 -- Game: Sun Blast: Star Fighter
 addappid(344910)
 addappid(344911, 1, "b897bcdcd08c3dc7bab306c846f991b7a03c811d6acb28e28b7975b1acc656ee")
+addappid(344912, 1, "8549a8d548e23abad4607c1339a2a18cbda4b49d6029f60a9fd3e787116f4448")
+addappid(344913, 1, "56b1cfc00d6b6e1bf339ae4d612b5a308a70d5695ff0d9cc6c187ae6c085268e")

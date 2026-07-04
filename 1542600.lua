@@ -2,3 +2,4 @@
 -- Game: Skullgirls: Original Soundtrack
 addappid(1542600)
 addappid(1542601, 1, "900a22c02d3ad5befa49b1a44e634b247886c15143358a7a9fcab6c08ec1ce7d")
+addappid(1542602, 1, "e0e1d48f50198016450ca14ff03f331187c4492deb7511259900e31ab9afb507")

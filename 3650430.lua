@@ -2,3 +2,4 @@
 -- Game: Final Outpost: Definitive Edition - Soundtrack
 addappid(3650430)
 addappid(3650431, 1, "704dcc02f2aae5007580d490498856335183de2be0f6899d8edffc46bb99b5d7")
+addappid(3650432, 1, "ed5c99e48d3ae73890f38ac4770e949ca6858023629f23d19835e69b706a489d")

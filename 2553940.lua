@@ -2,3 +2,4 @@
 -- Game: JR EAST Train Simulator: Joban Line (Shinagawa to  Katsuta) E531-0 series
 addappid(2553940)
 addappid(2553941, 1, "1d0c8b1090b3b346968d31864d9adb1a842e4ce3e2c56600cecb82c06b0b5f47")
+addappid(2553942, 1, "0bcdbc888f69725b72490a0d833358bc2a0f16318207944b119e3f206e3cd157")

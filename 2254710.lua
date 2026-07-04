@@ -2,3 +2,4 @@
 -- Game: Death Trick: Double Blind
 addappid(2254710)
 addappid(2254711, 1, "e41f2714c5b648df0a915d7f3816ccd3a70d5b02ba33643be924f042d03f8f46")
+addappid(2254712, 1, "608ce9bc997ebd630fdbc230fbe98aa7744ff030529976be25902295a5cfe8b7")

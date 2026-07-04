@@ -2,3 +2,5 @@
 -- Game: Cauldron - Soundtrack
 addappid(3768480)
 addappid(3768481, 1, "6122ad0804ddd873d9bf7f6b61a49683ef0680db46afbefbbb5279eafe9e9989")
+addappid(3768482, 1, "9b812a21eaf48a779a6ef3bb7a892249ebde90dd04690a3489241774e7bda88e")
+addappid(3768484, 1, "b0b21eeb3d5a337b66b9d485a564316c5cfdb7514f4adf1ea1d3ade5899ed8ea")

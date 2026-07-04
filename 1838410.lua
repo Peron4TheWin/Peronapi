@@ -2,3 +2,5 @@
 -- Game: The Book of Bondmaids - Cooks, Thieves, Wives and Lovers
 addappid(1838410)
 addappid(1838411, 1, "ccc41cac8ad09ddfba30ec27aa967ba58a6263417aca854bc3020c37b765a440")
+addappid(1838412, 1, "902bcf9f244e116874c5a307647ef79b7e73683d4dd0683f0e77bfeb78745a39")
+addappid(1838413, 1, "8d670320b85d88395b76a2016674ff3cae193b9fc575c2804c0d8f12a4083f9a")

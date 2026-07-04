@@ -2,3 +2,4 @@
 -- Game: Clunky Hero
 addappid(1687990)
 addappid(1687991, 1, "3df2f7d2b4ef4305cd612cb2fb78a77477704e2ecac5d53a57d0e4d1eaeb1a82")
+addappid(1687992, 1, "c4ba53b88a16a4317b22aeab86db68307f6346261df6f39ae8561da68ed1fc48")

@@ -2,3 +2,4 @@
 -- Game: Duel Revolution
 addappid(2319160)
 addappid(2319161, 1, "76f6e40397fbc7af266b58e11f9e2279b607f8f92f81760c8597ce7464df42aa")
+addappid(2319163, 1, "a4c6ba8c3cbb741aae901d3c8e6ac0b743868772f9262d89ba775f31e00bd8dd")

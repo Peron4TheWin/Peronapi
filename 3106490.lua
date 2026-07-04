@@ -2,3 +2,4 @@
 -- Game: Katagiri-san is very cold
 addappid(3106490)
 addappid(3106491, 1, "e061ab2ba8011ec90873bda1af732299927b189a4e4a4e765cdc3f6e3f003bf0")
+addappid(3106492, 1, "82a42b9df6542a688f8319b74f61621a8d44d52a217307eead71ebb2965b6ed1")

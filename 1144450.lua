@@ -2,3 +2,4 @@
 -- Game: Rose Riddle: Fairy Tale Detective
 addappid(1144450)
 addappid(1144451, 1, "749b1faeddd7a1bbba144ff340a30a7db09c93f08578aed0d5db7c361cf622dc")
+addappid(1144458, 1, "25d34c6e2e1a5e9188f4ee00c61df71dd8f4926a8d49da62acc5be86a5cf72de")

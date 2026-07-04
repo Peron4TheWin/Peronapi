@@ -2,3 +2,4 @@
 -- Game: The Heroes Around Me Soundtrack
 addappid(2987760)
 addappid(2987761, 1, "5e7ff099634ed4d0f415d56c333c38d4321011faae56cfb78884ef746abdea65")
+addappid(2987762, 1, "95087ff1bd908b4299ad2712ff37b6f04bfcd3c576258a9fcac91529299fbb78")

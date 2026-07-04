@@ -2,3 +2,4 @@
 -- Game: Elven Legacy: Ranger
 addappid(42950)
 addappid(42951, 1, "d67ac9908123f355635c3cd81cd24f546a932e669dd3ef1b13a6bfaadf947ff4")
+addappid(42952, 1, "2969ea0a6cd72b56886f5322fc9707267873a6fc6d12408fd7886e87f9670e1c")

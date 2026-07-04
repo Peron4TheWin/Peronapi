@@ -2,3 +2,4 @@
 -- Game: Airport Madness 4
 addappid(387850)
 addappid(387851, 1, "04209fa8e8057a1607be668fe24fd52f38d084ec6549efc272642fc4471e71d4")
+addappid(387852, 1, "0757b6f2144685e21f5913742a053bbc4df2b762a211aaecdcccb1f45a990f45")

@@ -2,3 +2,4 @@
 -- Game: DARK FABLE - Screensaver
 addappid(1084510)
 addappid(1084511, 1, "ccc8e0625d245540edff0b6579ca4395ae968092d18703260267226a08de3fa5")
+addappid(1084512, 1, "0386483bd6758d7e734f20a91dc22d8abacb1eb2612d3deb77a0a185d84c40ba")

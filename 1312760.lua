@@ -2,3 +2,4 @@
 -- Game: AppID 1312760
 addappid(1312760)
 addappid(1312761, 1, "65a0dc8bde42de8ef6d4f569a27c7c5c2e6aefc355699dbb5880c5ce0d54107c")
+addappid(1312764, 1, "50724d6773dbe476b605de8ae399bee8aab42170643a0fd64076afa2bc1f1a91")

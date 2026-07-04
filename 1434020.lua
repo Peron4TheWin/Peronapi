@@ -2,3 +2,4 @@
 -- Game: The Falconeer: Revolution Remaster - Official Soundtrack
 addappid(1434020)
 addappid(1434021, 1, "d715e54d00342892b48fa26e36b0635505bd5205a0f2e737b33b929b3e9ea009")
+addappid(1434022, 1, "e8c9e906619dd5f5ae9222558aa0cba8f9d96bf6955b95297a41651c3161e206")

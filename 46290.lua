@@ -2,3 +2,4 @@
 -- Game: Theatre of War
 addappid(46290)
 addappid(46291, 1, "be99826ea487150c5c8906e15e4805479bdf771372a27742637ddd6d1ce148f9")
+addappid(46292, 1, "310b7a8d60762e7e753caa5d5a3f0f201db5d785ff0fbe2ac7375adcfca0f938")

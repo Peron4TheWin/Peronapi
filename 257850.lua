@@ -2,3 +2,5 @@
 -- Game: Hyper Light Drifter
 addappid(257850)
 addappid(257851, 1, "37a8a32e3f159349f6a5702f391bdd0d4a341ae4c61d63111b9ae41c6b7ee678")
+addappid(257852, 1, "e2a9e9b9db696ac8dd6724bfcdf95afbf1429d38a1c21da0f32ffafe69cc6b05")
+addappid(257853, 1, "7ce7c20d8ad87abeaf568a6ae959f9a5fc223975000f58e0128ff61f1197d2e0")

@@ -2,3 +2,4 @@
 -- Game: Chorus Original Soundtrack
 addappid(2237300)
 addappid(2237301, 1, "4ce9f88b07ed218ff5c9dfe0c7e3860199782f38ce0862abd93b6fa2f12a24fd")
+addappid(2237302, 1, "cfdcd1e3c36f2b674a51f1cdbf0502cbe3823e2f3f4cb74c6de4238fbbbef4da")

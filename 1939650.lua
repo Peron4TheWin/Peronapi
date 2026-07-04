@@ -2,3 +2,4 @@
 -- Game: Shattered Pixel Dungeon Soundtrack
 addappid(1939650)
 addappid(1939651, 1, "81e6f10d1ff8ba59fa0771a0bfa4c58033e20829e86356dc6fd9b496ad9d4cd0")
+addappid(1939652, 1, "139cb8b76180bb0fb9bf2d6ddaade7a91d8ac717b2a701a381c24b87dcab1edd")

@@ -2,3 +2,4 @@
 -- Game: Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator
 addappid(605740)
 addappid(605741, 1, "95d3d0ace153500ff96a04353c87950fc4420523d33bd980470ba1bcc5513ec2")
+addappid(605742, 1, "a8211cb137d2735d7ff465f3f245198f857855a1e31a0ed5d1cbd54f4e795989")

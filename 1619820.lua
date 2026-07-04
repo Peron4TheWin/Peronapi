@@ -2,3 +2,4 @@
 -- Game: Operation: Pinkeye
 addappid(1619820)
 addappid(1619821, 1, "fb32a6ec41e09d878dbfbfa86a47ee26633fe81bcaf1cc8ebee83c3bfb387e9c")
+addappid(1619822, 1, "9c183c2be44ccdf08d84abde1bb2a2117841b0db0f8a48d1c9237d7ca8b60d30")

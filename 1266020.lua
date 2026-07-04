@@ -2,3 +2,4 @@
 -- Game: Dandelions in the Sky: Echo in the Sky
 addappid(1266020)
 addappid(1266021, 1, "901e42c18b6182828040963580f0cc876b3ed67d067703d98f6f15df360131a7")
+addappid(1266022, 1, "0056a7aeb0674e493bb58901b888945fe9dedbe322db77ffede47ea4b1bfd3a2")

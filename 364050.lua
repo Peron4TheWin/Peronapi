@@ -2,4 +2,6 @@
 -- Game: Face It - A game to fight inner demons
 addappid(364050)
 addappid(364051, 1, "3e445485707220541dc60cd37471d2384b8de2e4b4cf2c098e0ab93926d40e8a")
+addappid(364052, 1, "d68da103fdaac6c51b9f522db6ac5d14a43003baf688d38ba0954c26f3369643")
+addappid(364053, 1, "a139587539ba0cc13ddced19dbf02d9c00e66dddda3e02f2fc093b893a1cb439")
 addappid(387260)

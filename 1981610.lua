@@ -2,3 +2,4 @@
 -- Game: Wanted: Dead
 addappid(1981610)
 addappid(1981611, 1, "971d000cf3b857bf1088d03afb8fb9722e61691687b5eca11f2444d52f7b0230")
+addappid(1981612, 1, "26ecb7650c060f90017a65afb157318e37ceb0b10ea70110a3fcf5bacc5e08bd")

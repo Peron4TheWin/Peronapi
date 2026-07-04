@@ -2,3 +2,5 @@
 -- Game: Kunoichi Botan
 addappid(986020)
 addappid(986021, 1, "6c8a65672da0f9489afdc7651202343f66f6bd4e59f9ba2adc32e54ea612cf23")
+addappid(986022, 1, "0e3053eb08fd9c9df03c16d7f5538f33decac01c5d8481d045c3cb69822b9b2d")
+addappid(986023, 1, "f44b038fe50878ed10aed41b76cad95dc0f0d57d9cb93c47f45e328e73bf18ae")

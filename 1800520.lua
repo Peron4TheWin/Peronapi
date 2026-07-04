@@ -2,3 +2,4 @@
 -- Game: Wonky Wizard
 addappid(1800520)
 addappid(1800521, 1, "3a63347f4873ea21d3caac64a2b46edccd03391ab5e2515e92cd699a62bbb0ff")
+addappid(1800522, 1, "9a3274e5e77adafe8ba7f7f193e71b157e398309ce5a26f13061f384fa3269d1")

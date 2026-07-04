@@ -2,3 +2,4 @@
 -- Game: Ellingby House Soundtrack
 addappid(3737270)
 addappid(3737271, 1, "9b5a8bfe92ccb49547354c8327a4043bcc52b7286b2cbecfd8bff2fce2b3e890")
+addappid(3737272, 1, "3e5f31998bf457ad3ffb646718ab9f64eda4e7c62acaa8bed0f01c96bd4e0456")

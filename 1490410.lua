@@ -2,3 +2,4 @@
 -- Game: The fairy tale you don't know
 addappid(1490410)
 addappid(1490411, 1, "616e7f25168836a42b1dfe646bd8ce2aac59074c09b82cc40b5e2fe717e92b02")
+addappid(1490412, 1, "8e024921d2a4400b8b8f41cc758942b82d9367eb7d9f33694afda87cf20438f2")

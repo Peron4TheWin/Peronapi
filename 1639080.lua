@@ -2,3 +2,5 @@
 -- Game: Sandwalkers
 addappid(1639080)
 addappid(1639081, 1, "bcd3da063c1d570ea26c3100e5cfb754972c13e4b2a5a9f5b1c5b44b2b7d4b71")
+addappid(1639083, 1, "6e337aaad4d09643b639a7a475462aa5af07237cc303b89ba035f00a82c90b72")
+addappid(1639084, 1, "717bcd1860e2cbbeb0ceba1839843d88100addfe1f61ddd52ab76fcae2bc4857")

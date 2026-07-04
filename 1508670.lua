@@ -2,3 +2,5 @@
 -- Game: 正宗台湾十六张麻将3
 addappid(1508670)
 addappid(1508671, 1, "acce5d30a82be72b50505a7402acc41cf79b2acc54ba2d5601cac9cfbbf94b11")
+addappid(1508672, 1, "77b7cc91e88dfac4c958f31be67f9a083ceec7e9d4ffae4e967d768ca6f5814e")
+addappid(1508673, 1, "1c81cf53ade5602e22f63286c0f8d296440b075a78b990131efd919875401cfa")

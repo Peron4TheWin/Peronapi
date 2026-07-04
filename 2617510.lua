@@ -2,3 +2,4 @@
 -- Game: Last Train Home Soundtrack
 addappid(2617510)
 addappid(2617511, 1, "48edaee3adfa2ef0dfca13dea3e2bf40967b00d327d49fb031a41f53301dfc15")
+addappid(2617512, 1, "9b4c34312747323bf5daa3f33b82109318b8562e6d7288102032c43f1f0475bd")

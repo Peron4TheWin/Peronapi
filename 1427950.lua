@@ -2,3 +2,6 @@
 -- Game: Solitaire Halloween Story
 addappid(1427950)
 addappid(1427951, 1, "a79b2b5f15d7ca08507d954b6100418388eef36bb682567cadd75473530bc04c")
+addappid(1427952, 1, "e6c27fbfc327b333795917eb8a0d5b3dee63715b91dd78c4433e9ce905b0dfc3")
+addappid(1427953, 1, "eb6eac1a8a9626510c20a5ed2ceb9c49e24d1bad3dacb5190bf2fafc60505c5b")
+addappid(1427954, 1, "dfaec7441ea0a8c361e7e04ee6630bfdbdd5ab8b9f81fa5787a2e951a6e02ce8")

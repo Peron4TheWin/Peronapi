@@ -2,3 +2,5 @@
 -- Game: Broken Dreams
 addappid(444480)
 addappid(444481, 1, "57d5bfe34a9ca452cadcfd3b419fd8e9476b4012408269a587252dca7ca392f8")
+addappid(444482, 1, "6cd843a629ba604ecccb8e60b86dde69c12431e263adf01d9b5be1c6db4ae66c")
+addappid(444483, 1, "6327e95657efe209120ec411a80d0df4e5c1d253b777fd8a7a41ed9e0b7f3817")

@@ -2,3 +2,4 @@
 -- Game: Pekoe
 addappid(1626350)
 addappid(1626351, 1, "f91a70a87e338dbfe9dddfa07abe1b22ffcebfc3ab17210a9c51cf64c9b0f1e6")
+addappid(1626352, 1, "2a123fc85cb125065550673cb7b2807757ab03bc841c1fd03fd4c572dd39fe07")

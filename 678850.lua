@@ -2,3 +2,4 @@
 -- Game: Uurnog Uurnlimited
 addappid(678850)
 addappid(678851, 1, "10442f3e1b6ed6c111426771f5c1d3ad074d771898fe01f7047aa18cd364aeac")
+addappid(678852, 1, "6772b2d0ba65975e4ec34c29eb995561f966e6b428d34fa6d4172d3f21a7dd3c")

@@ -2,3 +2,5 @@
 -- Game: Street Fighter 30th Anniversary Collection
 addappid(586200)
 addappid(586201, 1, "db4277b4f48376b54dad95c88fdaf5754f4b373872d0b63fcc2cba2428cb6638")
+addappid(586202, 1, "bab43ae9edf922438c44acdb633b3a7458ad57742925b172e1d9c545ef8d4461")
+addappid(586203, 1, "97ce5507f8e9dc8a11cf3ba6d30bd29ff2f483bb09ba7a5d3a0f21d8b1c982d2")

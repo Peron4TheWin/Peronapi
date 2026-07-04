@@ -2,3 +2,4 @@
 -- Game: Dragon Conqueror
 addappid(3396400)
 addappid(3396401, 1, "2b8aa4e200755d972c8f6c82156d351984caea111d77bea60766ef88a09f0274")
+addappid(3396402, 1, "693d59c0a8e1bb5acfb52ca3ac88aa23ceecd08dedb4217f0a2415d522d1f9d2")

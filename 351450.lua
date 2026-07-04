@@ -2,3 +2,5 @@
 -- Game: Scribble Space
 addappid(351450)
 addappid(351451, 1, "74f7d2ccfe126ef69f16100f7b8e71efcc8436be66c1a669fd43852d7b978a6b")
+addappid(351452, 1, "8bb657077d5318d22784ca27db97306cf2821fab30d3d2cf830f9fa87d2b75d6")
+addappid(351453, 1, "ec25e335c7a6e6d0f418e86a5d9dd8a2e2ba8bc3877fc4ada4bfc9452b893fe3")

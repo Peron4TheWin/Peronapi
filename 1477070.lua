@@ -2,4 +2,5 @@
 -- Game: Depersonalization
 addappid(1477070)
 addappid(1477071, 1, "63af1726fe45a06ec8cd5967b11f3a797596cb2e54d8140b5ac001b223c7695d")
+addappid(1477072, 1, "28cb1c1403a7b5dbec2782fe7baab195c2b178703615cfbe88028adde05a4ac9")
 addappid(3447060)

@@ -2,3 +2,4 @@
 -- Game: Card Shark Soundtrack
 addappid(2013500)
 addappid(2013501, 1, "3f7df61be14c09e5c7f607211a8d073b8457cb006e18e0c82a70b418009e34b4")
+addappid(2013502, 1, "ccbba15047e3e39eeb36cbd8d9a7a74e0d08f4896bb3b884ef7fed98220b8055")

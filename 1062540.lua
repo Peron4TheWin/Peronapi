@@ -2,3 +2,4 @@
 -- Game: PUZZLETIME: Lovely Girls
 addappid(1062540)
 addappid(1062541, 1, "cfb557ad9eaa942d617a07aafa1e23dc27a0c19ea788cc4d646cb6ebcf5ac1f9")
+addappid(1062542, 1, "6253ace358a2685b3205d070994e1e1e4d8668c413a9e99e1f95cae4e7233bfa")

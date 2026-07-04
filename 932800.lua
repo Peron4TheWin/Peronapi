@@ -2,3 +2,4 @@
 -- Game: Letzte Worte VR
 addappid(932800)
 addappid(932801, 1, "b7d0ee7aecd3452fffb194f34f3a6109947c0324cc0191a923b845aa4f248147")
+addappid(932802, 1, "4d830cf363bc24d3b9c02bd34006310bc7ff8a84af08cd241f09669fb14650d3")

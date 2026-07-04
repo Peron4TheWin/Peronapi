@@ -2,3 +2,4 @@
 -- Game: I wanna be the Creator
 addappid(913550)
 addappid(913551, 1, "ef5cdb61edb59dbe1344d9f7f63bc6c86958de192c8c211927e7cfcd1c553b74")
+addappid(913552, 1, "1b8dffbf48a8ec2053be8e98601c7bf026bd3af5ed540def304dcffa9e1efce4")

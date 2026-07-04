@@ -2,3 +2,4 @@
 -- Game: Void's Calling ep.1
 addappid(1212020)
 addappid(1212021, 1, "53107aefe97ba97851e7ff74dc31ffbf6ab70f142d6182f486abc924bdf347a7")
+addappid(1212022, 1, "58e3d502c4dee1bc26a9761d1b2e4b4b385d668c6c3f552bae8a3dbf77b0e120")

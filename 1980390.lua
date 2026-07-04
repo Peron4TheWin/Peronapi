@@ -2,3 +2,4 @@
 -- Game: Neighbor Fight
 addappid(1980390)
 addappid(1980391, 1, "6e8c7ca5d05ca9239a9a20715d99f027b4d224dce4b6f5273ce117cb03ca49a5")
+addappid(1980392, 1, "fa02e391aae50e2475343ab5025cf28eaa994d2a6a89043c1aa7d182fb24ebfc")

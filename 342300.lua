@@ -2,4 +2,5 @@
 -- Game: Zombie Kill of the Week - Reborn
 addappid(342300)
 addappid(342301, 1, "ebb828e040efa9cbdc4634f3cf0620978b34f61e3dc5286bb7e144da1f99af5c")
+addappid(342303, 1, "6200c868c64f76135d63c620b0993237d96e3da02fb758cb1c3982b5b9929e90")
 addappid(359540, 0, "fcdf90c5887422ef17af207f83afb88a8e5a8db7c824526ce4dd5776e4bb715a")

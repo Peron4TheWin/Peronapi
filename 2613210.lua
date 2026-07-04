@@ -2,3 +2,4 @@
 -- Game: 江湖路 Demo
 addappid(2613210)
 addappid(2613211, 1, "c41be5c2d394fe616ff2eca458b1bef0efe9d485ed4db7766704cb3ff760e65e")
+addappid(2613212, 1, "aac3e1fc2226cb6c98ad12d2d6c372bfbbc564d234e40d9917ae886a73dc9568")

@@ -2,3 +2,4 @@
 -- Game: DEEMO -Reborn- Prime Pack III
 addappid(1333390)
 addappid(1333391, 1, "53c111b2479c047c07720cfa43751b50693ef9c27b0125dc29e0d0c60c6dd09d")
+addappid(1333392, 1, "872ee8a9e6325264ea9397a28fe7c2f908dade86e802690310618b8d2e7cc082")

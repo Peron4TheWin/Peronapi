@@ -2,3 +2,4 @@
 -- Game: NORTH
 addappid(461890)
 addappid(461891, 1, "47357157e25fc16b532465bf5206ccde6a64799ce0a45ecf296aaae15f79cdd4")
+addappid(461892, 1, "3eb87446c4fbd3e178d10d8cfedf059f0126a89ec1fbca3945e6f27f325f63f0")

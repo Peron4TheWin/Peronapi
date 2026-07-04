@@ -2,3 +2,4 @@
 -- Game: Voidwrought Soundtrack
 addappid(3001910)
 addappid(3001911, 1, "d0392b49a1cb9f0bfa62f0ed85bc0b8a6c2086954d87ea55936880059127e06f")
+addappid(3001912, 1, "3033a92ab8e93a8b80d69d41a1e4f19fed64ec531867f87a332a80beeda4bc56")

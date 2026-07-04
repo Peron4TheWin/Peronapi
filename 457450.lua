@@ -2,4 +2,5 @@
 -- Game: Defend Your Crypt
 addappid(457450)
 addappid(457451, 1, "4ac48c2f51b082de57ec2870e5d7d7e3c0c979a3fb61018835974e61c67fd302")
+addappid(457452, 1, "cecf5874cb3a847ffe4ced1420b86f15c6ec02db445c6b95c6fb6e2abe7c2e6e")
 addappid(470200)

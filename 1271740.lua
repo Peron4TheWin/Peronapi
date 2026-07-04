@@ -2,3 +2,4 @@
 -- Game: Magical Swordmaiden
 addappid(1271740)
 addappid(1271741, 1, "55b232ee39b3009010d650ff0e96b2adeaccbcb099b580e56d66e9f85571bcb3")
+addappid(1271742, 1, "8fcdd14877e0aee7ecb7789f46dfa4aeb3abcfd1b5930a51a72b17faabd54723")

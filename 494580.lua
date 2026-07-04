@@ -2,5 +2,6 @@
 -- Game: STANDBY
 addappid(494580)
 addappid(494581, 1, "7f1af1e31c016748d7c4566e88ba6b59758a1c8b79809162fda7c8d361786e0e")
+addappid(494582, 1, "ccbc5e7effef4b524f509cfd51fe76f3f7f7728bf5d6b1562cd989ddf1424d11")
 addappid(578200)
 addappid(578201)

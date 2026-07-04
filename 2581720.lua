@@ -2,3 +2,4 @@
 -- Game: REVEIL - Soundtrack
 addappid(2581720)
 addappid(2581721, 1, "8948242bedc174b5cdc04d76bb6b233fcefecc81d5080fb56d7eb9b542251dae")
+addappid(2581722, 1, "91a19efd8879d5a66c99261eda9cf39327e89647284f8724f7ecdf0abed32420")

@@ -2,3 +2,4 @@
 -- Game: The Star Named Eos Soundtrack
 addappid(2959470)
 addappid(2959471, 1, "8f5f7fbc4f4218ae7c9941ec7a6604164f2455bc099ee6ed81b9bb3ad96ac080")
+addappid(2959472, 1, "b76e349a86b0759c12c60ae8ac865a40a772a89e179d4667b2b7251ea2e6abc9")

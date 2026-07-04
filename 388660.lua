@@ -2,3 +2,4 @@
 -- Game: Project Tarvotan
 addappid(388660)
 addappid(388661, 1, "d70496b4080a88ccf6fa5fd393ee2c4fe1b8b424999f7a7cd257bbe5c2c5beb7")
+addappid(388662, 1, "56fe5f67c628c4f1c74ef9716cff23504daf6299fe0010e46609228faec1a5a2")

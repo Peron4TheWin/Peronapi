@@ -2,3 +2,4 @@
 -- Game: Midnight GT: Primary Racer
 addappid(3600690)
 addappid(3600691, 1, "c85889b8921e099724fbc94e87d126815c0c8e15e3f855e12e8e5afe56c2336f")
+addappid(3600693, 1, "e3f7f01848230d3fda0c3130a3afdbe90c8560c1e02c8774bbc4ec8e54283b84")

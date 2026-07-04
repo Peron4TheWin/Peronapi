@@ -2,3 +2,5 @@
 -- Game: NyxQuest: Kindred Spirits
 addappid(57000)
 addappid(57001, 1, "0761d56e4c503e9bc74618c4dafd10963f874cf85c21add6213ad9218c5dc7b0")
+addappid(57002, 1, "76c06b4bf0b6b56c9e45e649cb0a8f9e285c4208e463de8829efdfa0760ca82e")
+addappid(57003, 1, "d6e4d7794c0aa88d0919fe2c1c0360190b156e4a23ec8cf6806904aa994e325f")

@@ -2,3 +2,4 @@
 -- Game: 112 Operator - Call Editor
 addappid(1356140)
 addappid(1356141, 1, "c448b6d485fa307fe3bff181667d6c476e0ab5ea0ab8809976acdfe9941ea1a9")
+addappid(1356142, 1, "f1d8d15f268cf89e5647fbd49d301ec2b1754c6c1db65c0e1dbca903e3faf797")

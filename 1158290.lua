@@ -2,3 +2,4 @@
 -- Game: Mini Words - minimalist puzzle
 addappid(1158290)
 addappid(1158291, 1, "eb6ee3f0c612547b3cfd95147f3175f47ac05767f29d496d0ed0ad276cf5fda9")
+addappid(1158292, 1, "39ff7704f9d24d003967f415afb46e8d2a18232bcdaa48e3ce9934f8f5348dc4")

@@ -2,3 +2,4 @@
 -- Game: Labyrinth: The War on Terror
 addappid(931950)
 addappid(931951, 1, "99407a98a0e38e6b060198bd90b59e2f42142ffd04351cf2e29d19cf921449bd")
+addappid(931952, 1, "7d6db0d35f550eff64d17a05f1c7b9ed7065543984faa9c8f9c038beca9b1f1c")

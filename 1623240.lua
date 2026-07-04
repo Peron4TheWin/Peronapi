@@ -2,3 +2,4 @@
 -- Game: Maguntsche Chapter One
 addappid(1623240)
 addappid(1623241, 1, "b127e317fcbd5e15610ed619cb6cee25ffe8f5d90aefaf74eefa659aa3332fa8")
+addappid(1623242, 1, "4faf07004962531bbbef821a9c9fb9d05672250075fbea21695a9b37c2cf1b68")

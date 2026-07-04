@@ -2,3 +2,5 @@
 -- Game: Motorsport Manager
 addappid(415200)
 addappid(415201, 1, "13f204cb2352585c9b7f92c70d4b23a0cdb7bd6af94d386fbd0cafe1f83be0f7")
+addappid(415202, 1, "5f9bca4107f938163af9c10c5283c14b02b4dcb94b918653a558d18398d7f0bf")
+addappid(415203, 1, "d3c0742a7de138d40f6a040a0e4865172ac02d0555c0ca1a10dbd9c415f31fdc")

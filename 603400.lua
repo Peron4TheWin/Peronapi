@@ -2,3 +2,4 @@
 -- Game: FOX n FORESTS
 addappid(603400)
 addappid(603401, 1, "8dbfbd1f2a6dfa41719209467839192ef426d835dcf3edf6c3e2e84370adb49b")
+addappid(603402, 1, "1d842d03f27af0dd083231a6150d3ca817ae308aa305d8f33a9538bee9742486")

@@ -2,3 +2,4 @@
 -- Game: Beasts of Maravilla Island
 addappid(1378020)
 addappid(1378021, 1, "bb08a5161e7ddab6085099e8b71917bb6467a182e636d99d75b7b689c5451113")
+addappid(1378022, 1, "045cc98fb5eea28b0fe918eb8578fa8210224b668075878a728aa86a7afa4e09")

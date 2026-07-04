@@ -2,3 +2,4 @@
 -- Game: Car Mechanic Simulator 2014
 addappid(270850)
 addappid(270851, 1, "d520abba588b2738105316385169d81f779791970ac561ed56dad9d94df67d8c")
+addappid(270852, 1, "b04a091ea2482e57489d2df2e81be96e0cc67d954db688906a61fee8b6526dd5")

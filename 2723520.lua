@@ -2,3 +2,4 @@
 -- Game: Misha's incident
 addappid(2723520)
 addappid(2723521, 1, "f9a17f63c2cab6213d9acf19f6cd817e84f8213888efa90d797711ce8dd3962e")
+addappid(2723523, 1, "c47d01ef6c0a6b96692d0397e1ce1a307121414420e1493a17bb1c0aab5702b2")

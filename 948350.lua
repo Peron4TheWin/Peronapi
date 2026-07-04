@@ -2,3 +2,5 @@
 -- Game: Royal Booty Quest
 addappid(948350)
 addappid(948351, 1, "92fab5555da638834308ddc9afe7aedb8061dedec2b679c046ae1bf074f625bb")
+addappid(948352, 1, "f488dcbc1aa1080203de190e6ab2250c077155ba558e84b3f3c35b7444c1722c")
+addappid(948353, 1, "de87d363cd22c3c82bb8af3cf2ef8a307da4dcc0b175719d13a293be73ed71af")

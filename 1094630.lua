@@ -2,3 +2,4 @@
 -- Game: Aircraft War
 addappid(1094630)
 addappid(1094631, 1, "451b930ffb19e16482644f22df4b284885cc0a9286b3492315ccc99afcf0de5a")
+addappid(1094632, 1, "c5262e78454184fd9eab6e3940a39ea4fafbc66ed32dbe4ba2f0a9f2bbc37a4c")

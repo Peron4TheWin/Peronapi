@@ -2,6 +2,9 @@
 -- Game: DYNASTY WARRIORS 8: Xtreme Legends Complete Edition
 addappid(278080)
 addappid(278081, 1, "21ae72bb931dbccd751dc79cafaeb6b7ffc920d4120c1bd2d35c3c857b3df751")
+addappid(278082, 1, "16218fd8f999f075881ba1aa62eaad85aaf8d88ad09bd65c8cecd3aefa223edf")
+addappid(278083, 1, "c22b49d3a3863f226ea7fa96a2b68380eadb946bc59d52658b7d7ded48de1aab")
+addappid(278085, 1, "b4c06aceb345f643d703e4c9d7bf92fa2de7d586face5b21d83ab8927eafafe5")
 addappid(316440, 0, "069286bebc8b3237ee5f7780b27b218f569975c7c673794a1e0fc85ddfd0bfa5")
 addappid(316441, 0, "d89fa1dddbf271473a6f7bfcf7beb41d7065f3ccb9a7ce753fc8848973642aac")
 addappid(316442, 0, "a0b727ffdeec2be62ca0d74c03cc463305401b4e84b298749cbaeaec9eb7658a")

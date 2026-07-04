@@ -2,3 +2,4 @@
 -- Game: 南栀 Unwavering love Soundtrack
 addappid(3202060)
 addappid(3202061, 1, "557cef620637f6cd192a98c758dde49f285f9098bb0da4e6940aa386fd5c4d95")
+addappid(3202062, 1, "99ead173364ed7486990db93cfa4d5cfdc977d48626e0cad85e7de913f8f25e1")

@@ -2,4 +2,5 @@
 -- Game: The Mr. Rabbit Magic Show
 addappid(3472550)
 addappid(3472551, 1, "fd23b3a246d36187c0480f5e56bfddfa3390cb404f41fece337e4ee8e729ec50")
+addappid(3472553, 1, "2109cf79579d4c7e00effb9c6a08684c132233e08bb18a920a3b1be1a63da113")
 addappid(3701380)

@@ -2,3 +2,4 @@
 -- Game: Arid - Official Soundtrack
 addappid(1688560)
 addappid(1688561, 1, "421cd3c45fabffed2bf0bbe89da996fe23843cd18bd1c8260c1dda3c034229e5")
+addappid(1688562, 1, "02232efad06c4b9c62e67a20bd625079ded58104b73d33875dec05aea4c7a08f")

@@ -2,4 +2,5 @@
 -- Game: Endgame of Devil
 addappid(2343600)
 addappid(2343601, 1, "5ef7cb03601cfe5acca50b68d54a959c3bf486c3b65607ffb02ca8e48af28ff1")
+addappid(2343602, 1, "6a1e4ed3bcbd0aa0761da07c736c635366ae53047b2128f75911d6152cf682b9")
 addappid(3180540)

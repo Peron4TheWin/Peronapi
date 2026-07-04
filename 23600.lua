@@ -2,3 +2,5 @@
 -- Game: Depths of Peril
 addappid(23600)
 addappid(23601, 1, "e93576ac9dd1630eb3b10f8f8be0ca0a6403ebaae1ac22f59417fd80e1b0fd12")
+addappid(23602, 1, "759303007be34c71b33bd0b45a3e625f216e84fa6669606d9c87dfb34e12eaa5")
+addappid(23603, 1, "5840a8e70f3b66f2a8b6d9c21ecbfea7f09e1f0a98abebfceba9d17e2274ac6f")

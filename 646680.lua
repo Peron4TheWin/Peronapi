@@ -2,3 +2,4 @@
 -- Game: Roman Adventures: Britons. Season 1
 addappid(646680)
 addappid(646681, 1, "828ff9668bcc0c2a089a326c92bfa53c249a2ec73b3b044903f4d64c1f5f6a29")
+addappid(646682, 1, "66a5d60ef4c212c7e90aa3864b05d69c2711b4d918fb2df03f8d9ad448317a03")

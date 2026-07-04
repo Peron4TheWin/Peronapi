@@ -2,4 +2,5 @@
 -- Game: Bunker Punks
 addappid(446120)
 addappid(446121, 1, "b4483263d02d85dcfe4ea37fc5066e724bcf61865c29d94c56cb7c7b1c890d38")
+addappid(446122, 1, "3ecf145d5221f1e1675c1f75778dbb6a24a23dc56252197d6498fd119c7e2d90")
 addappid(867780)

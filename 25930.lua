@@ -2,3 +2,5 @@
 -- Game: AppID 25930
 addappid(25930)
 addappid(25931, 1, "38791debae5d4bc9aef8095598a1a2b6e5a572b3fcbd91ad1487fd9b8fce6c31")
+addappid(25932, 1, "de959ae7cded037f800846a057c3353a3c8b83ec95385d822d253fdeeeb339f6")
+addappid(25933, 1, "c37845ccd8c6d2f60df3ccf6fa3eb8ccf7a113d5c42f635751f453dedda32d90")

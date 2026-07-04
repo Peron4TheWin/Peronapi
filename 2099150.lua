@@ -2,3 +2,4 @@
 -- Game: Dark Maidens
 addappid(2099150)
 addappid(2099151, 1, "5a838f4a44c52a9746b9723beeaf66c7637d88cbe3862bf17f74fc9eb548cd17")
+addappid(2099152, 1, "6b1595a7792b4f85e78fc1615e527daf9a2c8175b786e64fe59abc6b680289bc")

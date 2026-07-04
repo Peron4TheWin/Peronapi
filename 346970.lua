@@ -2,3 +2,5 @@
 -- Game: AppID 346970
 addappid(346970)
 addappid(346971, 1, "9c2fa307ebc82fd0b99c666a7ac802f7c472ce1de992bc9203b95ee5c1422a4c")
+addappid(346972, 1, "e3321f3c2dff0eec68d2ffe4bb4542f438a4b78d26cbeb5b7bd1896b2fa1b365")
+addappid(346973, 1, "5d5ab39f6a225393d61bb05c1db1167d82b4ef2578cdc5ad510b3207ddce4c1f")

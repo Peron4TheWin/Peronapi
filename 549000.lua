@@ -2,3 +2,4 @@
 -- Game: Munch VR
 addappid(549000)
 addappid(549001, 1, "2c0096fcf73d2ac8589648be4e74b161bd0090cc5aef4e2b3e542270df9c7334")
+addappid(549002, 1, "d97efc83f516a6d5474ab514250f69e6b5edf117a5611b23d92639f37d8ca4af")

@@ -2,3 +2,4 @@
 -- Game: World War Armies
 addappid(2438160)
 addappid(2438161, 1, "9bbe74ebfcb59f9ceb1838b59527be8b8ebcec60e8ba6461a1dcd752784b5b06")
+addappid(2438162, 1, "60bf93d22518466f2c8e18e3cd7e0e371ca5ffeaa2e095d28de96575cd855709")

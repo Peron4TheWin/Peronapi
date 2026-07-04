@@ -2,3 +2,4 @@
 -- Game: L/Right Reflection
 addappid(2312040)
 addappid(2312041, 1, "aebabae351cf794ae939e0470c6e95eb2689add63d464d8f28f490b58a12a40c")
+addappid(2312042, 1, "8190db5d1f7da5b9650b22475c7cb069dd897f9faabc9c529e015ab8ee08a60c")

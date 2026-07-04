@@ -2,3 +2,5 @@
 -- Game: The Story of The Flood
 addappid(1411380)
 addappid(1411381, 1, "af1b630755526ab92c3088c46c28eb26f0a1c285e73da22e91e6068b8fc5efa1")
+addappid(1411382, 1, "24791fffd211af3b7b5369b1f50442762bb7eaaad529cc2b61ad0cc8bda3fb6e")
+addappid(1411383, 1, "0095a08469b077ce32e76c8d1c3414a39709beeb904bc6c24831155d11fee57f")

@@ -2,3 +2,4 @@
 -- Game: Bloody and cruel story of toys
 addappid(806150)
 addappid(806151, 1, "4f40b25540708517605ca43af4bd2bc364d5495625813929078df3baf0c47b4d")
+addappid(806152, 1, "855d3b30e9444decd38a054a48fc463967e8b18151d553c6b5af81e1269d1a5b")

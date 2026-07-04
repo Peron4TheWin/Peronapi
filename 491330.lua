@@ -2,3 +2,5 @@
 -- Game: 12 Labours of Hercules V: Kids of Hellas (Platinum Edition)
 addappid(491330)
 addappid(491331, 1, "d6a8fdceb7d1305e174803b9960f85c55c7e72c12426fd9aed8ab4a168ca8174")
+addappid(491332, 1, "5acf4d0eb71654eef996d76120b311f109780afb9e0607b951b430ffbc317e8f")
+addappid(491333, 1, "7109b8f0c53386694cef6ef3c814570203413cc6ddcf451b872e96c188a3c96e")

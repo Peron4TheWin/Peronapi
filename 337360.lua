@@ -2,3 +2,4 @@
 -- Game: Dead Island Retro Revenge
 addappid(337360)
 addappid(337361, 1, "a029e93002937cf23f80a1c7dbc0e6f7ca2c435dd11cd40ba9ae86c470d5fc4d")
+addappid(337362, 1, "de0d9d99fc331d5f41ffca0c6adac48d56d64985fe8341ed144e128a078ed256")

@@ -2,3 +2,4 @@
 -- Game: Frog's Adventure
 addappid(2535670)
 addappid(2535671, 1, "594b503fb00cd08f98a1f68670d4a12df09094e729d9f8915b5d317bd8c5f490")
+addappid(2535672, 1, "7ddbcf4a4c459014438c6ca8e0d0a16a568e6264b0b053e25ad93e3ce60e5ef7")

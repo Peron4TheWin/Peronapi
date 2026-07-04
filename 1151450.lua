@@ -2,6 +2,9 @@
 -- Game: Utawarerumono: Prelude to the Fallen
 addappid(1151450)
 addappid(1151451, 1, "21b0fd809c98f211e669fc3bc51088b92c07bb5015927f80a64ff63b7893b9f8")
+addappid(1151452, 1, "6afb44ff3655a31a8ffc1e1403824e2b3020ef4725df273c976f6ae838570300")
+addappid(1151453, 1, "17c90e12aa48288bba8f095a320ce73f6a08d85b8a7135d9383db3eb27adf15a")
+addappid(1151454, 1, "6224c45aad76ee9473eb24c8addf37c204770cd8eeaf02d2bbbd9c96a7bf801e")
 addappid(1186230)
 addappid(1186231)
 addappid(1186232)

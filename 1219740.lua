@@ -2,4 +2,6 @@
 -- Game: Knockout Daddy
 addappid(1219740)
 addappid(1219741, 1, "be7dcb15bc20970ab0ee1c10862f0fbc1e56c70b2593f29cd71ecdfdc14a8b3a")
+addappid(1219742, 1, "93fa5270c87ebef7dbfac56a6424dd96469ec32039ef2492aad13def1ab7d12c")
+addappid(1219743, 1, "53de479852128f3775811beb85864bc3a9cc0c6736db718cd09a4bd8a07e12a3")
 addappid(1220970)

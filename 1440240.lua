@@ -2,3 +2,4 @@
 -- Game: SOUND FORGE Audio Studio 15 Steam Edition
 addappid(1440240)
 addappid(1440241, 1, "53b8fd0bc7da3dfdd35e505a4b44efc5f157d20f5a08c730cac27981f8ee8caa")
+addappid(1440243, 1, "3e4f99ba243547c800563dc0e28d9d71137cd34d1f419cc8eee3f865fd3bb613")

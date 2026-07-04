@@ -2,3 +2,4 @@
 -- Game: DARK SOULS™ II: Scholar of the First Sin
 addappid(335300)
 addappid(335301, 1, "cf0e82e9ee3c3dd620a31184d8fb9d60c9e6641be15cdd5cc6da9960e822384a")
+addappid(335302, 1, "7a10a8968977653c95ac43dc8e7799f02750283f840618910466e264e85f97c1")

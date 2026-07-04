@@ -2,3 +2,4 @@
 -- Game: Hentai Miko
 addappid(2243950)
 addappid(2243951, 1, "4c064138f3d0ce27eb1ff9a3f706a08db33fa0291cdbbf1935d07dae9037a7b4")
+addappid(2243953, 1, "fa44e2b1d88b6e1581ea8c7f82930c1d516c1e6e3aa0359fa86c3f9a12bbc8f2")

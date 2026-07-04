@@ -2,3 +2,4 @@
 -- Game: Shotgun Farmers
 addappid(604240)
 addappid(604241, 1, "898d033401487dae243aaf9df921db57952cf4488dcd59f419bbeea782bd7038")
+addappid(604244, 1, "3daa3a70b724d2b6904b3c18f2386b31a204bd6d8fe73005683411ec3291d3fa")

@@ -2,3 +2,4 @@
 -- Game: Them and Us (Video Game Soundtrack)
 addappid(1999840)
 addappid(1999841, 1, "1bd8ab40f960e6edf087e17c0d8bf078935c2ad57edaefd301b1334a12f1f18c")
+addappid(1999842, 1, "239d5582ef1f18212676892cf0cf0fd188664962753c4d9207494cc110208d70")

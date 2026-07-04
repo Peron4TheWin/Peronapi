@@ -2,3 +2,5 @@
 -- Game: Fight Songs: The Music Of Team Fortress 2
 addappid(629330)
 addappid(629331, 1, "8e356d170867b11a7d64c8dc09ed7f1caf501ed41f4e3eda44750e06bdcd0686")
+addappid(629332, 1, "aa9a5f1a6918f4f9104654a9c9e1daa1b0ce9068f89558be2fb6abc596f03283")
+addappid(629333, 1, "219940df55776539efb2c6418f3438c65ea79c5c43a72f3db0b0fb1baa7c96f9")

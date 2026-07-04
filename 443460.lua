@@ -2,3 +2,4 @@
 -- Game: Star Sky 2
 addappid(443460)
 addappid(443461, 1, "b3ffac8b262fcc6476714fe48f66d460d3cf9838a13e3a454d35f97228d6646c")
+addappid(443463, 1, "36462df60fb44973efd9f566ef354f1eddccfd6d04b782004f8ac24c3dce9c02")

@@ -2,3 +2,4 @@
 -- Game: Take me, Vitaly
 addappid(2144590)
 addappid(2144591, 1, "ad90799e27fcdab8e4951c4460f2695843849573e3d65a76e98fb209372e1acb")
+addappid(2144592, 1, "3c55e68cbc75270c711ae4ddbb19ca5caf542d2b3f396fee77d13fb2c0fafe91")

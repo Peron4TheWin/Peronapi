@@ -2,3 +2,4 @@
 -- Game: Marriage Contract With Billionaire CEO
 addappid(3439150)
 addappid(3439151, 1, "504747752ce9e994022b0f090bd88bfe002115d7e74df14bd1630ffa2f96b1cd")
+addappid(3439152, 1, "70d46fe1bf751b0b69dd6cb289df8ccf4727e158bc6123fee6e409cfb7fafc37")

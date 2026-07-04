@@ -2,3 +2,4 @@
 -- Game: Hospital Manager
 addappid(348290)
 addappid(348291, 1, "ba424d1177738aacf462e53a48f84057ff68ae6dce814c408018b7fa34e1250a")
+addappid(348292, 1, "1d67c648f264e2550fd2c62bde19d3773c9ab5978ceef7d104058b6c9c34f4df")

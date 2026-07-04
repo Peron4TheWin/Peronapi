@@ -2,3 +2,4 @@
 -- Game: Golf Around!
 addappid(1086410)
 addappid(1086411, 1, "2c79d7dcac31b98849b91842fbb3f62e63c563efbe2e4e0d310e2482bccdd619")
+addappid(1086412, 1, "fc4f6963f78ac6766bca712eeba89c90cdf85bbdd7300e636dd1d9f59ef8d54f")

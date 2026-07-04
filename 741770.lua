@@ -2,3 +2,4 @@
 -- Game: Santa's vacation
 addappid(741770)
 addappid(741771, 1, "7c74d4a4e47e6d3f1411fc6a85dcf1cf64e043b35707181e46d1a70124c7e819")
+addappid(741772, 1, "e610b8efe900b8084bb153bec92613d9bda613bd1d7d9a6aead0f8d23c981550")

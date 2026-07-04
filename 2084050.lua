@@ -2,3 +2,4 @@
 -- Game: Unsolved Case
 addappid(2084050)
 addappid(2084051, 1, "2c41df525209f2327844dff242d881dd378522ac2c1632a8be61f7bc43041ecc")
+addappid(2084052, 1, "39302caed3488f7168f98acd18488b8f37c8eadd45e3be253411e9ac85f57a2b")

@@ -2,3 +2,4 @@
 -- Game: Rescue Friends Solitaire
 addappid(1587530)
 addappid(1587531, 1, "256a285f1412cd5de7b9863ba51e51ebdb9a0123cf1ee6926cc39c3f6812672a")
+addappid(1587537, 1, "10c85185fb0c6b12ca9204e7e92ecef8ac8a598353f3252ed8c8338ca95f6251")

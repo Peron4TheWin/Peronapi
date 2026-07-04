@@ -2,3 +2,5 @@
 -- Game: The Flame in the Flood
 addappid(318600)
 addappid(318601, 1, "8d58615a00792854df1e862f86df22115978c49bc6747209d9227eb22fb87977")
+addappid(318602, 1, "2accfce8cfea14ee3641267be9817746f565ea56c8ec71b8dbb3bb6c069274e4")
+addappid(318605, 1, "6d2bbf17170835c1a3a51fe552ee9bf0bd4a82fbb9d60e5cfceb0b5b5cd63375")

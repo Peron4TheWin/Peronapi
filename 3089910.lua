@@ -2,3 +2,4 @@
 -- Game: Ready or Not: Official Soundtrack
 addappid(3089910)
 addappid(3089911, 1, "ad6e74ede75aba32203a011af40c506a771be84256f15775efce310170c4676c")
+addappid(3089912, 1, "cd045276bbdda167270fd46f0b129a781e705003f2af095fe71bec217d065b95")

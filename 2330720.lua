@@ -2,3 +2,4 @@
 -- Game: ChipWits
 addappid(2330720)
 addappid(2330721, 1, "cc56caddb950f51e11edf35bfdb5c7227ad3d3c289e1ed64342d3ab3444141cf")
+addappid(2330724, 1, "88002132d4a5c56e1b790b6d30e8309dfac51fe984407dd924e71dc62e4682ad")

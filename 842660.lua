@@ -2,3 +2,5 @@
 -- Game: MiniState
 addappid(842660)
 addappid(842661, 1, "38bfa0747a48b00b725e839748ec9f305be3b2f8a7d837eca3ffae1f4d38b134")
+addappid(842662, 1, "dfbba396f6caa58feb515a16dabeecc335618b6a71d883889dd226dec9439dae")
+addappid(842663, 1, "e971fa66ab7901ef9397bc6de03b3e217909384fd3e96102446fb0a4de788e24")

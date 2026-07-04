@@ -2,3 +2,4 @@
 -- Game: The Laser Games Playtest
 addappid(3262270)
 addappid(3262271, 1, "76038c3ba02e387876b01db1b25b6a8c84dc4d2d0f975d8b97a0794c3eae3816")
+addappid(3262272, 1, "125703dfc66f43d7ab34d48baa7a9fabaf3e78abeada7942c4cf4c54dfb6fa84")

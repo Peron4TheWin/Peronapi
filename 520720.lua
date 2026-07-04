@@ -2,3 +2,4 @@
 -- Game: Dear Esther: Landmark Edition
 addappid(520720)
 addappid(520721, 1, "1721854517e7b4aeedf8d138c80fae97786ceff90543a463048ff9855e66e356")
+addappid(520722, 1, "0dd476ee5e632d75e2285951bcba2735c2378fbcedcc2075f4fc615680c4013e")

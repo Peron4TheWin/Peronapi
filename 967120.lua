@@ -2,3 +2,4 @@
 -- Game: Cursed Mansion
 addappid(967120)
 addappid(967121, 1, "e442e4554ff2b0cc8e462b62ad407e1437582ba9701b6dfec96a687992c4339b")
+addappid(967122, 1, "716554a4c38497fd7cddb6085fb6988dbdf7b86f58db96365998b0af7c20f33d")

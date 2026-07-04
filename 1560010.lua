@@ -2,3 +2,4 @@
 -- Game: Neon Nights
 addappid(1560010)
 addappid(1560011, 1, "a9f284efbba0e3fbd1e9be226907ac3a1d525c9e318c61b33c173b7a00a6e56e")
+addappid(1560012, 1, "abf6feb778a752c4f61ff9c8f3a3f869a421b5d564104f708ea6c83fd1dd26af")

@@ -2,3 +2,4 @@
 -- Game: Avernum 2: Crystal Souls
 addappid(337850)
 addappid(337851, 1, "580db05c56a0ee986d2b50b43fd0c5213c0f0fe1415c4571cf478b125e52c60d")
+addappid(337852, 1, "dd7d4f77044a35e7d7fb7534aafa43937ca2cd65cd9bb60e8b3037a41367b011")

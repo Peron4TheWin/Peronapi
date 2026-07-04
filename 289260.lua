@@ -2,3 +2,4 @@
 -- Game: Dreamscapes: The Sandman - Premium Edition
 addappid(289260)
 addappid(289261, 1, "cdc79d48b3b2a9ffcd3a6848590aee38abbe698e2618a071880076f3900f0fbf")
+addappid(289262, 1, "18851790dec48c7e8eb7cf4294ae490684d28b6abcb2111f02b7e587773953db")

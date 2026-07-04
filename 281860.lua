@@ -2,3 +2,4 @@
 -- Game: RefleX
 addappid(281860)
 addappid(281861, 1, "9e6c1a939e2b7daf1a0615bf9ca6f2eff098ae8be14107cf99945be23bc5bd69")
+addappid(281862, 1, "edd5a8eb4371e6d52a9e044de014a1c442a28cd64fab9e2faf2a5b4d5b75b2fe")

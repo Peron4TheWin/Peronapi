@@ -2,3 +2,5 @@
 -- Game: nofio wireless adapter for Valve Index
 addappid(2154720)
 addappid(2154721, 1, "68e55c1e985612de9cb3a1771ab8ff8b7fdf2ca8d100dc8ef87c812480f7200b")
+addappid(2154722, 1, "c11268c374953bbc4ebd10af8d58eb8a0310ca46a479d02bbfa4be7a4f4a9383")
+addappid(2154723, 1, "b709f60c7b772bdbada2ffb4d8593d048576c2031fcd04895a9c65431cb5c504")

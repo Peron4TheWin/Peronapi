@@ -2,3 +2,4 @@
 -- Game: Dream Chamber
 addappid(391590)
 addappid(391591, 1, "7b900a7f6cbfa58856846e8d595f7a66b4d76b3b924dd3b997c018ae68cbaf0c")
+addappid(391592, 1, "b023786e09c47018a1e9e6411db4e0d1aed47213ce3c6dcee35400d2ccd03cff")

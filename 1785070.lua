@@ -2,3 +2,4 @@
 -- Game: Despot's Game: Soundtrack
 addappid(1785070)
 addappid(1785071, 1, "47ae42d0d63bbab871f294fadc33a185dc1f28f51854ace0c5e833709fc71513")
+addappid(1785072, 1, "1fdb983af82eb36f8a0e48fabf1e053ad86c8b776726c2d8238bba99182db325")

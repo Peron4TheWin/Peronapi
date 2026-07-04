@@ -2,3 +2,4 @@
 -- Game: Mind Over Magnet OST
 addappid(3360870)
 addappid(3360871, 1, "7afe165da74e89d430381fa2e7af17aa4255700c3db1eb77bda40a4035b98d60")
+addappid(3360872, 1, "9f48e51e97e9f57f73fb6b5c0e788f6a96cf94bd51120e6e640ad625307265c3")

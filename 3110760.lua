@@ -2,3 +2,4 @@
 -- Game: Alabaster Dawn
 addappid(3110760)
 addappid(3110761, 1, "03f56edb0d3d06afcd1f625b1898343e100f2e00657b86a4bea0bfbac0f341ee")
+addappid(3110762, 1, "f49e304c3273bbf6b8574de212a764f730163a1ff28205c886c4f0d3fa2e35c7")

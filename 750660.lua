@@ -2,3 +2,4 @@
 -- Game: Knockout Checkers Chamber
 addappid(750660)
 addappid(750661, 1, "8e358a9c8159d21bfab0020e6c6fda958b041304db2e7ddfedacb8810b392bfc")
+addappid(750662, 1, "8f7e153f4a5643c51923554d49a1c34ad6fac2b2bfa330c9ba178deba8d07c03")

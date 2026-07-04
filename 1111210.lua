@@ -2,4 +2,5 @@
 -- Game: The Backrooms Game FREE Edition
 addappid(1111210)
 addappid(1111211, 1, "18bd98a25ef600f128b988d958d61a403084261b9e24d05c45b5f78017a1d242")
+addappid(1111212, 1, "32a7e13659349109edbf3789ab210ab5880c11be8cd82f1d016fe2c1ecbde936")
 addappid(1128880)

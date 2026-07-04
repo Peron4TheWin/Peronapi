@@ -2,4 +2,6 @@
 -- Game: The Spatials: Galactology
 addappid(450700)
 addappid(450701, 1, "139383a134cbb73bc8ac6cf2824ee46bea8db7c32c8a518b4d6cd17b87fd318f")
+addappid(450702, 1, "5356f0b0f7c6a4d85f3efa3cd71751a920bf1d44d7d0673bc650b8a537860b14")
+addappid(450703, 1, "dd7f022befec1681e3293afab89db2e3abeca5531311486a5bf42c4a35afa923")
 addappid(494410)

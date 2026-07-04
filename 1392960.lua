@@ -2,3 +2,4 @@
 -- Game: STORY OF SEASONS: Pioneers of Olive Town
 addappid(1392960)
 addappid(1392961, 1, "7929038c4f0eecc945a4c729b402a052d67647fe9b5ebf6a8a9e62900ad0d621")
+addappid(1392962, 1, "59af10455ece1d3b11e9be890adf7127588ed728d20a8a62763ec27a6b513598")

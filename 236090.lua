@@ -2,4 +2,6 @@
 -- Game: Dust: An Elysian Tail
 addappid(236090)
 addappid(236091, 1, "3155f6c04de0b5378792f0f0fbda30e9ede86cd2d21440cd04ad606c480a6d4f")
+addappid(236092, 1, "26942aee558b9dff58620cb1135ed862c62ee2467a2faf37b236db32948c5263")
+addappid(236093, 1, "3d41e921c3967df57e456fe7174ac9ed9bf64d61c692074fdf3fd97a5b055396")
 addappid(326860)

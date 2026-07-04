@@ -2,3 +2,4 @@
 -- Game: DOOM II
 addappid(2300)
 addappid(2301, 1, "e20a67a0ee08097842bc07ab3b8624bfed9ac0085565dbd65ea564478c1f72b2")
+addappid(228988)

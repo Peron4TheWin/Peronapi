@@ -2,3 +2,5 @@
 -- Game: Ancient Wars: Medieval Crusades
 addappid(1925620)
 addappid(1925621, 1, "fa1d7214956b3d94d2655450a6611d52f176b3edfe56bf8bf09b0f6836dcde3e")
+addappid(1925622, 1, "9e3082b02687aa3254cf2d757c140b2ea160ac4ddb175b77b1b88e514a32db30")
+addappid(1925627, 1, "979aa615725f97a34e4dc77c1be23606edce349b05ecf373adef8485c4be5233")

@@ -2,4 +2,5 @@
 -- Game: Lust Academy - Season 3
 addappid(2655960)
 addappid(2655961, 1, "d015c7fda9f4a2068e6b4d60ba78eb95f3aeed5aa390460cda602c7295b695a6")
+addappid(2655962, 1, "400ed9fd7ad3360597484f4bf48155b549c2c0ac31cf6dc7275a14fe840fc910")
 addappid(2914180)

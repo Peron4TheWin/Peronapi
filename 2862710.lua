@@ -2,3 +2,5 @@
 -- Game: Pure Pure Pero Pero Princess
 addappid(2862710)
 addappid(2862711, 1, "18a7d8d5778635e905c2807b23555ca50bd0950d5ed67ef9a9c2fd14abcc0fe2")
+addappid(2862712, 1, "b517e1314723ba1073c13cf99e125caa7bad5a75418131ec7062f8f2fd8e940a")
+addappid(2862713, 1, "03e10ab1df52fbe39fb8417d5e2e143f6901ac39b484b9803d147bc11fcb2f6f")

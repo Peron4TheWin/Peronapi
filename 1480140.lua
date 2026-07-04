@@ -2,3 +2,5 @@
 -- Game: RPG Sounds
 addappid(1480140)
 addappid(1480141, 1, "96c23a66bb6cd5e77353fc492cbdefad3fcc2e022df6e7e484fd27867167bfcc")
+addappid(1480142, 1, "a29d38cbccafdd88a505a19f574669c289a752c3d9cdcbb28b6eeb573c950d92")
+addappid(1480143, 1, "8d03d1ef6ec05fe80c75ef4044414466892a48c7e2e65aa19fbd751860fcb558")

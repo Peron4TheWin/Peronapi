@@ -2,3 +2,4 @@
 -- Game: ZEPHON - Original Soundtrack
 addappid(3301440)
 addappid(3301441, 1, "533e5ebd7234798b183ba399a3d82b84906ec5027b8627598b528cb06b6dd6b2")
+addappid(3301442, 1, "794c9d9f53cce78588db71b01754ec5852fbd9893be99c4a2d14eaca1d5aeba4")

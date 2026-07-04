@@ -2,3 +2,4 @@
 -- Game: Solarix
 addappid(284990)
 addappid(284991, 1, "87d2e7a62aafac602347adc962b5e6cc5be4b697b101df53e520c121210a3cca")
+addappid(284992, 1, "992351f11d8d3edf0da96025e4933cff0ebb82b7e70af3f8ca94e7224044b364")

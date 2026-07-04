@@ -2,4 +2,5 @@
 -- Game: The Adventures of Elena Temple: Definitive Edition
 addappid(800190)
 addappid(800191, 1, "f0903a149718e4415ccbe5ec8305e8f650bf23eadbcbfb58b585b83aa9a09da2")
+addappid(800193, 1, "23f0dfdd19fdec9fbcbeaa2b9b197c027fe40d8e7335e23df7039e48e4431bc3")
 addappid(876440)

@@ -2,3 +2,5 @@
 -- Game: Heroes & Legends: Conquerors of Kolhar
 addappid(306950)
 addappid(306951, 1, "e45d4ecd79b9206be266de72d08eebf569a67c6a7a0a6303e3c7be9c851588f1")
+addappid(306952, 1, "16278ea2d15cfc3f1daee4032433344b323a94a677939ae5600906b2db305674")
+addappid(306953, 1, "49e20e039ad4f5296314095b681ad64bf7a479f97c2595096be47cc1fdcf1699")

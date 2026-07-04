@@ -2,6 +2,9 @@
 -- Game: A Game of Thrones - Genesis
 addappid(58550)
 addappid(58551, 1, "09a6af96fdc89cf2c2ccea016403ff22b27d84c60a2e7098034ddb02f155e014")
+addappid(58552, 1, "a43338adb37f0aabe52aa6aa2270dfbb01138b4411c79c3487cfcd4133aa4b65")
+addappid(58553, 1, "0437561aad5da69adbf82a05cc74889f9bead83805328269b9c3a44cbc3ee090")
+addappid(58556, 1, "ed9ff58ba65100d96a908b13c73c9fee97d89589ec93c62b17be00b92935488a")
 addappid(200560)
 addappid(200561)
 addappid(200562)

@@ -2,3 +2,4 @@
 -- Game: Virus Crashers
 addappid(584600)
 addappid(584601, 1, "a3d1db2f989deb28a832e5706df6f6249ddd545ff42521d3ea4655f4b047e505")
+addappid(584602, 1, "afdf00a41caae519cd39b501b2c8bb62f36654a4d942c917821cf863df450ddf")

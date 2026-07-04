@@ -2,3 +2,4 @@
 -- Game: Foreign Legion: Buckets of Blood
 addappid(36000)
 addappid(36001, 1, "50264e286516583278dd031d1fe7a51d58d96c85238d83e8ba28fda9d159f1b4")
+addappid(36002, 1, "063bffafaac1cb909eacb98435fa566c8351870ccd079c12dc6d611c5a06e976")

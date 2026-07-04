@@ -2,3 +2,4 @@
 -- Game: Super Mega Neo Pug
 addappid(469730)
 addappid(469731, 1, "8cbf05b5b159ade1fad492906dc9a5682342c5da2ffda9d668fbec712c211d71")
+addappid(469732, 1, "ba64dfef96bbb496519f4c8e590482a7a4f8f23c5def7d2de1e910c0b6ca062f")

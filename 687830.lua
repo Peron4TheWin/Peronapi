@@ -2,4 +2,5 @@
 -- Game: Transparent Black
 addappid(687830)
 addappid(687831, 1, "37ed9ba5ecc8a95562e5b5a396fae53f662bed339897e9a121f547f5ee674b0a")
+addappid(687832, 1, "1bf45cfef0aa5115104206a6d898bb8552a3a5f828f712515cd121ca2f5ec515")
 addappid(790520)

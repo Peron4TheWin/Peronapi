@@ -2,6 +2,8 @@
 -- Game: Trove
 addappid(304050)
 addappid(304051, 1, "91d3adaa8c47464fe18f1869859a6de09bbaadead8e683f2850e9e3b7b06bb26")
+addappid(304052, 1, "21e1da324f32758f8fd1e12d333c0a64ebb5b76291959f9e5ecb0f6dd24b1aa7")
+addappid(304053, 1, "e42f477fb8e6b8295874bbc562217c064fd596cfaae416421b03670c44c41d98")
 addappid(380230)
 addappid(380231)
 addappid(380232)

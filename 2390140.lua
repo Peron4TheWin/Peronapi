@@ -2,3 +2,5 @@
 -- Game: Phoenix Springs: Prologue
 addappid(2390140)
 addappid(2390141, 1, "17523f516242e1fe316f4aea342f7089f7b97fdec7046d9a6e464015810c7c01")
+addappid(2390142, 1, "77df4dd42fecbda2a967ae4d826f04b1cbcb21b59c1ae7bb74635efeab3e5a64")
+addappid(2390143, 1, "426ab3850ed6ad9de6e8389bbfd0d9675decb61b77df2c91ea9de9a9827734a1")

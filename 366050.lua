@@ -2,3 +2,4 @@
 -- Game: Star Balls
 addappid(366050)
 addappid(366051, 1, "b21e03db4d947bd55bb6a6f0d1c28060905d03815f2147fb1f9dc612d4b0cda2")
+addappid(366052, 1, "83addc9f42dfdb8a07a3b6b7132fefce185d6b46c59b307c156397f3a0347be8")

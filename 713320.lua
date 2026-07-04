@@ -2,3 +2,4 @@
 -- Game: Google Spotlight Stories: Sonaria
 addappid(713320)
 addappid(713321, 1, "f38a5861b81b400c3512a9a318b385c6690cfadd5062b22125ce71f1abd8e446")
+addappid(713322, 1, "bf36f1a0c521874284b291306e3e48f9bc0615f7e0d2c77bf7808dd12c672801")

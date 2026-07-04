@@ -2,3 +2,4 @@
 -- Game: Pixel Game Maker MV - low.res Sci Fi Starter Pack
 addappid(1611520)
 addappid(1611521, 1, "d255524906a228aeae2a3711170532d5cd09ec55fec9ce5d58bcf63e98c979f8")
+addappid(1611522, 1, "27fd1a6a0d5372e0bd8f53c3524f22b2f2069a594981a9cf8007770291aaffb0")

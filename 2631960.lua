@@ -2,3 +2,4 @@
 -- Game: 14 Minesweeper Variants 2
 addappid(2631960)
 addappid(2631961, 1, "c267129dc5245007be49c81d8c69d7291f7dedd482cf95dd2aeb40b7072f3abf")
+addappid(2631962, 1, "56d24db7ace671986c83dea4fd611f14b508a3bdc9cfafd2701bd39b5a32578e")

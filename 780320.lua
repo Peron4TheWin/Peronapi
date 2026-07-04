@@ -2,3 +2,4 @@
 -- Game: Snow White Solitaire. Legacy of Dwarves
 addappid(780320)
 addappid(780321, 1, "585ca232470cbfd9664dede925149f43148c13e893d91c3058204fe6b38d03dc")
+addappid(780325, 1, "17fc516b474ed9033287a15a97539a69fa45abfff9ed08918c1ba6d37a7aedf5")

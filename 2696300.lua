@@ -2,3 +2,8 @@
 -- Game: JR EAST Train Simulator: Nambu Line (Kawasaki to Tachikawa) E233-8000 series Nambu Branchi Line (Hamakawasaki to Shitte) 205-1000 series Tsurumi Line (Tsurumi to Ogimachi,Okawa,Umi-Shibaura) 205-1100 series
 addappid(2696300)
 addappid(2696301, 1, "dfddb40ecb3dbdfa9e96a0fc5a299b22361aefe14723425b79bfb2cc8f1b0bcc")
+addappid(2696302, 1, "ad62b4f5de4bdf1cf921c5a93a0030fc9b55121e93e1f32ea48fa59057940d0c")
+addappid(2696303, 1, "ab7cda96a57d68d5073c59a4342278e561c7a12018eefdfefd38b5b689169e41")
+addappid(2696304, 1, "153c2ef3f11106125ea5b4acc491fc97d3721b8c5669937becdb96ccc089b0a1")
+addappid(2696305, 1, "b6017d96153610c0b3787b8d413bdfac15f1fcad0c7c209126f0262e750344e2")
+addappid(2696306, 1, "f53426aab1061aa6db730e87f4fd91be48c312d2f7de8dcf5d41b1a20ad7a8dd")

@@ -2,3 +2,4 @@
 -- Game: A Case of Distrust
 addappid(717610)
 addappid(717611, 1, "228992949f6efe19d4fdcb03b97a21815e4b77ca7694a9416c24b555eddbfc11")
+addappid(717612, 1, "371421d6affd9083059cad1182e53aad676da71f89b372851c680430e8e462ea")

@@ -2,4 +2,5 @@
 -- Game: BLUE REVOLVER
 addappid(439490)
 addappid(439491, 1, "8b87c3b031660759b52a8e3dabaf20988aef050ead4a62d79b1c668ceac47f48")
+addappid(439494, 1, "43129cc718900c21c0e8b83e3b6ae3e060b6aac1492de6eb7c25e2ca2f883661")
 addappid(537670)

@@ -2,3 +2,4 @@
 -- Game: Rendezvous Soundtrack
 addappid(2366680)
 addappid(2366681, 1, "15cbec453a39609feb5fab228a8a022d00d4ddfb6559bf533deb356fc3b2dbb8")
+addappid(2366682, 1, "7fc9c6369439fd6645a4084b49d602436ab19c62277da525691c238f860be9ac")

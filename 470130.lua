@@ -1,4 +1,4 @@
 -- Lua provided by SkyAPI 
--- Game: Eclipse -- Defending the motherland
+-- Game: Eclipse - Defending the motherland
 addappid(470130)
 addappid(470131, 1, "c653b4f7b77fba4d319b402b033630e872ceb652dd556c1bdf7c9159f6b5fee4")

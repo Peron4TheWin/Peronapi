@@ -2,3 +2,4 @@
 -- Game: LingerToAlive
 addappid(2182160)
 addappid(2182161, 1, "6f99b464b566cc90f6c4563a703e3cb3a3e8926f5c70b094b2a51cf89533fa9d")
+addappid(2182162, 1, "ca295b5f1ceccd98ba61e9a950e22ff7dc7e1712d8a896d3894ea37ea59d0f66")

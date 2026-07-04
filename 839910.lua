@@ -2,3 +2,4 @@
 -- Game: Mythgard
 addappid(839910)
 addappid(839911, 1, "770ad4957bef2afaca2dc66164fa2ac498840c3a16df957c3aee3ab1790657e0")
+addappid(839912, 1, "71b1039ad2beb05a86c639336a452ac181869ba6a9c2888ee3b0a7f80c14f0b5")

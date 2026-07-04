@@ -2,3 +2,4 @@
 -- Game: Pronty Soundtrack
 addappid(1852900)
 addappid(1852901, 1, "a933f6909cdeddbb0bb56946deb29d7f03e627491c4a55df6b56620eaed29a0b")
+addappid(1852902, 1, "9bf8f87d60979155b27dd6cbad577679d7c18162b6ae9953c97604da6d4c401c")

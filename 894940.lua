@@ -2,3 +2,5 @@
 -- Game: Littlewood
 addappid(894940)
 addappid(894941, 1, "ef499f7b3fe93f5257c0f438152631be586c4fcd5b0f056cbef3e952390e13d1")
+addappid(894942, 1, "27fd79b425c24195aabbfc48cead4fbe079147b7e67bca0eaf5f07cfbdfb8b95")
+addappid(894943, 1, "969df4caa9c51ae48ef2d03e449e94b1e93d25a4b6dabbf8c0a9ad2b6cfb1e87")

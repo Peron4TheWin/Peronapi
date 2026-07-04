@@ -2,3 +2,4 @@
 -- Game: Hentai Defense
 addappid(891240)
 addappid(891241, 1, "4ffc21268aef1145fb908bbf333bcc3e848fa4d3823252203c434cd3db337c03")
+addappid(891242, 1, "9dbad60dc50000429de45c1a6a053754d1b9f353a5e274acd5911f67835af6b7")

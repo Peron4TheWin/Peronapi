@@ -2,3 +2,5 @@
 -- Game: Talisman: The Horus Heresy (Classic)
 addappid(358460)
 addappid(358461, 1, "8eecab6301e0d773e5d5126972581e7b68209982ce439da1dc3d21e11a92c5cb")
+addappid(358462, 1, "442c082a7ddc550bc567901caf49d5c57fae1a9e9ba5daab83371aa38e5b98d4")
+addappid(358463, 1, "193984ae5c7b8435f569e676442bd428e88f4dee17366199cd769eb35182688e")

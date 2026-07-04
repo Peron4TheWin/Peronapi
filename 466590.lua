@@ -2,3 +2,4 @@
 -- Game: Kathy Rain Demo
 addappid(466590)
 addappid(466591, 1, "b3cd2d08f8d5fc1ca34b6fc108ad5c91bad4af0a42e5adf52f92e380c2897d72")
+addappid(466592, 1, "61fada9ccf18806f2f7e7586e90d316611e43b5ace47984bb510dd6d35b91e93")

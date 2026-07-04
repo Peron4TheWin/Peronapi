@@ -2,3 +2,5 @@
 -- Game: Ion Fury
 addappid(562860)
 addappid(562861, 1, "7d7e3dc23d2ddff8ef66b5d653dea36cda157b4c6d63c9b5438b2afec48a66c2")
+addappid(562862, 1, "49805728d70a3ac62761d11ab821afdef4a10bf7c844148d0cefe9c7c16add2b")
+addappid(562863, 1, "f0fc6ebec6789dd3c56185d1eca0d85c38707ca1dafa90dc4855bf5e70076e4d")

@@ -2,3 +2,4 @@
 -- Game: The Last Bug
 addappid(1343130)
 addappid(1343131, 1, "0edab97b5de0106627b7e7205af46830e0a55bbb7a4e8320de301301fe1579bf")
+addappid(1343132, 1, "a86cbafc7b679cc86f920938f0a3a67cc129cab492011391ac3997aee399e8b0")

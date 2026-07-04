@@ -2,3 +2,4 @@
 -- Game: Super Catboy
 addappid(1376910)
 addappid(1376911, 1, "c252872b723a85962054a31a1b9ee806726632703eee0a5d46c8eeb0b633568d")
+addappid(1376913, 1, "c1d58a7d961f04187bdc03da12a61cd07cceeee91c2075ad3ba28faaf991dc76")

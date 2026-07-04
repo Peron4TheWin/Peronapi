@@ -2,3 +2,4 @@
 -- Game: Demon Strikes Back
 addappid(1402420)
 addappid(1402421, 1, "262fc0f5e6cc52c915cd020bdf236f77b4ad10d7fa1fb0c9918d51146e850970")
+addappid(1402422, 1, "7d15ed3af1f3adce4b76f33fdaea1cd96e902caec1aa124b7c170648265f19d8")

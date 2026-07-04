@@ -2,3 +2,4 @@
 -- Game: The Last Crown: Midnight Horror
 addappid(291770)
 addappid(291771, 1, "221f4a95bd4f585936d2df7bbbe3b8f5c3bd62dea2ac5350d13fd88eadd69a8c")
+addappid(291772, 1, "1bbaaabde6d9143501fd11215482937296f95e7a79f3761ca4e8edf9fdf817d2")

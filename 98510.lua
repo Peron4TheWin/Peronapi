@@ -2,3 +2,4 @@
 -- Game: STORM: Frontline Nation
 addappid(98510)
 addappid(98511, 1, "8333300a2d5a66270b67141dcc3c1a4cde976e2f1d15e0a73ed45e7b2d245da7")
+addappid(98512, 1, "cd2b250b55be8cfd4ce608c8e254f093edb3adbd4927c0cdc32d063957cfc874")

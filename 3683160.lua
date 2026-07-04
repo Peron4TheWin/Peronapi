@@ -2,3 +2,4 @@
 -- Game: Mad Experiments: Escape Room - Sanctuary
 addappid(3683160)
 addappid(3683161, 1, "ce4201d36775d0f04326a361fa7c42a920f8c8c94c4c1c9bd9a1858980aad6bf")
+addappid(3683163, 1, "1a8513610e32e2b07a3a59acb5f52e2e4e2ee0572139e833fa314add81eb2b45")

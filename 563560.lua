@@ -2,3 +2,4 @@
 -- Game: Alien Swarm: Reactive Drop
 addappid(563560)
 addappid(563561, 1, "fa5311e8473824241c7cb8ad6a5f5125b25d3f2ecfa963a7c880303106e9d469")
+addappid(563562, 1, "185b68d4e971f70783541e98d1bbf47f48585fec0b3e45ecde0a29b48eb247a9")

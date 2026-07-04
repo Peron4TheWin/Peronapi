@@ -2,3 +2,4 @@
 -- Game: Haunt the House: Terrortown
 addappid(270630)
 addappid(270631, 1, "19beb985dea08ddd8ca9569b5391b0fcc4b52a179927d7116ef62ba43b22dbba")
+addappid(270633, 1, "88c23075270bd398aa7c5d67bd80b7191b859870b7d807a4bf53c92c8333a225")

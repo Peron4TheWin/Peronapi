@@ -2,3 +2,4 @@
 -- Game: Verzaken! VR Adventure
 addappid(739800)
 addappid(739801, 1, "ea9402e61beef339a6e484151126a6555a90f40fe26b056a68f7c85b187be312")
+addappid(739803, 1, "ff05cc6223849b30c5b08d9deebca0d30138e8338719e17a5e04f81df9314b05")

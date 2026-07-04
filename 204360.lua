@@ -2,4 +2,5 @@
 -- Game: Castle Crashers®
 addappid(204360)
 addappid(204361, 1, "2428bf7adcf5bac5af5d4f346adeea328831349da1ac601a9d6c33db6d6b5677")
+addappid(204362, 1, "7a3159e2830293517766f4e7698bd55d7888ea6e752f32103a2543aa94c5548d")
 addappid(3133920)

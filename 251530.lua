@@ -2,3 +2,5 @@
 -- Game: Anomaly Korea
 addappid(251530)
 addappid(251531, 1, "b636c863af3f67cd1fe619c822730f1e7d0e2eb50cdbf01c95b43b5b2f2330c7")
+addappid(251532, 1, "b44f60f9fcbf80fdf1221bec0d35abcddf7eb1790598afdc5f2bfd3c1ca3110d")
+addappid(251533, 1, "387a35ca38e90430bea0f5c4af00e327345297877e984f64dfd8c4cecca5e8ed")

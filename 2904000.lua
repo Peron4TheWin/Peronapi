@@ -2,3 +2,4 @@
 -- Game: The Spell Brigade
 addappid(2904000)
 addappid(2904001, 1, "1cea3f47529b0e53e7add1f7e63dcdf14634adfde24faf952128ad1034ee90e8")
+addappid(2904002, 1, "de0044598316af4e08b7d4552491ebb9a7e3ad4e36d1705fc82b0510f1c01acc")

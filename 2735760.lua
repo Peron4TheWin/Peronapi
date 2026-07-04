@@ -2,3 +2,4 @@
 -- Game: Free Video Converter
 addappid(2735760)
 addappid(2735761, 1, "5024e6cc0b326cf222240c335f5e35f83b92f25f4f6305aa1befb06101f1b955")
+addappid(2735764, 1, "9b55308afa8b21a1fd064937b8536ddefa01ac620a49757883a7c862912d9dc5")

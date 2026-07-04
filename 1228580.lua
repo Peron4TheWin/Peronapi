@@ -2,3 +2,4 @@
 -- Game: Trine 2 Soundtrack
 addappid(1228580)
 addappid(1228581, 1, "57dca842a628d06175c5d06e691d3cc58b6abd70c3cee3d94e1f9fa0053d30de")
+addappid(1228582, 1, "16495dc8b563820bb25d5aa76a7fa63194c8c89c12982950850f52e75da8d04f")

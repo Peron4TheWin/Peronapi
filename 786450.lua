@@ -2,6 +2,8 @@
 -- Game: Don't Bite Me Bro! +
 addappid(786450)
 addappid(786451, 1, "7d5d2b59c6e5926c234f2f4dfbf7896a746eb13509d32fef30c722465b0ecd23")
+addappid(786452, 1, "f79e71a46d636e0f535dc2a1ef25d298ea05f93ec30a70c7d2207f8b12df3bba")
+addappid(786453, 1, "9c20dd99f80b46152eec1af1b88893631eaf35b675bd59b56c3f3455fb858990")
 addappid(828610, 0, "1cf0b8ad1e6b06731c47acf8393c5e2f8265cf0c5752ede229ac663e33daed69")
 addappid(828611)
 addappid(828612)

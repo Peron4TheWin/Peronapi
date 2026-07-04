@@ -2,3 +2,4 @@
 -- Game: deer hunter II
 addappid(1212190)
 addappid(1212191, 1, "e23ed4d3dd3b6a2dcf1fda0293c86f2faf023a535cbc44e8b88328ab5fff9fce")
+addappid(1212192, 1, "3f7d54edd7003f5c5c19b5dc5d30e639616b3fcc34c34a13a60567a8212706ef")

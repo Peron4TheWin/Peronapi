@@ -2,3 +2,4 @@
 -- Game: X3: Albion Prelude Soundtrack
 addappid(1238200)
 addappid(1238201, 1, "57b86a8d97a11a6ee5ba861539bcf9359d433f7c363feba3bf692340d39d6fd7")
+addappid(1238202, 1, "248834f6a54600fdaaf61568cfd0cf800f02334989874efee1d7f69b005321e3")

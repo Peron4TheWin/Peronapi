@@ -2,3 +2,4 @@
 -- Game: Satisfactory Soundtrack
 addappid(2873550)
 addappid(2873551, 1, "97dcf4cb06c5be6b0f4831f66bd0dadcfb94a829f8faa423f99e65ead70937c0")
+addappid(2873552, 1, "016194001abfe403556a728afdf0ce0db0916f34f6fe78789e08f91910c27fb0")

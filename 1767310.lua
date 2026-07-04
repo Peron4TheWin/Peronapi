@@ -2,3 +2,4 @@
 -- Game: Midnight Mahjong
 addappid(1767310)
 addappid(1767311, 1, "0aac0c89c084771be3cc3aa696d2e6ebb7a7c49c481ac087d5e080054f47c17c")
+addappid(1767312, 1, "8dd91bd13a7b3202ff498bcd8a871e52ddb32bf2681da9e9ce3e9eaf907aef3a")

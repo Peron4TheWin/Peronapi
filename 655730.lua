@@ -2,3 +2,5 @@
 -- Game: This Strange Realm Of Mine
 addappid(655730)
 addappid(655731, 1, "eaca01181221af604fe5455741af3aec31145f3db9b922e2fcd7842de8f86fbb")
+addappid(655732, 1, "1b5bfaa2c9345875741624ef2b30ab8c30eb938ad2a5d39af4e67bd0e32cf0fe")
+addappid(655733, 1, "01006969b12c5290ce825519482fe768bd38143d87d5f9e2f38d53ac29f87e8a")

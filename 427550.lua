@@ -2,3 +2,5 @@
 -- Game: Tibetan Quest: Beyond the World's End
 addappid(427550)
 addappid(427551, 1, "032b1d1a7a6e8bfd6d9ac21d7b46a0200fd815ee6727ada3171e5b0e0e36e49e")
+addappid(427552, 1, "9201558404f61b744474279965f6d893cb954c0d33d3a4c1d45c8ba201ba222c")
+addappid(427553, 1, "fb1069ea39f00e53effb875b6b7230b4a6d09b2d8763f120762fa090a816a372")

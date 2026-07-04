@@ -2,3 +2,4 @@
 -- Game: Travellin Cats Around the World Soundtrack
 addappid(3058390)
 addappid(3058391, 1, "da930f64a404d75360322a497cf99f6d1aa3d8ecb98666c35410aa60102359a0")
+addappid(3058392, 1, "f023901572bb0edd1688c81d31f866502bbf914f75d0ed28fee384ee83213eb3")

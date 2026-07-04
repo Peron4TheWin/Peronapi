@@ -2,4 +2,6 @@
 -- Game: Drain Mansion
 addappid(1888070)
 addappid(1888071, 1, "f79c9e1ef0d9e2fa3c7a4d17b85acbf86a61e8625762bc9bd3ecc47e408ae7d4")
+addappid(1888072, 1, "133e1ffeaf570ef5e7df1bdfeb50bd77d7358653804bd00a340057b070894a33")
+addappid(1888073, 1, "59bddeec63f70bd660bf4de08ad39e8b91c03b43afb1a26383ff28c6190fa5c5")
 addappid(2352110)

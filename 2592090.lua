@@ -2,3 +2,4 @@
 -- Game: Gunner, HEAT, PC! Soundtrack
 addappid(2592090)
 addappid(2592091, 1, "a0bd1af60052f44c3d26e82943793c7716a7fe22443cefc9e37d82399cc53df6")
+addappid(2592092, 1, "e291db97bcc3440b24709f66579eda2f9c024d6c66ea066fd9f348837c51315d")

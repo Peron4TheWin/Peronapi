@@ -2,3 +2,4 @@
 -- Game: Portal Soundtrack
 addappid(323170)
 addappid(323171, 1, "ef5954989cfc0754ad15c4727a521500630ea5091e24da9e4247a4c30dceead9")
+addappid(323172, 1, "361a107003b168bddbc4d14382306eecea86ad4f1606b016160fd57112b2a3a8")

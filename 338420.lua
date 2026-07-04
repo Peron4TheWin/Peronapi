@@ -2,4 +2,6 @@
 -- Game: AppID 338420
 addappid(338420)
 addappid(338421, 1, "ee717189aad4957c18f4fac2eec79cd955a697bd094aec8b7c39c82b38f0b3f4")
+addappid(338422, 1, "a85f2ae466910f3fdca31a75b7a1ef52d081d0b388bbf816bbf5cc9b9ea63dbc")
+addappid(338423, 1, "29d630c4e5e39708416a610e853891bfdfe87f178befbaf560bdedb1f5e10149")
 addappid(372100)

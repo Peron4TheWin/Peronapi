@@ -2,3 +2,4 @@
 -- Game: ENDLESS™ Space 2 - Original Soundtrack
 addappid(1275500)
 addappid(1275501, 1, "5b15b7860a1951cb663c9338fcc97e1915ae20d547d0adff7aeb1b8b7c75b4b9")
+addappid(1275502, 1, "077370f05a28c6df0dc80e1c319b28c0b8ae74da4afa6922214ebac8874bcb2b")

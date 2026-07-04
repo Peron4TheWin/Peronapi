@@ -2,3 +2,4 @@
 -- Game: LUNAR LICH/月球巫妖
 addappid(1577880)
 addappid(1577881, 1, "27235708baf55dde056e949ba8df849ee57f09b3cc6333b7ddac022cbfd1fed9")
+addappid(1577882, 1, "0cc95ef69a252135452ef903f949f8ab05f587ee75299ba92cac7ba0d391b39d")

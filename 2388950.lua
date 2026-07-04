@@ -2,3 +2,4 @@
 -- Game: Xuan-Yuan Sword: Mists Beyond the Mountains OST
 addappid(2388950)
 addappid(2388951, 1, "31f7a958f0dca6ac8d532a789acad03c3c4c1755e55d5547cec298c7dacb81cf")
+addappid(2388952, 1, "f55b9ed7b5ed231e4b6ee14ad7451dd391bc84a7f54d44effe564bf716c9fee5")

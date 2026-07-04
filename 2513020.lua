@@ -2,3 +2,4 @@
 -- Game: Sengoku Dynasty - Original Soundtrack
 addappid(2513020)
 addappid(2513021, 1, "464cc171e32b30ba4e0aad420c2e566989ba765fbd6f5c04dbd16fd3b90b6390")
+addappid(2513022, 1, "94f54a626c026b3876b37bdcc6d6292e0ba1bf419c424b7270f435b9c25114d7")

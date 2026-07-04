@@ -2,3 +2,5 @@
 -- Game: Noir Syndrome
 addappid(299780)
 addappid(299781, 1, "8b47a59687302e1278eb80112ec9aefa1299bdac933a182585c1ef0fd5d7887e")
+addappid(299782, 1, "fb0dd51bb4a09069616ec510a0ebf880bd15da4f7a9a7f180f9ac21be23cfc4a")
+addappid(299783, 1, "e69c0c05f53c626dd09f04ea72cd5cfb277cfdf9db00ecb17e86aa55d734cca3")

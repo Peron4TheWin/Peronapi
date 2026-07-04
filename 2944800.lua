@@ -2,3 +2,4 @@
 -- Game: Another Crab's Treasure Soundtrack
 addappid(2944800)
 addappid(2944801, 1, "7b8469c6bd4cbefc2b8210cd3b4dd1f80634944748393f65f8e0bf477c74c23a")
+addappid(2944803, 1, "21ae7d2bee346417c7dce645702839f2b263dcc5191458ccb1d41eed29d30256")

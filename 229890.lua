@@ -2,3 +2,4 @@
 -- Game: Joe Danger
 addappid(229890)
 addappid(229891, 1, "1b545c67b2128c97626acc87e66edd218bf6e2e17e0266a84d0a8143b497e64d")
+addappid(229892, 1, "863f64e4041c1f05bf89b3c600178b4f3c8db6f8e9cf677b612bda3bd5e0c312")

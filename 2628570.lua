@@ -2,3 +2,5 @@
 -- Game: Stellar Settlers: Space Base Builder
 addappid(2628570)
 addappid(2628571, 1, "3d8f02ab298debf84b3210ecc847f8439a407d8de7c7ec0c40cc66ef8fa81aac")
+addappid(2628572, 1, "b88d7a78dfe127bd0964901f250dc5ecd00a06a81c4b96ee3068197625076d06")
+addappid(2628573, 1, "13d84019b3ef433647851bf73205b2c86e07ac2a16685ae0f974a8067ce0b14c")

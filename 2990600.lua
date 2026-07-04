@@ -2,3 +2,4 @@
 -- Game: Fireside Feelings
 addappid(2990600)
 addappid(2990601, 1, "aae4bf07dac8d99321f05cb5705bb9bb589342afe7871143d0cf26cd13355c75")
+addappid(2990602, 1, "7bdca625b4c2f09e202a3a1d7b41a4885193beaa35ef559f11720a901fc1204d")

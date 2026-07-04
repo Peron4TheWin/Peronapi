@@ -2,3 +2,4 @@
 -- Game: Escape Doodland
 addappid(670930)
 addappid(670931, 1, "6c44e770413df3a5064b55c6c6dcadbc3a8204885cc448f4eddc237a0fe60ae1")
+addappid(670932, 1, "e45fe4832d60c1b4368bc1d52526c1a8f1b299c8b7ea09d486fa0366eff5820a")

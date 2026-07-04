@@ -2,3 +2,4 @@
 -- Game: Let's School Original Soundtrack
 addappid(2533550)
 addappid(2533551, 1, "e641210eb992a5b8bcd554c4dd6d31f515adeca2ebbf1f68189a51906ea6df8a")
+addappid(2533552, 1, "af9c0666da549d57124c69d007ce6c706f800f6cf5437dd5358364213db3c82e")

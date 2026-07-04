@@ -2,3 +2,4 @@
 -- Game: Chinese Parents
 addappid(736190)
 addappid(736191, 1, "cc96b6ac27f49e3e8e11b5e09bfeb0c7771b37e65e82d2056120641af6b74009")
+addappid(736192, 1, "53a83f78b532eea9d397ad38a048ec66c6b01992370bc8ab03f73b27c6a42da3")

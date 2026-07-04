@@ -2,3 +2,4 @@
 -- Game: Cheeky Chooks
 addappid(922460)
 addappid(922461, 1, "892104544bfb255a2360ccb73c3a9fde49d5fb33848c16e988fded0fa79aff58")
+addappid(922462, 1, "612f9ca371f08e8ef11b55afcecbb2f0c6753bb31ee87d16f3037ad67bca5f46")

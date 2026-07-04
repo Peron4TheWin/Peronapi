@@ -2,3 +2,5 @@
 -- Game: Nanotale - Typing Chronicles
 addappid(944920)
 addappid(944921, 1, "7092cfc3cffaccfbb6449f93db4134530a9dcb13330e53b7a45c603b251421e6")
+addappid(944922, 1, "a435a3c96bd7522f70c8a83caf64a0e27505a5938df9f1f6b1a4b2faab5f9f30")
+addappid(944923, 1, "901b40fa466d2b14907ebf3f8642fd0ba1ebd04db0d8493fe880c67f8b589e41")

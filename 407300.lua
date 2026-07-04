@@ -2,4 +2,7 @@
 -- Game: The Last NightMary - A Lenda do Cabeça de Cuia
 addappid(407300)
 addappid(407301, 1, "2be6ff71c71672c9263fdcd22f946224cfb135626237bcc1b56023f14ee34147")
+addappid(407302, 1, "1fb95583ab83d8dc61efc57221e73334c7e0fb0cc3118f33ce85c85e6eb2322c")
+addappid(407303, 1, "b795032d709abc3ebd1c245099520d7e997dbb7f4bec1d81571bb41fab267580")
+addappid(446861, 1, "2c7f3ee356dc5d9ba8fcc480c00594124765cb64c18ba4d6098cadc5f9891e34")
 addappid(446860)

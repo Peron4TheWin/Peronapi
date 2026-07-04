@@ -2,4 +2,6 @@
 -- Game: Siralim 2
 addappid(464620)
 addappid(464621, 1, "817177cd32660bfbf7c1ca3a008e65c2f784f859abfa9ccdcc6e6374c1f0e6bb")
+addappid(464622, 1, "ecad51f781c5860924fb1b94ef6028c0e9cf625719aa1929bbb50b269fd6da19")
+addappid(464623, 1, "7a700aa6f61be35334271076b84a116ed9dcb9c509e92ec256132a78e3ced5fd")
 addappid(509500)

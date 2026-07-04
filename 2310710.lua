@@ -2,3 +2,4 @@
 -- Game: VONA / She
 addappid(2310710)
 addappid(2310711, 1, "2f027fac09da8777d0077d1b54dd6ced89470b3ef40f6ab1fcd12e920ffb5d31")
+addappid(2310712, 1, "f668ac2c35ef6d3c10012eaab6f5f50f5d03f743b66237fa2f66af1fa98a2fc6")

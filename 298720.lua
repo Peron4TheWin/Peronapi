@@ -2,3 +2,4 @@
 -- Game: Gone Home Soundtrack
 addappid(298720)
 addappid(298721, 1, "1d5adeed0e901e0ef3dce609022f2f648c3fdfe4452c156b46ffe05d4db62537")
+addappid(298722, 1, "59587558d5a4f100e0703aa35a7e60d45d35faa287b6469a9395f9ab73d3718a")

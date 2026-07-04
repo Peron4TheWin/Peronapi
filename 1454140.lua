@@ -2,3 +2,4 @@
 -- Game: SUPERCHICOS
 addappid(1454140)
 addappid(1454141, 1, "f84d1a00354f6ad47bd127e88eeb1ad32cc82a7c2052b7773cbee0025ef9047d")
+addappid(1454142, 1, "d611a627b8ae4753705973f60df6ed8b8b0f6f16b30db877e653aaa8eb9fe945")

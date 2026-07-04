@@ -2,3 +2,4 @@
 -- Game: Rhythm Fighter
 addappid(1198400)
 addappid(1198401, 1, "aedf9958b68fdcbaec0deab876e37c7fb1a75e7d4dea23df4011931bfad3dcea")
+addappid(1198402, 1, "200dec4f3d72dc8ac75c95b2436495d0ab7cb67ee35da3902058355cccaa6167")

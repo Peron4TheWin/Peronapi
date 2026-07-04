@@ -2,3 +2,4 @@
 -- Game: 7'scarlet
 addappid(839450)
 addappid(839451, 1, "9caab3ef346d3443dd237b451b7ee7b5fe87a8ecdb5426ff9c6de2e4f7450f45")
+addappid(839452, 1, "77a8cf349b65e89ef84eaaabe481127a08d7d5e8f4ed455861b68e618cf12ffc")

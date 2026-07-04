@@ -2,3 +2,4 @@
 -- Game: The Wanderer: Frankenstein’s Creature
 addappid(966670)
 addappid(966671, 1, "f930ea907f110634c8ea9e0e1eebbf3fc77147e91c6cfa9dde525dcf41173a4f")
+addappid(966672, 1, "28eed11173c4cf90a04903a7087b0fdcfcf70a712613bf5875421b9c3875dda1")

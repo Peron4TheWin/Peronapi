@@ -2,4 +2,10 @@
 -- Game: SILENT HILL f
 addappid(2947440)
 addappid(2947441, 1, "5329bd39507637997739c33a4b5737f9539ee434a7b79bd875b5fc7d1337c684")
+addappid(3282721, 1, "fd38a70c015f046a880fc4db0487fcccdf05e009b286cc4175abdddf61511342")
+addappid(3282160)
+addappid(3282170)
+addappid(3282180)
+addappid(3282190)
+addappid(3282720)
 addappid(3516200)

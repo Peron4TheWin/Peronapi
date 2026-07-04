@@ -2,3 +2,4 @@
 -- Game: Sudden Strike 4 - Soundtrack
 addappid(1341590)
 addappid(1341591, 1, "116efd497dbf6c981578d0f841e7f9f397e16f3096452a1aa39c07b948ece356")
+addappid(1341594, 1, "e21bd5ec761ad76917f9d35ce003f8f70aad0e7ab035dcebac0268f3039c3dc2")

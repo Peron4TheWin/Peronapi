@@ -2,4 +2,6 @@
 -- Game: EA SPORTS™ PGA TOUR™
 addappid(1677350)
 addappid(1677351, 1, "35926dbbb1966047e99f70059b05fc88298e874d0e6ca2b90bd37d5bf6e9028d")
+addappid(1677352, 1, "36d9ae111d606396ade5b1ab43997daca111cf50de39988b97177baf9c13fc4b")
+addappid(3340991, 1, "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491")
 addappid(2337580)

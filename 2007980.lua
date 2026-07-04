@@ -2,3 +2,5 @@
 -- Game: Misty's Shining Blacksmithing
 addappid(2007980)
 addappid(2007981, 1, "c1f06946752378b7d9bee81622fc9075fdfe8ac2dc8cf6a6245aaf2acced0e1c")
+addappid(2007982, 1, "bc590f696a581ae66b450db623456a77d966e3a72ef5cbce8c443dee2e3235af")
+addappid(2007983, 1, "6d78ffe9abffad41ff9d8d94f9d32bef0f051079dfae07242b5f7ceb74d6cf34")

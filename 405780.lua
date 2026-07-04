@@ -2,3 +2,6 @@
 -- Game: Alpha Polaris : A Horror Adventure Game
 addappid(405780)
 addappid(405781, 1, "77a05040f30f0808d6566bb0b02283981c33db3c17c3a53f98707eece2eb4c18")
+addappid(405782, 1, "cf3f6eff9c7233596dc1338c6e3eabc3a9242b0a1911d0482efab2a473d91144")
+addappid(405783, 1, "1b867faed56248380d20fc4549327f86d514dd36644232a3c6ba581fe0712eac")
+addappid(405784, 1, "a83ae1fede60a678bfe361dfb3ab85b632d810c980429b0ac4b482d4c3b82dff")

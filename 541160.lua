@@ -2,3 +2,4 @@
 -- Game: MC Lars: The Video Game
 addappid(541160)
 addappid(541161, 1, "a301454fa8d67c94b67a025f7d13aa77301958de9544cf94e9b088e939f8c07f")
+addappid(541162, 1, "4c18cd1fab7f43aefc243b563d4393f9fd6097115f34d8533f4b2bcc06008c4b")

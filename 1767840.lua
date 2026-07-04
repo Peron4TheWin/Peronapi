@@ -2,3 +2,4 @@
 -- Game: hOrnyWars
 addappid(1767840)
 addappid(1767841, 1, "eb8c3e817aee3f974ec87047e6dc9d9b5b231dc57981c71bd2cd90efbc8b1e2a")
+addappid(1767842, 1, "a9df18464b81ff86ae8d92f53e7b04b6943048de73226153ebc802e6cd701e75")

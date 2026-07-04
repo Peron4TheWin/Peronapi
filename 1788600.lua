@@ -2,3 +2,4 @@
 -- Game: X4: Tides of Avarice Soundtrack
 addappid(1788600)
 addappid(1788601, 1, "fcf9bc07e6a0f80a2a33b4d38c27d8bc3da2e35219ed1563a518e8f17bfd542d")
+addappid(1788602, 1, "5d7ae69e7b714a91010ee5e755d09cda7a791426b7d330de9b4ecbd99b7672ea")

@@ -2,3 +2,4 @@
 -- Game: Vertex Dispenser
 addappid(102400)
 addappid(102401, 1, "7fd36631cf6af92572a0099492299b195dea09fdf0c0c429bb9e99ad8c2a21e6")
+addappid(102402, 1, "5252a937cf829d76b2e7abbb52dd8c7d4cc38d593d65084c7148e5310f913fc4")

@@ -2,3 +2,5 @@
 -- Game: Three Heroes
 addappid(380020)
 addappid(380021, 1, "e6aadaee2ce22bb1215866cea266fb9de657d099834ce818eab86e4155a25ede")
+addappid(380022, 1, "a516c772d462709fd6fa8717404bf608e5f3dfbb1de09cf6cdbd1f3218610805")
+addappid(380023, 1, "75d0f0f51d5d24c9d6cfabadd3ade2fb1f418448cae20599e6f6b00e652ace8a")

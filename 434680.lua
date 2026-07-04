@@ -2,3 +2,4 @@
 -- Game: Lamia's Game Room
 addappid(434680)
 addappid(434681, 1, "a3b0d3e23c707bf203ca8d3df205a839f2aece42e4189e779af6fd47e6f3b8ac")
+addappid(434682, 1, "38fcd7448340f6e0a5dc1990cdf70a293bc1fd2efab990be1e88b3d2c63fb1fb")

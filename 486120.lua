@@ -2,3 +2,4 @@
 -- Game: Escape The Past
 addappid(486120)
 addappid(486121, 1, "639994c4777eae5cd0794ca29f9489f8801268e3f6d988c19d5bf78bc43eaa8c")
+addappid(486122, 1, "56fb2020d2e7a80720d62116a640f21864c1ba7268cb81e87a5b4787beec5fc0")

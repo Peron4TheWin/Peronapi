@@ -2,3 +2,4 @@
 -- Game: Witch Cram Sorceries
 addappid(2535780)
 addappid(2535781, 1, "8204d71b95a5265285fdd21d2bafdf6d27dc90ecfdb57aafd42cb0019ede9b68")
+addappid(2535782, 1, "fc43a095f7f654a66acbe4aae9fc1cc12b495c9af9c15db7c5a0b0192f4e022d")

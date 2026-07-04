@@ -2,3 +2,4 @@
 -- Game: Coronavirus - Nano Force
 addappid(1341980)
 addappid(1341981, 1, "f88258fb042031d70915b913896936e50e0626b50c8ec47d6f61fd820822f2a9")
+addappid(1341982, 1, "296f15c0dd9a7ae5864a9c68d1a30fe10c2c04ddedd8f27fe61d7a1f933ee539")

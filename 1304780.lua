@@ -2,3 +2,4 @@
 -- Game: Nongunz: Doppelganger Edition
 addappid(1304780)
 addappid(1304781, 1, "0f7f6330577fe9b2892736973592b83762c7277fa554d32e6c75c28511442a6f")
+addappid(1304782, 1, "d1b6fab2167cfa65565840d2abe4f4f01b8cf19f82ffad5596838e2a565efe19")

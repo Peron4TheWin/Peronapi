@@ -2,3 +2,5 @@
 -- Game: Bridge Constructor Medieval
 addappid(319850)
 addappid(319851, 1, "91fef98bace52c19aef6bf1ffcbf869140013b9aa726e307c9d6f9fc9c1ad327")
+addappid(319852, 1, "533c1831a3d91946bb73ef1efed79fe93f9e262270764e47b14bb08629c40b74")
+addappid(319853, 1, "f055efacd7da95152b85cc6daca783922d02a7042add6c5caa7e9e134c731094")

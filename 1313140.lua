@@ -2,6 +2,7 @@
 -- Game: Cult of the Lamb
 addappid(1313140)
 addappid(1313141, 1, "e7826851aae21726cd847e809a97378d381ba16449186ce1cdb57c572d703460")
+addappid(1313142, 1, "242e4da3afdadce6aa2329f9f1c8c71fe09c06f51a80c105a444734a12c9e3f2")
 addappid(1944680)
 addappid(2013550)
 addappid(2015880)

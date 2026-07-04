@@ -2,3 +2,4 @@
 -- Game: Dungeons of Hinterberg: Original Game Soundtrack
 addappid(3064440)
 addappid(3064441, 1, "d775b2326aaf5441963499cbdc5657da1b024717bd0735631de3f2cdb7c15e5b")
+addappid(3064442, 1, "a36b6c073d5190bc596ee8b4fd437493c5b3b1c836ee148f7534e51cbfce9bc0")

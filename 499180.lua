@@ -2,3 +2,4 @@
 -- Game: Braid, Anniversary Edition
 addappid(499180)
 addappid(499181, 1, "9c09d267bb11180854133d4cc05cb880cf6688a494be5cea452521225de40556")
+addappid(499182, 1, "7052801e7e0590376a4def30e1bef95c91a8e2f7de45bfa619a723b82ad2513c")

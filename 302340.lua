@@ -2,3 +2,6 @@
 -- Game: Tex Murphy: Martian Memorandum
 addappid(302340)
 addappid(302341, 1, "d84b667ae8ff6b1d22beac1785fe2fe6d46ba808f72c5d6cf8accb96a1c3ce47")
+addappid(302342, 1, "ef0d615debeba646f7046b64b0ed31e319d49ddee53f795164f0e912eeb84616")
+addappid(302343, 1, "b9c083daf748206799ed69547ccbc7cb2cbdc7506ecf0ec082a764d0c1adf525")
+addappid(302344, 1, "9c0729fbe804bf051c0a3729ea784f8718fe3c643e96ab8a8b06c6f336727e8c")

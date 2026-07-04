@@ -2,3 +2,4 @@
 -- Game: Sweet F. Cake
 addappid(440640)
 addappid(440641, 1, "14b2cf9574a475e6f70ff8a47096182eaa161dc7c58addc2964262bf9dfdf465")
+addappid(440642, 1, "911cabd72656eed27426b699e5c6c44f015e445c44d2f192148ec5beea81e302")

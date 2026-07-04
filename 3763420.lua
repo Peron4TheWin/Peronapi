@@ -2,3 +2,4 @@
 -- Game: Upwards, Rain! The Post Office of Farewells Soundtrack
 addappid(3763420)
 addappid(3763421, 1, "e46d2ebd5370c5f0ee6e6045174e5ab1a57cba2c8ed2ffdcda266b9dbd3994f1")
+addappid(3763422, 1, "b184ff8f4d8ebd3b6bf7108cb3e8b68cb1ee3b07d0d189981701609e59de9d64")

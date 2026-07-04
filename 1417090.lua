@@ -2,3 +2,4 @@
 -- Game: NEON STRUCT: Carrion Carrier
 addappid(1417090)
 addappid(1417091, 1, "c36846fb3250fa9d818a36f403a0937feb40f5c8bcc5adf4da8982e62bbf676c")
+addappid(1417092, 1, "83d77169d6575efef9ea89eaded93a1eb9aefdf18835c5a5b8e1cba2bc738529")

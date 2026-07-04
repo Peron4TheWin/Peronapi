@@ -2,3 +2,4 @@
 -- Game: Pathfinder Adventures
 addappid(480640)
 addappid(480641, 1, "b1ea9a941fd2e0331273f1241a4bd68255ae31539cda727009946c5d7043040f")
+addappid(480642, 1, "d7b06b13479e122edfd0fbdb2ab42580140365adccf0ed6f1e3aaf7ff2f4297b")

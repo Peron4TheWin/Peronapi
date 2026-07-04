@@ -2,3 +2,4 @@
 -- Game: The Book of Bondmaids Soundtrack
 addappid(1945580)
 addappid(1945581, 1, "a8f97c8e73301ea956bf7fd95f2e581774a6d99db2420701e5ed9542dbf7a11d")
+addappid(1945582, 1, "712fb2d3807c8b9f462a7a344e033c4dda046a867b5b2228148eb0f6e5f1c413")

@@ -2,3 +2,4 @@
 -- Game: Donut County
 addappid(702670)
 addappid(702671, 1, "ee51798cc0ce0fc169799ed5c72f5e3ff3156d0aea7d8fdf1584352144da2554")
+addappid(702672, 1, "2146890c4f8a2b73b387fca437e0577c0103bf94f4aaa0364c3c417f3e7993b5")

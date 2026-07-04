@@ -2,3 +2,4 @@
 -- Game: Near-Death-Expedition
 addappid(3105150)
 addappid(3105151, 1, "73614ae6bf2558e9d63ede2aa9269337d3fc916d517d1170bab8ef87f52d1071")
+addappid(3105153, 1, "5f346f2dd19e84201866b18ab55c807129b62b9ffc35787c5b2e46fde8d1c473")

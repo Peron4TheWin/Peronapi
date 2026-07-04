@@ -2,3 +2,4 @@
 -- Game: Terminator: Dark Fate - Defiance Soundtrack
 addappid(2842170)
 addappid(2842171, 1, "076a283ff8a1de7c220575f20607bac9b7bd9c30cc3fa1324b6419d9a964a163")
+addappid(2842172, 1, "07fc608ba67d71d07de3d49ab31eddce86d0751afb92c04c9f05d943195f084f")

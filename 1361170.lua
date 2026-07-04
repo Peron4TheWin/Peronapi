@@ -2,3 +2,4 @@
 -- Game: Trap Legend Theme Song
 addappid(1361170)
 addappid(1361171, 1, "9b45f2f64b2f52607cbe870f70c5f4e7d39d9972d00c02cce4c201c131182392")
+addappid(1361172, 1, "a50be470f33630710680c5a934df4954eaab347888f75d03ceccdca4a3ad3450")

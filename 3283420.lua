@@ -2,3 +2,4 @@
 -- Game: Coridden - Original Soundtrack
 addappid(3283420)
 addappid(3283421, 1, "beb3e1bd1cb19e3f19e4b325ca9ac3f5e49048d953cb71106d5dfa6d67ae4200")
+addappid(3283422, 1, "8ad8c8e9156a6a4fa9e1ce119454aada7a00ee7789959636427a4f04ae2226ea")

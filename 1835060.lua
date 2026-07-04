@@ -2,3 +2,4 @@
 -- Game: Christmas Celebration With Sakuya Izayoi
 addappid(1835060)
 addappid(1835061, 1, "bca34b3192461e41caf375f6bb0ffa0fdba64d5f3089de63b7ee942d1e081f10")
+addappid(1835063, 1, "66d038a619f69e3a1869219d64a8188a5c633cb3d2971d5366f31dc70a30c6c2")

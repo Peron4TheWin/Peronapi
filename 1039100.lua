@@ -2,3 +2,4 @@
 -- Game: No Place for Bravery
 addappid(1039100)
 addappid(1039101, 1, "5a240d10cf8b787bba2e756cb262c5b4fee826f9664cba84e8c8ca4f637bc936")
+addappid(1039102, 1, "ad7e130e498834c174e7c0fd9ccdf5ee5613a3de80841a2ce16bd7c1bd147419")

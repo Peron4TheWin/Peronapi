@@ -2,3 +2,4 @@
 -- Game: Sweet Collector
 addappid(1860500)
 addappid(1860501, 1, "9f7e42a5778717d4237fcc8f09a3bc2873e6c406fb98db5fcd04121ed62fcb58")
+addappid(1860503, 1, "5d68440a8f7edcc2ac3f84fcfb62f94f6a72dc81110d1ec2ebb1cf137230390e")

@@ -2,4 +2,6 @@
 -- Game: Santa's Special Delivery
 addappid(564420)
 addappid(564421, 1, "d0f6e2f6ad81cc73b5686afbf6ab8536fe030b865123210e17728e1d2f7b5ec0")
+addappid(564422, 1, "2c28543d876d2ca3624d34a195384eff304bec1bb39b807197e0af28facdaeb1")
+addappid(564423, 1, "095bee29082f33dcc71d107db77cb5a6541cef4050e1b43d14a8a9a8cb56f825")
 addappid(568170)

@@ -2,3 +2,4 @@
 -- Game: The Entropy Centre Soundtrack
 addappid(2185130)
 addappid(2185131, 1, "d7571578aad7612fc00c4e56b8abc77d089478581926971eb882dd1a0e4231e8")
+addappid(2185132, 1, "2651366bccc20f833a14ca6df29ba5e45fcfd8174e153a46c3af9a11779ecdd2")

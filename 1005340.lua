@@ -2,3 +2,4 @@
 -- Game: Myths and Legends - Card Game
 addappid(1005340)
 addappid(1005341, 1, "12edebaeab10ba6b0028cb95b5fee2ef8b8517ce8c722fcfc646f872a7727514")
+addappid(1005342, 1, "f7b645a0c4a2ac6259b4677812bae31cc4975730442410ba4522b29365c491ff")

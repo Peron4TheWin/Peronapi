@@ -2,3 +2,4 @@
 -- Game: Slimy Sextet Soundtrack
 addappid(1834830)
 addappid(1834831, 1, "f49777a71da7b2d68278a04706042f31acda3ebffb3beec9b2e4fc1bcfd163ce")
+addappid(1834832, 1, "23670f7def257f0fead0d4ace515d1855c2ae1381b370dbf91f683f134c468d6")

@@ -2,3 +2,4 @@
 -- Game: Discontinued
 addappid(2001960)
 addappid(2001961, 1, "d2e534d55c5073df13aba152aa772eaa682a327184d2ad28168baad2985778b1")
+addappid(2001962, 1, "f79b2b35f1b9fe180b74e6d6cd8e7d3d861a13ac70f5928be7c14e5f4f8d6477")

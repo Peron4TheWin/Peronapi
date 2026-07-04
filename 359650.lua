@@ -2,3 +2,4 @@
 -- Game: Star Trek™ : 25th Anniversary
 addappid(359650)
 addappid(359651, 1, "ac6816dd9a42bbfd8034f315381158e7b7a49d458098e5bd3f6031f7a5665321")
+addappid(359652, 1, "5ee35964de5a52daf8d7e5b2274e1ccd6ab9387e2fc954f05005bc44ad59adb9")

@@ -2,3 +2,6 @@
 -- Game: Holy Potatoes! What the Hell?!
 addappid(664320)
 addappid(664321, 1, "db029acaee111e3055d541fa5735ea4fd626bc8c4d407ab0258ac87d7beca82d")
+addappid(664322, 1, "f91ab9e7ad3f0e331c39f6885b8d9e83174ab37101b4a51f447b380be8d085ff")
+addappid(664323, 1, "5a9bf66ffa1b335de4b4221764c3eed0cd9bf770139be95769d5c2377b1a721a")
+addappid(664324, 1, "cf892d87152aadcd15f2d9ea38c3f3e9fca261b7e35915660eecc65f9d613147")

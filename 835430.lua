@@ -2,6 +2,7 @@
 -- Game: La-Mulana 2
 addappid(835430)
 addappid(835431, 1, "125afe137ac010a2771e77e32474a163e6199440eb1dc07c5da6abb5ef798490")
+addappid(835432, 1, "d6863d07390d03db7737df30ff46dbc6cea73f2e843559d80ee1d712cbbaffa0")
 addappid(1279290)
 addappid(1279291)
 addappid(1281910)

@@ -2,3 +2,4 @@
 -- Game: Princess Paradise
 addappid(2765080)
 addappid(2765081, 1, "ae2c3b5afd554e3407b7ce517cee4019f04144d6bedf133184a333af5175925c")
+addappid(2765082, 1, "c80077f67571dfe96b365f49b8555c95caac4026ad58744745b4b75e7bdb508a")

@@ -2,3 +2,4 @@
 -- Game: Arma 3 Creator DLC: S.O.G. Prairie Fire Soundtrack
 addappid(1616620)
 addappid(1616621, 1, "55621765272f1ec180fb42a84aaab5c2e8779b05f73b2dc570b0a823c71d475a")
+addappid(1616622, 1, "9110e2a79a3a6fc7c9506845d9ad0c656cfd2959b576009c703b5338e140d4ff")

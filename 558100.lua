@@ -2,3 +2,4 @@
 -- Game: Art of War: Red Tides
 addappid(558100)
 addappid(558101, 1, "55b7dde689213ff8932e2b64887d8fcfa1fee81f59ac7079c02f38f9f7a33d0b")
+addappid(558102, 1, "5ddcd318af063361839da6e3dffe44a3e8adfcd8c5cc003c18bf99212715a750")

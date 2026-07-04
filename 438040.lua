@@ -2,3 +2,4 @@
 -- Game: Shakes and Fidget
 addappid(438040)
 addappid(438041, 1, "b448ebd8dc78bb6ff828b503f6edef77c6d7de03e8eaff8aa8b260609b60853f")
+addappid(438042, 1, "dfda66eeeb211973e41c707a628da22ae743c41215ccc61fff381fb911bc2b0b")

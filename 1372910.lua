@@ -2,3 +2,4 @@
 -- Game: Project Crimson
 addappid(1372910)
 addappid(1372911, 1, "b7a926c71b179ef0de6a28e0a891a3de824dc483ef9a4fbc41edfb984ff7fa2c")
+addappid(1372912, 1, "8029acf59f4bc934ac30e5d2d05f9fdef5ccc8cc0e99628934f69cfe72a444ae")

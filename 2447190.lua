@@ -2,3 +2,4 @@
 -- Game: Hyakki Yako: OH&S
 addappid(2447190)
 addappid(2447191, 1, "227204338be6cb1ccb771a553c0d81d71fa6f8be6bbebad419e8ba1a8f40f37f")
+addappid(2447192, 1, "ba205dd9934b95ed38ef6ed7061a3a038aac973714d51a5087a697f3e7f2e30e")

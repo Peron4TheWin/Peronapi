@@ -2,3 +2,4 @@
 -- Game: Sakura no Mori † Dreamers
 addappid(749520)
 addappid(749521, 1, "ddc747e6f72b845defd7e93b18af19f763555c7c256ab873f7bc333d9870238b")
+addappid(749522, 1, "1d189b497c4c0f56b9ecf8bdc2483b9c68c8d749a9985eb820d4636c8486c21e")

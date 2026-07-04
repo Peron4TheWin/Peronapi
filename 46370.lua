@@ -2,3 +2,5 @@
 -- Game: Rig n Roll
 addappid(46370)
 addappid(46371, 1, "1bae199850581bf990c71b10d91ffce74d9ebef41b3ad2721fe7c3de8a4047f2")
+addappid(46372, 1, "8eb448aeb34a245cc5d0fed79ff647813e3196b9c1c51c53b815cf9424f5937c")
+addappid(46373, 1, "70af19195266913de50514f53b54e9fcdec1ffbd76b03ba88daed774896c9ab8")

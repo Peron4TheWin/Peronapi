@@ -2,3 +2,4 @@
 -- Game: Phantom Thief Mew's Secret Prima
 addappid(1728390)
 addappid(1728391, 1, "05afe43b61b4bf6fa2fbf962c5170290e09e3594c2ba674d4351125abb07377e")
+addappid(1728392, 1, "c46c20fc0d7021a679c0229f4ef014e21350ea0f96a8017d55fd1981e8bb542a")

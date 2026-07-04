@@ -2,3 +2,4 @@
 -- Game: Digital LimitedPack [OST + Art Book] (Touhou Genso Wanderer -Reloaded-)
 addappid(942210)
 addappid(942211, 1, "e6a4e1db24b93a33a5ca632586a9c03877ec17268a080f286d3480f8bc2502e1")
+addappid(942212, 1, "9bb73a3cdca164fb567b2cf05bbd50247ced9d4927c8f080b11b64e4fc3c699c")

@@ -2,3 +2,5 @@
 -- Game: Death of the Reprobate
 addappid(1739900)
 addappid(1739901, 1, "f60c04c5b2980283b4c5d039d40f5d396cd96645a1d1b69a7d091a2d0f5a699d")
+addappid(1739902, 1, "f5a037a2782ceea62cfeb4cb06568235221abf5737435b2ecbe5f08aa60cc655")
+addappid(1739903, 1, "fcf6fbf0b5abeabeeef1cf4e3463ebbaca9679d42d30e3cac0788d444a468806")

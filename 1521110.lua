@@ -2,3 +2,4 @@
 -- Game: Black Baby
 addappid(1521110)
 addappid(1521111, 1, "eb6f22756b510fec718e89d8a35c2d630c91ff69fe3fd689b576fbcab889f22c")
+addappid(1521114, 1, "8019b3b3e3370fee161bd3ff2634cde065e52d47e48b70d6aeac7f7d8016ee80")

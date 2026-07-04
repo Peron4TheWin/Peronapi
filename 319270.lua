@@ -2,3 +2,5 @@
 -- Game: Great Permutator
 addappid(319270)
 addappid(319271, 1, "089e263cfdfde1a3d545b9832659dc54b19ef2b00300a15ecd623c0eb9bb4e46")
+addappid(319272, 1, "da735747a8ea81cd05ab69d0b5bc5e4d67d98a7fe133f2ef002f4cc820268776")
+addappid(319273, 1, "6ba47c98cc7a102a0b84af0b24a002a3353973fa6b78b86e5dad81f60c78e595")

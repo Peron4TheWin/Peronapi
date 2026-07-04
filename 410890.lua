@@ -2,3 +2,5 @@
 -- Game: Higurashi When They Cry Hou - Ch.2 Watanagashi
 addappid(410890)
 addappid(410891, 1, "b445e5f84842421c5fc764729b6cc86f0ef5d048dd010c021298fcfa56f505a2")
+addappid(410892, 1, "dd4f857c528da04bfb83c3a04cd160fcd173553953d26af0af4aeb9f0fa05bbf")
+addappid(410893, 1, "87a24efe6ba41b6406c7ea53121bb95bde74e8906de388f629daed76e45b4ed9")

@@ -2,3 +2,4 @@
 -- Game: WitchSpring R Soundtrack
 addappid(2666070)
 addappid(2666071, 1, "82943f18543d68a94fd6ff4001289a4ca36a06a5ccb23966a037fdd883b8fb81")
+addappid(2666072, 1, "0fcecdb46ab351fdd6d349b018549d0ff24ae5fd8593c152d40560d3a1f5e2e1")

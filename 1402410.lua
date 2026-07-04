@@ -2,3 +2,5 @@
 -- Game: Funny Business with My Precious Coach (Anipuzzle Series)
 addappid(1402410)
 addappid(1402411, 1, "10c85c7cc7719c77b0b9323c119da2c45014a762ede309865c7542d0587c8fad")
+addappid(1402412, 1, "0d6e293783df5a82504738d4ee26df529c0d07a3051c99beba76a1b4bc579834")
+addappid(1402413, 1, "cb8525eac45c34ad04a7430962e8321be188d84b7a1919668dd0e5529f008f88")

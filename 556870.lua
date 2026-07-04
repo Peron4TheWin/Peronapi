@@ -2,3 +2,4 @@
 -- Game: Charlie's Adventure
 addappid(556870)
 addappid(556871, 1, "3c648260e4e0ceceb1bfe83c48d6b55f3e146621decffc0f63e4f8be84f7b7ba")
+addappid(556874, 1, "ad2c9081a8a3baf3037313bcffff99dfd80408c87a5187c8fcf0ae6760ea960d")

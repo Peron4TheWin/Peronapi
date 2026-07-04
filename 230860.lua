@@ -2,4 +2,5 @@
 -- Game: Cannon Brawl
 addappid(230860)
 addappid(230861, 1, "6268a83a57ef6a0d5bd61daef9c0bd11c8e74a20601275a65f7465cbf5a96fd8")
+addappid(324920)
 addappid(367310, 0, "abd8f32b0b87284d391e0cca491a1fc5c82e361488a5744a666695326e186789")

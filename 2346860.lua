@@ -2,3 +2,4 @@
 -- Game: Sex-Loving Family - Voice Drama Set  -
 addappid(2346860)
 addappid(2346861, 1, "22a5b5e54e78fd57e23a8e3fea4b8304184b57e631d7856894613109c80d8e76")
+addappid(2346862, 1, "54bacfca37c992e3393f20c4c46f84f9ab4d357724812adfaa97c8c58a8a68a0")

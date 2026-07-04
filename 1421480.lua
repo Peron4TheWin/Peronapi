@@ -2,3 +2,4 @@
 -- Game: Mafia: Definitive Edition Soundtrack
 addappid(1421480)
 addappid(1421481, 1, "c703f0ad825f17cd127af65bdc171438ea1bf97f81c01c6caa9a9d62aa27aa68")
+addappid(1421482, 1, "392719da2d30688cb6ab03883c3d1629e4dc80696ee749390170737060097ec2")

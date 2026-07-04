@@ -2,3 +2,4 @@
 -- Game: Mage Kanade's Futanari Dungeon Quest
 addappid(2258940)
 addappid(2258941, 1, "5805a1def56eab7e486914754f6c6318441c2ad0dd9c0ef0dafc76a6e52e6918")
+addappid(2258942, 1, "4a4ed1de702ab3ecc759d28be263c036c8399cfffb72fd46884e3c055060dafb")

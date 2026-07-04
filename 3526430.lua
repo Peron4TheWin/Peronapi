@@ -2,3 +2,4 @@
 -- Game: Pipistrello and the Cursed Yoyo Soundtrack
 addappid(3526430)
 addappid(3526431, 1, "c771d75fc845a853b263ac460dd39766371ba99d7d0e54252137404caa5e7e6b")
+addappid(3526432, 1, "608648a83b09820a19f603ae901a2b9036762839d76db3101a22eedf46a64ab1")

@@ -2,3 +2,5 @@
 -- Game: 3D Arcade Fishing
 addappid(534910)
 addappid(534911, 1, "7e90c704af6787088c2d9f4d5536dedf93df5cebd1cc768e16f17b5b4d9fb058")
+addappid(534912, 1, "de68b0df0426ae9865eebd4a2a39d20d36b3deba0ffb6a994bc6087b824a7ebb")
+addappid(534913, 1, "faa8edf4e21f2290ea7d78d71d9e9249b1eb371a332a5793bf17442ebd467805")

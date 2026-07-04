@@ -2,3 +2,4 @@
 -- Game: Mitos.is: The Game
 addappid(389570)
 addappid(389571, 1, "3ad1880aa4488c4945d57bc1a3b1c6bb73d8eb5e75bd65f7439e2ee3a7f390a8")
+addappid(389572, 1, "96cea41b871106763a26fdef156c65b9ab8f383647c30b252b5f038de8777f12")

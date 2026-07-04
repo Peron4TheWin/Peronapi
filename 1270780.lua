@@ -2,3 +2,4 @@
 -- Game: Elemental Defenders TD
 addappid(1270780)
 addappid(1270781, 1, "7c6563b3e09578e94844afe66a2882a1e1895158955427609ad73be9a5f2e62c")
+addappid(1270782, 1, "74922fced0fdc7a1adda92cae20a35e7a719df807e83382a3cef5d448a1eb07e")

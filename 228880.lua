@@ -2,6 +2,9 @@
 -- Game: AppID 228880
 addappid(228880)
 addappid(228881, 1, "b9b0bf201628ddc31beec4252fd4b3780a24e5c5080350e26b46cca52acbf94f")
+addappid(228884, 1, "91b8f66e90e499e2ab456ad793b7e8d57c5c123e2e710e0b5898446d3cc9cc02")
+addappid(228984)
+addappid(228990)
 addappid(381650)
 addappid(381651)
 addappid(381652)

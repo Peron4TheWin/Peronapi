@@ -2,3 +2,4 @@
 -- Game: Nickelodeon All-Star Brawl
 addappid(1414850)
 addappid(1414851, 1, "53e7f3936af23e3ded4233db79608e2ed462e5ee21cda975efd9925d88210af3")
+addappid(1414853, 1, "f4705a3c9653ce0c59bfee78c7f817e574367b44c1878a1d3feeec8b161f494d")

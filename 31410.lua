@@ -2,3 +2,4 @@
 -- Game: AppID 31410
 addappid(31410)
 addappid(31411, 1, "f4b2c118d70277ea6fbf49bd6b3ef6f4fad74ce2f296fff1e1725e8b14c3a78d")
+addappid(31420, 1, "7724fdc545c86fbff2d817fb27350497695a66c48628f12c7aaef726f4078152")

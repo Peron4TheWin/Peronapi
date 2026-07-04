@@ -2,4 +2,5 @@
 -- Game: LIZARDS MUST DIE
 addappid(2532550)
 addappid(2532551, 1, "285c70c964acc39de31b246a1527bca7c2eb7b516ea5f5fa1ea9cb263a4eca68")
+addappid(2532552, 1, "3656030499db8d645f3c047f5946516c7a1fe6e42ee586cc94081ddac7ae69bf")
 addappid(2774700)

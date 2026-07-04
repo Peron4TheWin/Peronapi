@@ -2,3 +2,5 @@
 -- Game: Space Merchants: Arena
 addappid(548080)
 addappid(548081, 1, "9bafbdd9fdb43dc660e21f2a250230e87cfcf93f0223957bd1e5b84175f6b947")
+addappid(548082, 1, "41d286ee66b6a8329f7c496b1daba868a23d1df1468cf4ead08707b998ded099")
+addappid(548083, 1, "734a953af2ee55b39fe32349eeccb251551fb845f1bbd3940bd9755cd03c4ea0")

@@ -2,3 +2,5 @@
 -- Game: Resident Evil 3 Nemesis (1999)
 addappid(4249120)
 addappid(4249121, 1, "0a6f8590bf8328fa294f7102f3c7b6626d7b2acb1beb253984d33ebda81c71ac")
+addappid(4249122, 1, "cf2be876833b58ed52ee5433bad25567cf3653cdbed97cba7a25587722d05894")
+addappid(4249123, 1, "75355fe03a0ccb5b3cb8ed4db1ff846465f8b773738d1211e59e0ecdd39ef1a9")

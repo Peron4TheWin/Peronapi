@@ -2,3 +2,6 @@
 -- Game: Serious Sam Double D XXL
 addappid(111600)
 addappid(111601, 1, "ca03033aefb3688cad95e7a1f844d626633a18d65f4636a6cb2915705e4b7e89")
+addappid(228983)
+addappid(229002)
+addappid(229012)

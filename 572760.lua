@@ -2,3 +2,5 @@
 -- Game: Holiday Bonus GOLD
 addappid(572760)
 addappid(572761, 1, "0e4ba737668b61df45023efb0ed9cf601f278f8e4bc2dd823ef021c837d62fd6")
+addappid(572762, 1, "03b11ff865fd119864dbc5cb6e788c7d958642ad76077fc86f2f749eae60d88c")
+addappid(572763, 1, "b7db351fef82f1559d02f2b6b25e48d0e21bbb41697c4aafdc00b042fff84e2f")

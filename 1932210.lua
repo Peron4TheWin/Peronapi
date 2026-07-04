@@ -2,3 +2,4 @@
 -- Game: Takara Cards
 addappid(1932210)
 addappid(1932211, 1, "e9188b890dcb89bedea898c293e931705c7db2f8f280b7dbadebd952fa5ba30c")
+addappid(1932212, 1, "6eca36acbd37c293c23e73f42d55fe3fec47d7ba6e405a01137eec3353274b69")

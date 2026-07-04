@@ -2,3 +2,4 @@
 -- Game: Echoes of the Plum Grove
 addappid(1536090)
 addappid(1536091, 1, "3d3857b760b7b5ff52f50f5b402d4413a1e911ba3238c4b9ee9c225792fc32b9")
+addappid(1536093, 1, "69847c5909ab3810e703594a25197aaf86b1650459daa2f33e45c8ce5ba73bd7")

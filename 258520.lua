@@ -2,4 +2,5 @@
 -- Game: The Vanishing of Ethan Carter
 addappid(258520)
 addappid(258521, 1, "f62f6b10d1eb69c1edc93703ccd5fc419096c248f7b2c17f9da53580fc1c8431")
+addappid(258523, 1, "6dbfbb3d7c9c8050dbfba80049c5c6ad72a304fee07ba5c9371006023f345682")
 addappid(319930)

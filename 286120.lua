@@ -2,3 +2,4 @@
 -- Game: QuestRun
 addappid(286120)
 addappid(286121, 1, "0622d9f4e45c7670e637368cef9eea1ad4500822c7cb59cdd9e49c404a30a598")
+addappid(286123, 1, "24bd425ecdc0b26971999f7cc4c4e2eeaffc954eb67cb3e4445360f8a9fec552")

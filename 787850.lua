@@ -2,3 +2,4 @@
 -- Game: Heroine Anthem Zero 2 : Scalescars Oath
 addappid(787850)
 addappid(787851, 1, "944101793c6daada7db84031a37d763944da21e1c590e3241d2d678fac88d537")
+addappid(787852, 1, "adbb807bdd5f415f979c01eac1c5141b5953becf16d72bee61772845db219c30")

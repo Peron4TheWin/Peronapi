@@ -2,3 +2,5 @@
 -- Game: FlatFatCat
 addappid(690130)
 addappid(690131, 1, "93143799d67ae1c050fc1c927b2249136c30ac9bbc446989686555fabf2ffd26")
+addappid(690132, 1, "9ffaaa97b6590bce76add90ec48ea0623e0f0e1d6a6d5298fb2fbde56bcbfcd1")
+addappid(690133, 1, "45e8692352a2dbfe8c1cf7aa344b151fee55bcbde1737168348f397cf1f8df18")

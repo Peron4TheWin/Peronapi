@@ -2,3 +2,4 @@
 -- Game: Boo's There?
 addappid(2686930)
 addappid(2686931, 1, "5d88b50eda6da36c80605bd9488eb641cd2cf0928623c8da31558238ab94e9cc")
+addappid(2686932, 1, "fa44c78ea811f04d36e8fe9b6d6f5a13d3f67f3843dfbc54c9c3aeb3504ae566")

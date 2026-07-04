@@ -2,3 +2,4 @@
 -- Game: Saleblazers
 addappid(1419850)
 addappid(1419851, 1, "0a55957bc94d9449b32b00478cc33206b02bea57467d367badd10e05b4108a44")
+addappid(1419852, 1, "66ef23d25cff9bc223d0b614e9fad2a8dbe25786243a14f1e07fcb8b4861a4ef")

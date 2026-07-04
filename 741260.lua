@@ -2,3 +2,4 @@
 -- Game: Mobile Empire
 addappid(741260)
 addappid(741261, 1, "33c42ed49577186417020b6cabed76b2b91d39237fdb0e7acf0986da4c15af88")
+addappid(741262, 1, "9c34deafaf8157486353ac471122a46261c1e590dca3ce06c24419f37ac2b1a3")

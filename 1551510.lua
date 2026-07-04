@@ -2,3 +2,5 @@
 -- Game: Psychic Guardian Super Splendor
 addappid(1551510)
 addappid(1551511, 1, "9b2c9b18370c1006d8e1dc0fdba74200eebc7c3abc587e04ef86787256fad82e")
+addappid(1551512, 1, "48a120c3f7ec9badaf03410d515c08ca1ed266abdab5b414cc34f0451537b781")
+addappid(1551513, 1, "3e9803af35a26a69cc84d8d2383ff34ab1345a2038cf67bd0ab8e5fa10687fa7")

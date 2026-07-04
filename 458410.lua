@@ -2,3 +2,4 @@
 -- Game: Cabals: Magic & Battle Cards
 addappid(458410)
 addappid(458411, 1, "90557947cae98e0ff70386012a0ee6d29ad4231e08256ee79737761a58986529")
+addappid(458412, 1, "8762a0f738ceeb040901c823999c67b249d1c3c4ba0cba961edf57d10ce8df1c")

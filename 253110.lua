@@ -2,3 +2,4 @@
 -- Game: The Cat Lady
 addappid(253110)
 addappid(253111, 1, "22b97dcec8676ae7a5e1596733fdcfdf6b307981299b311956aa7a77bfd37124")
+addappid(253113, 1, "c2fa1c4427d0c1d7e38366102b82015f5c794f3ccbb6bc490c01b80db37960ac")

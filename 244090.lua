@@ -2,3 +2,4 @@
 -- Game: Sid Meier’s Ace Patrol: Pacific Skies
 addappid(244090)
 addappid(244091, 1, "d9b5f3f305b91e092876540e5d85968951cb6f4afbffb777e45a083d501e6377")
+addappid(244092, 1, "68281e2ed4af7d9bdc06401983e4751be50d5406956fe0e04ec2d9dbec6208a7")

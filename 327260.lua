@@ -2,4 +2,6 @@
 -- Game: Super Life of Pixel
 addappid(327260)
 addappid(327261, 1, "f70084a21e55ccee797e2e305f80c4998e8b4704df5a15252f4936c535514b9e")
+addappid(327262, 1, "947edb8a67691a96525afebb0b89954789ef0e03882ac0cb6bb970e36dd698e2")
+addappid(327263, 1, "b4d7398295aa5dfd63f49feeed66298bcc9a71122ffb9ffbf8ff382cd462f5d8")
 addappid(369410)

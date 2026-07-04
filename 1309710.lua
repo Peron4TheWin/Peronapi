@@ -2,4 +2,6 @@
 -- Game: The Stone of Madness
 addappid(1309710)
 addappid(1309711, 1, "4eea7bd27bc388f4046d14a4fb7146c911e7d0902f5c583a4c17266cea77c1e9")
+addappid(1309712, 1, "fd9807d6059b3cce8fbd8c22d44efdfca9eab4a76c4e1cff8209c4894d0513fc")
+addappid(3392529, 1, "e7e5c241f17e7406e2a54671b440ca2e4a0d4842dd02f7d1395553c2d46fd365")
 addappid(3392520)

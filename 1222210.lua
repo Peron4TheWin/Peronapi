@@ -2,4 +2,5 @@
 -- Game: Extremely Realistic Siege Warfare Simulator
 addappid(1222210)
 addappid(1222211, 1, "27572203026f59c1b4f19745987f1f1358d36c7da909806d65d0d2b1dcc7b9d5")
+addappid(1222212, 1, "64acff0e927c47f9e3e081df3b62aff70168f85264154c67b83965ed713109dd")
 addappid(3646980)

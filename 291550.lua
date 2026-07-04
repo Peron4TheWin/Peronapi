@@ -2,6 +2,7 @@
 -- Game: Brawlhalla
 addappid(291550)
 addappid(291551, 1, "7912e24d0afdea4e76e9c8b3dfb438d294bfa7552216541f60d6638c81892d0e")
+addappid(291552, 1, "7bc0a2d1a917e8f3c0046aa1281e248a5e40491c7af4a03e28703b734a13cc3d")
 addappid(297630)
 addappid(298640)
 addappid(298641)

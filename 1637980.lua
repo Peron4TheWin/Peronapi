@@ -2,3 +2,4 @@
 -- Game: Sword and Fairy 5: Original soundtrack collection
 addappid(1637980)
 addappid(1637981, 1, "c04cdb7be3c0fa5570e6720ab3ee2315d09da5ade60c4c7d6d1442ef94c2d37d")
+addappid(1637982, 1, "6578d6fc44555852bf06463292459ff9c63f33a13bf894f9fce52d4947c4e110")

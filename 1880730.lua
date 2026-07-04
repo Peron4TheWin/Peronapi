@@ -2,3 +2,4 @@
 -- Game: Grapple Dog Soundtrack
 addappid(1880730)
 addappid(1880731, 1, "eb0cb0519173edf67f39e117459c00311bf29c5dec7c145746b004c4202d0045")
+addappid(1880732, 1, "8fc13e97b3b6096aa7c9dfa11a79fd5a0295921c5468d137dd05f0df57c78ad3")

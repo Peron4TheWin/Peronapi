@@ -2,3 +2,5 @@
 -- Game: Escape Dead Island
 addappid(226560)
 addappid(226561, 1, "49f46ccfcc087a15f597ced10c631d1442ff64c5d426ee8321c4fb718a79a3a1")
+addappid(226562, 1, "75cc69e85598516633ec491b03b0ae491281fda433b0037c67c933db15cb5f5b")
+addappid(229002)

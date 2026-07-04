@@ -2,3 +2,8 @@
 -- Game: Demigod
 addappid(202710)
 addappid(202711, 1, "9a80fc3d47905a9dc082a75446d13462054a51c53f6bc2e2a5c589ca0b376f4d")
+addappid(228982)
+addappid(228983)
+addappid(228984)
+addappid(228990)
+addappid(229000)

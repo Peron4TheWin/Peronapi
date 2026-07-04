@@ -2,3 +2,5 @@
 -- Game: Paranormal State: Poison Spring
 addappid(268810)
 addappid(268811, 1, "87bc4b0e8b1b920841f0c0b8cc257715cd44a95115a0efc7885e4d2ecb1693cb")
+addappid(268821, 1, "937b9f30c4fbc85f2b50b655b189bc19f73542dc70e6c0e35320d14c9ba66282")
+addappid(268825, 1, "7ba8a90ef9b64cd4fffbff17d56346c58991ccdaa1cb1a01054abe28a55454df")

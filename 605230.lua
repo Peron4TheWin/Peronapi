@@ -2,3 +2,4 @@
 -- Game: Grey Hack
 addappid(605230)
 addappid(605231, 1, "f8ce15232e8c5ded9644310c1a9df571c731568b45e089110442ce8ad6d435f5")
+addappid(605233, 1, "f50a69e9be40cc9bbc05a268eb0cc249c012ccd10ea9b0d28603fddd0e61b805")

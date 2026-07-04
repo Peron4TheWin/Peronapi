@@ -2,6 +2,7 @@
 -- Game: METAL GEAR SOLID V: THE PHANTOM PAIN
 addappid(287700)
 addappid(287701, 1, "f1c3bbf22c23c0777bf23c71491e2398e216ade65fbd5597762b7fb64165dd4f")
+addappid(287702, 1, "5fff13d6b2e316f81e7fbce5e82cc9e77fdcc6c1daa0f723a3f347c1f2017287")
 addappid(406540)
 addappid(406560)
 addappid(406580)

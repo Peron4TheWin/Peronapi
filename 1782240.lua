@@ -2,3 +2,4 @@
 -- Game: Tormented Souls Soundtrack
 addappid(1782240)
 addappid(1782241, 1, "7504889106bb0df5da6dd243cb9fcb8a17cc10554d46711dbcfd196184278f43")
+addappid(1782242, 1, "a2039e52bacb3f43e3daef1e20dc70db887e3f1bb195dd7d6dab1897f336bca1")

@@ -2,4 +2,5 @@
 -- Game: New Tales from the Borderlands
 addappid(1454970)
 addappid(1454971, 1, "0c09cc3e2bd5caaa5d61569db3274ae251e2f6c3225fed1cb40db1553a66ef35")
+addappid(1454972, 1, "ba930a1027c5eb2314b9644d99e87d25131528525c12172fa0328d5a0df9cc36")
 addappid(1970470)

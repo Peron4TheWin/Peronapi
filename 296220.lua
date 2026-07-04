@@ -2,3 +2,4 @@
 -- Game: Farm Frenzy 4
 addappid(296220)
 addappid(296221, 1, "d238a533bf0b1098a9d75d9f125cc0e9a47ea4c0ae57504439b1a4f5949100ff")
+addappid(296227, 1, "c043e6c6384670b6bda9c25cc7b3c4caf5bf5fdff808462e9a8e01c1d0e44619")

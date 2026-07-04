@@ -2,3 +2,4 @@
 -- Game: Nekomew's Nightmares
 addappid(1893020)
 addappid(1893021, 1, "47ee53e2d580a72faadb3e80073b263ee95cbb27e9bac22780ab3565a72f20b4")
+addappid(1893023, 1, "64eb1e44e9414056ae83cf57f0616195e445f3d607c6aa2cf09532a261ca2ed4")

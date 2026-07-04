@@ -2,3 +2,4 @@
 -- Game: Boon Boon
 addappid(1092750)
 addappid(1092751, 1, "afd4cea891158ca72f6a278ea0f7bce29a8f096af1cd2803b3cfa3e0ec47265d")
+addappid(1092752, 1, "89bb610dc1c253dcb85e59ca09eb66aa692b2ef862e642cd08c7adcd8258c2aa")

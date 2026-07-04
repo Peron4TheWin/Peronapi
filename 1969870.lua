@@ -2,3 +2,4 @@
 -- Game: Battle Teams 2
 addappid(1969870)
 addappid(1969871, 1, "eb562f797b101b9491cff7e022f4123054a914f556f5c23ebb32a79d443f4cea")
+addappid(1969872, 1, "9f1e43c5ae4423baad6bb759be69ecef6ee3e8214f48a85456b3b6aa55bd8a1a")

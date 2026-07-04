@@ -2,3 +2,4 @@
 -- Game: SONOKUNI Soundtrack
 addappid(3533020)
 addappid(3533021, 1, "62ca92411d9bcc947561cabf5b8bcf925a7fa854da02b657db6ddb8fa4474fd6")
+addappid(3533022, 1, "c457067ebb043950e828ba9b6dd2ec24c9f9c7075aff98eabf05e569d723466f")

@@ -2,6 +2,8 @@
 -- Game: Spy Fox 2 "Some Assembly Required"
 addappid(292240)
 addappid(292241, 1, "a022d79d1e6f4c3182639a460ba62b31f2bd4f226d160c9499f83a25614f35b1")
+addappid(292244, 1, "6c642b4a59cd5ea80bcf48dc33d543ce971adcfe69f5d4639f709bb04fab8cec")
+addappid(292245, 1, "86d6b1d8a14f10d567f2646ae12ee7ba59e60a60d37dc1dc748fcadabd760fdd")
 addappid(364140)
 addappid(364141)
 addappid(364142)

@@ -2,3 +2,5 @@
 -- Game: Hate Plus
 addappid(239700)
 addappid(239701, 1, "3fcbbb4abc492ae78c65e577a915234204ce72e23f22db3ce12b01bcba04f9fd")
+addappid(239702, 1, "72d46b3ccc3138c6b26792bc67ffad1731bcb6cccb5bcbe3eae6b885d04713ef")
+addappid(239703, 1, "61ff9db89e384508a350e712be614c9f9f0deaea8cdb2d7262ecb2b5af5e5d69")

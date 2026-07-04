@@ -2,3 +2,4 @@
 -- Game: Fatty Maze's Adventures
 addappid(349780)
 addappid(349781, 1, "77f7f513d4c390d7cac0c4e1f7b6263ca0b0567f14997de490a786a9135d08d8")
+addappid(349782, 1, "da49539adb03853d10c06ab4060e136292aa1f52365846d33ccad0e075a8c046")

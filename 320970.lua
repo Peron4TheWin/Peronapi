@@ -2,3 +2,4 @@
 -- Game: IGT Slots Paradise Garden
 addappid(320970)
 addappid(320971, 1, "a571cad2d0a15193a105760a8ba67b989dc4cf54049d92f9bdb2b610661bd9fa")
+addappid(320972, 1, "c86b950a54b435137c34d95132a4f4a84ad3cc5048a4569b9670b52f73013617")

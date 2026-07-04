@@ -2,3 +2,4 @@
 -- Game: Citizen Sleeper
 addappid(1578650)
 addappid(1578651, 1, "a267ab6d95f5bc00ec2a0b278311f8e3e0ee957699886eef4f17c4ff24a1b25e")
+addappid(1578652, 1, "0eb84e0a5c6e3fee2c71f5a538b7439579b3f47d73f0b50d6e000c082ca82898")

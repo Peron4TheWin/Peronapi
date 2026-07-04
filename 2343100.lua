@@ -2,3 +2,4 @@
 -- Game: Titanic II: Orchestra for Dying at Sea
 addappid(2343100)
 addappid(2343101, 1, "e439de0994d069cc7efedd88591ee6f556642876ad0de0d5bb5e6dde9dc65bea")
+addappid(2343102, 1, "353d2dc3b4f5cb8b5b0f8661256b3256b9a4d1e6cab9f727d22d6cd6b97bf345")

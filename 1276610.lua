@@ -2,3 +2,4 @@
 -- Game: My Cute Roommate
 addappid(1276610)
 addappid(1276611, 1, "e5e51bc88000aa99ba94977175e0bf4415e4738ffff76bf9fd14a632b79f7301")
+addappid(1276612, 1, "361354d81ce852b89720998eaaf38e9c7d2b4dfd0d3ba0eff28925b68485b5e9")

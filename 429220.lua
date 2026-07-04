@@ -2,3 +2,4 @@
 -- Game: FullBlast
 addappid(429220)
 addappid(429221, 1, "48a0e6188ccb958ce66a92262a5aa17c61ee87e7ed19fc5c00394052caa1e3ab")
+addappid(429222, 1, "a6789789f8b9e7ec90ebccf9ee15b8dd4512e0f08bdf82a040c2e16ae9711390")

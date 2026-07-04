@@ -2,4 +2,5 @@
 -- Game: Space Battle
 addappid(1309140)
 addappid(1309141, 1, "6683b03e9653b210e03708cde3cf6b0bfd180bc58bd580c6fcb2bb810df212e3")
+addappid(1309142, 1, "eecfc9ce5187433e190af95825a73d60614edc435fd8653df6cac11618705f62")
 addappid(2808620)

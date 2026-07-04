@@ -2,4 +2,6 @@
 -- Game: Captain Forever Remix
 addappid(298560)
 addappid(298561, 1, "170cfe4aa249f3ae857c580f8fefb7e7dbcdee67380689f2f6c6a33588baec9d")
+addappid(298562, 1, "e1f11e6da43d8dfd8c996d37927482df26bae064b420234cd99badcef2b77303")
+addappid(298563, 1, "65995ce6027199efebf2e01ba2ef0e8834e3ebc9815def58a911596570902ffa")
 addappid(478990)

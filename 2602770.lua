@@ -2,3 +2,6 @@
 -- Game: MAOUISHO:~ La Dolce Vita with Another World's Demon Lord~
 addappid(2602770)
 addappid(2602771, 1, "dbe3bed869e68c73c468a1622471cebc27b89655245b559b5553d15347eb5c52")
+addappid(2602772, 1, "436aedb640d59687c2ef213d0f1b24e327478817449c830471132d25fa3f6f0b")
+addappid(2602773, 1, "adb4e5706b0fb4f37bc4239a99f0db00b3635ffbe67dab684c433647addb2334")
+addappid(2602774, 1, "1d8306c14a5d8501803d5277e64c6d93c4e1530cdee6d5d48a23cd5cc22ab9b5")

@@ -2,3 +2,4 @@
 -- Game: Aisling and the Tavern of Elves
 addappid(1444360)
 addappid(1444361, 1, "afb800102520fb76371793fd3ee3ee4458460fd07617bc2503358b2b6ffed6e1")
+addappid(1444362, 1, "872893fe610f390fdc63fdbeb98ed677339f9acde4cbccc8cf0182f9d8010e4c")

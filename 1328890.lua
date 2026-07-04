@@ -2,3 +2,5 @@
 -- Game: Succubus Affection
 addappid(1328890)
 addappid(1328891, 1, "5d1f123be0b908623a2423c1af74ee4486879ffaf17e3fd29d6edd56aa6b778a")
+addappid(1328892, 1, "01572888dba8edfac2e294c5e070b7ce87facd5a6a2dbb4b3dc8eee33cb398c3")
+addappid(1328893, 1, "59bf142d7a1c97a30596ceb1909e5b37d9c54ff836192a6a69fe1816361ef2ac")

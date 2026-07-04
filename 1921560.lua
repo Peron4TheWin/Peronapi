@@ -2,3 +2,4 @@
 -- Game: Flowers -Le volume sur hiver-
 addappid(1921560)
 addappid(1921561, 1, "cc622d23529093fb72d9367762808f7ce9b04bc4227dfea38e274ecb8ebe26f9")
+addappid(1921562, 1, "38e3844f075ba521ca1e734ecf061cc9307575dd581723a20296d8770eef80d8")

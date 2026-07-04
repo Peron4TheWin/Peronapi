@@ -2,3 +2,4 @@
 -- Game: Venusian Vengeance
 addappid(351240)
 addappid(351241, 1, "5fb79cbc950c9c6f7bc61e11efa1cc931632633bd7b53ff361a20f3a9d40cc29")
+addappid(351242, 1, "321c8b7b1eb45cd14555dad5332e886460ffd1bc56b5f658e69de713ee9f4c86")

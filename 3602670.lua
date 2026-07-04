@@ -2,3 +2,4 @@
 -- Game: Deep Cuts OST - Mad Monastery
 addappid(3602670)
 addappid(3602671, 1, "3e940c7591f83abdfdbe155ca68117c2af30e07dc3a2ca9b7732bf885cbe125e")
+addappid(3602672, 1, "b24b6f86ea01889e29cc74b1395af196279a8c1c4278f0f85450332cd7a4a8f0")

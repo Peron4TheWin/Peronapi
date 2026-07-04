@@ -2,3 +2,4 @@
 -- Game: Monster Rancher 1 & 2 DX
 addappid(1716120)
 addappid(1716121, 1, "12c8b93a86ce2e538e74018b4d18c9666cf7bc03a9e1bfdf7f1fc8138a0f1bbf")
+addappid(1716122, 1, "1c8a5acaf5dfe00fd12333d2dae37ba55f02a2022cf8c8ea7b33de8ca54efea4")

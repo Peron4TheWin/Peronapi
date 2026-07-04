@@ -2,3 +2,4 @@
 -- Game: Destroy All Humans! 2 - Reprobed: Official Orchestral Score
 addappid(2082930)
 addappid(2082931, 1, "968f3de5ddf0ef634bc3da666f3dcd65c1b841662bb19f72189196b9e8bc3912")
+addappid(2082932, 1, "80df9992ed68aae4a8511a7ffe7109fe343cf6cafde434220193a577e28924fc")

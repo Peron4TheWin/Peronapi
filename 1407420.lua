@@ -2,3 +2,4 @@
 -- Game: Milo and the Magpies
 addappid(1407420)
 addappid(1407421, 1, "2c5021ac167ba0c93cd5c1a11b42a704f37072bb3f27ec3a466b6f538481e34e")
+addappid(1407422, 1, "9a190b9c525e37e0bb9ad5cbca01bfb03807aecf034689c346d3bde777e79ff0")

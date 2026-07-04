@@ -2,4 +2,5 @@
 -- Game: Alien Spidy
 addappid(207000)
 addappid(207001, 1, "712a4181cd75a88f43c3f84bb8e9e0895c3d33506b207d3f4ea9e8703a8570c6")
+addappid(207002, 1, "cedbd53fec1a2991282fa65c44311cd6be6f7b0e02e973c43c2d5967fb3b3164")
 addappid(207951)

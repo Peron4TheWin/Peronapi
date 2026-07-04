@@ -2,3 +2,4 @@
 -- Game: Circle Empires Soundtrack
 addappid(1293790)
 addappid(1293791, 1, "c3a7c2a0eb2018ee8f5a68f32a6b70235b4f0ee264538df158c581f7c78b02e1")
+addappid(1293792, 1, "320a9729a28cb2ff5d34532e4464e0ff34fab393e4563d6c3e2787fd34ca0362")

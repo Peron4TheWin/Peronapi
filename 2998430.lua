@@ -2,3 +2,4 @@
 -- Game: Cyber Freeuse Fantasy
 addappid(2998430)
 addappid(2998431, 1, "440281c25dd9aacf469b5e41a8cda0c91cfb5de01c7b9cd9bf846e2c73268002")
+addappid(2998432, 1, "1f2ceafa1c5f29aed6092a50afed6efda9353bf709af430bb2c04cd00f7032bc")

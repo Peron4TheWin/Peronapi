@@ -2,3 +2,5 @@
 -- Game: C:\raft
 addappid(386710)
 addappid(386711, 1, "7ed732b955fdde35cdb60b3b1e6b9787d0ca1d8611959054c1499349e014ff04")
+addappid(386712, 1, "95d5edfeaa04810d9fd26709abda3a9704b190f0a9abccfa95c660605ecea8e0")
+addappid(386713, 1, "157d6ddcc25942cdb0758d61ffdca01da9af7e8be8ee396e0ea9820eec80d041")

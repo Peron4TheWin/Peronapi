@@ -2,3 +2,4 @@
 -- Game: Maiden and Spell Soundtrack
 addappid(1252590)
 addappid(1252591, 1, "1353c71c573fb2e381239eab99baf5a21826d92e50cae9ab71a602fa72c3528a")
+addappid(1252592, 1, "cde4233d65113189a3738109fca60a353084ae4cb1c0af10a6153ba6571e6155")

@@ -2,3 +2,6 @@
 -- Game: Frederic: Resurrection of Music
 addappid(301190)
 addappid(301191, 1, "583ccfa45964de3a1628d09a904cd0a42020becbd13fa640054d7aa83fc9a39d")
+addappid(301192, 1, "ad4cafc3abc2744c96a7903d90f7fca02c0625f1fac020ec5a966a84e63e1646")
+addappid(301193, 1, "2f22f52c9ef999df8e5c0bde7afa26352b4a5bc32f79e7d045556b809b75e22a")
+addappid(301194, 1, "3d69411e742823c5c504c39edbec3fc775c7f7cd98bccfc0bfb00fd4983ad2a4")

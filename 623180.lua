@@ -2,3 +2,4 @@
 -- Game: Zombie Solitaire 2 Chapter 3
 addappid(623180)
 addappid(623181, 1, "604dcc58314edbc6c970e789eeae94bad8dfa784f4afed0863bf71b6fa32adcf")
+addappid(623184, 1, "c426f2dcac6bfa2b5a1e8d851b0435b9d614d72d360fdc7c956037a3a39fc5b7")

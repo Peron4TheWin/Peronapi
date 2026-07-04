@@ -2,4 +2,5 @@
 -- Game: Hammerwatch II
 addappid(1538970)
 addappid(1538971, 1, "dfedfe3c03f180c326c777579dd6c396988ced2ab833c4ffa12bbbe5c0670666")
+addappid(1538972, 1, "e95246e91cad8a50160c99d50fe8485c4547a15a3338242f2cc42bc1c67be35a")
 addappid(2326570)

@@ -2,3 +2,4 @@
 -- Game: The Most Boring Game Ever
 addappid(1563340)
 addappid(1563341, 1, "2c6435276d119dbc3281ab6de990f1fd5dce1eeca02c816068dca07adc76da2b")
+addappid(1563342, 1, "a4812c793479c7b1b84616591eaf0ef192b3f7fbdc39f687c5e5820e0ea6bbb1")

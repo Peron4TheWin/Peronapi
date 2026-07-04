@@ -2,4 +2,5 @@
 -- Game: ASTLIBRA Revision
 addappid(1718570)
 addappid(1718571, 1, "5340c7c9ef95f91f6e844d2e4f42b9b9a18b873a71a20516b0a1f23cb65c86db")
+addappid(2669361, 1, "d0945427a75897ebf551e5d57660b66c67e276511b1e0bef90039bf01c0e3de9")
 addappid(2669360)

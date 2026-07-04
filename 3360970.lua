@@ -2,3 +2,4 @@
 -- Game: NAIAD Soundtrack
 addappid(3360970)
 addappid(3360971, 1, "1b463d29c65cd83bffba630d71a8bf7286e2256c7946aa71c4a72537c844b8da")
+addappid(3360972, 1, "65219c28e71df447cee902cb6317bac270f15a5c1f5aa7da1bca71e61f9252a7")

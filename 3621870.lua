@@ -2,3 +2,4 @@
 -- Game: OKeverything:Evil Boy 1001 Sinful Reincarnations
 addappid(3621870)
 addappid(3621871, 1, "42b444280c207738aa2aac148d4c0ec0ad842fd126744f565dc00a076e2c1af3")
+addappid(3621872, 1, "a4c6ddf361ec75d9220eb3dc0749a07e709f65f14fc155e6c57c31ad21fb4104")

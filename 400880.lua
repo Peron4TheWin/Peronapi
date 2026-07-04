@@ -2,3 +2,5 @@
 -- Game: AppID 400880
 addappid(400880)
 addappid(400881, 1, "8e86dfcf51f3c50998c099faaeb9de7ca9adbf2207a4fd517e8faa4ede0fbd81")
+addappid(400882, 1, "7779ae9a07181a5b8cbc5cbd16d2cf31950c51cb9568bd514f6502bb2b23c5eb")
+addappid(400883, 1, "33c1de70bb08c1370b923506aa10eb36a9e75a849f5db9a4c51ff650c37dd2d3")

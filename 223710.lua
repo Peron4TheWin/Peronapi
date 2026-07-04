@@ -2,3 +2,5 @@
 -- Game: Cry of Fear
 addappid(223710)
 addappid(223711, 1, "3a01e728a9a3a805348fc7a0fb00a6e22dae50b51c4981f131a54b919e00c8ec")
+addappid(229002)
+addappid(229003)

@@ -2,3 +2,4 @@
 -- Game: Idol Magical Girl Chiru Chiru Michiru Part 1
 addappid(377710)
 addappid(377711, 1, "adce374360a79e4d1c7a8e5c48028c6a15a08fb89af4940595f208dc781f6e37")
+addappid(377712, 1, "83979abe9cd4a339e75c7190f633fd1afc410b3298d24efbc434d847b341693b")

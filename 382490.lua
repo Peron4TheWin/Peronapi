@@ -2,3 +2,5 @@
 -- Game: Relic Hunters Zero: Remix
 addappid(382490)
 addappid(382491, 1, "f5553eabd07a22cbffbdb64eac40b8abca7bd26fbeaca7262ea35771fdf10297")
+addappid(382492, 1, "6c0db611280ba9bd22c955d5f10bc58c4a572f5b1091d78be67517a64473de74")
+addappid(382493, 1, "1579d2532584fb136230523115a454b2a559e7078baaffef0c5a57a8f8c6527d")

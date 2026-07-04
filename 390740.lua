@@ -2,3 +2,4 @@
 -- Game: Galactic Civilizations III Soundtrack
 addappid(390740)
 addappid(390741, 1, "499476887eace1f23a3d9e0f0ec3fab10e1bc63695b95b3a6de2cc87da265b69")
+addappid(390742, 1, "4e95112e9faea94c971d8990e54a40d0eb667f623ae50ca3d2e31641074d5439")

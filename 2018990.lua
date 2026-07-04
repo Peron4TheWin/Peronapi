@@ -2,3 +2,4 @@
 -- Game: Mythic Origins
 addappid(2018990)
 addappid(2018991, 1, "d5e09e0946ca52d856133a7ad208360df8339433d39b122ca2f1153d1c7d7cb8")
+addappid(2018994, 1, "93f3aff4255ca95c33d295292f014edc0dba79d8ffa31232c4aa0cd0b2a28c6a")

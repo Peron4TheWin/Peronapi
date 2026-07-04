@@ -2,3 +2,4 @@
 -- Game: Touhou Mystia's Izakaya - Soundtrack 5
 addappid(2797450)
 addappid(2797451, 1, "dc88bc41dc2bae344bdacd8e38598a116c8042c58d18258dfffa6d8a82d67c50")
+addappid(2797452, 1, "0d7dfd633086ad7acfc483e788ac1a2a4299656a64bc44ceb95bd9d32351d86d")

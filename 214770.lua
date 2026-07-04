@@ -2,3 +2,6 @@
 -- Game: Guacamelee! Gold Edition
 addappid(214770)
 addappid(214771, 1, "5838c0ef1493b8157a7b2dcdc369bc86a91b05d34316b75a43b09888c2c8d9e9")
+addappid(214772, 1, "f966591f456afbe008114277c4ad7fbcd971933e73c46e3687a9ba88a0d49c9d")
+addappid(214773, 1, "2e94fec234196d6d7d782a053c186c445c776abbe8bfbcb0df76d731e0a91144")
+addappid(228982)

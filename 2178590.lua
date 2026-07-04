@@ -2,3 +2,4 @@
 -- Game: Coin Pusher Casino
 addappid(2178590)
 addappid(2178591, 1, "c699d843398fb056d9d3e5ae5012aa328ba50fedacba89ed51fac3020baf1473")
+addappid(2178592, 1, "05e85e3461f90333c6203be3a011a35032e1c5b7298210fab60283e1e3c74681")

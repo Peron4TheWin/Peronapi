@@ -2,3 +2,4 @@
 -- Game: Insurmountable Soundtrack
 addappid(1951620)
 addappid(1951621, 1, "01ac0179de2cc68c14f9159d11e1e5e54634b97a7954cda9665a829874fcf5a7")
+addappid(1951622, 1, "5cf827c2aac7e14ba53dad0aaeb0b8bab8e9ebffc12a2b71625b6e9b0b574803")

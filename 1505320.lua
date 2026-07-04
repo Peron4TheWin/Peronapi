@@ -2,3 +2,4 @@
 -- Game: GLASS-Lena Ryar 18+ Adult Only
 addappid(1505320)
 addappid(1505321, 1, "fb05bcf022244dcf10ed426000103b1e2ad977778b4904e7fa28141f9ea35f8f")
+addappid(1505322, 1, "c01944a8ed571a303bea11f7d9c24429bdfb3d25cd88f9a8e65ec30a5ce28b34")

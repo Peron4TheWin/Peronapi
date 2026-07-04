@@ -2,3 +2,6 @@
 -- Game: Serious Sam II Soundtrack
 addappid(1585110)
 addappid(1585111, 1, "71db33d02d1bb9840aba386a5a2fa68c65e108442aeb0a1bac90b65512e9b77d")
+addappid(1585112, 1, "adb317de92db5c533a56f2937b4accc36f4d8a5c0bff68e45cff67dab8260d39")
+addappid(1585113, 1, "a1087faea6af96ca196d0a863c672c0e92ffcb47d4b2362122c64fbed481a0ed")
+addappid(1585114, 1, "167b6c70990c75d958cbc3da10a3c341260726f5a4330f3f3c7553c9fcb9fe7a")
