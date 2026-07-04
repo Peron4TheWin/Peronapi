@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Most Authentic Trench Warfare Simulator Demo
 addappid(2334190)
-addappid(2334191,0,"c62c734d40d847ff3b52699cc6c2fda80ea4bf320f74cf104783c3ae724bc851")
--- setManifestid(2334191,"2881857597138707773")
+addappid(2334191, 1, "c62c734d40d847ff3b52699cc6c2fda80ea4bf320f74cf104783c3ae724bc851")

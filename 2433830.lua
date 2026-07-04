@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spider
 addappid(2433830)
-addappid(2433831,0,"b150632b0c9a875978a373ad0657399db68bca7b81dd90bc59e6eb680f4fdc47")
--- setManifestid(2433831,"6134155463271583383")
+addappid(2433831, 1, "b150632b0c9a875978a373ad0657399db68bca7b81dd90bc59e6eb680f4fdc47")

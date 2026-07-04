@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY I PIXEL REMASTER Original Soundtrack
 addappid(3365570)
-addappid(3365571,0,"4bcfe9c8da487e83c61231f4b6c25cd018caa5941e527aea204f778eb6678d8c")
--- setManifestid(3365571,"5009933770146986833")
+addappid(3365571, 1, "4bcfe9c8da487e83c61231f4b6c25cd018caa5941e527aea204f778eb6678d8c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Erin's Naughty Friday Prologue
 addappid(2352540)
-addappid(2352541,0,"381c7562d2c2b18c2a5279895fe24c42d871812bb50f8a8c2709947a700aa6f8")
--- setManifestid(2352541,"5702582848061486466")
+addappid(2352541, 1, "381c7562d2c2b18c2a5279895fe24c42d871812bb50f8a8c2709947a700aa6f8")

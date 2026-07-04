@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Viaerium
 addappid(728870)
-addappid(728871,0,"52177c0733268f85f9b83963dfcd10567f5cf101a45cdac74caa68e99cfcf017")
--- setManifestid(728871,"7360391324164819292")
+addappid(728871, 1, "52177c0733268f85f9b83963dfcd10567f5cf101a45cdac74caa68e99cfcf017")

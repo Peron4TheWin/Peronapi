@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MaDevil
 addappid(1856840)
-addappid(1856841,0,"6e09e00c6ae9948aac2c11a2611cdc6cef56e7ea1cd071a2005a16eafdce2907")
+addappid(1856841, 1, "6e09e00c6ae9948aac2c11a2611cdc6cef56e7ea1cd071a2005a16eafdce2907")

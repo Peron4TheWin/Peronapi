@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skill Legends Royale Demo
 addappid(3164420)
-addappid(3164421,0,"4add4cd81c15e55bbc2bd00ef8bc0088c4f96df1749911b8fe21f3b9ce2622e5")
--- setManifestid(3164421,"4083201909493935465")
+addappid(3164421, 1, "4add4cd81c15e55bbc2bd00ef8bc0088c4f96df1749911b8fe21f3b9ce2622e5")

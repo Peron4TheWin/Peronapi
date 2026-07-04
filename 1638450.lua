@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shipwreck Escape
 addappid(1638450)
-addappid(1638451,0,"f9532aaea45b46c7f66509c8929f162401ce49655aa1cad3bb5ef185dd0cea69")
--- setManifestid(1638451,"4576969558804804938")
+addappid(1638451, 1, "f9532aaea45b46c7f66509c8929f162401ce49655aa1cad3bb5ef185dd0cea69")

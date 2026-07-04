@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Second Second Demo
 addappid(1095740)
-addappid(1095741,0,"01948d5390a0cbea33679bb042578587b39aa2c980aeda0634cad29124fb895e")
--- setManifestid(1095741,"5590337357569831612")
+addappid(1095741, 1, "01948d5390a0cbea33679bb042578587b39aa2c980aeda0634cad29124fb895e")

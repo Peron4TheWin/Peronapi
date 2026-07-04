@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Doctor Life Simulator
 addappid(3075060)
-addappid(3075061,0,"1987bdd42e415f043a0555d34a02994d99278ce4cb3c19cd37d02ba5ad8ba00e")
--- setManifestid(3075061,"5288260279025348930")
+addappid(3075061, 1, "1987bdd42e415f043a0555d34a02994d99278ce4cb3c19cd37d02ba5ad8ba00e")

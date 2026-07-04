@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Naughty Tales of Rabbits - A Cuckold RPG
 addappid(2653260)
-addappid(2653261,0,"1ce20fb63cc61f51e5c2f66c753129efcc0859122b42f1a2560e45f52bd9440c")
--- setManifestid(2653261,"1816142751233283859")
+addappid(2653261, 1, "1ce20fb63cc61f51e5c2f66c753129efcc0859122b42f1a2560e45f52bd9440c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ketz: Galactic Overlords
 addappid(2542140)
-addappid(2542141,0,"50e47ffab2488aef15a16475f5b3c90cf9940a35cf1d789bfa26aeb431cd9fbf")
--- setManifestid(2542141,"6937532001261289607")
+addappid(2542141, 1, "50e47ffab2488aef15a16475f5b3c90cf9940a35cf1d789bfa26aeb431cd9fbf")

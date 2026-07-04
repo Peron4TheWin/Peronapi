@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 呪いの穢れ唄　鳴海龍也の回奇録
 addappid(3383120)
-addappid(3383121,0,"bccc2b1f5490fae54dfe43899edcf37594da444ba1853907d5c3069abbbc95d8")
--- setManifestid(3383121,"6428607636750728918")
+addappid(3383121, 1, "bccc2b1f5490fae54dfe43899edcf37594da444ba1853907d5c3069abbbc95d8")

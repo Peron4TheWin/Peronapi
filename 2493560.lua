@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heros and Monsters: Idle Incremental
 addappid(2493560)
-addappid(2493561,0,"767aef51ec7c02f63137dce6ad52f210f1a3cfe9362ab2b5a7d750a1effece71")
--- setManifestid(2493561,"3210386531615124640")
+addappid(2493561, 1, "767aef51ec7c02f63137dce6ad52f210f1a3cfe9362ab2b5a7d750a1effece71")

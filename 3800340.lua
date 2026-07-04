@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ScootX
 addappid(3800340)
-addappid(3800341,0,"2ab21efa32d5093ab0c39f5ddfe5d945bd30dc0d0d0ed1ce2d6a382f406e7f9b")
--- setManifestid(3800341,"9157840276218143101")
+addappid(3800341, 1, "2ab21efa32d5093ab0c39f5ddfe5d945bd30dc0d0d0ed1ce2d6a382f406e7f9b")

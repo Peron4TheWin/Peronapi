@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dawnfolk Demo
 addappid(2423630)
-addappid(2423631,0,"1222bd24128c7509cce93ea7aff7c7c1317175ccda1ccc489217c63404bdef3c")
--- setManifestid(2423631,"6208701027329879908")
+addappid(2423631, 1, "1222bd24128c7509cce93ea7aff7c7c1317175ccda1ccc489217c63404bdef3c")

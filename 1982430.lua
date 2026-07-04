@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kunai Strike
 addappid(1982430)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(1982431,0,"765f3fe16737d6b5f9caedbdc02e240ef71727aeedbbe718ddfa6d92a7585e23")
--- setManifestid(1982431,"706600059793226752")
+addappid(1982431, 1, "765f3fe16737d6b5f9caedbdc02e240ef71727aeedbbe718ddfa6d92a7585e23")

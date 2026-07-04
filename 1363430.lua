@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Propagation VR
 addappid(1363430)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1363431,0,"a60fcd8f86ea5f14805c6201b5021353343fa5e5f71f5aa206a45ca420aef1ff")
--- setManifestid(1363431,"3207166147100530433")
+addappid(1363431, 1, "a60fcd8f86ea5f14805c6201b5021353343fa5e5f71f5aa206a45ca420aef1ff")

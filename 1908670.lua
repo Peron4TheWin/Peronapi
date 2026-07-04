@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Charlie in the Moistverse of Madness
 addappid(1908670)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1908671,0,"06bac866fdb859805449c87e51b24efe07b0918a74b10737777d669d9c88202e")
+addappid(1908671, 1, "06bac866fdb859805449c87e51b24efe07b0918a74b10737777d669d9c88202e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AirMech Wastelands
 addappid(595770)
-addappid(595771,0,"975bef2dda2eacbf91ab191733cc08dcf6266cb72738366a3df582392ecda709")
--- setManifestid(595771,"1487115095050749010")
+addappid(595771, 1, "975bef2dda2eacbf91ab191733cc08dcf6266cb72738366a3df582392ecda709")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tokyo College Girls : The Nerd  &  Queen Bees
 addappid(3171000)
-addappid(3171001,0,"5b0f4dfd477c8f0e812932181ad19b1b9c7bd5b74186361dfcf8aa2ea9dbf783")
--- setManifestid(3171001,"5985043969894123566")
+addappid(3171001, 1, "5b0f4dfd477c8f0e812932181ad19b1b9c7bd5b74186361dfcf8aa2ea9dbf783")

@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Everdell
 addappid(1722840)
+addappid(1722841, 1, "4d1ad96591ed74669b1cd366bb7492af69a83b6b68eb33a2a34d96ebfb5e6650")
 addappid(3029430)
-addappid(1722841,0,"4d1ad96591ed74669b1cd366bb7492af69a83b6b68eb33a2a34d96ebfb5e6650")
--- setManifestid(1722841,"7531428362760198957")

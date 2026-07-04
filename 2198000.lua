@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Curt Maddox
 addappid(2198000)
-addappid(2198001,0,"7229b2751fa29163641dd7653bec56b89d197ad0076a451c67afe0f931ac3e0b")
--- setManifestid(2198001,"5734897339196879510")
+addappid(2198001, 1, "7229b2751fa29163641dd7653bec56b89d197ad0076a451c67afe0f931ac3e0b")

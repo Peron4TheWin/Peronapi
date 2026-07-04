@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starveling Way
 addappid(1696310)
-addappid(1696311,0,"76c1cda0d1f321c483fc398c286bc8154adcd3cc0fd2201a68b9a9d00f7cd383")
--- setManifestid(1696311,"7477219859315419850")
+addappid(1696311, 1, "76c1cda0d1f321c483fc398c286bc8154adcd3cc0fd2201a68b9a9d00f7cd383")

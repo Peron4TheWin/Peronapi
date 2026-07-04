@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hadaka Shitsuji - Naked Butlers
 addappid(1031020)
-addappid(1031021,0,"64a70d587e840338e91efc05c5cca4ba76200b4741d2a0680ce26dec907f4e27")
--- setManifestid(1031021,"6669312318435097139")
+addappid(1031021, 1, "64a70d587e840338e91efc05c5cca4ba76200b4741d2a0680ce26dec907f4e27")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cats of the Qing Dynasty
 addappid(2887320)
-addappid(2887321,0,"6de7273f466a642c514a01b50e9196d5a61c2a1509f258d45c933dbef76d5058")
--- setManifestid(2887321,"3911724223623512071")
+addappid(2887321, 1, "6de7273f466a642c514a01b50e9196d5a61c2a1509f258d45c933dbef76d5058")

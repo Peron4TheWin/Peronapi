@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fruity Kitchen
 addappid(3781010)
-addappid(3781011,0,"c2968e2f72eb484522e59d0bd49dfc55885e046b523db019b1b5d1036963043a")
--- setManifestid(3781011,"1947472969739725897")
+addappid(3781011, 1, "c2968e2f72eb484522e59d0bd49dfc55885e046b523db019b1b5d1036963043a")

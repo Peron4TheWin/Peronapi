@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: East Wind Demo
 addappid(2303870)
-addappid(2303871,0,"a511cbf40241d53f26af4f815477c47be80b9f2fe0b6b7283a6356f3879d41e7")
--- setManifestid(2303871,"1672598547214644445")
+addappid(2303871, 1, "a511cbf40241d53f26af4f815477c47be80b9f2fe0b6b7283a6356f3879d41e7")

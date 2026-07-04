@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MacGuffin
+addappid(398930)
+addappid(398931, 1, "a31caf062731ed7c0922c2d963801c3bd806b3691e738c3760f60d894253fb0d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Beard in the Mirror
 addappid(385840)
-addappid(385841,0,"03b1fcaaa30373fdf96f64589c50fff7dd9cc86c13b162e376008ac327a11bd7")
--- setManifestid(385841,"8021498485452952941")
+addappid(385841, 1, "03b1fcaaa30373fdf96f64589c50fff7dd9cc86c13b162e376008ac327a11bd7")

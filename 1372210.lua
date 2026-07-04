@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dap
 addappid(1372210)
-addappid(1372211,0,"a95c5beee73fa228eb7b728cfc84d3218d5b18cd87b4bf9f97b9bb1512999a87")
--- setManifestid(1372211,"7232512908133955941")
+addappid(1372211, 1, "a95c5beee73fa228eb7b728cfc84d3218d5b18cd87b4bf9f97b9bb1512999a87")

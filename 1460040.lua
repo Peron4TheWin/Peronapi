@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Love Fantasy
 addappid(1460040)
-addappid(1460041,0,"06dd1133bbc4a68e48c36790e9542d2b3787bb418edeffb24d85b7f4c9807017")
--- setManifestid(1460041,"3164053859696741750")
+addappid(1460041, 1, "06dd1133bbc4a68e48c36790e9542d2b3787bb418edeffb24d85b7f4c9807017")
+addappid(1533240)

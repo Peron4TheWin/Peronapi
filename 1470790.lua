@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Doug Flutie's Maximum Football 2020
 addappid(1470790)
-addappid(1470791,0,"aa3a1fbff438d562988c42cea6e43becf0aa471b056906b512fad906e1d4c91e")
--- setManifestid(1470791,"1381080450631776552")
+addappid(1470791, 1, "aa3a1fbff438d562988c42cea6e43becf0aa471b056906b512fad906e1d4c91e")

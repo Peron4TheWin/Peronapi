@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARISEN - Chronicles of Var'Nagal
 addappid(1101670)
-addappid(1101671,0,"37be8e7a2b99aff31b0ad5f5b43323720ba585c6138a07232058f798301b209b")
--- setManifestid(1101671,"8423843516852262586")
+addappid(1101671, 1, "37be8e7a2b99aff31b0ad5f5b43323720ba585c6138a07232058f798301b209b")

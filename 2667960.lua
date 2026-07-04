@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Granblue Fantasy Versus: Rising Free Edition
 addappid(2667960)
-addappid(2667961,0,"ad7bcc52fb0cb22fd55fbacf8d872e9a305a122d38509469565985175252927a")
--- setManifestid(2667961,"7518264610270221206")
+addappid(2667961, 1, "ad7bcc52fb0cb22fd55fbacf8d872e9a305a122d38509469565985175252927a")

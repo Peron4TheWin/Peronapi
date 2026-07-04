@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cakey's Twisted Bakery
 addappid(3028500)
-addappid(3028501,0,"c17d34cee9e3b321524c63849fcb6ce142a0bd19a0fd8f47279129be624637c8")
--- setManifestid(3028501,"3263416127266528832")
+addappid(3028501, 1, "c17d34cee9e3b321524c63849fcb6ce142a0bd19a0fd8f47279129be624637c8")

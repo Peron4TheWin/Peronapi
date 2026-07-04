@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Room Escape: Mark's Room
 addappid(997810)
-addappid(997811,0,"b4cfc736a05b1854755c1094a095d0b665227fa672f2adbb632ecaa1e2102cd4")
--- setManifestid(997811,"8934292664997280833")
+addappid(997811, 1, "b4cfc736a05b1854755c1094a095d0b665227fa672f2adbb632ecaa1e2102cd4")

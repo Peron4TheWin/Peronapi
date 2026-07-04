@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nine-Ball Roulette
 addappid(3376250)
-addappid(3376251,0,"b8e4a7ce69ae5aef69562f43522ae837dd6bb3b36efb3a3d923d874afa21397d")
--- setManifestid(3376251,"607538538713900399")
+addappid(3376251, 1, "b8e4a7ce69ae5aef69562f43522ae837dd6bb3b36efb3a3d923d874afa21397d")

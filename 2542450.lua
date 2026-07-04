@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AploVVare Collection
 addappid(2542450)
-addappid(2542451,0,"c6373d8a1a16418b6c9ac158eae1f8ba20e4841a637b41d192cfb0661d57ed83")
--- setManifestid(2542451,"6019912342116666235")
+addappid(2542451, 1, "c6373d8a1a16418b6c9ac158eae1f8ba20e4841a637b41d192cfb0661d57ed83")

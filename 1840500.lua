@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 謎塔魔女 Demo
 addappid(1840500)
-addappid(1840501,0,"04085e4454597c667eeffc2cb21c315ac0156a4e2354e2a8febe2710f8fe7a08")
--- setManifestid(1840501,"5218152280933976380")
+addappid(1840501, 1, "04085e4454597c667eeffc2cb21c315ac0156a4e2354e2a8febe2710f8fe7a08")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 女神異聞録ペルソナ 異空の塔編
 addappid(2541170)
-addappid(2541171,0,"2250401bde8d31713c2d76f1980118414db4fb3a4dd03abcc5cf50695f864e68")
--- setManifestid(2541171,"5136114841308380473")
+addappid(2541171, 1, "2250401bde8d31713c2d76f1980118414db4fb3a4dd03abcc5cf50695f864e68")

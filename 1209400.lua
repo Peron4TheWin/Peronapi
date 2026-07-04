@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love wish-FREE DLC
 addappid(1209400)
-addappid(1209400,0,"23d1975ec6d83293387df19f79f216bc471775ea91aaf1594ffe46b4ec98bb00")
--- setManifestid(1209400,"1291001155487208867")
-addappid(1209401,0,"77e55edcb61a5d3dcc080ec8a1fa340f9257cd2faef9137d3bb63af9a57f33e2")
--- setManifestid(1209401,"4021077534085889416")
+addappid(1209401, 1, "77e55edcb61a5d3dcc080ec8a1fa340f9257cd2faef9137d3bb63af9a57f33e2")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guardians Of Gaia: Guardians 8
 addappid(2590720)
-addappid(2590721,0,"90acbb1c76f752a709c91c9bc256854a6522edd140199380f768fc488343ad55")
+addappid(2590721, 1, "90acbb1c76f752a709c91c9bc256854a6522edd140199380f768fc488343ad55")

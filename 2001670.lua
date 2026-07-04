@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BURST WITCH
 addappid(2001670)
-addappid(2001671,0,"b38ed7601fca89e5fbe1ab4d13c948eb64d6e4681733cc0ec95ccae50d575af6")
--- setManifestid(2001671,"8645130200195767217")
+addappid(2001671, 1, "b38ed7601fca89e5fbe1ab4d13c948eb64d6e4681733cc0ec95ccae50d575af6")

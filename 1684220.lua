@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEDOMAIRI / せどまいり
 addappid(1684220)
-addappid(1684221,0,"ebc66a7796d89630aa09b24ef4c414d52194e65a359caa51b5a6e7983e5afb43")
--- setManifestid(1684221,"8678096546537563030")
+addappid(1684221, 1, "ebc66a7796d89630aa09b24ef4c414d52194e65a359caa51b5a6e7983e5afb43")

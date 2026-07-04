@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Welcome to a Sexy, Open World!
 addappid(3306310)
-addappid(3306311,0,"59b7e130c2d189eed83fe82d7f1ef0ba45642052e24356f67b7e0847e6702242")
--- setManifestid(3306311,"8955782587485498384")
+addappid(3306311, 1, "59b7e130c2d189eed83fe82d7f1ef0ba45642052e24356f67b7e0847e6702242")

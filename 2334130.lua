@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love challenge
 addappid(2334130)
-addappid(2334131,0,"aebbb153040db09fd7b331cc06dcdec6f1477ab1c830756623fd199fcf1b39a6")
--- setManifestid(2334131,"8544964312396351805")
+addappid(2334131, 1, "aebbb153040db09fd7b331cc06dcdec6f1477ab1c830756623fd199fcf1b39a6")

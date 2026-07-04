@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Luxor: Quest for the Afterlife
 addappid(16040)
-addappid(16041,0,"85b28c2237d11a137199ef7580034d36ae12be2f3036efefba41a835fe12aa14")
--- setManifestid(16041,"7459852274780848347")
+addappid(16041, 1, "85b28c2237d11a137199ef7580034d36ae12be2f3036efefba41a835fe12aa14")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eventide 3: Legacy of Legends
 addappid(677020)
-addappid(677021,0,"59fc06802b18ff971913972ab934c3a9c40673bb8165c823182bcfaa872472fd")
--- setManifestid(677021,"539336810985622631")
+addappid(677021, 1, "59fc06802b18ff971913972ab934c3a9c40673bb8165c823182bcfaa872472fd")

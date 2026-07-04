@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GUILTY GEAR
 addappid(850980)
-addappid(850981,0,"995d2b238434ddfaf5cc75daf92385f9dbb15a351b451e27eb8be2f33fa71373")
+addappid(850981, 1, "995d2b238434ddfaf5cc75daf92385f9dbb15a351b451e27eb8be2f33fa71373")

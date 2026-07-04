@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Never Meet Your Heroes
 addappid(2384240)
-addappid(2384241,0,"ff7af034867cb22f36e110c6f84744d4664a6ea6b07903e8a984c422bd73e523")
+addappid(2384241, 1, "ff7af034867cb22f36e110c6f84744d4664a6ea6b07903e8a984c422bd73e523")

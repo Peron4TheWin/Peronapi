@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Final Chaos
 addappid(409610)
-addappid(409611,0,"ea0b3310689e41146c1f0cb822602902891e60a9d4f9dd2e98d70978016a77fc")
--- setManifestid(409611,"2212359582889341968")
+addappid(409611, 1, "ea0b3310689e41146c1f0cb822602902891e60a9d4f9dd2e98d70978016a77fc")

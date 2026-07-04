@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Turnfall
 addappid(3764420)
-addappid(3764421,0,"401ff2ac6b2a55169070bb1b8c76e4a73e78f87ff8496c3bbb0de9dcce7c9b60")
--- setManifestid(3764421,"3015784337173819781")
+addappid(3764421, 1, "401ff2ac6b2a55169070bb1b8c76e4a73e78f87ff8496c3bbb0de9dcce7c9b60")

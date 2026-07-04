@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Great Naval Battles: The Final Fury
 addappid(2702080)
-addappid(2702081,0,"23c85fa9ee5c33c2d64e3958c1470846872c4537d3c1e152f9a288219a1cb2f1")
--- setManifestid(2702081,"1184973746649903780")
+addappid(2702081, 1, "23c85fa9ee5c33c2d64e3958c1470846872c4537d3c1e152f9a288219a1cb2f1")

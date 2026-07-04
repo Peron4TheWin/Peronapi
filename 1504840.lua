@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Surprising My Neighbors 2
 addappid(1504840)
-addappid(1504841,0,"0aba628506ca3e6b84ae069d8d15ed26dc2ac10bca8b5409158b70b286221f79")
--- setManifestid(1504841,"4122968172260093795")
+addappid(1504841, 1, "0aba628506ca3e6b84ae069d8d15ed26dc2ac10bca8b5409158b70b286221f79")

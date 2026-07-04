@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Daily Chthonicle: Editor's Edition
 addappid(490980)
-addappid(490981,0,"4ef7188958039a2603b6b71d87dd553c9ad76e803c9a112ababd729ac982a8c2")
+addappid(490981, 1, "4ef7188958039a2603b6b71d87dd553c9ad76e803c9a112ababd729ac982a8c2")

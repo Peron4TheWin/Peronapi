@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nightfall Secrets
 addappid(3356970)
-addappid(3356971,0,"3c02b7952d601a94922b91f04cec7c49bf768fb893d9801169ea07771fa8f796")
+addappid(3356971, 1, "3c02b7952d601a94922b91f04cec7c49bf768fb893d9801169ea07771fa8f796")

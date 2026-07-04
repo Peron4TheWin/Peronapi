@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moonstone Crossroads
 addappid(1044840)
-addappid(1044841,0,"bed40ed36f2ba5d14be82b005a02ac6c10db872af116b7289150ea7bc804a694")
--- setManifestid(1044841,"8356422894090299916")
+addappid(1044841, 1, "bed40ed36f2ba5d14be82b005a02ac6c10db872af116b7289150ea7bc804a694")

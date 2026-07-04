@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Bootstrap Island
 addappid(1942110)
-addappid(1942111,0,"99f7b518140fce9f16e690ba937ae59eeb918f35348ba45974e4e2f96a11f59f")
---setManifestid(1942111,"6640857522612974101")
+addappid(1942111, 1, "99f7b518140fce9f16e690ba937ae59eeb918f35348ba45974e4e2f96a11f59f")
+addappid(4456430)

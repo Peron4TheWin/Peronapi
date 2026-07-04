@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Pair Annihilation
 addappid(2365860)
-addappid(2365861,0,"7fbd38a3b5443861c2e95b1288252a848bd3ef9e373a46a52ee5093b72de8605")
--- setManifestid(2365861,"3003843380022078118")
+addappid(2365861, 1, "7fbd38a3b5443861c2e95b1288252a848bd3ef9e373a46a52ee5093b72de8605")

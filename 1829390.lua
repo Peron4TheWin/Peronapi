@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Phantom Breaker: Omnia Demo
 addappid(1829390)
-addappid(1829391,0,"1405e47c7a65b35663e185efb37b4e66907cf23f8f60ba74fa5e5251c65c2e20")
--- setManifestid(1829391,"7467542628497091602")
+addappid(1829391, 1, "1405e47c7a65b35663e185efb37b4e66907cf23f8f60ba74fa5e5251c65c2e20")

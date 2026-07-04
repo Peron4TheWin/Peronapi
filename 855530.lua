@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: New Ice York
 addappid(855530)
-addappid(855531,0,"103efa1f466d2cb525748425a6df25e1c846ecd857f9c4ff123c2c72c8231883")
--- setManifestid(855531,"1795678692360773650")
+addappid(855531, 1, "103efa1f466d2cb525748425a6df25e1c846ecd857f9c4ff123c2c72c8231883")

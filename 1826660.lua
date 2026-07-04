@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crystal Goddess
 addappid(1826660)
-addappid(1826661,0,"ffa364c0559d3000bdeb64a70240f64209773407dc865b8f744f23e1c563834f")
--- setManifestid(1826661,"920072571991763828")
+addappid(1826661, 1, "ffa364c0559d3000bdeb64a70240f64209773407dc865b8f744f23e1c563834f")

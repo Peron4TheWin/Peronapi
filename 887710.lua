@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ritter
 addappid(887710)
-addappid(887711,0,"0990d1f77b0a0de7d6fa710764e086e9544e53d3b26cf99a685050cc5e9137b9")
--- setManifestid(887711,"1694031932920105069")
+addappid(887711, 1, "0990d1f77b0a0de7d6fa710764e086e9544e53d3b26cf99a685050cc5e9137b9")

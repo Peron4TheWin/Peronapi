@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 只有向下 Only Down
 addappid(2571120)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2571121,0,"bd58ce98548d1182075c6b1c7abb8ce0ff69dff30b70ef99f89359ed5374fac8")
+addappid(2571121, 1, "bd58ce98548d1182075c6b1c7abb8ce0ff69dff30b70ef99f89359ed5374fac8")

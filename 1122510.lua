@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Busty Hentai Mosaic
 addappid(1122510)
-addappid(1122511,0,"7c07165e502fdd8ae3a1680756c8af8db22f96b3438ee938acf1c8e848507236")
--- setManifestid(1122511,"7004411697572472780")
+addappid(1122511, 1, "7c07165e502fdd8ae3a1680756c8af8db22f96b3438ee938acf1c8e848507236")

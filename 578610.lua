@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Pixel Smash
 addappid(578610)
-addappid(578611,0,"fff073672c711cf9c0ee65c48d8495b20baed7881e3603a91a8d3ad2cc135e03")
--- setManifestid(578611,"1836538544715601432")
+addappid(578611, 1, "fff073672c711cf9c0ee65c48d8495b20baed7881e3603a91a8d3ad2cc135e03")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: inVR
 addappid(466260)
-addappid(466261,0,"915510b9c0ab3fa15eff63347e640611e8f69cefe2f9a540206839d2a0eafafe")
--- setManifestid(466261,"3278712173288117937")
+addappid(466261, 1, "915510b9c0ab3fa15eff63347e640611e8f69cefe2f9a540206839d2a0eafafe")

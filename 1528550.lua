@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Imprisoned Queen
 addappid(1528550)
-addappid(1528551,0,"12bb48ed067e974f76806b9de60a1bd54f98fed5032b6e2300bbae16e9dfb9a2")
--- setManifestid(1528551,"642175111023185080")
+addappid(1528551, 1, "12bb48ed067e974f76806b9de60a1bd54f98fed5032b6e2300bbae16e9dfb9a2")

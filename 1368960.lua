@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fishing Sim World: Bass Pro Shops Edition
 addappid(1368960)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1368961,0,"19ce558d9663fc5e495f636c8f5f2668bd46ae38c5dd304b508ad3d5338ffe8d")
--- setManifestid(1368961,"8229209709749107714")
--- setManifestid(1369000,"5653439109524642159")
+addappid(1368961, 1, "19ce558d9663fc5e495f636c8f5f2668bd46ae38c5dd304b508ad3d5338ffe8d")

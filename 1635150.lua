@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Protect the Earth
 addappid(1635150)
-addappid(1635151,0,"c8758861aeba7bbfb6416c75535212aa216f97027b8f12fb9331e6d473740940")
--- setManifestid(1635151,"1261296744687269184")
+addappid(1635151, 1, "c8758861aeba7bbfb6416c75535212aa216f97027b8f12fb9331e6d473740940")

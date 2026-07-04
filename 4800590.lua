@@ -1,2 +1,4 @@
-addappid(4800590, 1, "e9335e53c789d938158eedb8a5c66e174fb270ecd3139813b644779b17bb0f82") -- Supermarket Chaos
-addappid(4800591, 1, "96914473ba48921d6f31b7753bec7dbeaac2e5ba8f983227bd6b51b8ebbed306") -- Depot 4800591
+-- Lua provided by SkyAPI 
+-- Game: Supermarket Chaos
+addappid(4800590)
+addappid(4800591, 1, "96914473ba48921d6f31b7753bec7dbeaac2e5ba8f983227bd6b51b8ebbed306")

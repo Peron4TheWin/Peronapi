@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Extinction
 addappid(570710)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(570711,0,"5a15e842d809e66b9d7c5eb1ebd8e6075afe72c750c610168442a91ec2810abe")
--- setManifestid(570711,"1317863448485727048")
+addappid(570711, 1, "5a15e842d809e66b9d7c5eb1ebd8e6075afe72c750c610168442a91ec2810abe")

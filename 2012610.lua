@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Age of Undead
 addappid(2012610)
-addappid(2012611,0,"e13d6b59cbcfe8b7365293e1b382d8fc5437b8e96c8da7a1ffd6edd694a68792")
--- setManifestid(2012611,"3994265225946110550")
+addappid(2012611, 1, "e13d6b59cbcfe8b7365293e1b382d8fc5437b8e96c8da7a1ffd6edd694a68792")

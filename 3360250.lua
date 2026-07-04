@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Cute Egg Diary
 addappid(3360250)
-addappid(3360251,0,"918d4814efa55e2269519a219abfcf1ef6b02962624e3f8bc19ce92fcb8867d3")
--- setManifestid(3360251,"2037212032552586285")
+addappid(3360251, 1, "918d4814efa55e2269519a219abfcf1ef6b02962624e3f8bc19ce92fcb8867d3")

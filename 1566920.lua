@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Booble H
 addappid(1566920)
-addappid(1566921,0,"364bcca4c2042b72db122e5b298bddff0892882b613eee237ac7efc2d68ab3f0")
--- setManifestid(1566921,"4996865677481041689")
+addappid(1566921, 1, "364bcca4c2042b72db122e5b298bddff0892882b613eee237ac7efc2d68ab3f0")

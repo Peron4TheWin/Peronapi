@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Speed Brawl
 addappid(468670)
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(468671,0,"65b8f4965b057a778cf6b4ab06d015c09eec29c5d3925f355b14f9edbafb4e1a")
--- setManifestid(468671,"4489357976937400367")
+addappid(468671, 1, "65b8f4965b057a778cf6b4ab06d015c09eec29c5d3925f355b14f9edbafb4e1a")

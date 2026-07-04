@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Sexy Tour With : Carmen
 addappid(3716160)
-addappid(3716161,0,"d529df1f83e1e9fa1f62833f146da8ef66c9c8815c87e07d56f284f4985ed1bd")
--- setManifestid(3716161,"3875427158279238640")
+addappid(3716161, 1, "d529df1f83e1e9fa1f62833f146da8ef66c9c8815c87e07d56f284f4985ed1bd")

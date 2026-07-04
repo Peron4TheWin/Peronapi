@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heck Deck
 addappid(1606210)
-addappid(1606211,0,"c75caacb6b482a886066564602439297cef4d5d08459549c2ab6ddc277fea99a")
--- setManifestid(1606211,"7183823377426776443")
+addappid(1606211, 1, "c75caacb6b482a886066564602439297cef4d5d08459549c2ab6ddc277fea99a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Solas City Heroes Demo
 addappid(2127670)
-addappid(2127671,0,"b78dbd88e4325e87cefcf8dea8d7a3899c6421aa24b64808faec1dcb31109c8b")
--- setManifestid(2127671,"3613238827385073351")
+addappid(2127671, 1, "b78dbd88e4325e87cefcf8dea8d7a3899c6421aa24b64808faec1dcb31109c8b")

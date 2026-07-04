@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bobls Demo
 addappid(2526480)
-addappid(2526481,0,"0ec00b1716be2b6e0f5c2c96f8a6fa93e4403507c7bad121e4d83949fc21cd94")
--- setManifestid(2526481,"8087024885352038214")
+addappid(2526481, 1, "0ec00b1716be2b6e0f5c2c96f8a6fa93e4403507c7bad121e4d83949fc21cd94")

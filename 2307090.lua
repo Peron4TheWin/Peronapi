@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 探偵・癸生川凌介事件譚 Vol.4「白鷺に紅の羽」
 addappid(2307090)
-addappid(2307091,0,"09c31820799e227062280499dd5e26a041a991778e36dede544cb5ab79be07f0")
--- setManifestid(2307091,"2879514777793331048")
+addappid(2307091, 1, "09c31820799e227062280499dd5e26a041a991778e36dede544cb5ab79be07f0")

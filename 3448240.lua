@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Who am I?
 addappid(3448240)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3448241,0,"5754dfae59212d0f5794db2cffe2b34bf9545bee9e5adc7731c16ff9eb4b6ff9")
--- setManifestid(3448241,"6454947598153086476")
+addappid(3448241, 1, "5754dfae59212d0f5794db2cffe2b34bf9545bee9e5adc7731c16ff9eb4b6ff9")

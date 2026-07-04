@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HelloWorld:ESCAPE
 addappid(1833850)
-addappid(1833851,0,"cef85dbe0d1b2b3dac77daa19bb87bcb9e05f8edc7d510ae84ee9fb0216b1e3d")
--- setManifestid(1833851,"2273801287703338165")
+addappid(1833851, 1, "cef85dbe0d1b2b3dac77daa19bb87bcb9e05f8edc7d510ae84ee9fb0216b1e3d")

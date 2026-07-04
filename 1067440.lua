@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RollingSky2
 addappid(1067440)
-addappid(1067441,0,"f57a28fcc075a1ade7c145fff7924d83bda2a94ad9f6f2b24302b21dfb15b79a")
+addappid(1067441, 1, "f57a28fcc075a1ade7c145fff7924d83bda2a94ad9f6f2b24302b21dfb15b79a")

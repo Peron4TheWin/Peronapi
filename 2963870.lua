@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Slug: Awakening
 addappid(2963870)
-addappid(2963871,0,"d9d37ba599e18f1a9f535214896754232ecaebbb0438ff8516aa3d8eae599d8e")
--- setManifestid(2963871,"7709996200175975592")
+addappid(2963871, 1, "d9d37ba599e18f1a9f535214896754232ecaebbb0438ff8516aa3d8eae599d8e")

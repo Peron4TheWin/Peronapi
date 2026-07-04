@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyberwar: Neon City
 addappid(1449780)
-addappid(1449781,0,"d5d29f170e1bed3b1e5eb5a8501f89ce02d3692c9ef91a81049f5997daa02314")
--- setManifestid(1449781,"5602385010498052492")
+addappid(1449781, 1, "d5d29f170e1bed3b1e5eb5a8501f89ce02d3692c9ef91a81049f5997daa02314")

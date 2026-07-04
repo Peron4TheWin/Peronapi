@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ROGUE SHIFT
 addappid(611190)
-addappid(611191,0,"94665d371467a9ddd89e6ca370c6e9bef71afd7deec904bc5bd4b740ba49673c")
--- setManifestid(611191,"71835553100454462")
+addappid(611191, 1, "94665d371467a9ddd89e6ca370c6e9bef71afd7deec904bc5bd4b740ba49673c")

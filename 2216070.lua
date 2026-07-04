@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warhammer 40,000: Darktide Soundtrack
 addappid(2216070)
-addappid(2216071,0,"16dec830831b4fb98c4c7c2110e34ac619f7211369b15eaa934d3517489a4cf3")
--- setManifestid(2216071,"2779155089343449881")
-addappid(2216072,0,"49b8ab52cb8db195fae2f9757a232f82a0a93febe79016a96b556bdac0a713de")
--- setManifestid(2216072,"9093441741097978729")
+addappid(2216071, 1, "16dec830831b4fb98c4c7c2110e34ac619f7211369b15eaa934d3517489a4cf3")

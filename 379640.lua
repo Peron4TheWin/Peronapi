@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloo Kid 2
 addappid(379640)
-addappid(379641,0,"c61782d48db70395e1c3d61a49d0f0db4955fe3be7cfe45864c7b41fcdfb2306")
--- setManifestid(379641,"8902381862939839385")
+addappid(379641, 1, "c61782d48db70395e1c3d61a49d0f0db4955fe3be7cfe45864c7b41fcdfb2306")

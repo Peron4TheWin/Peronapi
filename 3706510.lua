@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rise of Adou
 addappid(3706510)
-addappid(3706511,0,"e62146e97196ad62af599dafe348c1c02260e7338a645927c0b60fc16fa50a03")
--- setManifestid(3706511,"490357159382578266")
+addappid(3706511, 1, "e62146e97196ad62af599dafe348c1c02260e7338a645927c0b60fc16fa50a03")

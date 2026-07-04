@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tutien Path
 addappid(3239330)
-addappid(3239331,0,"f7f8364cdfcd1140d266a5216d5044bb8fe77c08a9962bc36385290ee6026f7f")
+addappid(3239331, 1, "f7f8364cdfcd1140d266a5216d5044bb8fe77c08a9962bc36385290ee6026f7f")

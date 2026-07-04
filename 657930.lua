@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spartaga
 addappid(657930)
-addappid(657931,0,"5518b49024e0e238891dbe4e5ba0d48f9c82299c59c68c5d61e46c0d2254c029")
--- setManifestid(657931,"6745378863581938140")
+addappid(657931, 1, "5518b49024e0e238891dbe4e5ba0d48f9c82299c59c68c5d61e46c0d2254c029")

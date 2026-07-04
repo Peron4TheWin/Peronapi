@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Necrosmith 2 Playtest
 addappid(2676910)
-addappid(2676911,0,"8d2b50ea115043d34b26018c3e3a7d1008a62e24e62e0afdcad63862c913f25a")
--- setManifestid(2676911,"7236454181714245625")
+addappid(2676911, 1, "8d2b50ea115043d34b26018c3e3a7d1008a62e24e62e0afdcad63862c913f25a")

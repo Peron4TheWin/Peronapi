@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Renryuu: Ascension
 addappid(1809530)
-addappid(1809531,0,"c9ece1f7b875917d59c400789aa63d0e1eb1fe393357ad528bb1ddc403fab651")
--- setManifestid(1809531,"4307309071911094468")
+addappid(1809531, 1, "c9ece1f7b875917d59c400789aa63d0e1eb1fe393357ad528bb1ddc403fab651")
+addappid(1865200)

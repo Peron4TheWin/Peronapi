@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Life is Hard
 addappid(414080)
-addappid(228983)
-addappid(229002)
-addappid(414087,0,"c403d09022af0ac80f27d2ba0e088eba3fb41319d68dadad65d2352e1a251aa6")
-addappid(414086,0,"c8f79cfc6881c173154fc39a17788ddde00bec116ce5effdc40570ad77377e37")
+addappid(414081, 1, "c299f871770e0d9a436e6b9a5b567bbf92d50c12dcbcc524302aa5e7a608595e")
+addappid(417230, 0, "30e66aa83a355e68812123dbaa2f308f9b25dac6621459e2d5eb74dc2ec27924")

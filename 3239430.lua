@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VARK SHORTS Premium Demo
 addappid(3239430)
-addappid(3239431,0,"b9424a697f76babce2825d45a06c68dc718ed3b53b387e5cac3d5ee2a89d1218")
--- setManifestid(3239431,"2648302299235693839")
+addappid(3239431, 1, "b9424a697f76babce2825d45a06c68dc718ed3b53b387e5cac3d5ee2a89d1218")

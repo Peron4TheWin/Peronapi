@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FeedBack
 addappid(3307560)
-addappid(3307561,0,"c7dafdc3f57a15505b56a72046589ca1034126856a7e98c0a4dbdcb80d989068")
--- setManifestid(3307561,"7912133540721407166")
+addappid(3307561, 1, "c7dafdc3f57a15505b56a72046589ca1034126856a7e98c0a4dbdcb80d989068")

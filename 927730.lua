@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D Earth Time Lapse PC Live Wallpaper
 addappid(927730)
-addappid(927731,0,"7d9fc741c99a4b219185c79d85c4ece1f58e166bae8c9abf9f5bcc54dec4582b")
--- setManifestid(927731,"6070967911135952975")
+addappid(927731, 1, "7d9fc741c99a4b219185c79d85c4ece1f58e166bae8c9abf9f5bcc54dec4582b")

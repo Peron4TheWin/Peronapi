@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mining And Achievements 挖矿与成就
 addappid(3083900)
-addappid(3083901,0,"15e9b8802e74f4470eaac95b11d0ae530300e74b138cc47db9b21c0443dd3428")
--- setManifestid(3083901,"6040438945627338674")
+addappid(3083901, 1, "15e9b8802e74f4470eaac95b11d0ae530300e74b138cc47db9b21c0443dd3428")

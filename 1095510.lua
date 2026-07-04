@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Artificiality-人造物- Demo
 addappid(1095510)
-addappid(1095511,0,"62d44af442d9c071f70dc827bbfb92a8783a717101606147f8d4091f109a48ab")
--- setManifestid(1095511,"1603336879492800975")
+addappid(1095511, 1, "62d44af442d9c071f70dc827bbfb92a8783a717101606147f8d4091f109a48ab")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: One Shell Straight to Hell
 addappid(1330370)
-addappid(1330371,0,"3dd8103e8a66e56885728c854a5ee441942c1bcf0dcb575ac1d77ff797959e0c")
--- setManifestid(1330371,"3975451783639076454")
+addappid(1330371, 1, "3dd8103e8a66e56885728c854a5ee441942c1bcf0dcb575ac1d77ff797959e0c")
+addappid(1383600)

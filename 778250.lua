@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battle of Kings VR
 addappid(778250)
-addappid(778251,0,"cd9b7f777156584133447550b046cca2942223104ced05eeb76c034a7e33bfbd")
--- setManifestid(778251,"2663922485489876823")
+addappid(778251, 1, "cd9b7f777156584133447550b046cca2942223104ced05eeb76c034a7e33bfbd")

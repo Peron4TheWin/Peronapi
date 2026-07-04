@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WOLF RIOT
 addappid(1801860)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1801861,0,"5ce26cdc295aa86168813ba6d14548ea1f62cb90dacb713f95a68ca2661a0486")
--- setManifestid(1801861,"4537878819955087608")
+addappid(1801861, 1, "5ce26cdc295aa86168813ba6d14548ea1f62cb90dacb713f95a68ca2661a0486")

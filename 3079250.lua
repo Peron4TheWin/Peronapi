@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Captain Blood Demo
 addappid(3079250)
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229033,"2059065101492814639")
-addappid(3079251,0,"8e67ba9b8827a6dd80dbdd9a68f6f106d8ead78847c3512ea2b76ca11a4ce3f9")
+addappid(3079251, 1, "8e67ba9b8827a6dd80dbdd9a68f6f106d8ead78847c3512ea2b76ca11a4ce3f9")

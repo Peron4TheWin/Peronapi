@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love Colors: Paint with Friends
 addappid(1561060)
-addappid(1561061,0,"24e6586f8762f75747d7f60d261a8c5b743bc4cdf1e3282f5fedab28a213a6a7")
--- setManifestid(1561061,"3676874163719398190")
+addappid(1561061, 1, "24e6586f8762f75747d7f60d261a8c5b743bc4cdf1e3282f5fedab28a213a6a7")

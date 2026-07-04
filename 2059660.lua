@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cavern of Dreams
 addappid(2059660)
-addappid(2059661,0,"00e3ba6fdf8a430f900ccd13522c7f9d835a4b7e9403fc64863c768b59db595a")
---setManifestid(2059661,"4992058258613500092")
+addappid(2059661, 1, "00e3ba6fdf8a430f900ccd13522c7f9d835a4b7e9403fc64863c768b59db595a")

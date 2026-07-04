@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brushlings Pale Moon
 addappid(1409350)
-addappid(1409351,0,"7da88c17a2c7d847e6cc8113d35a4574941d5b52458b29aac0b6e4c60674dbed")
--- setManifestid(1409351,"4497852843667441675")
+addappid(1409351, 1, "7da88c17a2c7d847e6cc8113d35a4574941d5b52458b29aac0b6e4c60674dbed")

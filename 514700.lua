@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery Case Files®: 13th Skull™ Collector's Edition
 addappid(514700)
-addappid(514701,0,"f1287e8b1a869fb1b80e847ffc78285fad19c1673dd59b29be0f184dc4a3fa05")
--- setManifestid(514701,"7640659296561313475")
+addappid(514701, 1, "f1287e8b1a869fb1b80e847ffc78285fad19c1673dd59b29be0f184dc4a3fa05")

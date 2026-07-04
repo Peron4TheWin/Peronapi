@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TEMPER MY BLADE
 addappid(1273580)
-addappid(1273581,0,"e351e27bc2f06e244488eb5662d9d801b202b2f286e85c57cf3af76d1b1323d5")
--- setManifestid(1273581,"1749479461073324622")
+addappid(1273581, 1, "e351e27bc2f06e244488eb5662d9d801b202b2f286e85c57cf3af76d1b1323d5")

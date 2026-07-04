@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skeleton Crew
 addappid(1145330)
-addappid(1145332)
-addappid(1145331,0,"bf67d840b19b93baa740266f1a49e184219c48bdb312a6568f8319c02e0b8579")
--- setManifestid(1145331,"5395547114549685695")
-addappid(1145333)
+addappid(1145331, 1, "bf67d840b19b93baa740266f1a49e184219c48bdb312a6568f8319c02e0b8579")

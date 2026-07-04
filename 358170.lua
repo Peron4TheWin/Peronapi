@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arctic Adventure
+addappid(358170)
+addappid(358171, 1, "22c2cadd30a53a729bc6626c368bfe857d6007b5dacd696538cf77afba28b3f7")

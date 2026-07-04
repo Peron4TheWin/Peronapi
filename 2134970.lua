@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hotel
 addappid(2134970)
-addappid(2134971,0,"d5b28c8a038fbd14c99df726dfd034f1f7f9ceb4de862b75c384639179ac4133")
--- setManifestid(2134971,"5989352127439048482")
+addappid(2134971, 1, "d5b28c8a038fbd14c99df726dfd034f1f7f9ceb4de862b75c384639179ac4133")

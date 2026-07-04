@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shine's Adventures 0 (Zombies Reload)
 addappid(1366320)
-addappid(1366321,0,"81e1609611d66fec3bc8ed7a1e3f37d394119318f96845acb36f2288cc637062")
--- setManifestid(1366321,"3265074818054947656")
+addappid(1366321, 1, "81e1609611d66fec3bc8ed7a1e3f37d394119318f96845acb36f2288cc637062")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NewHrdGame
 addappid(1807300)
-addappid(1807301,0,"9ddc28fdd26ef61d6b0457fe89a21b277d3d8367d9624f8316475c9a9cb19dee")
--- setManifestid(1807301,"739323583898558838")
+addappid(1807301, 1, "9ddc28fdd26ef61d6b0457fe89a21b277d3d8367d9624f8316475c9a9cb19dee")

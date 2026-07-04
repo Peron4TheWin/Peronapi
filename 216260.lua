@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don Bradman Cricket 14
 addappid(216260)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(216261,0,"7afc06c18d29b2796fd79333c6df86ce919c2b44a8d1da57aa9fb437446e87fa")
--- setManifestid(216261,"785411795042587513")
+addappid(216261, 1, "7afc06c18d29b2796fd79333c6df86ce919c2b44a8d1da57aa9fb437446e87fa")

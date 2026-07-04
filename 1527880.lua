@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Darkness Under My Bed
 addappid(1527880)
-addappid(1527881,0,"7a9f27752cf930ba2224d0ed29ac87607feb50030f3274f3408674053e9bc0c4")
--- setManifestid(1527881,"9133098258496228849")
+addappid(1527881, 1, "7a9f27752cf930ba2224d0ed29ac87607feb50030f3274f3408674053e9bc0c4")

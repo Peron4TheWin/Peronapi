@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Terrain of Magical Expertise
 addappid(1543430)
-addappid(1543431,0,"1c90df9853f457ada556bc79de4726622dccc83cde48c0c113a3c0dc82318bc3")
--- setManifestid(1543431,"8693466716556025662")
+addappid(1543431, 1, "1c90df9853f457ada556bc79de4726622dccc83cde48c0c113a3c0dc82318bc3")

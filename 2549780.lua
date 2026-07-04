@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Karate Kid: Street Rumble
 addappid(2549780)
-addappid(2549781,0,"07df7d7e96816e68a61e7a46e41d9b8066dafeb91f53f39125a28170a8f974e7")
--- setManifestid(2549781,"7795500084210821390")
+addappid(2549781, 1, "07df7d7e96816e68a61e7a46e41d9b8066dafeb91f53f39125a28170a8f974e7")

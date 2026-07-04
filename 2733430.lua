@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slot Fever
 addappid(2733430)
-addappid(2733431,0,"b6789a5e4863ba9955ad08149202747a53b131fc102c17b0c9ca456eef4a84b4")
--- setManifestid(2733431,"3808523092426119618")
+addappid(2733431, 1, "b6789a5e4863ba9955ad08149202747a53b131fc102c17b0c9ca456eef4a84b4")

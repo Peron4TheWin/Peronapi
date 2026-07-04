@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Millennium Atoll
 addappid(1477850)
-addappid(1477851,0,"a94a24abcde5a59af40cefcba9b95a2fc5914f81e61731f6837e61c084cec02c")
--- setManifestid(1477851,"8707734999532588474")
+addappid(1477851, 1, "a94a24abcde5a59af40cefcba9b95a2fc5914f81e61731f6837e61c084cec02c")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WARCANA Demo
 addappid(2540610)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(2540611,0,"f462259f464d84422baa01e2674f9fee242dc6468f5b7cedc3e71d8b101ecfdc")
+addappid(2540611, 1, "f462259f464d84422baa01e2674f9fee242dc6468f5b7cedc3e71d8b101ecfdc")

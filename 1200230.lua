@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ludus
 addappid(1200230)
-addappid(1200231,0,"37cb2d451a1db1232a7c7a75c6516c7477b2c38d0e39a85f67e96c14074d22a7")
+addappid(1200231, 1, "37cb2d451a1db1232a7c7a75c6516c7477b2c38d0e39a85f67e96c14074d22a7")

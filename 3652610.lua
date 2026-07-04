@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Casting Clicker
 addappid(3652610)
-addappid(3652611,0,"4016dd19b421097d1f3b37aa80f58e7639a14830d2a672ca3bac4a0fb230cdbd")
--- setManifestid(3652611,"4480752938271442124")
+addappid(3652611, 1, "4016dd19b421097d1f3b37aa80f58e7639a14830d2a672ca3bac4a0fb230cdbd")

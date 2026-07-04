@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silence Channel 2
 addappid(2145220)
-addappid(2145221,0,"9feebf551f12b15a9e0fff3d24ff4bff3f0044579d49ac9271e179290e499e48")
--- setManifestid(2145221,"1354826434992782544")
+addappid(2145221, 1, "9feebf551f12b15a9e0fff3d24ff4bff3f0044579d49ac9271e179290e499e48")

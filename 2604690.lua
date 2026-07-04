@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: College Sex - Episode 1
 addappid(2604690)
-addappid(2604691,0,"13296a58f6dcc80abc9435037005e817d8bf7c55bdfc41cfa7b69dcf209b7a0d")
--- setManifestid(2604691,"5109135419653780002")
+addappid(2604691, 1, "13296a58f6dcc80abc9435037005e817d8bf7c55bdfc41cfa7b69dcf209b7a0d")

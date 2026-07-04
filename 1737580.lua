@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Timemelters Demo
 addappid(1737580)
-addappid(1737581,0,"1f449359e233ab9af512718dae6a652bbc8f9dd4431b8b5956466ab9b7c2be79")
--- setManifestid(1737581,"1360631757186222308")
+addappid(1737581, 1, "1f449359e233ab9af512718dae6a652bbc8f9dd4431b8b5956466ab9b7c2be79")

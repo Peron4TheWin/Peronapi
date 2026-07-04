@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soul Locus
 addappid(349190)
-addappid(349191,0,"1c51f0a4ba95c7869d0f2d5cc69735022af252b6c11813e42969b91f8a001869")
+addappid(349191, 1, "1c51f0a4ba95c7869d0f2d5cc69735022af252b6c11813e42969b91f8a001869")

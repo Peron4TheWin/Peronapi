@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Assault Mayhem
 addappid(3271250)
-addappid(3271251,0,"c86f29f35cbc4360e0573f9a73a86fa39be3d6b6f46f52a51ec50a8b5459e128")
--- setManifestid(3271251,"8429372262193913038")
+addappid(3271251, 1, "c86f29f35cbc4360e0573f9a73a86fa39be3d6b6f46f52a51ec50a8b5459e128")

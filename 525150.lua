@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Fuss
 addappid(525150)
-addappid(525151,0,"c7f50d08b4e7fffd20d42e1c3a3361292eeb35e2f457696a98abcb48f62b4ca3")
--- setManifestid(525151,"6454969180380879998")
+addappid(525151, 1, "c7f50d08b4e7fffd20d42e1c3a3361292eeb35e2f457696a98abcb48f62b4ca3")

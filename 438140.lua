@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Realms
 addappid(438140)
-addappid(438141,0,"00567dbcbbd89a690bbea21139ef9bdca59c905002ba49337c375870959b93be")
--- setManifestid(438141,"6347293934229835372")
+addappid(438141, 1, "00567dbcbbd89a690bbea21139ef9bdca59c905002ba49337c375870959b93be")

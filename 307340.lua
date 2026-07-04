@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Platypus
 addappid(307340)
-addappid(307341,0,"b93c84f83089ae5bc70a09eb1deac419aa45e85c7c873dac59daa45dbb334774")
--- setManifestid(307341,"7540785291070459835")
+addappid(307341, 1, "b93c84f83089ae5bc70a09eb1deac419aa45e85c7c873dac59daa45dbb334774")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Paradise
 addappid(2485270)
-addappid(2485271,0,"c432b61d21b858076d2ec376d6d711e9c3afe58aff81bba157e9f3743ee9fca7")
--- setManifestid(2485271,"8938041008919635674")
+addappid(2485271, 1, "c432b61d21b858076d2ec376d6d711e9c3afe58aff81bba157e9f3743ee9fca7")

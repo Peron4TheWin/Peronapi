@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slimy Harvest
 addappid(3804990)
-addappid(3804991,0,"513440e6277a5d66bfe9fe27317e240874738d57cfbd95f6cfef0b44bcb1852f")
--- setManifestid(3804991,"802393168547131895")
+addappid(3804991, 1, "513440e6277a5d66bfe9fe27317e240874738d57cfbd95f6cfef0b44bcb1852f")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cricket 22 - Academy Creation Tools
 addappid(1844030)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1844031,0,"e85e53e1485be9ef5dbf9f974ce780edce4c93d3ce6c076b4a05621aafb4b2d3")
--- setManifestid(1844031,"3384318257412218170")
+addappid(1844031, 1, "e85e53e1485be9ef5dbf9f974ce780edce4c93d3ce6c076b4a05621aafb4b2d3")

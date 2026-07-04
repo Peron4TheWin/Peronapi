@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg
 addappid(2916200)
-addappid(2916201,0,"fb6826a979dd204b836a619d5a88d6b0e46c1e681017b985e2d5c3c8adb45330")
--- setManifestid(2916201,"4807347502939457014")
+addappid(2916201, 1, "fb6826a979dd204b836a619d5a88d6b0e46c1e681017b985e2d5c3c8adb45330")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DAEMON X MACHINA
 addappid(1167450)
-addappid(228987)
---setManifestid(228987,"4302102680580581867")
-addappid(1167451,0,"3dc4397d4f94a640043bea785c35492e0b1bfc7e8d08d9f1a1f708f9eab47991")
---setManifestid(1167451,"5557761116931964144")
+addappid(1167451, 1, "3dc4397d4f94a640043bea785c35492e0b1bfc7e8d08d9f1a1f708f9eab47991")

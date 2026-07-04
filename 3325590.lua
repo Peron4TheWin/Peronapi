@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Emi - Long Road Home
 addappid(3325590)
-addappid(3325591,0,"8debdfd8c76316a5a1f87b85582accd4d40911938ec7c026057f7f8f41799d0e")
--- setManifestid(3325591,"1845343863960552268")
+addappid(3325591, 1, "8debdfd8c76316a5a1f87b85582accd4d40911938ec7c026057f7f8f41799d0e")

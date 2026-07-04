@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Living Legends: Wrath of the Beast Collector's Edition
 addappid(926130)
-addappid(926131,0,"a91f669bed608d5a7bff8d0bcaf9ecd621fde6aaf7e4f77a4d38f93007ecd2cd")
--- setManifestid(926131,"6977305400353185961")
+addappid(926131, 1, "a91f669bed608d5a7bff8d0bcaf9ecd621fde6aaf7e4f77a4d38f93007ecd2cd")

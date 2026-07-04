@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: King's Orders
 addappid(1369690)
-addappid(1369691,0,"fff9bb2d3887d0badb1a16f331a46a8fd78d1d0edce9747d098ae8730ba8d230")
--- setManifestid(1369691,"4763346314094516036")
+addappid(1369691, 1, "fff9bb2d3887d0badb1a16f331a46a8fd78d1d0edce9747d098ae8730ba8d230")
+addappid(3418000)

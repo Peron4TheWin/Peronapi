@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PowerSimulator
 addappid(1745980)
-addappid(1745981,0,"9a1bd820bab06c23588edafe3e9b260b78e45f8bc58fd9491c6abd6e49e64ec9")
--- setManifestid(1745981,"4157658041873099899")
+addappid(1745981, 1, "9a1bd820bab06c23588edafe3e9b260b78e45f8bc58fd9491c6abd6e49e64ec9")

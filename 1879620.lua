@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 1000 Needles
 addappid(1879620)
-addappid(1879621,0,"e8bc062a0775c290b42926fddfc6ab0b8c4ff7a6f61277d7505ab779412c0597")
--- setManifestid(1879621,"5938249648837078027")
+addappid(1879621, 1, "e8bc062a0775c290b42926fddfc6ab0b8c4ff7a6f61277d7505ab779412c0597")

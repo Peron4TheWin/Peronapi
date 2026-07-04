@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Delivery Man
 addappid(2181440)
-addappid(2181441,0,"7d8cbb11c608bc6db58e76b2b7adee64054bc7ef4225458d02f6d1c63d3538dc")
+addappid(2181441, 1, "7d8cbb11c608bc6db58e76b2b7adee64054bc7ef4225458d02f6d1c63d3538dc")

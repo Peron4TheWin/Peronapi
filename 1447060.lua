@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jad
 addappid(1447060)
-addappid(229020)
-addappid(1447061,0,"1a46a8857dbf361f83ad54106b028d8ec828df5b502869893bcd0df59379c264")
+addappid(1447061, 1, "1a46a8857dbf361f83ad54106b028d8ec828df5b502869893bcd0df59379c264")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Hydorah
 addappid(628800)
--- setManifestid(228990,"1829726630299308803")
-addappid(628801,0,"a6efddcbc18ae462fa543e95d0b3683d3100728a610612ac4555dbcf61311f7f")
--- setManifestid(628801,"6106365179268069336")
+addappid(628801, 1, "a6efddcbc18ae462fa543e95d0b3683d3100728a610612ac4555dbcf61311f7f")

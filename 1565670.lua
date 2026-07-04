@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Five Nations
 addappid(1565670)
-addappid(1565671,0,"9de29ff07cbb643417f95c1c5d0016ec3de69b66022e0ccb3c9e6ebf07fe5415")
--- setManifestid(1565671,"767313597212153161")
+addappid(1565671, 1, "9de29ff07cbb643417f95c1c5d0016ec3de69b66022e0ccb3c9e6ebf07fe5415")
+addappid(2471720)

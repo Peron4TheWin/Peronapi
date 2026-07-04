@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: My Furry Protogen 🐾
 addappid(2009010)
-addappid(2009011,0,"3a4a955463b394b4ebb2ee9aee749d7e62584ccf93555f40cbd063e9a8f60c0d")
--- setManifestid(2009011,"867163245136460120")
+addappid(2009011, 1, "3a4a955463b394b4ebb2ee9aee749d7e62584ccf93555f40cbd063e9a8f60c0d")
+addappid(2022550)

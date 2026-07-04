@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jacksmith: Weapons and Warriors
 addappid(3580580)
-addappid(3580581,0,"66b3c25e35e2d734a6591131492f846958fed2a8c5b0a1a4e44a9195f6f78866")
--- setManifestid(3580581,"161179547877802750")
+addappid(3580581, 1, "66b3c25e35e2d734a6591131492f846958fed2a8c5b0a1a4e44a9195f6f78866")

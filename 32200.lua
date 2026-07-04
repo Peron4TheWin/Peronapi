@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Drift
 addappid(32200)
-addappid(32201,0,"c6fb95d778ba1e2045879541ed204b4e2a163ab02078cb021304e1efa5173a67")
--- setManifestid(32201,"3029538377674725400")
+addappid(32201, 1, "c6fb95d778ba1e2045879541ed204b4e2a163ab02078cb021304e1efa5173a67")

@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Aces of the Luftwaffe - Squadron
 addappid(859350)
--- setManifestid(228989,"3514306556860204959")
-addappid(859351,0,"278bea2f94ba7069f687b491a20e1818778569a5eff95eccf5639c22be9272e9")
--- setManifestid(859351,"8756442616114623308")
+addappid(859351, 1, "278bea2f94ba7069f687b491a20e1818778569a5eff95eccf5639c22be9272e9")
+addappid(860630)

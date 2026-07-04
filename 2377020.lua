@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unbroken: The Awakening
 addappid(2377020)
-addappid(2377021,0,"68a061415032c4d0d5e99f549787e53d66f7163a8c512cb33b1a38b1af8abfc6")
--- setManifestid(2377021,"5080961747604805329")
+addappid(2377021, 1, "68a061415032c4d0d5e99f549787e53d66f7163a8c512cb33b1a38b1af8abfc6")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Demon Lord Jill -REVIVAL-
 addappid(1667720)
-addappid(1667721,0,"3ec984e5d010951154f8e1c6f881d421a3e99c2bfc2a719b0da1ead414178cc7")
--- setManifestid(1667721,"1826489919969219988")
+addappid(1667721, 1, "3ec984e5d010951154f8e1c6f881d421a3e99c2bfc2a719b0da1ead414178cc7")
+addappid(2238060)

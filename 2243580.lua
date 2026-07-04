@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Food Fight: Culinary Combat
 addappid(2243580)
-addappid(2243581,0,"f87f62d422dda4e118b87ef21ca9b6786df9912bdc021f6605d4b3c514269084")
--- setManifestid(2243581,"6321562004595936917")
+addappid(2243581, 1, "f87f62d422dda4e118b87ef21ca9b6786df9912bdc021f6605d4b3c514269084")

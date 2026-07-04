@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: uninhabited island
 addappid(2798410)
-addappid(2798411,0,"cc35c1243c707defa59e8cc3efadb14039e9c7b9cfb183001f84d5f7ca1b943c")
--- setManifestid(2798411,"251315769644811093")
+addappid(2798411, 1, "cc35c1243c707defa59e8cc3efadb14039e9c7b9cfb183001f84d5f7ca1b943c")

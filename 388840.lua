@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CATS!
 addappid(388840)
-addappid(388841,0,"a9c559f1a461d1e5508ea1e26ba744c7a72757bad9803721752cf855e30c5dae")
--- setManifestid(388841,"956845244380390482")
+addappid(388841, 1, "a9c559f1a461d1e5508ea1e26ba744c7a72757bad9803721752cf855e30c5dae")

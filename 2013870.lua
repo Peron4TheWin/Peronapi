@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Idle Hero
 addappid(2013870)
-addappid(2013871,0,"70efb837deb899da2b0084398042eb29a8ac07e08f9623309572df5c0c95bcc5")
+addappid(2013871, 1, "70efb837deb899da2b0084398042eb29a8ac07e08f9623309572df5c0c95bcc5")

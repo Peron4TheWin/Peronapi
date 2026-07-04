@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARMORED KITTEN
 addappid(713530)
-addappid(713531,0,"dfe2f140fb62d3b31ff974a99e000665b2d585e20dbd298cfba245eeac1732cf")
--- setManifestid(713531,"8236093578516187398")
+addappid(713531, 1, "dfe2f140fb62d3b31ff974a99e000665b2d585e20dbd298cfba245eeac1732cf")

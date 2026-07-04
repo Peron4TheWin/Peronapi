@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape Room - Der kranke Kollege
 addappid(1301720)
-addappid(1301721,0,"e15c5fcffaf9da8ed7eba10b8fb52092c50d5282fdde85e6d18c87f8b6878324")
--- setManifestid(1301721,"156357980134680304")
+addappid(1301721, 1, "e15c5fcffaf9da8ed7eba10b8fb52092c50d5282fdde85e6d18c87f8b6878324")

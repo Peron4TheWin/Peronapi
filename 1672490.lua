@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: I'm Strongest Legend
 addappid(1672490)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1672491,0,"b7ff7b5e2f0ec8f410834372eabc0258ae10d2ea93b1b0b0dcbba190c197dcad")
--- setManifestid(1672491,"8128938219345731057")
+addappid(1672491, 1, "b7ff7b5e2f0ec8f410834372eabc0258ae10d2ea93b1b0b0dcbba190c197dcad")
+addappid(1854960)

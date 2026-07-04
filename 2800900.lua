@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rift Riff
 addappid(2800900)
-addappid(2800901,0,"f3c7ea3002f656ee07bab9f10c17dbd3e775a438b4bd5c88a11f4fe3d4c3e9dd")
+addappid(2800901, 1, "f3c7ea3002f656ee07bab9f10c17dbd3e775a438b4bd5c88a11f4fe3d4c3e9dd")

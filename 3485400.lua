@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 19th-century Printing Press Experience VR
 addappid(3485400)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3485401,0,"f17852d22bd2d922bc8bd2309f7fa35dd511820f49d30d80a8187169fc92e815")
--- setManifestid(3485401,"6006512806427958363")
+addappid(3485401, 1, "f17852d22bd2d922bc8bd2309f7fa35dd511820f49d30d80a8187169fc92e815")

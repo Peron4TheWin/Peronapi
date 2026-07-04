@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hotel Anatolia
 addappid(601010)
-addappid(601011,0,"5f3d46c4a7e75fa116c7fc311a72ff971287ae88169f5481550b516fd1e95d06")
--- setManifestid(601011,"6148633829533711514")
+addappid(601011, 1, "5f3d46c4a7e75fa116c7fc311a72ff971287ae88169f5481550b516fd1e95d06")

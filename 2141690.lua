@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Car Dealership Simulator
 addappid(2141690)
-addappid(2141691,0,"1587757928cd9adb80cc6d48e7a8010cf3a98862b1c097e78463ded371fe90cd")
---setManifestid(2141691,"7207209100281885114")
+addappid(2141691, 1, "1587757928cd9adb80cc6d48e7a8010cf3a98862b1c097e78463ded371fe90cd")

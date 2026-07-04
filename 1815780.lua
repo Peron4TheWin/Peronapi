@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Asphalt Legends
 addappid(1815780)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228989,"3514306556860204959")
-addappid(1815781,0,"5bcde2a5b270cc5f3a1a571b16fba5c90347280e05940c8ac301a5a38df2a451")
--- setManifestid(1815781,"8557279586535801161")
+addappid(1815781, 1, "5bcde2a5b270cc5f3a1a571b16fba5c90347280e05940c8ac301a5a38df2a451")
+addappid(4241640)

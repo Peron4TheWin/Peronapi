@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ENTANGLED SOULS
 addappid(2160840)
-addappid(2160841,0,"60c068812a5fa33680c87bcf223f3b0908cdf02aef806eac555d16da70068297")
--- setManifestid(2160841,"1785860782961745793")
+addappid(2160841, 1, "60c068812a5fa33680c87bcf223f3b0908cdf02aef806eac555d16da70068297")

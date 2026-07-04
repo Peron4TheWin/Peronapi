@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Estencel Demo
 addappid(2125040)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2125041,0,"ebb2581c755af555af185ca7f29eb97a6041acebe3835fc8efe914f3000cc7ab")
+addappid(2125041, 1, "ebb2581c755af555af185ca7f29eb97a6041acebe3835fc8efe914f3000cc7ab")

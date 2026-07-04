@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clicker Conquest
 addappid(3439010)
-addappid(3439011,0,"a9e53291a9a4e50be6d09db72f61c50938385f4818cc463871cc93bda60597da")
--- setManifestid(3439011,"4525433964388178825")
+addappid(3439011, 1, "a9e53291a9a4e50be6d09db72f61c50938385f4818cc463871cc93bda60597da")

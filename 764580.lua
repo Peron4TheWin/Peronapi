@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RealmCraft
 addappid(764580)
-addappid(764581,0,"d1755bdb18e745301c7a9f90d8836c770aad4746aa16312537093fe1b52c6683")
+addappid(764581, 1, "d1755bdb18e745301c7a9f90d8836c770aad4746aa16312537093fe1b52c6683")

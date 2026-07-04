@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elysium
 addappid(3414470)
-addappid(3414471,0,"1dad8e58e393142233edd8acbdeded121952df53b4cfcc5e2a19a9f4a3cab1c1")
--- setManifestid(3414471,"2683328344806336083")
+addappid(3414471, 1, "1dad8e58e393142233edd8acbdeded121952df53b4cfcc5e2a19a9f4a3cab1c1")

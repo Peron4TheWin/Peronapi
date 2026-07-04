@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The incredible friends
 addappid(1197840)
-addappid(1197841,0,"047c5f40be6c425c04e80c0f3e0cf58a2bf5cc329a0a9ac301ae04a94c8010f7")
--- setManifestid(1197841,"1014036058891152932")
+addappid(1197841, 1, "047c5f40be6c425c04e80c0f3e0cf58a2bf5cc329a0a9ac301ae04a94c8010f7")

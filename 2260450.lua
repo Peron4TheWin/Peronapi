@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Poveglia: The Island of No Return
 addappid(2260450)
-addappid(2260451,0,"df059deaeb778ff15fcbf0d67bc0a885305dd7e51f9917748b504f8d7516a895")
--- setManifestid(2260451,"6427802142257545934")
+addappid(2260451, 1, "df059deaeb778ff15fcbf0d67bc0a885305dd7e51f9917748b504f8d7516a895")

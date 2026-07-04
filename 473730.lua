@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AppID 473730
 addappid(473730)
-addtoken(473730,14557696928411037760)
-addappid(473731,0,"1a4fff59f8c07b4b299864390448bed5039eca8b2fade4346e0a897cf2a23fe8")
--- setManifestid(473731,"6547685625218385903")
+addappid(473731, 1, "1a4fff59f8c07b4b299864390448bed5039eca8b2fade4346e0a897cf2a23fe8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fateel - فتيل
 addappid(2206590)
-addappid(2206591,0,"ba6e209dc1965b1297949ce3e2ecf3baa61088e16ae0ba80eb4fa318693b1c92")
--- setManifestid(2206591,"2616986086426804312")
+addappid(2206591, 1, "ba6e209dc1965b1297949ce3e2ecf3baa61088e16ae0ba80eb4fa318693b1c92")

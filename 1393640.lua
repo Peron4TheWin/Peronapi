@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Home Designer - Living Room
 addappid(1393640)
-addappid(1393641,0,"6a15a8584eb74da5feb83cd4cb6b0f42fd8159d0994d111660d52734642164db")
--- setManifestid(1393641,"7111269670458116369")
+addappid(1393641, 1, "6a15a8584eb74da5feb83cd4cb6b0f42fd8159d0994d111660d52734642164db")

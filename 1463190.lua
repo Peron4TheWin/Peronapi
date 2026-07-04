@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beat Saber - BTS - "Boy With Luv (feat. Halsey)"
 addappid(1463190)
-addappid(1463190,0,"35b0293ca093cc6136ac6e09fe8787620192a51d619ac8d01b398ebbfb6c42ee")
--- setManifestid(1463190,"3704651317586345027")
-addappid(1463191,0,"5c87b2cfb38e01418b9f228129ab11ee29c2a70f7e84be7757b1718223dcc743")
--- setManifestid(1463191,"8099507727244346346")
+addappid(1463191, 1, "5c87b2cfb38e01418b9f228129ab11ee29c2a70f7e84be7757b1718223dcc743")

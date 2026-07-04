@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The book of commands : Lost Symbol
 addappid(488500)
-addappid(488501,0,"ef5387490306950f760e17b1fdd04787ce8f6e58033774fefc8bbef02abc2bbc")
--- setManifestid(488501,"8016236985201916393")
-addappid(488502,0,"1aacdbbce8973c03c78066fb9e5ab2f0584f8a17b345fe57e49c048ab19e829c")
--- setManifestid(488502,"9212753878059972689")
+addappid(488501, 1, "ef5387490306950f760e17b1fdd04787ce8f6e58033774fefc8bbef02abc2bbc")

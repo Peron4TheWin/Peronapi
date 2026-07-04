@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Amazing Weekend - Search and Relax Collector's Edition
 addappid(2839670)
-addappid(2839671,0,"4a8253f246337e9ae15e297d463dd1a71ef957246ccee2b78b14139402bbbd96")
--- setManifestid(2839671,"4805908901772315761")
-addappid(2839672,0,"78d9efb8d84ae568c10f7856f7ad35fa48b9963a9c4e73727a8fb07c00bb68e7")
--- setManifestid(2839672,"4223284360145419960")
+addappid(2839671, 1, "4a8253f246337e9ae15e297d463dd1a71ef957246ccee2b78b14139402bbbd96")

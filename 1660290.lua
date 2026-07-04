@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monmusu Gladiator
 addappid(1660290)
-addappid(1660291,0,"810fb68d74fe9736b0e3e5b12317f4d37345aae1caee162b441af10361137487")
--- setManifestid(1660291,"4722338531831982822")
+addappid(1660291, 1, "810fb68d74fe9736b0e3e5b12317f4d37345aae1caee162b441af10361137487")

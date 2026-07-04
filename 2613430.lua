@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Telegraphist 1920: Beats of War Demo
 addappid(2613430)
-addappid(2613431,0,"3f69bed5b4c9945b90b82f40868bb9297d061f37b3508f12a39b59e74774e95d")
--- setManifestid(2613431,"286201839525904694")
+addappid(2613431, 1, "3f69bed5b4c9945b90b82f40868bb9297d061f37b3508f12a39b59e74774e95d")

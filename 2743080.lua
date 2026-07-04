@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 Capitalist Cats
 addappid(2743080)
-addappid(2743081,0,"d5244216a790c4a6d223f0defbd1dc87406872a8b952571ad940cd8b54bf1823")
--- setManifestid(2743081,"1566027972875517035")
+addappid(2743081, 1, "d5244216a790c4a6d223f0defbd1dc87406872a8b952571ad940cd8b54bf1823")

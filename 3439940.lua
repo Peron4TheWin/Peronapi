@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Xargon Remake Ep.1
 addappid(3439940)
-addappid(3439941,0,"23ef8e624e4f4d7cb1376494b4758e51180f6ca4f603d32935a8bf88f39b70d5")
--- setManifestid(3439941,"6774609371428226449")
+addappid(3439941, 1, "23ef8e624e4f4d7cb1376494b4758e51180f6ca4f603d32935a8bf88f39b70d5")

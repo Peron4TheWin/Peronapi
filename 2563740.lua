@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Polygons Tower Defense
 addappid(2563740)
-addappid(2563741,0,"8f6248f8e1b7a5a802ba015e002b1b3b866eb651d9c9dfb991dd898366745b90")
--- setManifestid(2563741,"4794318733770280611")
+addappid(2563741, 1, "8f6248f8e1b7a5a802ba015e002b1b3b866eb651d9c9dfb991dd898366745b90")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waifu Simulator: Horem Edition
 addappid(3337480)
-addappid(3337481,0,"febdcae01e96bffa353f524a75303695563764ba776a9f3e61d5495b88eba9ac")
--- setManifestid(3337481,"5155393895109726822")
+addappid(3337481, 1, "febdcae01e96bffa353f524a75303695563764ba776a9f3e61d5495b88eba9ac")

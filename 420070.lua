@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kill The Plumber
 addappid(420070)
-addappid(420071,0,"e181771c5c94143f0c574d8be2f73c2dccb2dc4c7947ec49c1f80ac36c9e6211")
--- setManifestid(420071,"3448969521803145319")
+addappid(420071, 1, "e181771c5c94143f0c574d8be2f73c2dccb2dc4c7947ec49c1f80ac36c9e6211")

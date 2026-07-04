@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Finding Sparky
 addappid(2901620)
-addappid(2901621,0,"b9a8a4960003bb2dca528aafd9e9ba7d5744d0ca58a83fd6941b373d5ae99a99")
--- setManifestid(2901621,"8453375649180752606")
+addappid(2901621, 1, "b9a8a4960003bb2dca528aafd9e9ba7d5744d0ca58a83fd6941b373d5ae99a99")

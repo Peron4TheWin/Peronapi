@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frebbventure
 addappid(2004670)
-addappid(2004671,0,"bf2d74b621ea1eb5bcf732160a5aaf1df601a03f93aef194ecb72e20cd34cfc5")
--- setManifestid(2004671,"2262594373664712512")
+addappid(2004671, 1, "bf2d74b621ea1eb5bcf732160a5aaf1df601a03f93aef194ecb72e20cd34cfc5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Choco Pixel D
 addappid(1500310)
-addappid(1500311,0,"9c707fcfdb851c0b840b98a7d6e12be81b3565ce1ce0a09bcd3ef69130a3b2fa")
--- setManifestid(1500311,"3067854796173373554")
+addappid(1500311, 1, "9c707fcfdb851c0b840b98a7d6e12be81b3565ce1ce0a09bcd3ef69130a3b2fa")

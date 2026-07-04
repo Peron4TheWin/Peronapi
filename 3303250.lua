@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape The Office VR
 addappid(3303250)
-addappid(3303251,0,"ac497c527e7a6e71dfe203a8c6806932103791cdf338c2c4cb8d6f84f097e863")
--- setManifestid(3303251,"7740029025587838769")
+addappid(3303251, 1, "ac497c527e7a6e71dfe203a8c6806932103791cdf338c2c4cb8d6f84f097e863")

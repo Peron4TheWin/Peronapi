@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gravity Block
 addappid(1417540)
-addappid(1417541,0,"14e7880e26749586e9f47f11a13be1d326a1832ee7bd3ec0743ad15a85397fe4")
--- setManifestid(1417541,"2317189962032568615")
+addappid(1417541, 1, "14e7880e26749586e9f47f11a13be1d326a1832ee7bd3ec0743ad15a85397fe4")

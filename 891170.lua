@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Witch & The 66 Mushrooms
 addappid(891170)
-addappid(891171,0,"097468fb3a20531ebf77c3fecff71d618120a5479c4c5097b1dc2fae16a0766b")
--- setManifestid(891171,"5612909348755365919")
+addappid(891171, 1, "097468fb3a20531ebf77c3fecff71d618120a5479c4c5097b1dc2fae16a0766b")

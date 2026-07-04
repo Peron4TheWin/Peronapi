@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY XVI Original Soundtrack
 addappid(3372350)
-addappid(3372351,0,"08563a78682af9b68bfba279c1bbaac0547124141da786614bcbf79d4721dd91")
--- setManifestid(3372351,"6786888266892353058")
+addappid(3372351, 1, "08563a78682af9b68bfba279c1bbaac0547124141da786614bcbf79d4721dd91")

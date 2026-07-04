@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Knight: Order of the Vortex
 addappid(2462090)
-addappid(2462091,0,"870a8024c3fd970d39f67220f17e94764c425b938ab24b07fe782751ec08bfea")
--- setManifestid(2462091,"8881763389699211221")
+addappid(2462091, 1, "870a8024c3fd970d39f67220f17e94764c425b938ab24b07fe782751ec08bfea")

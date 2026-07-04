@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reboant - Endless Dawn
 addappid(797040)
-addappid(797041,0,"1716268d9a52a017fff0430e6f5a3046ac77a7535a48316b5da875ba6146f68f")
--- setManifestid(797041,"4080884992447938436")
+addappid(797041, 1, "1716268d9a52a017fff0430e6f5a3046ac77a7535a48316b5da875ba6146f68f")

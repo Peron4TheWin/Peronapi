@@ -1,6 +1,8 @@
+-- Lua provided by SkyAPI 
+-- Game: ARC Raiders
 addappid(1808500)
+addappid(1808501, 1, "9f7c91d4609594120c713e82bb64d0ebf15c63fdf6887bc2b3f8f20fcf58e005")
 addappid(3948500)
 addappid(3948510)
 addappid(4048380)
-addappid(1808501,0,"9f7c91d4609594120c713e82bb64d0ebf15c63fdf6887bc2b3f8f20fcf58e005")
--- setManifestid(1808501,"1501146353682867380")
+addappid(4210150)

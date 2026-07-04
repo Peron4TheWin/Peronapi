@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Harem Sex ~Fucking the All Girls Around Me~ Demo
 addappid(2816820)
-addappid(2816821,0,"9791604dba0d353060aed4159a2013c294c7e1310c27f533ad49c7f18a36398e")
--- setManifestid(2816821,"4658533688501071231")
+addappid(2816821, 1, "9791604dba0d353060aed4159a2013c294c7e1310c27f533ad49c7f18a36398e")

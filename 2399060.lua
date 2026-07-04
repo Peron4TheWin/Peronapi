@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dread Weight
 addappid(2399060)
-addappid(2399061,0,"64c3b7755ade1ee657f6b4589ba9397e6ab5670e2ad5cf3edb00fb3fe55990b8")
+addappid(2399061, 1, "64c3b7755ade1ee657f6b4589ba9397e6ab5670e2ad5cf3edb00fb3fe55990b8")
+addappid(3120670)

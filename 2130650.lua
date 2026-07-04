@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 城市工人模拟器 City Worker Simulator
 addappid(2130650)
-addappid(2130651,0,"bdc896fb68376a767dfed5ec1de617eeca4cb6863c02c32c836ad8fc1f91093b")
--- setManifestid(2130651,"4866303755538665438")
+addappid(2130651, 1, "bdc896fb68376a767dfed5ec1de617eeca4cb6863c02c32c836ad8fc1f91093b")

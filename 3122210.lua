@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Canvas of Kings Demo
 addappid(3122210)
-addappid(3122211,0,"c926c00e865830102b69538543868d1657d5fa9df4dbf50bb704770a68c238e5")
--- setManifestid(3122211,"419587684731882736")
+addappid(3122211, 1, "c926c00e865830102b69538543868d1657d5fa9df4dbf50bb704770a68c238e5")

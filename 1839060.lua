@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Polylithic
 addappid(1839060)
-addappid(1839061,0,"5b8cd3a72f81f37e1883ced52ec6c323c991b69b0ac12bf8e5c5ba758ac5fc2a")
--- setManifestid(1839061,"1320330366105568572")
+addappid(1839061, 1, "5b8cd3a72f81f37e1883ced52ec6c323c991b69b0ac12bf8e5c5ba758ac5fc2a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3 Days in the Abyss
 addappid(970180)
-addappid(970181,0,"ec75b2d4fdea6e8a09e7f25ce56436aca8f7d6e2f5dd8f6ee1386171967a81df")
--- setManifestid(970181,"3680564410474545934")
+addappid(970181, 1, "ec75b2d4fdea6e8a09e7f25ce56436aca8f7d6e2f5dd8f6ee1386171967a81df")

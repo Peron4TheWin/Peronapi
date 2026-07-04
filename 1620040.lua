@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Nickelodeon Kart Racers 3: Slime Speedway
 addappid(1620040)
-addappid(1620041,0,"07eee0b2749bf114f34b7b7d7526a2f0cf9d63ce67defe221c1b110c41005aaa")
--- setManifestid(1620041,"1433472615371789766")
+addappid(1620041, 1, "07eee0b2749bf114f34b7b7d7526a2f0cf9d63ce67defe221c1b110c41005aaa")
+addappid(1938920, 0, "d102acc589c8fb53c4cd64f7521dd3e880a013f39afd70494b20ca203b190221")

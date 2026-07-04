@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Acid Nimbus
 addappid(909110)
-addappid(909111,0,"f85ad93d88ee5b256f43fc9e48f2ee58222af74fcd00298ad34cafe69f0534b6")
--- setManifestid(909111,"2379802793432046071")
+addappid(909111, 1, "f85ad93d88ee5b256f43fc9e48f2ee58222af74fcd00298ad34cafe69f0534b6")
+addappid(1002060)

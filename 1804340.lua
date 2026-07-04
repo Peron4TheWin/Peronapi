@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Neko Mosaic!
 addappid(1804340)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1804341,0,"c73491804a1feb68d3ea51f992ecece710a7bc5b374aed383363670de2a21577")
--- setManifestid(1804341,"3725512705923319882")
+addappid(1804341, 1, "c73491804a1feb68d3ea51f992ecece710a7bc5b374aed383363670de2a21577")

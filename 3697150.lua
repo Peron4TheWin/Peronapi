@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Defense Legend 5: Survivor TD
 addappid(3697150)
-addappid(3697151,0,"a31c8071142e0824e8b4021247a5e48838c925b04ea10f2cf7b7f09eb2515d63")
--- setManifestid(3697151,"8732354296120925263")
+addappid(3697151, 1, "a31c8071142e0824e8b4021247a5e48838c925b04ea10f2cf7b7f09eb2515d63")

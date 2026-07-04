@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cats, Guns & Robots Prologue
 addappid(2865840)
-addappid(2865841,0,"a50bdb7d117e8a98c1f12f8f5b84b9aa427c7451281c4cb538e84091ffc760fa")
--- setManifestid(2865841,"1402078805867103230")
+addappid(2865841, 1, "a50bdb7d117e8a98c1f12f8f5b84b9aa427c7451281c4cb538e84091ffc760fa")

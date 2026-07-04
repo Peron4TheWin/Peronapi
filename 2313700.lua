@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Constance
 addappid(2313700)
-addappid(2313701,0,"96431a8a22bd40bb4eaad78944c3edcc24fa407ee951d461050bc7d4f4ac4cde")
+addappid(2313701, 1, "96431a8a22bd40bb4eaad78944c3edcc24fa407ee951d461050bc7d4f4ac4cde")

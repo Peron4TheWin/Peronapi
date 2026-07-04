@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 酒，音乐和虚无论
 addappid(2441070)
-addappid(2441071,0,"d9f63f05b75b0daae0cb1415e15079f22d6f4bafdb2d426502ac1c2cc95b3e57")
--- setManifestid(2441071,"3872400391414879681")
+addappid(2441071, 1, "d9f63f05b75b0daae0cb1415e15079f22d6f4bafdb2d426502ac1c2cc95b3e57")

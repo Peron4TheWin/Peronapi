@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dunrog
 addappid(1047860)
-addappid(1047861,0,"e77486a4d77fa4207cd287f4875d1e6adc342347e275dff77eb8f9d3b7b8046d")
--- setManifestid(1047861,"5353780431770839669")
+addappid(1047861, 1, "e77486a4d77fa4207cd287f4875d1e6adc342347e275dff77eb8f9d3b7b8046d")

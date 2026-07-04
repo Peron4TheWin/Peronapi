@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Race To Sanity
 addappid(1492570)
-addappid(1492571,0,"99a0df70f925bc7ad0018bf4a692be308aa6e42b8fb9a5a04d694b17982407a6")
--- setManifestid(1492571,"57532182390963409")
+addappid(1492571, 1, "99a0df70f925bc7ad0018bf4a692be308aa6e42b8fb9a5a04d694b17982407a6")

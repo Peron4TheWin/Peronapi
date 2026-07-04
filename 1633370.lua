@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Boat Crew
 addappid(1633370)
-addappid(1633371,0,"a1cb9a467238e14f3daa8d67086275cdd70ba6c65edee62f78a5d18e29220dd5")
--- setManifestid(1633371,"2756130339410031112")
+addappid(1633371, 1, "a1cb9a467238e14f3daa8d67086275cdd70ba6c65edee62f78a5d18e29220dd5")

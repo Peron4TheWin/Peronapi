@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Driver Booster 5 for Steam
 addappid(735360)
-addappid(735361,0,"7262f1992a755c906609056ba15de6f2f1b8d52d0cd660a7fee09c661c21af02")
-addappid(735370)
+addappid(735361, 1, "7262f1992a755c906609056ba15de6f2f1b8d52d0cd660a7fee09c661c21af02")

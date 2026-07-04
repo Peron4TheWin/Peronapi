@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Abyss Of Fire
 addappid(2308220)
-addappid(2308221,0,"5226601960fbd2d52583a708d65b3fbd8c5e77d4208284f99a4db2949bc14cb9")
--- setManifestid(2308221,"7553044989753613282")
+addappid(2308221, 1, "5226601960fbd2d52583a708d65b3fbd8c5e77d4208284f99a4db2949bc14cb9")

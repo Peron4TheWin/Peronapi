@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Just Chatting
 addappid(1221560)
-addappid(1221561,0,"a0a5b419a121618d64d9c19386812fee05cca8e655c1b2cd5d70471277af9891")
--- setManifestid(1221561,"3447453104508446186")
+addappid(1221561, 1, "a0a5b419a121618d64d9c19386812fee05cca8e655c1b2cd5d70471277af9891")
+addappid(1248900)

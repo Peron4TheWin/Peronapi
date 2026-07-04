@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heart vs HP
 addappid(2339160)
-addappid(2339161,0,"cf6a9abf5ec223999d35584bb04197e120881637d3d05d2ca6c917a90c67c163")
+addappid(2339161, 1, "cf6a9abf5ec223999d35584bb04197e120881637d3d05d2ca6c917a90c67c163")

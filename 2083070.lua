@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soulstone Survivors Demo
 addappid(2083070)
-addappid(2083071,0,"986365ab41f85673b7dce860b124cc3f0c1fc87204a9524c62d8f43ed8de53ae")
--- setManifestid(2083071,"2483291101105574679")
+addappid(2083071, 1, "986365ab41f85673b7dce860b124cc3f0c1fc87204a9524c62d8f43ed8de53ae")

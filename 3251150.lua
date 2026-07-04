@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SNOW BROS. 2 SPECIAL Demo
 addappid(3251150)
-addappid(3251151,0,"df4f08e064920274a863cc3d13f1cba3ab4fab8b15cdf59560691f3fa28604f2")
--- setManifestid(3251151,"6938001633972740484")
+addappid(3251151, 1, "df4f08e064920274a863cc3d13f1cba3ab4fab8b15cdf59560691f3fa28604f2")

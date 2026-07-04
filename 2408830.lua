@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 Guarded, Blunt Girl GP-01
 addappid(2408830)
-addappid(2408831,0,"14f2647fddbcd35cd5b47139ea4f3309bdd80f61cfb9de6a206e44d9eee102a2")
--- setManifestid(2408831,"67571234425021780")
+addappid(2408831, 1, "14f2647fddbcd35cd5b47139ea4f3309bdd80f61cfb9de6a206e44d9eee102a2")

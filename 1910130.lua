@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Qwilight
 addappid(1910130)
-addappid(1910131,0,"165c45eae0bcc22b0b8e08449dd3350ea166275dd669d6aced32da027c9d83a7")
--- setManifestid(1910131,"533982449675705867")
+addappid(1910131, 1, "165c45eae0bcc22b0b8e08449dd3350ea166275dd669d6aced32da027c9d83a7")

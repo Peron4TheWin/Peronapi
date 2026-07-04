@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Break Sky
 addappid(1492940)
-addappid(1492941,0,"0daa3ccbfc95a54b85e5ccbd7a65ed6724eef9485920ac8ef0d085af9a94e27e")
+addappid(1492941, 1, "0daa3ccbfc95a54b85e5ccbd7a65ed6724eef9485920ac8ef0d085af9a94e27e")

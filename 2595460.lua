@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OVER‧DeviL 聖石少女篇 Soundtrack
 addappid(2595460)
-addappid(2595461,0,"ae1822ae2f2fc4216bdd20898a6b82f50f2d1fa2bf666f7f8b9c7bc277f618c2")
--- setManifestid(2595461,"2391732100183872860")
+addappid(2595461, 1, "ae1822ae2f2fc4216bdd20898a6b82f50f2d1fa2bf666f7f8b9c7bc277f618c2")

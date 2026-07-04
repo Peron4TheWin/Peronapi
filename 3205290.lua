@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 谁偷了我的女朋友
 addappid(3205290)
-addappid(3205291,0,"25841acc955cad76efc389fa414b4074612751697b024dcac3987ae1da0ea888")
--- setManifestid(3205291,"1109398657033117752")
-addappid(3205292)
+addappid(3205291, 1, "25841acc955cad76efc389fa414b4074612751697b024dcac3987ae1da0ea888")

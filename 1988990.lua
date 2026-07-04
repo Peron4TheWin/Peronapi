@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Animals Transport Simulator
 addappid(1988990)
-addappid(1988991,0,"2641514a0059cf035dea7eaab8849ce415d3a538458029a8728219e209f9a9df")
--- setManifestid(1988991,"7898086713656711657")
+addappid(1988991, 1, "2641514a0059cf035dea7eaab8849ce415d3a538458029a8728219e209f9a9df")

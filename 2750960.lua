@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Speedway Challenge 2024
 addappid(2750960)
-addappid(2750961,0,"f38e8c2e181c97cdb4391e1a85fe2126086c6f3f919d79e76b25dcb88d3c3c8c")
--- setManifestid(2750961,"7270381830700013335")
-addappid(2750962)
+addappid(2750961, 1, "f38e8c2e181c97cdb4391e1a85fe2126086c6f3f919d79e76b25dcb88d3c3c8c")

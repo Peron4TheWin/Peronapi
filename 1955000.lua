@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Alchemist House
 addappid(1955000)
-addappid(1955001,0,"dd97696b0a8244d04efbd7f9fd4af782e023e7d838a1cb98b5b126e711df23ad")
--- setManifestid(1955001,"6137833646250078229")
+addappid(1955001, 1, "dd97696b0a8244d04efbd7f9fd4af782e023e7d838a1cb98b5b126e711df23ad")

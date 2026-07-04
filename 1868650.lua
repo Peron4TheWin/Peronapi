@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bugged
 addappid(1868650)
-addappid(1868651,0,"bbcdc635ff3efc85db3f691ee38547c4cb95f10a3d71d311f4cbc052e68b1b15")
+addappid(1868651, 1, "bbcdc635ff3efc85db3f691ee38547c4cb95f10a3d71d311f4cbc052e68b1b15")

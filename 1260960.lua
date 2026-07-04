@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Kairos'Light
 addappid(1260960)
-addappid(1260961,0,"d2807dc4e26724414e6b0a2ea9d8bafd2111ea52afb3c31694e894d75c021d3e")
--- setManifestid(1260961,"1045659651708882810")
+addappid(1260961, 1, "d2807dc4e26724414e6b0a2ea9d8bafd2111ea52afb3c31694e894d75c021d3e")
+addappid(3035560)

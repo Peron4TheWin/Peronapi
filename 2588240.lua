@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Thunder Jumper
 addappid(2588240)
-addappid(2588241,0,"a0035e361da7e09ebf4701bda3f69f758d40a4bad8e1bda70cecf4cf2642148a")
--- setManifestid(2588241,"2115733631466973807")
+addappid(2588241, 1, "a0035e361da7e09ebf4701bda3f69f758d40a4bad8e1bda70cecf4cf2642148a")

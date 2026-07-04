@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Real Pool 3D - Poolians
 addappid(670290)
-addappid(670291,0,"cea5f574f8a6ce997ff1867e597fd1100111f652244cbb77c8850e20decd9db6")
+addappid(670291, 1, "cea5f574f8a6ce997ff1867e597fd1100111f652244cbb77c8850e20decd9db6")

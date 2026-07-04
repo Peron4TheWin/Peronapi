@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Howl
 addappid(2172180)
-addappid(2172181,0,"c07787cf38d303ca6103f21138423db950f7c88dc2977c2faa2db12d303db853")
--- setManifestid(2172181,"8517339642593218054")
+addappid(2172181, 1, "c07787cf38d303ca6103f21138423db950f7c88dc2977c2faa2db12d303db853")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Megaloot Demo
 addappid(2461710)
-addappid(2461711,0,"23c15f24c1f269c64481d3c9de7f2def6bfbeea38e8178c998b020c388daf328")
--- setManifestid(2461711,"9067106279771196738")
+addappid(2461711, 1, "23c15f24c1f269c64481d3c9de7f2def6bfbeea38e8178c998b020c388daf328")

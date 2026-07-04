@@ -1,11 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: D: The Game
 addappid(510590)
-addappid(510591,0,"5903fe777495a3f469d376940d6c11fe7c700231d0abee0a60e6e732200551af")
--- setManifestid(510591,"6380146078309416915")
-addappid(510592)
-addappid(510593)
-addappid(510594)
-addappid(510595)
-addappid(510596)
-addappid(510597)
-addappid(510598)
-addappid(510599)
+addappid(510591, 1, "5903fe777495a3f469d376940d6c11fe7c700231d0abee0a60e6e732200551af")

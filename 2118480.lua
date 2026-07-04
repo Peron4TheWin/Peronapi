@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vengeful Guardian Moonrider Demo
 addappid(2118480)
-addappid(2118481,0,"6d82303dbd93ac5cbf94f8d20149b8ed896df5c346602551a833adcfc4b5f2d5")
--- setManifestid(2118481,"1898327243868796766")
+addappid(2118481, 1, "6d82303dbd93ac5cbf94f8d20149b8ed896df5c346602551a833adcfc4b5f2d5")

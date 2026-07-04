@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mandew vs the Colorless Curse
 addappid(1447410)
-addappid(1447411,0,"e0527ed3eb269af719a81e1dd7f2d1ec68596a65ee109395736a53233878e37c")
--- setManifestid(1447411,"330847257237809291")
+addappid(1447411, 1, "e0527ed3eb269af719a81e1dd7f2d1ec68596a65ee109395736a53233878e37c")

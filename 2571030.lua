@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Captain Hardcore Demo
 addappid(2571030)
-addappid(2571031,0,"479528b687abbf5b14c143317fdbbbe115986292bb0ed5a5aec18237209fe89a")
+addappid(2571031, 1, "479528b687abbf5b14c143317fdbbbe115986292bb0ed5a5aec18237209fe89a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OverRider
 addappid(2848740)
-addappid(2848741,0,"2ff4371554ec98d39afab5cde3c48e9c5246789ad7663dc02f7938dc2ecf4978")
--- setManifestid(2848741,"3591186356535827798")
+addappid(2848741, 1, "2ff4371554ec98d39afab5cde3c48e9c5246789ad7663dc02f7938dc2ecf4978")

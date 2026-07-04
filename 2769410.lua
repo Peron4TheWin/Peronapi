@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ash & Adam's GOBSMACKED
 addappid(2769410)
-addappid(2769411,0,"0542a9dc037adb85a84f4ccbc1a9ceef32e7cfa33878910a3ca72673437b8ef7")
--- setManifestid(2769411,"2716066010426373421")
+addappid(2769411, 1, "0542a9dc037adb85a84f4ccbc1a9ceef32e7cfa33878910a3ca72673437b8ef7")

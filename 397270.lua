@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Kiss For The Petals - Remembering How We Met
+addappid(397270)
+addappid(397271, 1, "5212cde5d0017ef26d0d2e9bec79efc6020232b1daedb2f1f3f84a9e9e335e1b")

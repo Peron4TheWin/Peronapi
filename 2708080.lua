@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sebil Engineering Demo
 addappid(2708080)
-addappid(2708081,0,"e7f8c7bd32bf0c1e3e0e023c5a37dbdf4ad400925029c69d50d661669bcdd238")
--- setManifestid(2708081,"5585832692251992213")
+addappid(2708081, 1, "e7f8c7bd32bf0c1e3e0e023c5a37dbdf4ad400925029c69d50d661669bcdd238")

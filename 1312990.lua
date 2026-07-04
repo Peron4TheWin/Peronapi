@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Awkward Girls
 addappid(1312990)
-addappid(1312991,0,"e465911c7049a1255c369741de7083a3a8acfa797135dc36d572fbe85b803a80")
--- setManifestid(1312991,"8128270677776636878")
+addappid(1312991, 1, "e465911c7049a1255c369741de7083a3a8acfa797135dc36d572fbe85b803a80")

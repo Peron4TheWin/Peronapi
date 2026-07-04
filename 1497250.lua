@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 执谕者：坠月之兆（Archenemy: Lunafall）
 addappid(1497250)
-addappid(1497251,0,"1202f807015a7b976b6dd1d3155a69cee8eda5b1f802a4c5248e3adf52412c7c")
--- setManifestid(1497251,"2916737402006136249")
+addappid(1497251, 1, "1202f807015a7b976b6dd1d3155a69cee8eda5b1f802a4c5248e3adf52412c7c")

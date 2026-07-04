@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Final Pilot
 addappid(1605550)
-addappid(1605551,0,"247bde8750e8dbfd1ab43a5c6e0a5f1ba40f003bab55e27c611f40a4478da72a")
--- setManifestid(1605551,"1837067811448675722")
+addappid(1605551, 1, "247bde8750e8dbfd1ab43a5c6e0a5f1ba40f003bab55e27c611f40a4478da72a")

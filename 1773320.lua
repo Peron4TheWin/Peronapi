@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Coin Treasures
 addappid(1773320)
-addappid(1773321,0,"72e3886ed7cafd4143843c5e849e14dc11fbbc73fcb38e23fcb01b16ef3fd7c5")
--- setManifestid(1773321,"6776287432512085230")
+addappid(1773321, 1, "72e3886ed7cafd4143843c5e849e14dc11fbbc73fcb38e23fcb01b16ef3fd7c5")

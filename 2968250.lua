@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Girls: The Princesses
 addappid(2968250)
-addappid(2968251,0,"d56cbd8830b662181de84d1bd4ba2d4d3b93a317e975907b31fcfc18e77ee6ce")
--- setManifestid(2968251,"641778628816924244")
+addappid(2968251, 1, "d56cbd8830b662181de84d1bd4ba2d4d3b93a317e975907b31fcfc18e77ee6ce")

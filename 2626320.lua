@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 It's a Night Magic Trick and Trick Halloween All in Pack
 addappid(2626320)
-addappid(2626321,0,"0d64dd7b017b0d775de0081886cc6b6d063ba5d732c675e26510cae539a15a1f")
--- setManifestid(2626321,"507443790135609422")
+addappid(2626321, 1, "0d64dd7b017b0d775de0081886cc6b6d063ba5d732c675e26510cae539a15a1f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 69 Iris Hot
 addappid(1844580)
-addappid(1844581,0,"d3880a2b03b58fdc3a7d44ef71b7ca8e6da0461beaa6c50665477ac2a009772a")
--- setManifestid(1844581,"4876087790920483958")
+addappid(1844581, 1, "d3880a2b03b58fdc3a7d44ef71b7ca8e6da0461beaa6c50665477ac2a009772a")

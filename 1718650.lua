@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nuremberg: VRdict of Nations
 addappid(1718650)
-addappid(1718651,0,"0884716bce6f0fb1229c806871afe29478dab001fa662e94fff7ce05118a22bd")
--- setManifestid(1718651,"829753397297993666")
+addappid(1718651, 1, "0884716bce6f0fb1229c806871afe29478dab001fa662e94fff7ce05118a22bd")

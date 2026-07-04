@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Inertia ball
 addappid(2563930)
-addappid(2563931,0,"b18125ecee1f48ad3ecc2e5248b09dec5b4692f60e771e67c410d913d313a3fb")
--- setManifestid(2563931,"1086805854902791727")
+addappid(2563931, 1, "b18125ecee1f48ad3ecc2e5248b09dec5b4692f60e771e67c410d913d313a3fb")

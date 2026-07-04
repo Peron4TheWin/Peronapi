@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slingshot Cowboy VR
 addappid(681920)
-addappid(681921,0,"73bdf7e6c8789195c2ed8f9f4f3824900860513d27d917f375f80c8019caba31")
--- setManifestid(681921,"480681644148826589")
+addappid(681921, 1, "73bdf7e6c8789195c2ed8f9f4f3824900860513d27d917f375f80c8019caba31")

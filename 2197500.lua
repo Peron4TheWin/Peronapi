@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mining Copper
 addappid(2197500)
-addappid(2197501,0,"781166feddc5490ddb12d7efd63acb48697e940748ff985e190d531ca1ff490b")
--- setManifestid(2197501,"6689790861007863432")
+addappid(2197501, 1, "781166feddc5490ddb12d7efd63acb48697e940748ff985e190d531ca1ff490b")

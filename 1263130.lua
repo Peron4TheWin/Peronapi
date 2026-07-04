@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PORN Pizza Delivery Boy
 addappid(1263130)
-addappid(1263131,0,"0e83292a6b3cfee44792351b096ef2a5abe3271d2863836dd0023961107daa8c")
--- setManifestid(1263131,"5919735739040116186")
+addappid(1263131, 1, "0e83292a6b3cfee44792351b096ef2a5abe3271d2863836dd0023961107daa8c")

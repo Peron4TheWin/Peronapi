@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: El Dorado: The Golden City Builder
 addappid(1451470)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(1451471,0,"290c3aadb074debca467a37342cc0a2cda582f653ad5f3b8932ef442452038eb")
--- setManifestid(1451471,"7487694362455767574")
+addappid(1451471, 1, "290c3aadb074debca467a37342cc0a2cda582f653ad5f3b8932ef442452038eb")

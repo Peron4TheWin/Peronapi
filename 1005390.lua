@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Anti-Grav Bamboo-copter
 addappid(1005390)
-addappid(1005391,0,"ebdf217187fcf6b41638f5a14c440fe192d344908c6020c71b2efb805e055487")
--- setManifestid(1005391,"6178162625896325611")
+addappid(1005391, 1, "ebdf217187fcf6b41638f5a14c440fe192d344908c6020c71b2efb805e055487")

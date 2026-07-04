@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Scarecropia
 addappid(2607160)
-addappid(2607161,0,"ba2dc2c0a6252933526175043e256e36fed5e85d35f1a93d814c609a41f4e57c")
--- setManifestid(2607161,"346568782792160172")
+addappid(2607161, 1, "ba2dc2c0a6252933526175043e256e36fed5e85d35f1a93d814c609a41f4e57c")

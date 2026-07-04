@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Imagine Lifetimes
 addappid(1229570)
-addappid(1229571,0,"31131fcf5172ca971094621369537ad11fb9c5e6ddb97320700ff4d823125cb3")
--- setManifestid(1229571,"1644365217495179861")
+addappid(1229571, 1, "31131fcf5172ca971094621369537ad11fb9c5e6ddb97320700ff4d823125cb3")

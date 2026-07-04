@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kingdom, Dungeon, and Hero Demo
 addappid(2785340)
-addappid(2785341,0,"2dd4e195ddb50281100c719ef407df201cfd3d74da25f36973516f5d011ea704")
--- setManifestid(2785341,"4828948502081497706")
+addappid(2785341, 1, "2dd4e195ddb50281100c719ef407df201cfd3d74da25f36973516f5d011ea704")

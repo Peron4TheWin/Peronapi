@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot Heat Reset: Chapter 1
 addappid(2307370)
-addappid(2307371,0,"6dac81c328408fd8af5f759e5c0d79b2c9f54cfff72480329656d8a4c4ad1beb")
--- setManifestid(2307371,"8570384779843071856")
+addappid(2307371, 1, "6dac81c328408fd8af5f759e5c0d79b2c9f54cfff72480329656d8a4c4ad1beb")

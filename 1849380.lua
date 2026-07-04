@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Levitation Simulator
 addappid(1849380)
-addappid(1849381,0,"2ad9d8c0431e964ed3a796f69bfc60a4230feba437864b282d7231a108a4b57f")
--- setManifestid(1849381,"1276750718643068417")
+addappid(1849381, 1, "2ad9d8c0431e964ed3a796f69bfc60a4230feba437864b282d7231a108a4b57f")

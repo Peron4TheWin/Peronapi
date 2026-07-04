@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ShellBlast: Legacy Edition
 addappid(841440)
-addappid(841441,0,"042b9a36007d3502440aa2e5a10f9c2386edbfee2026db8a46c31a11dd6eab9d")
--- setManifestid(841441,"6026484015160980275")
+addappid(841441, 1, "042b9a36007d3502440aa2e5a10f9c2386edbfee2026db8a46c31a11dd6eab9d")

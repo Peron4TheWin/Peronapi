@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backrooms: The Project Demo
 addappid(2404080)
-addappid(2404081,0,"e2dfe8913db4affe44f294e58b8f5db8ee0fddef3c3705abc45ef8a0667424b6")
--- setManifestid(2404081,"6356793090449383469")
+addappid(2404081, 1, "e2dfe8913db4affe44f294e58b8f5db8ee0fddef3c3705abc45ef8a0667424b6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MLB 2K12
 addappid(207060)
-addappid(207061,0,"01506283f45d98f356631b7388f9f6c049f843c0dcd2aac2e9cbc7f4be0c9c65")
--- setManifestid(207061,"1561235410204882225")
+addappid(207061, 1, "01506283f45d98f356631b7388f9f6c049f843c0dcd2aac2e9cbc7f4be0c9c65")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mr. Robot
 addappid(20710)
-addappid(20711,0,"42dabf932c68bef8c824fe6864170c5db0dc344cd3e829b7478049795b999cc0")
--- setManifestid(20711,"284649959349967823")
+addappid(20711, 1, "42dabf932c68bef8c824fe6864170c5db0dc344cd3e829b7478049795b999cc0")

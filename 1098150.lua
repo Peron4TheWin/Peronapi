@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trickster VR: Horde Attack!
 addappid(1098150)
-addappid(1098151,0,"cf68a7565f8cd88328a77394cd23e852afe74b266cc96f0bda929e1a02d2138e")
--- setManifestid(1098151,"8158478042268230792")
+addappid(1098151, 1, "cf68a7565f8cd88328a77394cd23e852afe74b266cc96f0bda929e1a02d2138e")

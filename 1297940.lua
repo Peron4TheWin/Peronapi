@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prehistoric Hunt Demo
 addappid(1297940)
-addappid(1297941,0,"8b58cc9d76d9113232cbc0ecd85e46018311fa5355407886a1f545d500dc789e")
--- setManifestid(1297941,"976191246608950262")
+addappid(1297941, 1, "8b58cc9d76d9113232cbc0ecd85e46018311fa5355407886a1f545d500dc789e")

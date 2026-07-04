@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Selene's Unbearable Night Demo
 addappid(3127730)
-addappid(3127731,0,"71c05a2861fcbb254d5470233eff1bcf491a6ad6f353ed74b6f6312457c22eca")
--- setManifestid(3127731,"6811080223253923096")
+addappid(3127731, 1, "71c05a2861fcbb254d5470233eff1bcf491a6ad6f353ed74b6f6312457c22eca")

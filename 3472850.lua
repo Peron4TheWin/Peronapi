@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Path of Dao
 addappid(3472850)
-addappid(3472851,0,"72188682cb021cae1728d33a2615ffc905c5e2a3c354e39363ecbefa85b105f4")
--- setManifestid(3472851,"4326115703504862113")
+addappid(3472851, 1, "72188682cb021cae1728d33a2615ffc905c5e2a3c354e39363ecbefa85b105f4")

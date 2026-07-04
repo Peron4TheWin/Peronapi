@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pizza Man
 addappid(1808860)
-addappid(1808861,0,"2abb965011c3dcbefc43a57429521af2a43cac0a1cc86bdc266f2447f5006a63")
--- setManifestid(1808861,"6079415616502532219")
+addappid(1808861, 1, "2abb965011c3dcbefc43a57429521af2a43cac0a1cc86bdc266f2447f5006a63")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unforgiving Trials: The Darkest Crusade
 addappid(489220)
-addappid(489221,0,"6c145f95dffa411729948107d9b2cc03d8356276e7a7e02f77411e5dcaa9873d")
--- setManifestid(489221,"983889766329588023")
+addappid(489221, 1, "6c145f95dffa411729948107d9b2cc03d8356276e7a7e02f77411e5dcaa9873d")

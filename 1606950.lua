@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Squeaky Clean
 addappid(1606950)
-addappid(1606951,0,"fb16ba462743a5ea7e3aea4c0172edf4b85af5b354d0bb5443e943995686811b")
--- setManifestid(1606951,"2875833909634665607")
+addappid(1606951, 1, "fb16ba462743a5ea7e3aea4c0172edf4b85af5b354d0bb5443e943995686811b")

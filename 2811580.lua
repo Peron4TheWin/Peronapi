@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 文若九洲记：艳欲之乡
 addappid(2811580)
--- setManifestid(229002,"7260605429366465749")
-addappid(2811581,0,"9eb075dadb3931a36bc95f35da6174ecc7c775c270a25d5dde817a026511afa1")
--- setManifestid(2811581,"7817128497139942344")
+addappid(2811581, 1, "9eb075dadb3931a36bc95f35da6174ecc7c775c270a25d5dde817a026511afa1")

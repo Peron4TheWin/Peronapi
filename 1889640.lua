@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Backrooms: Survival
 addappid(1889640)
-addappid(1889641,0,"8c76bdeb73096b96a9b836824d302780623cafcc5d675118785f1b06de8e0157")
+addappid(1889641, 1, "8c76bdeb73096b96a9b836824d302780623cafcc5d675118785f1b06de8e0157")

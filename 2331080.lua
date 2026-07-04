@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Taoism
 addappid(2331080)
-addappid(2331081,0,"b80efb3f8095b39a46887a8800c6f18189afc52fbf7b9fe612733d1c7ff27f7a")
--- setManifestid(2331081,"7122729980964963214")
+addappid(2331081, 1, "b80efb3f8095b39a46887a8800c6f18189afc52fbf7b9fe612733d1c7ff27f7a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Cupid
 addappid(733740)
-addappid(733741,0,"461b3d26dd1463f5938a6fa7132fe87a8a97b505ab8ee23e46133d4415dd8944")
--- setManifestid(733741,"923052599141701551")
+addappid(733741, 1, "461b3d26dd1463f5938a6fa7132fe87a8a97b505ab8ee23e46133d4415dd8944")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tumblefire
 addappid(1885160)
-addappid(1885161,0,"dd5bbbd95392b3de842221659eea1f55554220a726dbbae62397c037c69eacdc")
--- setManifestid(1885161,"885613179112404137")
+addappid(1885161, 1, "dd5bbbd95392b3de842221659eea1f55554220a726dbbae62397c037c69eacdc")

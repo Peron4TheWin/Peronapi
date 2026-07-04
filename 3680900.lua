@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Future War Tactics: SOF vs Alien Invasion – Turn-Based Strategy
 addappid(3680900)
-addappid(3680901,0,"e86fa1bd6d18976bc427c1b63138ba2c0759faccfbb5128661831d607a7fa5b8")
--- setManifestid(3680901,"2806835911697797579")
+addappid(3680901, 1, "e86fa1bd6d18976bc427c1b63138ba2c0759faccfbb5128661831d607a7fa5b8")

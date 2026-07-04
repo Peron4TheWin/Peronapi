@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: M.A.C.E. Tower Defense
 addappid(660320)
-addappid(660321,0,"bc12e92c5949b160e6211c5076f9c3ee06e892ea3ee7cee321230f6ca161ae0b")
--- setManifestid(660321,"1483881062800614900")
+addappid(660321, 1, "bc12e92c5949b160e6211c5076f9c3ee06e892ea3ee7cee321230f6ca161ae0b")

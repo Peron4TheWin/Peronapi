@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: School Hero
 addappid(2871290)
-addappid(2871291,0,"2d8179193d9921894853fbd899ba4ff629dba49ec669eb88c7263b1b8db35cd9")
--- setManifestid(2871291,"4305872544753791673")
+addappid(2871291, 1, "2d8179193d9921894853fbd899ba4ff629dba49ec669eb88c7263b1b8db35cd9")

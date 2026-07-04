@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sin; Vengeance
 addappid(1027830)
-addappid(1027831,0,"71bab66b43bccae9e3c03df2efb1ce49d9e3b5877c7a43fd70889dd93e779377")
+addappid(1027831, 1, "71bab66b43bccae9e3c03df2efb1ce49d9e3b5877c7a43fd70889dd93e779377")

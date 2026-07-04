@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Miami
 addappid(3347060)
-addappid(3347061,0,"23faf092012fd91ccdd9f925dac8cf6773bc7dda9a1c0ae6ebb688990a25621a")
--- setManifestid(3347061,"5721484617408295077")
+addappid(3347061, 1, "23faf092012fd91ccdd9f925dac8cf6773bc7dda9a1c0ae6ebb688990a25621a")

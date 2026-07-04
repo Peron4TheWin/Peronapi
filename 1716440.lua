@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Forger
 addappid(1716440)
-addappid(1716441,0,"ce7dcb4d47dc65c4c915bbcb19c945df3aa8d6028cc58b76142b04b92e590057")
--- setManifestid(1716441,"7271584921069865684")
+addappid(1716441, 1, "ce7dcb4d47dc65c4c915bbcb19c945df3aa8d6028cc58b76142b04b92e590057")

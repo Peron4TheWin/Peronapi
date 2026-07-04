@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AMANATSU ~Perfect Edition~
 addappid(2825300)
-addappid(2825301,0,"130db56aad99d6715c33705838e29a5dfb84a2ea39635e743c4f0b4f81ffb7de")
--- setManifestid(2825301,"6137090744245794640")
+addappid(2825301, 1, "130db56aad99d6715c33705838e29a5dfb84a2ea39635e743c4f0b4f81ffb7de")

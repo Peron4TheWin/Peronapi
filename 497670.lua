@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Line/Dash
 addappid(497670)
--- setManifestid(228990,"1829726630299308803")
-addappid(497671,0,"dea2a7bceea39cef4ae2bc9e2033d4d86127ab57a01bf2d7ccaf56c8a23b245e")
--- setManifestid(497671,"2146930828703952179")
+addappid(497671, 1, "dea2a7bceea39cef4ae2bc9e2033d4d86127ab57a01bf2d7ccaf56c8a23b245e")

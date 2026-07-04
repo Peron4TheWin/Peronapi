@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Airplane Mode
 addappid(931310)
-addappid(931311,0,"4af89061cdbb47e91d803a00510ffe0a4422ab32c8868c12f09be4c0170a7625")
--- setManifestid(931311,"8811341939294577924")
+addappid(931311, 1, "4af89061cdbb47e91d803a00510ffe0a4422ab32c8868c12f09be4c0170a7625")

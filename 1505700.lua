@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Berzerk Flashback
 addappid(1505700)
-addappid(1505701,0,"0a219f9d43de07de4efea538482c0ad06812a79937fd5f196c4e0aeb1caf6828")
--- setManifestid(1505701,"8052319388571618713")
+addappid(1505701, 1, "0a219f9d43de07de4efea538482c0ad06812a79937fd5f196c4e0aeb1caf6828")

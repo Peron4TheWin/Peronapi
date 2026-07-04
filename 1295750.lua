@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jack Hayes: The Lazarus Sign
 addappid(1295750)
-addappid(1295751,0,"9f57130015e1edfa924169f67876ee4f78900dcc13b5d672b7dc098c9a2ac7b5")
+addappid(1295751, 1, "9f57130015e1edfa924169f67876ee4f78900dcc13b5d672b7dc098c9a2ac7b5")

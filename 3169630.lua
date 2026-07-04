@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Night of the Dead Simulator
 addappid(3169630)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3169631,0,"519d92a6089c32a47fca3d6abcac34651fd40ec6de329980c4012ecd7727223c")
--- setManifestid(3169631,"7650484840425543431")
+addappid(3169631, 1, "519d92a6089c32a47fca3d6abcac34651fd40ec6de329980c4012ecd7727223c")

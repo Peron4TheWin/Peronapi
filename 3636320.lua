@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reposition Defense
 addappid(3636320)
-addappid(3636321,0,"a9a7ff51fb3a051b713d84fec09daaaada6cb31338a8c9947115c06345ac07c9")
--- setManifestid(3636321,"5241216083042175330")
+addappid(3636321, 1, "a9a7ff51fb3a051b713d84fec09daaaada6cb31338a8c9947115c06345ac07c9")

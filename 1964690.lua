@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dwarfenstein
 addappid(1964690)
-addappid(1964691,0,"2205a99057fbfec661a8e8a8be6165a2923b4934594608e537dd7ca65abd02c0")
--- setManifestid(1964691,"3352261085749607882")
+addappid(1964691, 1, "2205a99057fbfec661a8e8a8be6165a2923b4934594608e537dd7ca65abd02c0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Air Guardians
 addappid(342230)
-addappid(342231,0,"089f77a13f24a7d1e8643a2e1c4c64310b6eff797aa3cf99060fa0c2d8ab391c")
--- setManifestid(342231,"1635464448406501945")
+addappid(342231, 1, "089f77a13f24a7d1e8643a2e1c4c64310b6eff797aa3cf99060fa0c2d8ab391c")

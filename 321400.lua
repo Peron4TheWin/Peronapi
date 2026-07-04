@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Supraball
 addappid(321400)
-addappid(228983)
-addappid(228985)
-addappid(229004)
-addappid(321401,0,"5ddaa6e2d3a6273936be783b3fe4adc297950578ac85308dd7a55c34781dbf61")
+addappid(321401, 1, "5ddaa6e2d3a6273936be783b3fe4adc297950578ac85308dd7a55c34781dbf61")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEARCH ALL - BITCOIN
 addappid(2010540)
-addappid(2010541,0,"4cbb7b43c0757ab4c5000cfe91e0b918df965273ff3a4355e9e814fa6f703885")
--- setManifestid(2010541,"7486798816366797539")
+addappid(2010541, 1, "4cbb7b43c0757ab4c5000cfe91e0b918df965273ff3a4355e9e814fa6f703885")

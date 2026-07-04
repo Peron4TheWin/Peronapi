@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Sword: The Light of Ainn
 addappid(2755520)
-addappid(2755521,0,"b6d329c19b20ad2685e60388bf556a8a610286d5e804e1fee75306d139845134")
--- setManifestid(2755521,"6759508229232664063")
+addappid(2755521, 1, "b6d329c19b20ad2685e60388bf556a8a610286d5e804e1fee75306d139845134")

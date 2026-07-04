@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lesbian Breakout
 addappid(1065380)
-addappid(1065381,0,"49c49c78ff1a60b94134386c2ddaef6d51131e1eb3ab122eca0edda9ec81a431")
--- setManifestid(1065381,"717743103685562213")
+addappid(1065381, 1, "49c49c78ff1a60b94134386c2ddaef6d51131e1eb3ab122eca0edda9ec81a431")

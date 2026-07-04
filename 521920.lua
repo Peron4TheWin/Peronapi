@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Death's Hangover
 addappid(521920)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(228990,"1829726630299308803")
-addappid(521921,0,"17bb7cc662e43a678b76531d1c66dc9417155232619b69e9b7fd7f8d0bec3ecf")
--- setManifestid(521921,"8172427018198667489")
+addappid(521921, 1, "17bb7cc662e43a678b76531d1c66dc9417155232619b69e9b7fd7f8d0bec3ecf")

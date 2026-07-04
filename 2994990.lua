@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wool at the Gates
 addappid(2994990)
-addappid(2994991,0,"894093ebeae42d54363fa7d7ff5b202a98ce4f00591bf15f5e70548c5c91a4bc")
--- setManifestid(2994991,"4263131754994273989")
+addappid(2994991, 1, "894093ebeae42d54363fa7d7ff5b202a98ce4f00591bf15f5e70548c5c91a4bc")

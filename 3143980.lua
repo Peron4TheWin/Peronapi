@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Adventure of Ninomae Ina'nis
 addappid(3143980)
-addappid(3143981,0,"357508c8f7bb7d6de027936e80b7ab841a92d4c51e1133864ed8679ffd320431")
--- setManifestid(3143981,"1428613988937826441")
+addappid(3143981, 1, "357508c8f7bb7d6de027936e80b7ab841a92d4c51e1133864ed8679ffd320431")
+addappid(4270620)

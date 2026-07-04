@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Baby Redemption
 addappid(1029040)
-addappid(1029041,0,"8a47a3ada58f721dceaa6f2020603f3f6a18989cd878b23fd24ff3317642df31")
--- setManifestid(1029041,"7839917124911200982")
+addappid(1029041, 1, "8a47a3ada58f721dceaa6f2020603f3f6a18989cd878b23fd24ff3317642df31")

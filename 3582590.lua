@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deedlee Doo! Carkour!
 addappid(3582590)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(3582591,0,"d6e4acebf05f684219efbc25a28b15d0df6bc0ac1499c22a9bb2452810bd1a26")
--- setManifestid(3582591,"4453425481569082385")
+addappid(3582591, 1, "d6e4acebf05f684219efbc25a28b15d0df6bc0ac1499c22a9bb2452810bd1a26")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Everlasting Snooze
 addappid(2515530)
-addappid(2515531,0,"0afa1e967c5a541b203dd7ec4dec4f5634620eb08910221ad22582101f3d3251")
--- setManifestid(2515531,"1553788657826802353")
+addappid(2515531, 1, "0afa1e967c5a541b203dd7ec4dec4f5634620eb08910221ad22582101f3d3251")

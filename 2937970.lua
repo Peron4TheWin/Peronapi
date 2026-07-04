@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TDS - Tower Defense Strategy Demo
 addappid(2937970)
-addappid(2937971,0,"1e23b3a420c90b9a088178f2f6630884a4771a6ef68880b9cbdc21b7a74936f1")
--- setManifestid(2937971,"8504571990789832227")
+addappid(2937971, 1, "1e23b3a420c90b9a088178f2f6630884a4771a6ef68880b9cbdc21b7a74936f1")

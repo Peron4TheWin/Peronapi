@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Langton's Ant
 addappid(1123090)
-addappid(1123091,0,"1b09b9b78ff14530fc037db3b047df4e31eb85261195293e986527abeab89916")
--- setManifestid(1123091,"4919931599641884695")
+addappid(1123091, 1, "1b09b9b78ff14530fc037db3b047df4e31eb85261195293e986527abeab89916")

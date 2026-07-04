@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ray’z Arcade Chronology
 addappid(2478020)
-addappid(2478021,0,"e5891d726e0a361ae37f4e15e16b500173a36f8409f9dc768ee9c57e469fe734")
--- setManifestid(2478021,"125889899105253825")
+addappid(2478021, 1, "e5891d726e0a361ae37f4e15e16b500173a36f8409f9dc768ee9c57e469fe734")

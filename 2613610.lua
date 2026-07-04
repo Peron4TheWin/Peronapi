@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drift.Wav
 addappid(2613610)
-addappid(2613611,0,"682b3f0e2ebef98f636e57f38ad6c663fd24348524c1efdb9588cd5ca5c66aa7")
--- setManifestid(2613611,"8227161089242358814")
+addappid(2613611, 1, "682b3f0e2ebef98f636e57f38ad6c663fd24348524c1efdb9588cd5ca5c66aa7")

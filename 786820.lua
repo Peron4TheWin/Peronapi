@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SOK MAX
 addappid(786820)
-addappid(786821,0,"1635d03b3805c2552f6b5c0bd22f3c39e19b726a0f88b078fefe90622065e8a7")
--- setManifestid(786821,"1381588016765301773")
+addappid(786821, 1, "1635d03b3805c2552f6b5c0bd22f3c39e19b726a0f88b078fefe90622065e8a7")

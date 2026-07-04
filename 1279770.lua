@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tower of God
 addappid(1279770)
-addappid(1279771,0,"7e32e61fa945dede3b047717f53856ce39086aeeae4b3ed10ddf18b0318250e2")
--- setManifestid(1279771,"2484641547348802900")
+addappid(1279771, 1, "7e32e61fa945dede3b047717f53856ce39086aeeae4b3ed10ddf18b0318250e2")

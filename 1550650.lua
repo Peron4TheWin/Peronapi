@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lords of Solgrund
 addappid(1550650)
-addappid(1550651,0,"8f51dc39d705863cb766e9470f5c78e967090bdea06b39bd726cdaa82488378f")
--- setManifestid(1550651,"3364948001378870090")
+addappid(1550651, 1, "8f51dc39d705863cb766e9470f5c78e967090bdea06b39bd726cdaa82488378f")

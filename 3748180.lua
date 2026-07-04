@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HardAF Soundtrack
 addappid(3748180)
-addappid(3748181,0,"e7930fcfb668d8b416bcc94c4b3523aaedd50e83d16803e131cbbd0f98d1afa3")
--- setManifestid(3748181,"7299435400950198032")
+addappid(3748181, 1, "e7930fcfb668d8b416bcc94c4b3523aaedd50e83d16803e131cbbd0f98d1afa3")

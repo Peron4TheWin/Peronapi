@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Miner Ultra Adventures 2
 addappid(1875280)
-addappid(1875281,0,"848237ff74171d7e96421bc9259ee57e894b49a4ab7af193eae239f235ac9874")
--- setManifestid(1875281,"7769583922101689498")
+addappid(1875281, 1, "848237ff74171d7e96421bc9259ee57e894b49a4ab7af193eae239f235ac9874")
+addappid(2059580)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GhostHunter
 addappid(1715830)
-addappid(1715831,0,"9069c04570af473f28efa71f97c6ee9f25727ab750a6da3ece98307684c5fcb8")
--- setManifestid(1715831,"438460644425166018")
+addappid(1715831, 1, "9069c04570af473f28efa71f97c6ee9f25727ab750a6da3ece98307684c5fcb8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nomadic Tale (Harvest Elysium)
 addappid(3320340)
-addappid(3320341,0,"007fe85377a715b3ae6f4d90150602ec186945168d29c3118f678e0fa5c8b7bd")
--- setManifestid(3320341,"4528127478029073653")
+addappid(3320341, 1, "007fe85377a715b3ae6f4d90150602ec186945168d29c3118f678e0fa5c8b7bd")

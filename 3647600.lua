@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Riff
 addappid(3647600)
-addappid(3647601,0,"2150da94449b3cbed3e44b506fc91bd0ad818b1c243640c7f1e1e78b1d28106f")
--- setManifestid(3647601,"5776231859729623484")
+addappid(3647601, 1, "2150da94449b3cbed3e44b506fc91bd0ad818b1c243640c7f1e1e78b1d28106f")

@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: SafeZoneVR
 addappid(1701090)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1701091,0,"5ee300abcfa7a2447592155f84462b00b24eedd5c8da2ad9c2d11b41758c0a6c")
--- setManifestid(1701091,"202911686335489233")
+addappid(1701091, 1, "5ee300abcfa7a2447592155f84462b00b24eedd5c8da2ad9c2d11b41758c0a6c")
+addappid(1733210)

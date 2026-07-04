@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Dark Realm
 addappid(1918790)
-addappid(1918791,0,"12e8b86acccc93e5ce3b0aeb346e50c8a4e27be9d9c84766811b288866f35169")
--- setManifestid(1918791,"1527259043734582228")
+addappid(1918791, 1, "12e8b86acccc93e5ce3b0aeb346e50c8a4e27be9d9c84766811b288866f35169")

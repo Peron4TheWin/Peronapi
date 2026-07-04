@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 逃离地球 Demo
 addappid(1638480)
-addappid(1638481,0,"00c659476aa988267034aa719564e5fdd1b96db6daccaea1bf558356a08abe6f")
--- setManifestid(1638481,"3443093905775107563")
+addappid(1638481, 1, "00c659476aa988267034aa719564e5fdd1b96db6daccaea1bf558356a08abe6f")

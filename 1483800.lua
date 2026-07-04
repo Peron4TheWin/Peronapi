@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Adventure Llama
 addappid(1483800)
-addappid(1483801,0,"3db2b612d025c1c9044252844d2f8dd6378c8a8124ba3ba4c6bf13cc5f33ba8b")
--- setManifestid(1483801,"3569319315969706676")
+addappid(1483801, 1, "3db2b612d025c1c9044252844d2f8dd6378c8a8124ba3ba4c6bf13cc5f33ba8b")

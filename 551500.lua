@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Fight
 addappid(551500)
-addappid(551501,0,"3ed97249f9b3b3ae8c22ccdb761ef175e1adf887dcab519af8449375d7705ddc")
--- setManifestid(551501,"1574997569619919661")
+addappid(551501, 1, "3ed97249f9b3b3ae8c22ccdb761ef175e1adf887dcab519af8449375d7705ddc")

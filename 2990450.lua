@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Turn Based Boxing: Tactics - Legends Edition
 addappid(2990450)
-addappid(2990451,0,"74d43ba22a4ebfd4207f6ced9a77e681312bd52936692f9e07f3029752bf4a9e")
--- setManifestid(2990451,"5484797761456422440")
+addappid(2990451, 1, "74d43ba22a4ebfd4207f6ced9a77e681312bd52936692f9e07f3029752bf4a9e")

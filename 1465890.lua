@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 武林志2 (Wushu Chronicles 2)
 addappid(1465890)
-addappid(1465891,0,"3553568aab6a139f1d3cc0c0b923dcff734ba48821a605874f6180c76d27ac38")
--- setManifestid(1465891,"3674829439784319020")
+addappid(1465891, 1, "3553568aab6a139f1d3cc0c0b923dcff734ba48821a605874f6180c76d27ac38")

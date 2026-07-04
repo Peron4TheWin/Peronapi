@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twin Breaker: A Sacred Symbols Adventure
 addappid(1373080)
-addappid(1373081,0,"f59b988498c3bfd8ac0b2ca37ab078904f6038912802c55983f0593e4d7a37d9")
--- setManifestid(1373081,"3145918510824075829")
+addappid(1373081, 1, "f59b988498c3bfd8ac0b2ca37ab078904f6038912802c55983f0593e4d7a37d9")

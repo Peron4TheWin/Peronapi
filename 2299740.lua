@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tales of Rein Ravine
 addappid(2299740)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2299741,0,"876fc77e1050ebbfa8b575cbc4a7ce857d71162614a3c355d62b48797517caa8")
--- setManifestid(2299741,"2111921031457337599")
+addappid(2299741, 1, "876fc77e1050ebbfa8b575cbc4a7ce857d71162614a3c355d62b48797517caa8")

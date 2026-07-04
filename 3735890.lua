@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Venice
 addappid(3735890)
-addappid(3735891,0,"a88e1d45ac98fa05a8b7dc2eda68156fdde1f9dd4d99377b9001306264fdb6f5")
--- setManifestid(3735891,"3675265791342019487")
+addappid(3735891, 1, "a88e1d45ac98fa05a8b7dc2eda68156fdde1f9dd4d99377b9001306264fdb6f5")

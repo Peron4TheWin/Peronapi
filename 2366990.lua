@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Senpai: Sukebe Nekomimi no Yoru
 addappid(2366990)
-addappid(2366991,0,"b787a31eedad42a32a5cddc65ab367d974b99fefc433da9862199ee15c2f5a36")
--- setManifestid(2366991,"1846617520899480538")
+addappid(2366991, 1, "b787a31eedad42a32a5cddc65ab367d974b99fefc433da9862199ee15c2f5a36")

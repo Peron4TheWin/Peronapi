@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Succubus With Guns
 addappid(1680340)
-addappid(1680341,0,"bdd5460a38de7c27e5936ec97dff6c7f86a7c9d23e468e9579fde951c86914eb")
--- setManifestid(1680341,"2970760590442190306")
+addappid(1680341, 1, "bdd5460a38de7c27e5936ec97dff6c7f86a7c9d23e468e9579fde951c86914eb")

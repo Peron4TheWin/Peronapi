@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Girl Incursion
 addappid(1434650)
-addappid(1434651,0,"8316d99fbf589466844de2df44d94ccef937ceec95ccb8e5d524831f6fdc85fd")
--- setManifestid(1434651,"7274453825888276590")
+addappid(1434651, 1, "8316d99fbf589466844de2df44d94ccef937ceec95ccb8e5d524831f6fdc85fd")
+addappid(1440930)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Keiko-san (47) my co-worker, is a single mother
 addappid(1834420)
-addappid(1834421,0,"2febcb1c576bdcf577735e61e8654a18ebf734d8e7a535d37b0b8bd461cd9b79")
--- setManifestid(1834421,"5130972514744795031")
+addappid(1834421, 1, "2febcb1c576bdcf577735e61e8654a18ebf734d8e7a535d37b0b8bd461cd9b79")

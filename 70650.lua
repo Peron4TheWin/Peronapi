@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Worms Blast
 addappid(70650)
-addappid(70651,0,"d7449e5e166486044d81a2e7f9c5ef34009eeb58e2a2ad78daf23b34e0c286a4")
--- setManifestid(70651,"5497186115017923808")
+addappid(70651, 1, "d7449e5e166486044d81a2e7f9c5ef34009eeb58e2a2ad78daf23b34e0c286a4")

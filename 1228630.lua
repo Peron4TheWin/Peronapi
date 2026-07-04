@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Patched world
 addappid(1228630)
-addappid(1228631,0,"c4b6d7f6b1fc5bee4e35ee2501db9acd211c336c073e56d44940d9e404060a0f")
--- setManifestid(1228631,"8895840502511277121")
+addappid(1228631, 1, "c4b6d7f6b1fc5bee4e35ee2501db9acd211c336c073e56d44940d9e404060a0f")

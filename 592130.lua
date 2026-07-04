@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NakedMan VS The Clothes
 addappid(592130)
-addappid(592131,0,"d992cfecdd3e2c94f5fe40f536460ac09cfc3ac28844b42e4bf03af720bca00a")
--- setManifestid(592131,"1905877830117056834")
+addappid(592131, 1, "d992cfecdd3e2c94f5fe40f536460ac09cfc3ac28844b42e4bf03af720bca00a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 决奕Duel Demo
 addappid(2306510)
-addappid(2306511,0,"625aafa1d2c645bd1a1efa573e60872cedb189db2296a9b8eb8590ba8fd978b4")
--- setManifestid(2306511,"6618374146309529482")
+addappid(2306511, 1, "625aafa1d2c645bd1a1efa573e60872cedb189db2296a9b8eb8590ba8fd978b4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rust of Steel
 addappid(3393400)
-addappid(3393401,0,"1cdca9d9ae49498dc1d72535f383dbee4df475d22bf841f279d3c4f0b856ae62")
--- setManifestid(3393401,"3771165612963829895")
+addappid(3393401, 1, "1cdca9d9ae49498dc1d72535f383dbee4df475d22bf841f279d3c4f0b856ae62")

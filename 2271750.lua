@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3001: A MILF Odyssey - NSFW Sci-Fi Porn
 addappid(2271750)
-addappid(2271751,0,"dc313fe6da4067def1715e162b21af5a3fd917b5a9a6bf8ee40632c2a53c8076")
--- setManifestid(2271751,"6794021281560825859")
+addappid(2271751, 1, "dc313fe6da4067def1715e162b21af5a3fd917b5a9a6bf8ee40632c2a53c8076")

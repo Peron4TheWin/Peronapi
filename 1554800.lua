@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zooma Demo
 addappid(1554800)
-addappid(1554801,0,"8624a119217b8cb13398b494d8ea77a2d2933aa8e6b8946e9f575aac690b09e4")
--- setManifestid(1554801,"8229359314904970987")
+addappid(1554801, 1, "8624a119217b8cb13398b494d8ea77a2d2933aa8e6b8946e9f575aac690b09e4")

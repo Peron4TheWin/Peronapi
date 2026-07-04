@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Run Away
 addappid(998690)
-addappid(998691,0,"628f06c706d2bcc00caab70adb0496a071808b6c83d5398f8dd58f71f8c4602b")
--- setManifestid(998691,"7506538998566097580")
+addappid(998691, 1, "628f06c706d2bcc00caab70adb0496a071808b6c83d5398f8dd58f71f8c4602b")

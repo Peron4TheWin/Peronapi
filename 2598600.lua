@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Seekers of the Ancient Playtest
 addappid(2598600)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2598601,0,"f6c9522bd53e266ce4b9219e7eee69d1411d85768ddceaafe365335c3360953d")
+addappid(2598601, 1, "f6c9522bd53e266ce4b9219e7eee69d1411d85768ddceaafe365335c3360953d")

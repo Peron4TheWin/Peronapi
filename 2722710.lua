@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starfield: Creation Kit
 addappid(2722710)
-addappid(2722711,0,"5a5691a4c18d34db3079133e800e1b84f64c148344fc38b711b299764a85f3dc")
--- setManifestid(2722711,"8941554959774786648")
+addappid(2722711, 1, "5a5691a4c18d34db3079133e800e1b84f64c148344fc38b711b299764a85f3dc")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roles & Dice
 addappid(2560120)
-addappid(2560121,0,"a13d3789b8c478dfee223e17fd32b6a2be7ea89025a2d93d02aef7319ec97783")
--- setManifestid(2560121,"262305040148102866")
+addappid(2560121, 1, "a13d3789b8c478dfee223e17fd32b6a2be7ea89025a2d93d02aef7319ec97783")

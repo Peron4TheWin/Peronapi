@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Futanari Jigsaw Puzzle
 addappid(1787150)
-addappid(1787151,0,"f4238736125898f7fc878dc0afb8c81dffab00fa7becb829141757ce0715c776")
+addappid(1787151, 1, "f4238736125898f7fc878dc0afb8c81dffab00fa7becb829141757ce0715c776")

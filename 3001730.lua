@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [Bober Bros] It's Just A Prank
 addappid(3001730)
-addappid(3001731,0,"6c81d7ff8ce2be820639b76f00ce9a3cdda17c170bf9ef845a0aca758054509e")
--- setManifestid(3001731,"4221662795837603170")
+addappid(3001731, 1, "6c81d7ff8ce2be820639b76f00ce9a3cdda17c170bf9ef845a0aca758054509e")

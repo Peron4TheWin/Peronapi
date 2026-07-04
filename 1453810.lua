@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEEMO -Reborn- OST: Hidden Dreams Edition
 addappid(1453810)
-addappid(1453811,0,"0afe2a8903e9a3f42ff69b19850865852a64365439fdf0605796069018128dc6")
--- setManifestid(1453811,"7861587796798542904")
+addappid(1453811, 1, "0afe2a8903e9a3f42ff69b19850865852a64365439fdf0605796069018128dc6")

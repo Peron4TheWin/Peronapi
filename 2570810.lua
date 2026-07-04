@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ys X: Nordics
 addappid(2570810)
-addappid(2570811,0,"632b952fc96fea8272f531a7a8b186927c081ce1228916809d6b7e6ace47379d")
--- setManifestid(2570811,"4473408724713720417")
+addappid(2570811, 1, "632b952fc96fea8272f531a7a8b186927c081ce1228916809d6b7e6ace47379d")

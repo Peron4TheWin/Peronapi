@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Aim Master H
 addappid(1303820)
-addappid(1303821,0,"b2c36b098ba74667e3dffc1d3c61c2f389e2dd312544cc7e84d3352d6b09ea19")
--- setManifestid(1303821,"4198179507020488873")
+addappid(1303821, 1, "b2c36b098ba74667e3dffc1d3c61c2f389e2dd312544cc7e84d3352d6b09ea19")
+addappid(1360680)

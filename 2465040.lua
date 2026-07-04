@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bad Boro Demo
 addappid(2465040)
-addappid(2465041,0,"b1735c6349e7ea259f580810f8d7828cbdaa7938a1baf630620fedc696543408")
--- setManifestid(2465041,"4411140980855544170")
+addappid(2465041, 1, "b1735c6349e7ea259f580810f8d7828cbdaa7938a1baf630620fedc696543408")

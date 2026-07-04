@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hookah Cafe Simulator
 addappid(1672880)
-addappid(1672881,0,"0c250d90bd342a1dad8bfe3ce7784ac391cae1e124eb6a5bbad9200813a187ac")
--- setManifestid(1672881,"8972975529943874850")
+addappid(1672881, 1, "0c250d90bd342a1dad8bfe3ce7784ac391cae1e124eb6a5bbad9200813a187ac")

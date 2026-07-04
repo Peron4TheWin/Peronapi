@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Toram Online
 addappid(1827180)
-addappid(1827181,0,"aaad9e8b14d16ba8ca8680ba71ca1a94637567d0e6202f1c8befcfa3f0f38581")
--- setManifestid(1827181,"7862372586358277738")
+addappid(1827181, 1, "aaad9e8b14d16ba8ca8680ba71ca1a94637567d0e6202f1c8befcfa3f0f38581")

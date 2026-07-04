@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: R.U.B.Y.寻常交织的日常
 addappid(1169230)
-addappid(1169231,0,"37b0078c4a25d4f3a235d705bfe6a6c9b12d3f016ffb81154c3f011f23e50042")
+addappid(1169231, 1, "37b0078c4a25d4f3a235d705bfe6a6c9b12d3f016ffb81154c3f011f23e50042")

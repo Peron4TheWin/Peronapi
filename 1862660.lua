@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: garage:VAMP
 addappid(1862660)
-addappid(1862661,0,"07d87c48f4349d8507efcde61bb47b2665ab7dca7b7232fc4ed424393707685a")
--- setManifestid(1862661,"6867315329754761523")
+addappid(1862661, 1, "07d87c48f4349d8507efcde61bb47b2665ab7dca7b7232fc4ed424393707685a")

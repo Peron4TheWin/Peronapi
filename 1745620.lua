@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Oath of The Dark Magic Queen
 addappid(1745620)
-addappid(1745621,0,"f1571df9b99e5f4a2c4842f8c65db60dc235b1b50e6dafc2f6163f82d11ff5e5")
--- setManifestid(1745621,"7878875500258446026")
+addappid(1745621, 1, "f1571df9b99e5f4a2c4842f8c65db60dc235b1b50e6dafc2f6163f82d11ff5e5")

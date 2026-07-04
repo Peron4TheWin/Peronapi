@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EvoWars: New Era
 addappid(2368080)
-addappid(2368081,0,"e111e0c5c3c5f840e48693fbf5d67dc433ccf0fce478bee4fe200a39b58ced6c")
--- setManifestid(2368081,"8299405046128874274")
+addappid(2368081, 1, "e111e0c5c3c5f840e48693fbf5d67dc433ccf0fce478bee4fe200a39b58ced6c")

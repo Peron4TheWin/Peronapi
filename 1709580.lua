@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiny Robots Recharged
 addappid(1709580)
-addappid(1709581,0,"dc246223559b1139c3b2ec33376c96ee53db610725373215ee9a0906da776fca")
--- setManifestid(1709581,"2252138415053258597")
+addappid(1709581, 1, "dc246223559b1139c3b2ec33376c96ee53db610725373215ee9a0906da776fca")

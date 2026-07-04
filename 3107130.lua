@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grit Porn Video Tapes
 addappid(3107130)
-addappid(3107131,0,"8a1e66b153439efc601406237e9f279d1d9426f3ca3dc387659f146f1a8ebd9d")
--- setManifestid(3107131,"7407290108679176984")
+addappid(3107131, 1, "8a1e66b153439efc601406237e9f279d1d9426f3ca3dc387659f146f1a8ebd9d")

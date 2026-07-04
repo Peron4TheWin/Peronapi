@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jump Hero: Beginning
 addappid(1396390)
-addappid(1396391,0,"f7d44e791d011d98538480eda1ea5b6cc3b53591f58d55950fc10a0970b19e42")
--- setManifestid(1396391,"7235116560468224165")
+addappid(1396391, 1, "f7d44e791d011d98538480eda1ea5b6cc3b53591f58d55950fc10a0970b19e42")

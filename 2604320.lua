@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Memories Off Sousou ~Not always true~
 addappid(2604320)
-addappid(3426820)
-addappid(2604321,0,"35762e4f71eab48eb04bb2460a09ffb5dfd74946fcae38dfa797429549ce5f89")
--- setManifestid(2604321,"6678826473329253657")
-addappid(3426820,0,"bea5fa10a4361d7c6b37c506aeceee91b37921785f1adb969c9e9da7220bdab5")
--- setManifestid(3426820,"1438376866512818150")
+addappid(2604321, 1, "35762e4f71eab48eb04bb2460a09ffb5dfd74946fcae38dfa797429549ce5f89")
+addappid(3426820, 0, "bea5fa10a4361d7c6b37c506aeceee91b37921785f1adb969c9e9da7220bdab5")

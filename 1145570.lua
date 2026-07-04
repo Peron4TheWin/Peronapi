@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ortharion project
 addappid(1145570)
-addappid(1145571,0,"e4f630846848cf268fec5fc80fd7ff523315385bda4b1eb5b6afcd350bf44864")
--- setManifestid(1145571,"2933597146954201072")
+addappid(1145571, 1, "e4f630846848cf268fec5fc80fd7ff523315385bda4b1eb5b6afcd350bf44864")

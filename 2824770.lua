@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PiM World
 addappid(2824770)
-addappid(2824771,0,"8b839846b4ce343e8b902c7e5bcceed70239926d843b185899e24cb87a0f0821")
--- setManifestid(2824771,"1852000411198722449")
+addappid(2824771, 1, "8b839846b4ce343e8b902c7e5bcceed70239926d843b185899e24cb87a0f0821")

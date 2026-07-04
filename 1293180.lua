@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SuchArt: Genius Artist Simulator
 addappid(1293180)
-addappid(1293181,0,"f6079b2733d87ac0376cd47ec42e78ccb05f39cf6e4fd42aac21f2c5a1babd4a")
---setManifestid(1293181,"1617054423222660734")
+addappid(1293181, 1, "f6079b2733d87ac0376cd47ec42e78ccb05f39cf6e4fd42aac21f2c5a1babd4a")

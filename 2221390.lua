@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Damned 2
 addappid(2221390)
-addappid(2221391,0,"c2da1b1bb731fc390029ec1c3f2e6cb39081361cc19e274260c3d77153e6c624")
--- setManifestid(2221391,"268136449894284719")
+addappid(2221391, 1, "c2da1b1bb731fc390029ec1c3f2e6cb39081361cc19e274260c3d77153e6c624")

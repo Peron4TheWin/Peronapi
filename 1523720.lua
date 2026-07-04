@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cook-Out
 addappid(1523720)
-addappid(1523721,0,"ea15734f4ea53d5e88df22b319f8fce3ecb126f4968c54e898d4ee384b1a8ace")
--- setManifestid(1523721,"2782423008754012858")
+addappid(1523721, 1, "ea15734f4ea53d5e88df22b319f8fce3ecb126f4968c54e898d4ee384b1a8ace")

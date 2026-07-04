@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Age of Reforging: The Freelands
 addappid(1161830)
-addappid(1161831,0,"e1a623d865fa1f73a35221e8f9e08f42bedac87bb2b26a0110c87fa8324467d0")
--- setManifestid(1161831,"3636592247482578912")
+addappid(1161831, 1, "e1a623d865fa1f73a35221e8f9e08f42bedac87bb2b26a0110c87fa8324467d0")
+addappid(3988050)

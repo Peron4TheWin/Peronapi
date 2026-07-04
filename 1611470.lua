@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fuga: Melodies of Steel - Deluxe Edition Upgrade Pack
 addappid(1611470)
-addtoken(1611470,"4550034500013223467")
-addappid(1611471,0,"3fc426428296c924276514ef86c3590fee99f2aa868e3b4934fe444e55b938ce")
--- setManifestid(1611471,"2292510649744173580")
+addappid(1611471, 1, "3fc426428296c924276514ef86c3590fee99f2aa868e3b4934fe444e55b938ce")

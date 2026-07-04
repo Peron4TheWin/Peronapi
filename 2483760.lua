@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultimate Scroll
 addappid(2483760)
-addappid(2483761,0,"a14f04fc27c2eb6a7a76b025fa4fe2bbac70b3173a925e881d71fad6fc16ef38")
--- setManifestid(2483761,"7703627545676742283")
+addappid(2483761, 1, "a14f04fc27c2eb6a7a76b025fa4fe2bbac70b3173a925e881d71fad6fc16ef38")

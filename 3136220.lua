@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GIRLS VS TENTACLES
 addappid(3136220)
-addappid(3136221,0,"c8eeceed5c11d6d010fc8231464a4fadf39c0ac8f47e2150fb620b9b1571127c")
--- setManifestid(3136221,"4332884180266122119")
+addappid(3136221, 1, "c8eeceed5c11d6d010fc8231464a4fadf39c0ac8f47e2150fb620b9b1571127c")

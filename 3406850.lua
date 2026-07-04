@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Debugging Hero
 addappid(3406850)
-addappid(3406851,0,"d6b82538f2e24ef5312c3082e4f3f12a639a5958ebd657e48ed22f3e0dfe789a")
--- setManifestid(3406851,"4267515814656537765")
+addappid(3406851, 1, "d6b82538f2e24ef5312c3082e4f3f12a639a5958ebd657e48ed22f3e0dfe789a")

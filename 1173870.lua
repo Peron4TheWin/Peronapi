@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Endless Knight
 addappid(1173870)
-addappid(1173871,0,"c99da69ed9ad51b0669fef4c6f080bc8a4710b06a4f3b17d2f5f64971fb1bddf")
--- setManifestid(1173871,"5089206000984701761")
+addappid(1173871, 1, "c99da69ed9ad51b0669fef4c6f080bc8a4710b06a4f3b17d2f5f64971fb1bddf")

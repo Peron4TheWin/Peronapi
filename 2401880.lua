@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery Chamber: Forever - Sneak Peek
 addappid(2401880)
-addappid(2401881,0,"adf12b66d095322cf16a698355ad1c107fea2766d2e7d86539f5e599c5016c57")
--- setManifestid(2401881,"6246980400018949504")
+addappid(2401881, 1, "adf12b66d095322cf16a698355ad1c107fea2766d2e7d86539f5e599c5016c57")

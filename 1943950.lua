@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape the Backrooms
 addappid(1943950)
-addappid(1943951,0,"7930e28c405ca5c1ab83cb57ad8f6a96adc288960b0e60acbc764ff1154d8bb3")
--- setManifestid(1943951,"15992781856547176")
+addappid(1943951, 1, "7930e28c405ca5c1ab83cb57ad8f6a96adc288960b0e60acbc764ff1154d8bb3")

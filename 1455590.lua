@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sword of the Necromancer - Prologue
 addappid(1455590)
-addappid(1455591,0,"aff2e37627642108b39e812562cd843b986250f4ba628328bea1fc1fec53d3b7")
--- setManifestid(1455591,"1100232330145282313")
+addappid(1455591, 1, "aff2e37627642108b39e812562cd843b986250f4ba628328bea1fc1fec53d3b7")

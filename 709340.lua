@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirits of Mystery: The Dark Minotaur Collector's Edition
 addappid(709340)
-addappid(709341,0,"17007c378162565be62ddf268b1f8cc408bdc8871aea446781a68e375e863aae")
--- setManifestid(709341,"9173549889098852213")
+addappid(709341, 1, "17007c378162565be62ddf268b1f8cc408bdc8871aea446781a68e375e863aae")

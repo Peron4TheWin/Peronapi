@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love in Login Demo
 addappid(2758310)
-addappid(2758311,0,"5fe6d29e338f0a884ffe2c2a6d053f323bc623a35283287b7bdd7aab50be30a2")
--- setManifestid(2758311,"1157645383636827717")
+addappid(2758311, 1, "5fe6d29e338f0a884ffe2c2a6d053f323bc623a35283287b7bdd7aab50be30a2")

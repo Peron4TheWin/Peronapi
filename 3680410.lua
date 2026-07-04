@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tears of Vanfell: New Beginning
 addappid(3680410)
-addappid(3680411,0,"ec2f9558cecfdaa198c616df4bbd521969e751012a01589990d06de1d391d001")
--- setManifestid(3680411,"8412796966039137126")
+addappid(3680411, 1, "ec2f9558cecfdaa198c616df4bbd521969e751012a01589990d06de1d391d001")

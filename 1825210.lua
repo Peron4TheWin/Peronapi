@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DESTRUCTURE: Among Debris
 addappid(1825210)
-addappid(1825211,0,"a2ba9d05dcca1921a38c62f473185455542c813f60f091bb5dd545891da63bdf")
--- setManifestid(1825211,"4845019867737422077")
+addappid(1825211, 1, "a2ba9d05dcca1921a38c62f473185455542c813f60f091bb5dd545891da63bdf")

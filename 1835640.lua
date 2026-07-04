@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Search for MR Fimple
 addappid(1835640)
-addappid(1835641,0,"1bfd0c70ea762538a0102c0cd085f94dad048a9b0fd2ed22927b9553987b0bde")
--- setManifestid(1835641,"8354606938074695261")
+addappid(1835641, 1, "1bfd0c70ea762538a0102c0cd085f94dad048a9b0fd2ed22927b9553987b0bde")

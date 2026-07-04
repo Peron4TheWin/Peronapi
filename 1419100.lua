@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Unexpected Quest Prologue
 addappid(1419100)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1419101,0,"527d9a4ad2dff6b9e0ab957234e7a3727612229475795a0c1742c791d9fe3be5")
--- setManifestid(1419101,"3532997888309924030")
+addappid(1419101, 1, "527d9a4ad2dff6b9e0ab957234e7a3727612229475795a0c1742c791d9fe3be5")

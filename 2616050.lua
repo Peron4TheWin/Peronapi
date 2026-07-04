@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dual Bus Simulator
 addappid(2616050)
-addappid(2616051,0,"92d1bee6359d61678475aba746602ddcee1d2b50e66bd1fddaf632719431cc8d")
--- setManifestid(2616051,"2040938829202524753")
+addappid(2616051, 1, "92d1bee6359d61678475aba746602ddcee1d2b50e66bd1fddaf632719431cc8d")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Playing God
 addappid(1358930)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1358931,0,"8c6221436d8d128f914eddd902e6cb9db47d43798aa26a1b0509c79ddbbf17cf")
--- setManifestid(1358931,"3861897880979371959")
+addappid(1358931, 1, "8c6221436d8d128f914eddd902e6cb9db47d43798aa26a1b0509c79ddbbf17cf")

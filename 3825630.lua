@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Presidential Psychologist
 addappid(3825630)
-addappid(3825631,0,"a2b9370d16e7c98f4716099e4100262e7b680c16f2cb8650be0ed89accd8fc8a")
--- setManifestid(3825631,"5284298036484447611")
+addappid(3825631, 1, "a2b9370d16e7c98f4716099e4100262e7b680c16f2cb8650be0ed89accd8fc8a")

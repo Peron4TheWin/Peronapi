@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Emissary Zero
 addappid(3176060)
-addappid(3176061,0,"87ccd43a7ff83224384228a50111bc6cfee10144e93af2284c27dcdae12d5e38")
--- setManifestid(3176061,"4991340673011560186")
+addappid(3176061, 1, "87ccd43a7ff83224384228a50111bc6cfee10144e93af2284c27dcdae12d5e38")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lonely Catgirl is the Purrfect Pussy
 addappid(1509040)
-addappid(1509041,0,"869b592ffebed11174276c447cf6305b052916c2ee048460984be7726d034755")
--- setManifestid(1509041,"5399791197358308619")
+addappid(1509041, 1, "869b592ffebed11174276c447cf6305b052916c2ee048460984be7726d034755")

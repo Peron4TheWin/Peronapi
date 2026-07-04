@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Specter
 addappid(778060)
-addappid(778061,0,"4073627590a576b97dcf2d7c4a2af1f8cbed7b8d4082ffa18dd4407cf62c1e83")
--- setManifestid(778061,"4296299614215655706")
+addappid(778061, 1, "4073627590a576b97dcf2d7c4a2af1f8cbed7b8d4082ffa18dd4407cf62c1e83")

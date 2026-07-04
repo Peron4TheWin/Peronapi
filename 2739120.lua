@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PvPillman
 addappid(2739120)
-addappid(2739121,0,"2f4c303d3bf158c23eaf788176c604d4060527fe67a1c81e78d04d4e16af5d1d")
--- setManifestid(2739121,"2196110778040568949")
+addappid(2739121, 1, "2f4c303d3bf158c23eaf788176c604d4060527fe67a1c81e78d04d4e16af5d1d")

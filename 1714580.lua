@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: moon: Remix RPG Adventure
 addappid(1714580)
-addappid(1714581,0,"da20e98796446f3813cbb4a2d102ee79e6ecf10fc1caa1be6730b54cd2d0cf84")
--- setManifestid(1714581,"3303870736131691229")
+addappid(1714581, 1, "da20e98796446f3813cbb4a2d102ee79e6ecf10fc1caa1be6730b54cd2d0cf84")

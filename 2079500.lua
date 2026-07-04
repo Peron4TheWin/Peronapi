@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Colorless World
 addappid(2079500)
-addappid(2079501,0,"84caf888d1d48f730352a682151dde6729e6c95720260095439eb1f3f13e470b")
+addappid(2079501, 1, "84caf888d1d48f730352a682151dde6729e6c95720260095439eb1f3f13e470b")

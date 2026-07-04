@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PaintballX
 addappid(1729420)
--- setManifestid(228990,"1829726630299308803")
-addappid(1729421,0,"400412143d47312130d04c0b9fe3b07dd62faec6c6f1c9445a592d3368acc17b")
--- setManifestid(1729421,"5617684146958455318")
+addappid(1729421, 1, "400412143d47312130d04c0b9fe3b07dd62faec6c6f1c9445a592d3368acc17b")

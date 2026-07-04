@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Sonday
 addappid(2336230)
-addappid(2336231,0,"3350ecfb5d69ce7fd5a9c751ca09c3391098084bc9c7606df6b97bf5f664e05a")
--- setManifestid(2336231,"7121677406317566241")
+addappid(2336231, 1, "3350ecfb5d69ce7fd5a9c751ca09c3391098084bc9c7606df6b97bf5f664e05a")

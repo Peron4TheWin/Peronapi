@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GRANDIA HD Remaster
 addappid(1034860)
-addappid(228987)
--- setManifestid(228987,"4302102680580581867")
-addappid(229004)
--- setManifestid(229004,"5220958916987797232")
-addappid(1034861,0,"32afe4718ef900f3f3cbf8b8162b4551a1a94fcda021505120c47d20517fa660")
--- setManifestid(1034861,"1194424406389624463")
+addappid(1034861, 1, "32afe4718ef900f3f3cbf8b8162b4551a1a94fcda021505120c47d20517fa660")

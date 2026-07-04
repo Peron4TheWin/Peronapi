@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cleopatra Fortune™ S-Tribute
 addappid(1913690)
--- setManifestid(228988,"6645201662696499616")
-addappid(1913691,0,"9c72b50b30abd11e17e4e1e144cfaf24817cefa305518498aae4b3aab0a2442a")
--- setManifestid(1913691,"5027590096910733710")
+addappid(1913691, 1, "9c72b50b30abd11e17e4e1e144cfaf24817cefa305518498aae4b3aab0a2442a")

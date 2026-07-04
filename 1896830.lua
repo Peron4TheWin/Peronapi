@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Game Maker MV - Cardgame Sample
 addappid(1896830)
-addappid(1896831,0,"3876540a20e90b1478893b700baf2b2a54e6af2950f8f0ca09cad480454bb828")
--- setManifestid(1896831,"1583738049666994827")
+addappid(1896831, 1, "3876540a20e90b1478893b700baf2b2a54e6af2950f8f0ca09cad480454bb828")

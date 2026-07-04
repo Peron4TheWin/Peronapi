@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 决战紫禁怀旧服
 addappid(2148830)
-addappid(2148831,0,"9d22ca32a1fd415fa031cf154fcfc275d8bbaa220c56906dc1e79a68b534803d")
--- setManifestid(2148831,"1296476653523681367")
+addappid(2148831, 1, "9d22ca32a1fd415fa031cf154fcfc275d8bbaa220c56906dc1e79a68b534803d")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Preface: Undiscovered World
 addappid(2820060)
--- setManifestid(228989,"3514306556860204959")
-addappid(2820061,0,"07c2e104d589fbf7424703bd7b0aaacd59ebf09384957eb7b951b3bb84b5f252")
--- setManifestid(2820061,"3030494588033759705")
+addappid(2820061, 1, "07c2e104d589fbf7424703bd7b0aaacd59ebf09384957eb7b951b3bb84b5f252")

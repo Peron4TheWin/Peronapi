@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firelight Fantasy: Vengeance
 addappid(1668780)
-addappid(1668781,0,"3d1ca8b02f028604229f63beac922bab96863c21c6f8260db6d5c2219739ca86")
--- setManifestid(1668781,"1729867972201213582")
+addappid(1668781, 1, "3d1ca8b02f028604229f63beac922bab96863c21c6f8260db6d5c2219739ca86")

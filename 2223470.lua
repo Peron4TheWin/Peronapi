@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skeleton Runner
 addappid(2223470)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229000,"4622705914179893434")
-addappid(2223471,0,"facdefed71bc599d6a99de8b16eae8464d87dfe5b0c1640e4097ddfa4eff031b")
--- setManifestid(2223471,"5926570753447144493")
+addappid(2223471, 1, "facdefed71bc599d6a99de8b16eae8464d87dfe5b0c1640e4097ddfa4eff031b")

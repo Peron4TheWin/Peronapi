@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zoey: Horny Roommates
 addappid(2994810)
-addappid(2994811,0,"ac663a1a471e3d7c094c9add49ac263602531c78af5f3a95cc6955066b9cfd1b")
--- setManifestid(2994811,"2622815561694580253")
+addappid(2994811, 1, "ac663a1a471e3d7c094c9add49ac263602531c78af5f3a95cc6955066b9cfd1b")

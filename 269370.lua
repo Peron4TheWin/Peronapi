@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reaper - Tale of a Pale Swordsman
+addappid(269370)
+addappid(269371, 1, "240963bc6fb5afc9425a8a87fa7fd374228202ae5024d22882d9b4233b49903f")

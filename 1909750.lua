@@ -1,8 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Time I Saw You
 addappid(1909750)
-addappid(1909751,0,"3ae469bdce79d8d8269569a0cfe86f855f51e47d51977dca275f9afd2dff4b6d")
--- setManifestid(1909751,"6756785981979896408")
-
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]
+addappid(1909751, 1, "3ae469bdce79d8d8269569a0cfe86f855f51e47d51977dca275f9afd2dff4b6d")

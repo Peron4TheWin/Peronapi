@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deep Dungeon: Gym
 addappid(1067050)
-addappid(1067051,0,"2a97d814d7df043ea3d03bf9a48bdd0be590b7bfaa27770a32853242cb7f7610")
--- setManifestid(1067051,"326537237282313852")
+addappid(1067051, 1, "2a97d814d7df043ea3d03bf9a48bdd0be590b7bfaa27770a32853242cb7f7610")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JUNK! A Demo About Robots Playtest
 addappid(2210610)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2210611,0,"ce80c7ed8478a51e22971c04e15ff9d90c4a7758e4b6446a595be414029229ab")
+addappid(2210611, 1, "ce80c7ed8478a51e22971c04e15ff9d90c4a7758e4b6446a595be414029229ab")

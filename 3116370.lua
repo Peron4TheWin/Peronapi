@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 破碎棱镜 Broken Prism
 addappid(3116370)
-addappid(3116371,0,"9bd5d22e356c57e859e6eed2c0e05e32de42703c23756d7a90cf0a7f221ffc82")
--- setManifestid(3116371,"3982747657150740878")
+addappid(3116371, 1, "9bd5d22e356c57e859e6eed2c0e05e32de42703c23756d7a90cf0a7f221ffc82")

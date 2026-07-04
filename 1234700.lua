@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hornet Virus: Steel Alcimus II
 addappid(1234700)
-addappid(1234701,0,"a7395da54c6ad01eec7ced204f244dbf850422003f87ca3a3d13f47cdc937a68")
--- setManifestid(1234701,"5627550674209603729")
+addappid(1234701, 1, "a7395da54c6ad01eec7ced204f244dbf850422003f87ca3a3d13f47cdc937a68")

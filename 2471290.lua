@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Void
 addappid(2471290)
-addappid(2471291,0,"0d1270b5aa7dcbb2f5664667f0adba5159dc10a5d85455a77db18926d243024e")
--- setManifestid(2471291,"3835905067954144678")
+addappid(2471291, 1, "0d1270b5aa7dcbb2f5664667f0adba5159dc10a5d85455a77db18926d243024e")

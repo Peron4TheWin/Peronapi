@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: When The Rumors Become Real
 addappid(2460270)
-addappid(2460271,0,"8ca7734f8263bc017538cc2462011026a02e37c4eefdded213834f0efd035528")
--- setManifestid(2460271,"4920560050343733593")
+addappid(2460271, 1, "8ca7734f8263bc017538cc2462011026a02e37c4eefdded213834f0efd035528")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Yumiko
 addappid(3519890)
-addappid(3519891,0,"bd8a65da13752060d1f2d51ced8762aea433a5076cb8f5196ed30c9d5a8e4397")
--- setManifestid(3519891,"863552794435123359")
+addappid(3519891, 1, "bd8a65da13752060d1f2d51ced8762aea433a5076cb8f5196ed30c9d5a8e4397")

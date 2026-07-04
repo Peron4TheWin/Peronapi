@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ancient Spirits: Columbus' Legacy
 addappid(2723470)
-addappid(2723471,0,"6b4513a67ff48ceaf2cafed74e0928d82f376d206ccb55b5cf588467d6259e2c")
--- setManifestid(2723471,"2160332951504324932")
+addappid(2723471, 1, "6b4513a67ff48ceaf2cafed74e0928d82f376d206ccb55b5cf588467d6259e2c")

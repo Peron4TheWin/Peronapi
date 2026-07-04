@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frontline: Panzers & Generals Vol. I
 addappid(2306630)
-addappid(2306631,0,"bb1ab9e263529db37ace135e9ca6fde5c46f733846a49b04a51318c1833eb94b")
--- setManifestid(2306631,"855804367590168159")
+addappid(2306631, 1, "bb1ab9e263529db37ace135e9ca6fde5c46f733846a49b04a51318c1833eb94b")

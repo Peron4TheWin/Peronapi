@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Amazing Adventures Around the World
 addappid(3530)
-addappid(3531,0,"3defd816ebdc7409b4f70a674238b62530adc0afc03bdbee6e4197b6191045e5")
--- setManifestid(3531,"6008931570353767710")
+addappid(3531, 1, "3defd816ebdc7409b4f70a674238b62530adc0afc03bdbee6e4197b6191045e5")

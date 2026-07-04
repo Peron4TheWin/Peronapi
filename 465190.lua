@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Survival
 addappid(465190)
-addappid(465191,0,"f39895f4b6c1dd555e5ef1e9e29004c1ed4b8cc81ff79e91144d17f876fa4198")
--- setManifestid(465191,"9146842202743970710")
+addappid(465191, 1, "f39895f4b6c1dd555e5ef1e9e29004c1ed4b8cc81ff79e91144d17f876fa4198")

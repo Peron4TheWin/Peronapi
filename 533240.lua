@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GoNNER OST
 addappid(533240)
-addappid(533241,0,"fd199971a90ff9f1d5187b76b2dd0094ba33e19456493b4c5b2a03e30260c844")
--- setManifestid(533241,"3865353822842655091")
+addappid(533241, 1, "fd199971a90ff9f1d5187b76b2dd0094ba33e19456493b4c5b2a03e30260c844")

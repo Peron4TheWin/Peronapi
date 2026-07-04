@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 失业了，我获得了亿万游戏财产！
 addappid(2875140)
-addappid(2875141,0,"8b3e91f1ed5f67b93b42edabf455c00936c84e3d5c1159b9ac55434e91146630")
--- setManifestid(2875141,"7018735392280437917")
+addappid(2875141, 1, "8b3e91f1ed5f67b93b42edabf455c00936c84e3d5c1159b9ac55434e91146630")

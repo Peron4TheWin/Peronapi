@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Room Dungeon
 addappid(3065810)
-addappid(3065811,0,"e1b08aba9947af1cae1108f45aab20472d3ddccf83a59792f23e9d606b1d1620")
--- setManifestid(3065811,"995642621353727424")
+addappid(3065811, 1, "e1b08aba9947af1cae1108f45aab20472d3ddccf83a59792f23e9d606b1d1620")

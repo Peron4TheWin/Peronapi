@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brain Guzzler: The End Is Nigh
 addappid(369860)
-addappid(369861,0,"a74b3f050e2d0ab78ec53f57b780607f2f1eb64806f5b00d2a4cdab1b2fdf388")
--- setManifestid(369861,"3237548051421115178")
+addappid(369861, 1, "a74b3f050e2d0ab78ec53f57b780607f2f1eb64806f5b00d2a4cdab1b2fdf388")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EDEN: Create World
 addappid(2292720)
-addappid(2292721,0,"5504afd4992a819de42dd4e5f52044e2ac2c12d479447980a93666b0e3a77db8")
--- setManifestid(2292721,"2094446769657840064")
+addappid(2292721, 1, "5504afd4992a819de42dd4e5f52044e2ac2c12d479447980a93666b0e3a77db8")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Office After Hours
 addappid(3207300)
-addappid(3207301,0,"cd723cc3c8b3cacba2d56e22b5ace0ee974d035085b2569b1c6cccf3c91c1c6c")
--- setManifestid(3207301,"2815675434872735843")
+addappid(3207301, 1, "cd723cc3c8b3cacba2d56e22b5ace0ee974d035085b2569b1c6cccf3c91c1c6c")
+addappid(4078070)

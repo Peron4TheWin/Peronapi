@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jamestown+
 addappid(377950)
-addappid(377951,0,"11201cd64365b77991628af092070e46ab48e9d3daffb9e08c6860d65120c8ff")
--- setManifestid(377951,"5012192002086705175")
+addappid(377951, 1, "11201cd64365b77991628af092070e46ab48e9d3daffb9e08c6860d65120c8ff")

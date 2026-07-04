@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Warriorlock
 addappid(340500)
-addappid(340501,0,"f5fed196478353807d86e99abccb7d91f520d7f12b99edddc956442a9515765f")
+addappid(340501, 1, "f5fed196478353807d86e99abccb7d91f520d7f12b99edddc956442a9515765f")

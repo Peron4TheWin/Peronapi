@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backrooms: The Lost Circus
 addappid(3239660)
-addappid(3239661,0,"5d1e2c37a8d146ee27ead37936a57f68e54915b8f3485ad9be46f17368cd3496")
--- setManifestid(3239661,"563711042139865551")
+addappid(3239661, 1, "5d1e2c37a8d146ee27ead37936a57f68e54915b8f3485ad9be46f17368cd3496")

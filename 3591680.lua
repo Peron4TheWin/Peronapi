@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nursing Back to Pleasure
 addappid(3591680)
-addappid(3591681,0,"83e1939e3f49a1fd14c10bef0e91cb309caf8517204a825e3d2d197ad60bf3d3")
--- setManifestid(3591681,"8359305219377813678")
+addappid(3591681, 1, "83e1939e3f49a1fd14c10bef0e91cb309caf8517204a825e3d2d197ad60bf3d3")

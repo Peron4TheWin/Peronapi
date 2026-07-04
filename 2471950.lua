@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Be King
 addappid(2471950)
-addappid(2471951,0,"8812ce3a1a40228bd554478b63cc9f7d1a2afd92e31792ba43ce48e6c58ba326")
--- setManifestid(2471951,"7301665831072219803")
+addappid(2471951, 1, "8812ce3a1a40228bd554478b63cc9f7d1a2afd92e31792ba43ce48e6c58ba326")

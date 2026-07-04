@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Lens: A Porn Story 🍓🎥
 addappid(2624740)
-addappid(2624741,0,"1b73eff41eba5922089424f4622480b698cb4cbafd9aa87eae5308e4820d0744")
--- setManifestid(2624741,"2241135081474991035")
+addappid(2624741, 1, "1b73eff41eba5922089424f4622480b698cb4cbafd9aa87eae5308e4820d0744")

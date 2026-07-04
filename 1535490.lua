@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eggcelerate!
 addappid(1535490)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(229020,"5799761707845834510")
-addappid(1535491,0,"63510aca70e5c3f4b26dd47ad43bc09caf87d46325d291718c6d6d383b3ea444")
--- setManifestid(1535491,"5439941163171229119")
+addappid(1535491, 1, "63510aca70e5c3f4b26dd47ad43bc09caf87d46325d291718c6d6d383b3ea444")

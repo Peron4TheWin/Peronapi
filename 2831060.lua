@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moving Houses
 addappid(2831060)
-addappid(2831061,0,"382e35fff8fa2b38503adc017848e7414e77dcf49d1a7ebf68ecf6b05ec86021")
--- setManifestid(2831061,"3931953092526228550")
+addappid(2831061, 1, "382e35fff8fa2b38503adc017848e7414e77dcf49d1a7ebf68ecf6b05ec86021")

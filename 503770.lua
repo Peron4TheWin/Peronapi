@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Elven Assassin
 addappid(503770)
-addappid(503771,0,"4847dd1de9fcf351094865e0e0757667ecced7be8fda54c3784fcf397222feec")
--- setManifestid(503771,"7052483343697421082")
-addappid(503772)
+addappid(503771, 1, "4847dd1de9fcf351094865e0e0757667ecced7be8fda54c3784fcf397222feec")
+addappid(2524910)

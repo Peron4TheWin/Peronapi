@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: STAY
 addappid(1519690)
-addappid(1519691,0,"ad10b5e6ed86e7c1729c34d354921f06704dd9f713fd724bad12439c74e40708")
--- setManifestid(1519691,"3333359176987341160")
+addappid(1519691, 1, "ad10b5e6ed86e7c1729c34d354921f06704dd9f713fd724bad12439c74e40708")
+addappid(1872570)

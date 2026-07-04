@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: impossible island
 addappid(2950820)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2950821,0,"beee9cfdc831cbfd1d92f05a5d5fb213b6752ded53c54f1106e045804e331769")
--- setManifestid(2950821,"4103570890731668629")
+addappid(2950821, 1, "beee9cfdc831cbfd1d92f05a5d5fb213b6752ded53c54f1106e045804e331769")

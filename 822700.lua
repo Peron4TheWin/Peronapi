@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beer and Skittls VR
 addappid(822700)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229002,"7260605429366465749")
--- setManifestid(229003,"8740933542064151477")
-addappid(822701,0,"0c9cd62ee95eaae419d963d2f249b64e8d41d0f7dbec8fee429ce415527e1a3f")
--- setManifestid(822701,"1065067166470069575")
+addappid(822701, 1, "0c9cd62ee95eaae419d963d2f249b64e8d41d0f7dbec8fee429ce415527e1a3f")

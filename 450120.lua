@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Capitalism Plus
 addappid(450120)
-addappid(450121,0,"1b970dfdc10100954328f4a03bf9e43e247b08be0916a5f86576052a379b8e9c")
--- setManifestid(450121,"4321589674207039778")
+addappid(450121, 1, "1b970dfdc10100954328f4a03bf9e43e247b08be0916a5f86576052a379b8e9c")

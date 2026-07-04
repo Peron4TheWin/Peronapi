@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: aMAZE Double
 addappid(736840)
-addappid(736841,0,"7056ed4c91e31f5126be76a550d437fa71ee5852113f354ad7078b799210a6b1")
--- setManifestid(736841,"2634741421877754351")
+addappid(736841, 1, "7056ed4c91e31f5126be76a550d437fa71ee5852113f354ad7078b799210a6b1")

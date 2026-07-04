@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Doomed'n Damned
 addappid(383810)
-addappid(383811,0,"1569b9e1566041b3dfc8ca21c38b1db639fa40be6c71f6c9922e7426f006e746")
--- setManifestid(383811,"3416837372664693696")
+addappid(383811, 1, "1569b9e1566041b3dfc8ca21c38b1db639fa40be6c71f6c9922e7426f006e746")

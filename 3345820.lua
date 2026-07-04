@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lonely Christmas
 addappid(3345820)
-addappid(3345821,0,"96ac843a408b638988412018529acae36f9a404e63364eba0bf21c7aa3c5c8cd")
--- setManifestid(3345821,"5388827964041700774")
+addappid(3345821, 1, "96ac843a408b638988412018529acae36f9a404e63364eba0bf21c7aa3c5c8cd")

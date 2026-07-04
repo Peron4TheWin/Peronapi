@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cubus
 addappid(2884030)
-addappid(2884031,0,"073f6693b672512ceedfd97cb5b2b8f03e4262c4796bba890ea11749ba6dc1db")
--- setManifestid(2884031,"3173759636055259669")
+addappid(2884031, 1, "073f6693b672512ceedfd97cb5b2b8f03e4262c4796bba890ea11749ba6dc1db")

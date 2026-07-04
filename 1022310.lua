@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warhammer Underworlds - Shadespire Edition (Classic)
 addappid(1022310)
-addappid(1022311,0,"a86e5fa13916762d1764abd2dd82c7f21b8627efc9cc6973a2f1fde8b7ece843")
--- setManifestid(1022311,"6105728632745217265")
+addappid(1022311, 1, "a86e5fa13916762d1764abd2dd82c7f21b8627efc9cc6973a2f1fde8b7ece843")

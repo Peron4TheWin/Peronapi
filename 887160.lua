@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Sunny Day 晴天
 addappid(887160)
-addappid(887161,0,"9a1d2fd5c0da80f486875952465781d4e1a1aa354f9ad09c348450d2d72eb185")
--- setManifestid(887161,"7565427711251380141")
+addappid(887161, 1, "9a1d2fd5c0da80f486875952465781d4e1a1aa354f9ad09c348450d2d72eb185")

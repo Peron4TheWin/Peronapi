@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [SUBJECT]
 addappid(2252070)
-addappid(2252071,0,"d2fd2eb3727e7459b00e6f73963b4c4b3444f419d3e3a84ffe1c19897177efa7")
+addappid(2252071, 1, "d2fd2eb3727e7459b00e6f73963b4c4b3444f419d3e3a84ffe1c19897177efa7")

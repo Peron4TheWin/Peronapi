@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hanapon Princess
 addappid(1362980)
-addappid(1362981,0,"bd52af0d15e7a1bc388520891639c6e0f8f8a03350776f8bc95d83912c48e264")
--- setManifestid(1362981,"7213248975752256142")
+addappid(1362981, 1, "bd52af0d15e7a1bc388520891639c6e0f8f8a03350776f8bc95d83912c48e264")
+addappid(1363910)

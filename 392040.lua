@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: War Blade
 addappid(392040)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(392041,0,"606caa3c4dd52f52d6315d13e6ece6bb656c26ef1b38b30fa06e57987db7773c")
--- setManifestid(392041,"2759535924541938596")
+addappid(392041, 1, "606caa3c4dd52f52d6315d13e6ece6bb656c26ef1b38b30fa06e57987db7773c")
 addappid(1015590)

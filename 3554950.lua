@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 谜境·AI剧本杀互动剧场
 addappid(3554950)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(3554951,0,"91d445c19c2010baeb3047aefb28214c6b62748f0e9740f513b95ddbb55c12cf")
--- setManifestid(3554951,"7780712066198577235")
+addappid(3554951, 1, "91d445c19c2010baeb3047aefb28214c6b62748f0e9740f513b95ddbb55c12cf")

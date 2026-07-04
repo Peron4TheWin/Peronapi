@@ -1,20 +1,4 @@
--- 24830's Lua and Manifest Created by Morrenus
--- Godfather 2
--- Created: October 01, 2025 at 18:07:43 EDT
--- Website: https://manifest.morrenus.xyz/
--- Total Depots: 5
--- Total DLCs: 0
-
--- MAIN APPLICATION
-addappid(24830) -- Godfather 2
--- MAIN APP DEPOTS
-addappid(24831, 1, "372b0e03c877c6b41a30b59efa111b3d71f907ae3d0d1b13ceddab55f833271c") -- godfather 2 content
--- setManifestid(24831, "1667126148023322059", 8395847431)
-addappid(24832, 1, "4b4a754d1a42c00c298d53e97216255f8bf483984d12aff74314b5d6f8cc3a53") -- Godfather 2 French
--- setManifestid(24832, "994338303023666667", 6632533981)
-addappid(24833, 1, "e60eb1b115b1b41db16fcd425c95181b826d9466638a65c8c37cec6f2a4cd419") -- Godfather 2 German
--- setManifestid(24833, "3213367695191143066", 6632753697)
-addappid(24834, 1, "810c030867f4026aaea4c3aeffd06c103663e4f346016713067d8700b4da0971") -- Godfather 2 Italian
--- setManifestid(24834, "2385182819521791463", 6647700024)
-addappid(24835, 1, "fdb936425bbebc43aa8a710f2bccf7397f1f2c39aa418e2431bf01c719f3d6f7") -- Godfather 2 Spanish
--- setManifestid(24835, "1190738926504262359", 6115350320)
+-- Lua provided by SkyAPI 
+-- Game: The Godfather 2
+addappid(24830)
+addappid(24831, 1, "372b0e03c877c6b41a30b59efa111b3d71f907ae3d0d1b13ceddab55f833271c")

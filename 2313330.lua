@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TerraTech Worlds
 addappid(2313330)
-addappid(2313331,0,"8ee1a4fafbd70d88f090b0ea5334848b76fc0833f64012b442b92183465bddc1")
+addappid(2313331, 1, "8ee1a4fafbd70d88f090b0ea5334848b76fc0833f64012b442b92183465bddc1")

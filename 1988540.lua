@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Zachtronics Solitaire Collection
 addappid(1988540)
-addappid(229004)
-addappid(1988541,0,"466a6944303468eef1960dfe21a1ca8d2aed4821594a449d65d69859dad252a4")
+addappid(1988541, 1, "466a6944303468eef1960dfe21a1ca8d2aed4821594a449d65d69859dad252a4")

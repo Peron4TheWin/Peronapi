@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Few Days With : Olivia
 addappid(3620830)
-addappid(3620831,0,"1f663ee95a6b131742737d1abb355bf44971eb5d4ed2b6b7edbd7ddfa74b89db")
--- setManifestid(3620831,"629559973298007843")
+addappid(3620831, 1, "1f663ee95a6b131742737d1abb355bf44971eb5d4ed2b6b7edbd7ddfa74b89db")

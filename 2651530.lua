@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Travel through the adult game and build a harem
 addappid(2651530)
-addappid(2651531,0,"d7596ff5ad3ce043041d79adabb84af953eaed760e20e205f14ed2bc3f95dd4d")
+addappid(2651531, 1, "d7596ff5ad3ce043041d79adabb84af953eaed760e20e205f14ed2bc3f95dd4d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Siren Head Horror Bunker VR
 addappid(1699880)
-addappid(1699881,0,"39a0ea57abd47a1762efe70de995b631bfed8f17e7d7e0157e1419528bf4daec")
--- setManifestid(1699881,"3111772257419374134")
+addappid(1699881, 1, "39a0ea57abd47a1762efe70de995b631bfed8f17e7d7e0157e1419528bf4daec")

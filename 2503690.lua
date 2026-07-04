@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Selene's Unbearable Night
 addappid(2503690)
-addappid(2503691,0,"9061ff7efd280d81ed079f63f2c25b9524722bde16a69107dcee2af770550431")
+addappid(2503691, 1, "9061ff7efd280d81ed079f63f2c25b9524722bde16a69107dcee2af770550431")

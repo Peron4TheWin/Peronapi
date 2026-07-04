@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cherry Tree High Comedy Club
 addappid(214610)
-addappid(214611,0,"0e5b6b44b4556099602b19daac2fef30f5734bbfa2b6455703d405254d84653f")
--- setManifestid(214611,"6829272465036260522")
+addappid(214611, 1, "0e5b6b44b4556099602b19daac2fef30f5734bbfa2b6455703d405254d84653f")

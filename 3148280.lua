@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Voxel Project VR Demo
 addappid(3148280)
-addappid(3148281,0,"549621e176c196b0ce5d800529e2a44a903103919e9d1926474c996eaf4d60ba")
+addappid(3148281, 1, "549621e176c196b0ce5d800529e2a44a903103919e9d1926474c996eaf4d60ba")

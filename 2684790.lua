@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: William and Sly: Classic Collection
 addappid(2684790)
-addappid(2684791,0,"debf4426d3cbdad10a19b42f25c4151f3c67a8d6a4b91c150f3027f052e2aee0")
--- setManifestid(2684791,"5930464823619312924")
+addappid(2684791, 1, "debf4426d3cbdad10a19b42f25c4151f3c67a8d6a4b91c150f3027f052e2aee0")

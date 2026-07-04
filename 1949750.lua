@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slime Corp
 addappid(1949750)
-addappid(1949751,0,"cbfa11a750ba59751b2e97babf9ee104165923a3c1cd919cdf303331f11743d1")
--- setManifestid(1949751,"6788338992894200303")
+addappid(1949751, 1, "cbfa11a750ba59751b2e97babf9ee104165923a3c1cd919cdf303331f11743d1")

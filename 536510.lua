@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hacker Series
 addappid(536510)
-addappid(536511,0,"5481827476942e9a4bfbe24f7ca8e5d780a590ba504b81d9f621e6245e723091")
--- setManifestid(536511,"2213396455803965644")
+addappid(536511, 1, "5481827476942e9a4bfbe24f7ca8e5d780a590ba504b81d9f621e6245e723091")

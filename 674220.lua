@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ClickBit
 addappid(674220)
-addappid(674221,0,"c23db60d27b3134ef176c8664e4f85d6deb8e5e8661419b2a85d007e5815fa6b")
--- setManifestid(674221,"925012688664529669")
+addappid(674221, 1, "c23db60d27b3134ef176c8664e4f85d6deb8e5e8661419b2a85d007e5815fa6b")

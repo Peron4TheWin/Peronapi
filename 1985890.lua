@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mark's Magnificent Marble Maze Demo
 addappid(1985890)
-addappid(1985891,0,"c52c93d1e85bdc3e974b800ca6ad0694633e0c577e4ce4b495e9c90a93d40e3b")
--- setManifestid(1985891,"5778529536265622332")
+addappid(1985891, 1, "c52c93d1e85bdc3e974b800ca6ad0694633e0c577e4ce4b495e9c90a93d40e3b")

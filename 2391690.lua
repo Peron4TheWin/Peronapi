@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blue Maiden
 addappid(2391690)
-addappid(2391691,0,"019a391dea7436cb32c65a2f1c0cbb97ac68c2193e6dab5a8bbee4f06b3b9c93")
--- setManifestid(2391691,"1375786102432480694")
+addappid(2391691, 1, "019a391dea7436cb32c65a2f1c0cbb97ac68c2193e6dab5a8bbee4f06b3b9c93")

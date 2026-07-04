@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Soraight Fantasy: Magic to reach the sky
 addappid(3668950)
-addappid(3668951,0,"370a35af35da3449564731e00680741ea0e7be1ddee63bec249eaa4cb0350fed")
--- setManifestid(3668951,"1069190317474028459")
+addappid(3668951, 1, "370a35af35da3449564731e00680741ea0e7be1ddee63bec249eaa4cb0350fed")

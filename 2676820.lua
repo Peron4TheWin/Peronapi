@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 无畏舰队：炮火战争（Noah City:Rise of the conqueror）
 addappid(2676820)
-addappid(2676821,0,"30f551d706de129d7d3fed397df163e90cc7bc6111dc9459740520b51bd21333")
--- setManifestid(2676821,"7899648801116175321")
+addappid(2676821, 1, "30f551d706de129d7d3fed397df163e90cc7bc6111dc9459740520b51bd21333")

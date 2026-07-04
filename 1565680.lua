@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Dark Prophecy
 addappid(1565680)
-addappid(1565681,0,"bbec0b2f96b56e568388a23687fc59c5d3f0d60f7c54e892516aeae5ded0859b")
--- setManifestid(1565681,"1040487311915368390")
+addappid(1565681, 1, "bbec0b2f96b56e568388a23687fc59c5d3f0d60f7c54e892516aeae5ded0859b")

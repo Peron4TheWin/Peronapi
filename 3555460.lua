@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KILL ALL ENEMIES
 addappid(3555460)
-addappid(3555461,0,"fb706482e49dc1d85f63a189c05bab2c47e1351ca61db3982f76be9af4bc3262")
--- setManifestid(3555461,"8498344871093193686")
+addappid(3555461, 1, "fb706482e49dc1d85f63a189c05bab2c47e1351ca61db3982f76be9af4bc3262")

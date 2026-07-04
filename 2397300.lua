@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Half Sword
+addappid(2397300)
+addappid(2397301, 1, "0d49aa268c5fc78babcfe220c4828bd7bbc422ae09419958a82240f57b82e161")
+addappid(4355970)

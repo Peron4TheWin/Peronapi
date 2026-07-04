@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Outbreak Island: Pendulum
 addappid(1804630)
-addappid(228985)
-addappid(1804631,0,"3b7c9ab3bc61e2300b26277a917a7aaf1d4b79abaa141b0253bb8c6152815fc2")
+addappid(1804631, 1, "3b7c9ab3bc61e2300b26277a917a7aaf1d4b79abaa141b0253bb8c6152815fc2")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Lord of Time
 addappid(2837420)
-addappid(2837421,0,"e4465e14ca92cd860b9c4e2fb795a4523f4943a9fb7307171cb5e319f70d4fd1")
--- setManifestid(2837421,"3446534059883050517")
+addappid(2837421, 1, "e4465e14ca92cd860b9c4e2fb795a4523f4943a9fb7307171cb5e319f70d4fd1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Homesick
 addappid(244910)
-addappid(244911,0,"eec32488082e117ad5e667d8d9de59bd6b77a5fadfb2799b26b2e34f597ba71f")
--- setManifestid(244911,"4991652894144370495")
+addappid(244911, 1, "eec32488082e117ad5e667d8d9de59bd6b77a5fadfb2799b26b2e34f597ba71f")

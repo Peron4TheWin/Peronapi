@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fireside Demo
 addappid(2544970)
-addappid(2544971,0,"cd8868b92ace2a372b5447b8cedf560492415043e4379162121bc23a30a1c4ca")
--- setManifestid(2544971,"6334973738230529745")
+addappid(2544971, 1, "cd8868b92ace2a372b5447b8cedf560492415043e4379162121bc23a30a1c4ca")

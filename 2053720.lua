@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mad Chess Demo
 addappid(2053720)
-addappid(2053721,0,"b1626ea3089a97dfff588f6e6fbf8525ac2ac8f498aa92b71b635b16fcbb7d2c")
+addappid(2053721, 1, "b1626ea3089a97dfff588f6e6fbf8525ac2ac8f498aa92b71b635b16fcbb7d2c")

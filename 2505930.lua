@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sanfu Original Soundtrack
 addappid(2505930)
-addappid(2505931,0,"f12cf64ee28c15e877dd2a025a8d6db7c7a4168d11b240e603253b852716d836")
--- setManifestid(2505931,"617785593219348489")
+addappid(2505931, 1, "f12cf64ee28c15e877dd2a025a8d6db7c7a4168d11b240e603253b852716d836")

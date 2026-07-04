@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Slaves
 addappid(1963060)
-addappid(1963061,0,"d76929b4d956d6bfefe769a2104e894302d9fac66f3729458d158a08d5a9e682")
--- setManifestid(1963061,"1666490567911286187")
+addappid(1963061, 1, "d76929b4d956d6bfefe769a2104e894302d9fac66f3729458d158a08d5a9e682")
+addappid(2325300)

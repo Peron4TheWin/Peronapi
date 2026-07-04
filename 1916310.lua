@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Remnant Records
 addappid(1916310)
-addappid(1916311,0,"c15fc1641b06961cce20b338388106482b2b58047fc4a139aa1c75fe574ef8f6")
--- setManifestid(1916311,"8744313946652014377")
+addappid(1916311, 1, "c15fc1641b06961cce20b338388106482b2b58047fc4a139aa1c75fe574ef8f6")
+addappid(2781130)

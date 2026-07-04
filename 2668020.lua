@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neon Fantasy: Monkeys
 addappid(2668020)
-addappid(2668021,0,"5c2461f70dd4cdbec2661856c145ca75915f372420f7f481bc5b7050039f6e83")
--- setManifestid(2668021,"5497062731159122076")
+addappid(2668021, 1, "5c2461f70dd4cdbec2661856c145ca75915f372420f7f481bc5b7050039f6e83")

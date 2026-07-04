@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forbidden Love With The Ghost Girl
 addappid(1180270)
-addappid(1180271,0,"3beebabce92453b4ba6f85734942f06a46e058618c06ff8b780b6a7a3edf608d")
--- setManifestid(1180271,"7641245835659986526")
+addappid(1180271, 1, "3beebabce92453b4ba6f85734942f06a46e058618c06ff8b780b6a7a3edf608d")

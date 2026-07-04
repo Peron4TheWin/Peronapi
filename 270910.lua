@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Worms World Party Remastered
+addappid(270910)
+addappid(270911, 1, "3a6633a50c27189b4f67c403ff3cb40282e0b9a68a1e0fe1c3fccc20825c1794")
+addappid(358901)

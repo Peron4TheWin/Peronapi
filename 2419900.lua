@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Apartament 1406: Horror
 addappid(2419900)
-addappid(2419901,0,"7667ffd9199ad04808ecd8e9afab6bea69a2a7099b6db7974a5544555bc9b76a")
--- setManifestid(2419901,"6945246139070977164")
+addappid(2419901, 1, "7667ffd9199ad04808ecd8e9afab6bea69a2a7099b6db7974a5544555bc9b76a")

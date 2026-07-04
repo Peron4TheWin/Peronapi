@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Demolition race
 addappid(1784550)
-addappid(1784551,0,"a781f588e96e3f797d127e4a8fb09776b6ff81958e8fad97c105b6795b4d222a")
+addappid(1784551, 1, "a781f588e96e3f797d127e4a8fb09776b6ff81958e8fad97c105b6795b4d222a")

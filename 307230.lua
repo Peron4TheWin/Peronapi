@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I, Zombie
 addappid(307230)
-addappid(307231,0,"7e13cc1d91060dfd4368b5fd087c88ef9c27c6afe71954082b3d23525655c1df")
--- setManifestid(307231,"9152868931242325615")
+addappid(307231, 1, "7e13cc1d91060dfd4368b5fd087c88ef9c27c6afe71954082b3d23525655c1df")

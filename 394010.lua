@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Contact
 addappid(394010)
-addappid(394011,0,"7bcf1ec9ae9ff40e77e616bfb5d51609a0ee48f621fcc242d1ce603b18c790a9")
--- setManifestid(394011,"6781043359896173867")
+addappid(394011, 1, "7bcf1ec9ae9ff40e77e616bfb5d51609a0ee48f621fcc242d1ce603b18c790a9")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elypse
 addappid(1725340)
-addappid(1725341,0,"c792127aad5a59e6541bb7b614aa8191ea647b412fa4dcb59e0a60e9ef211dfb")
--- setManifestid(1725341,"8519130120729472117")
+addappid(1725341, 1, "c792127aad5a59e6541bb7b614aa8191ea647b412fa4dcb59e0a60e9ef211dfb")

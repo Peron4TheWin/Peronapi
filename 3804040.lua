@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Iron Ranger
 addappid(3804040)
-addappid(3804041,0,"ec8c446395e78e9e428a4f3b4e7efe84b7914f743709f3efd2f2a11beb2fe460")
--- setManifestid(3804041,"3645263258735060491")
+addappid(3804041, 1, "ec8c446395e78e9e428a4f3b4e7efe84b7914f743709f3efd2f2a11beb2fe460")

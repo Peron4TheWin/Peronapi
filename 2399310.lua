@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lhama Clicker Prologue
 addappid(2399310)
-addappid(2399311,0,"b07ef37539ed41a92373210099806a993d152b5981bb4186ce16437c597cbadf")
--- setManifestid(2399311,"3708654097026597868")
+addappid(2399311, 1, "b07ef37539ed41a92373210099806a993d152b5981bb4186ce16437c597cbadf")

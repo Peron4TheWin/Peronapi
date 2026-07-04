@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game of seduction
 addappid(1925060)
-addappid(1925061,0,"5f63de0d852c03df13a34b95d04297a412dd9aa51c22fc0ac49227aa70231e8f")
--- setManifestid(1925061,"1741904297400477296")
+addappid(1925061, 1, "5f63de0d852c03df13a34b95d04297a412dd9aa51c22fc0ac49227aa70231e8f")

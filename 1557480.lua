@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project MIKHAIL: A Muv-Luv War Story
 addappid(1557480)
--- setManifestid(228988,"6645201662696499616")
-addappid(1557481,0,"1f206f59bb6c792bf66934e1e3809d847f6a31def89adc4d208e0f53ac830164")
--- setManifestid(1557481,"4713694777893444952")
+addappid(1557481, 1, "1f206f59bb6c792bf66934e1e3809d847f6a31def89adc4d208e0f53ac830164")

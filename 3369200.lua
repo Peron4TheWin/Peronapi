@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KABUKI FIRE
 addappid(3369200)
-addappid(3369201,0,"89f8a7eb2a2cd5df29e37a63ecc9b234bf25e9d4dd4afb5d1889fcd8915fc821")
--- setManifestid(3369201,"6399388810071390929")
+addappid(3369201, 1, "89f8a7eb2a2cd5df29e37a63ecc9b234bf25e9d4dd4afb5d1889fcd8915fc821")

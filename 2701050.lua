@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Risk of Pain
 addappid(2701050)
-addappid(2701051,0,"7864edb8b6458432c3bb6fe80aa4946ce59e97646174c2fc8db6c2494bd53056")
--- setManifestid(2701051,"6103538743169365329")
+addappid(2701051, 1, "7864edb8b6458432c3bb6fe80aa4946ce59e97646174c2fc8db6c2494bd53056")

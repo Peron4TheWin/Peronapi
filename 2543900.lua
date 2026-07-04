@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gynocracy Demo
 addappid(2543900)
-addappid(2543901,0,"9cdf0a0e5e13e4417388c281a4a5f72b646a387ca4b590c986be2d3230331869")
--- setManifestid(2543901,"4113415019418530632")
+addappid(2543901, 1, "9cdf0a0e5e13e4417388c281a4a5f72b646a387ca4b590c986be2d3230331869")

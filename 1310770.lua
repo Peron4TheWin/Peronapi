@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Valiantia
 addappid(1310770)
-addappid(1310771,0,"7554dd2ec7719f728456c04e558d95c53d5f15a719f6fd813ecf45f73056e59e")
--- setManifestid(1310771,"6484181493264389105")
+addappid(1310771, 1, "7554dd2ec7719f728456c04e558d95c53d5f15a719f6fd813ecf45f73056e59e")

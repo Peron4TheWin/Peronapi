@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MLB 9 Innings Rivals 26
 addappid(2569510)
--- setManifestid(228989,"3514306556860204959")
-addappid(2569511,0,"aa9bad623f3f5f60cb0ead0ba890e9a51401a5a285ef007171dba86d9e0930e0")
--- setManifestid(2569511,"6918132831751871953")
+addappid(2569511, 1, "aa9bad623f3f5f60cb0ead0ba890e9a51401a5a285ef007171dba86d9e0930e0")

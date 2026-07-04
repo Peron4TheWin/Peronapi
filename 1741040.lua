@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Devil
 addappid(1741040)
-addappid(1741041,0,"42ecf885d603358a87e3e2d1c021c5e7f2801d41f0adb0e5949317a30d134cdc")
--- setManifestid(1741041,"5872029090900533678")
+addappid(1741041, 1, "42ecf885d603358a87e3e2d1c021c5e7f2801d41f0adb0e5949317a30d134cdc")

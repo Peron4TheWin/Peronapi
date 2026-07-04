@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sid Classic
 addappid(1426530)
-addappid(1426531,0,"66349c94199e45b528e1248deff97deb3cbe2f2f9e570d081502fd45abf9f805")
--- setManifestid(1426531,"5380446200289469745")
+addappid(1426531, 1, "66349c94199e45b528e1248deff97deb3cbe2f2f9e570d081502fd45abf9f805")

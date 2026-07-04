@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NejicomiSimulator TMA02
 addappid(2432040)
-addappid(2432041,0,"6fd5fe18b06aeec912f746e80798a55e62d86ff4cc32966de2d85b47aebfd5a4")
--- setManifestid(2432041,"2385198634890780004")
+addappid(2432041, 1, "6fd5fe18b06aeec912f746e80798a55e62d86ff4cc32966de2d85b47aebfd5a4")

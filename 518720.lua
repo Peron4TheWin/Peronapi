@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Overkill VR: Action Shooter FPS
 addappid(518720)
-addappid(518721,0,"a77b55836aaa6c660cd2a6944905ef056e12c8bd2c58ac5bff209d6e09835e5f")
--- setManifestid(518721,"8059038283380490751")
+addappid(518721, 1, "a77b55836aaa6c660cd2a6944905ef056e12c8bd2c58ac5bff209d6e09835e5f")

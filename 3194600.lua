@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disaster Blaster
 addappid(3194600)
-addappid(3194601,0,"c8995a94b1cb373fe94551baae8e4d53c77dc78e1ad7535c6c63ff62d1583c4e")
--- setManifestid(3194601,"7419254331747334127")
+addappid(3194601, 1, "c8995a94b1cb373fe94551baae8e4d53c77dc78e1ad7535c6c63ff62d1583c4e")

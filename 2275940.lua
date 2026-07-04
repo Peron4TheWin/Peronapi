@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Hex
 addappid(2275940)
-addappid(2275941,0,"493a9b9bd149fbff512d290f8730b75c9821ea5e71fdb8022926b4a6456ac8ad")
--- setManifestid(2275941,"6746698047757298824")
+addappid(2275941, 1, "493a9b9bd149fbff512d290f8730b75c9821ea5e71fdb8022926b4a6456ac8ad")
+addappid(3405240)

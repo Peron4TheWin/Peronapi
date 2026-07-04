@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World of Football
 addappid(946880)
-addappid(946881,0,"57b03399bb7821a7195790673debd6d024c66c3466d4a245e7f3932b5499bbf1")
--- setManifestid(946881,"689683266970435401")
+addappid(946881, 1, "57b03399bb7821a7195790673debd6d024c66c3466d4a245e7f3932b5499bbf1")

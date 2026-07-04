@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: DORAEMON STORY OF SEASONS: Friends of the Great Kingdom Digital Soundtrack
 addappid(2064440)
-addappid(2064441,0,"25d9e3b93c490e10c0e0db47a5b9098975a5076137d56149a1990640685cfa67")
--- setManifestid(2064441,"1637573502900060986")
+addappid(2064441, 1, "25d9e3b93c490e10c0e0db47a5b9098975a5076137d56149a1990640685cfa67")

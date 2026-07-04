@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghostdream
 addappid(545800)
-addappid(545801,0,"3753eba250ad4d0a7d4d69f18dd37bbe34e5b379fa9628e6985a6ec73cc3e9e4")
+addappid(545801, 1, "3753eba250ad4d0a7d4d69f18dd37bbe34e5b379fa9628e6985a6ec73cc3e9e4")

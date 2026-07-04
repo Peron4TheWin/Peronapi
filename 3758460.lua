@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultra-Ultra Doggy Trainer!!
 addappid(3758460)
-addappid(3758461,0,"69039d01a6fcce1e7ffed11ba2462fc41ef6332b994d89051312e199a5a4f411")
--- setManifestid(3758461,"9105962952364500223")
+addappid(3758461, 1, "69039d01a6fcce1e7ffed11ba2462fc41ef6332b994d89051312e199a5a4f411")

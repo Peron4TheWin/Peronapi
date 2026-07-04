@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirit of the Ancient Forest
 addappid(657230)
-addappid(657231,0,"ba642932ad6cc34eba947f7238cc2d5edc22c5a00e34d26b44b864dcaf2a1e55")
--- setManifestid(657231,"4907970015306900740")
+addappid(657231, 1, "ba642932ad6cc34eba947f7238cc2d5edc22c5a00e34d26b44b864dcaf2a1e55")

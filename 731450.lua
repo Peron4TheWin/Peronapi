@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DROP VR - AUDIO VISUALIZER
 addappid(731450)
-addappid(731451,0,"c3318c8a88d04bc124328799c1ae9198222b87cd6dcac095bf945bf46f02b458")
--- setManifestid(731451,"6094124474102731820")
+addappid(731451, 1, "c3318c8a88d04bc124328799c1ae9198222b87cd6dcac095bf945bf46f02b458")

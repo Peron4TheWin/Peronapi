@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The King of Cats
 addappid(2265680)
-addappid(2265681,0,"bf7b8c619c0cb057e08d2ef75ea90d1223a81e49df0a52a3737dc3fabda622d8")
--- setManifestid(2265681,"7731545153816839609")
+addappid(2265681, 1, "bf7b8c619c0cb057e08d2ef75ea90d1223a81e49df0a52a3737dc3fabda622d8")

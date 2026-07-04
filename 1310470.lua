@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tankfight
 addappid(1310470)
-addappid(1310471,0,"d1e62e22f86f1df8bb1f9061a61b4e4df0920a4bb67b1df7fdd5e768039faec4")
--- setManifestid(1310471,"4967026325648897192")
+addappid(1310471, 1, "d1e62e22f86f1df8bb1f9061a61b4e4df0920a4bb67b1df7fdd5e768039faec4")

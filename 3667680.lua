@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Obelisk Foundry
 addappid(3667680)
-addappid(3667681,0,"f20e49f8cab7469c10875b19dcd90559476cef20f45335e0b7ad7990c07f9e6f")
--- setManifestid(3667681,"8928053308563603222")
+addappid(3667681, 1, "f20e49f8cab7469c10875b19dcd90559476cef20f45335e0b7ad7990c07f9e6f")

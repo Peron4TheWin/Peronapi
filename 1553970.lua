@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gold  Challenge
 addappid(1553970)
-addappid(1553971,0,"09892d7e5861ca927f1ed21e0eccab47585c3a46c79c6643e3d4fe0a86386511")
--- setManifestid(1553971,"6228055954207976938")
+addappid(1553971, 1, "09892d7e5861ca927f1ed21e0eccab47585c3a46c79c6643e3d4fe0a86386511")

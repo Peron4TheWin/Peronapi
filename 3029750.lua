@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TurretGirls
 addappid(3029750)
-addappid(3029751,0,"b76848db0a9f3e0fff7d765cea6cd9e9da56cbdc25976761cb088e49d7eb0d4f")
--- setManifestid(3029751,"5788365193867605899")
+addappid(3029751, 1, "b76848db0a9f3e0fff7d765cea6cd9e9da56cbdc25976761cb088e49d7eb0d4f")

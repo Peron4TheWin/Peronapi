@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Codex Lost
 addappid(2284600)
-addappid(2284601,0,"85dff7b13ebc63b03b4e17d8db02b07fd42e4253e46a96e72808dfad9a22a0e6")
--- setManifestid(2284601,"8102847566249047764")
+addappid(2284601, 1, "85dff7b13ebc63b03b4e17d8db02b07fd42e4253e46a96e72808dfad9a22a0e6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Football, Tactics & Glory
 addappid(375530)
-addappid(375531,0,"531ccfe7bb71efdd67df507ba75737ccd4b93307333854b86f6d4274b354b24a")
--- setManifestid(375531,"5939294963645722862")
+addappid(375531, 1, "531ccfe7bb71efdd67df507ba75737ccd4b93307333854b86f6d4274b354b24a")

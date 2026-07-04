@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Series of Temporal Mishaps
 addappid(1905700)
-addappid(1905701,0,"cb70608db9de97ec975728e575e79d731a5608fb8759edc4aacbc95b1582b122")
--- setManifestid(1905701,"731621368321334820")
+addappid(1905701, 1, "cb70608db9de97ec975728e575e79d731a5608fb8759edc4aacbc95b1582b122")

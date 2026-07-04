@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CEO
 addappid(1892620)
-addappid(1892621,0,"54426f43e845d89664f0635a9dc2e81d9d52d637fd0965ea3d3ccab61096e5f8")
--- setManifestid(1892621,"6859523109821437527")
+addappid(1892621, 1, "54426f43e845d89664f0635a9dc2e81d9d52d637fd0965ea3d3ccab61096e5f8")

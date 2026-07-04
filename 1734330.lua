@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: POWERTRIP
 addappid(1734330)
-addappid(1734331,0,"d08b8902525b7ba42f85928bda87758351070f2319b22d3bf02bc1811d1cfaf2")
--- setManifestid(1734331,"8992340627573345022")
+addappid(1734331, 1, "d08b8902525b7ba42f85928bda87758351070f2319b22d3bf02bc1811d1cfaf2")

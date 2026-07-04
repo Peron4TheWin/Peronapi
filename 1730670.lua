@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Day in the Park
 addappid(1730670)
-addappid(1730671,0,"5c78b064ffb2d52e42042dce4a3b1a37c64dc3aff8be49fc21901d0a21cdd97f")
--- setManifestid(1730671,"4147388257838540337")
+addappid(1730671, 1, "5c78b064ffb2d52e42042dce4a3b1a37c64dc3aff8be49fc21901d0a21cdd97f")

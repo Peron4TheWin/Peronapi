@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Furry Futanari Jigsaw
 addappid(1909320)
-addappid(1909321,0,"2be4e8f03de51f15692b25c6c3184923de87020bc90eac0c18bc0392800cb66e")
--- setManifestid(1909321,"1164588659688956095")
+addappid(1909321, 1, "2be4e8f03de51f15692b25c6c3184923de87020bc90eac0c18bc0392800cb66e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ForeVR Cornhole VR
 addappid(2417310)
-addappid(2417311,0,"e62c0932c67fad397a24ffbb1f26af948297683780f0e638437af5a313ac0805")
--- setManifestid(2417311,"7985843630725749548")
+addappid(2417311, 1, "e62c0932c67fad397a24ffbb1f26af948297683780f0e638437af5a313ac0805")

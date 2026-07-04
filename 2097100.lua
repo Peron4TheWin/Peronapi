@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jylko: Through The Song
 addappid(2097100)
-addappid(2097101,0,"82c4e390c3d5853e7cd6e5fb0f2c239ccb3ad40f49ec1c6bf6e9b118baf80b3e")
--- setManifestid(2097101,"3973888257758604693")
+addappid(2097101, 1, "82c4e390c3d5853e7cd6e5fb0f2c239ccb3ad40f49ec1c6bf6e9b118baf80b3e")

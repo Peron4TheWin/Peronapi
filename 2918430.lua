@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Kinetic Anatomy 3D
 addappid(2918430)
-addappid(2918431,0,"3fcbdd6982acd4ffb56a0778e25ff4609ce1cd95098e758d71eb35ddfd1bcfc0")
--- setManifestid(2918431,"2358285062967758727")
+addappid(2918431, 1, "3fcbdd6982acd4ffb56a0778e25ff4609ce1cd95098e758d71eb35ddfd1bcfc0")
+addappid(3164630)

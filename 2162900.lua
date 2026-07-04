@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Antrabhara
 addappid(2162900)
-addappid(2162901,0,"0877a46aaa6373c422e4132f85f94e083cc16797e9f59ef8aa301a132d9a39da")
--- setManifestid(2162901,"1303426926188759698")
+addappid(2162901, 1, "0877a46aaa6373c422e4132f85f94e083cc16797e9f59ef8aa301a132d9a39da")

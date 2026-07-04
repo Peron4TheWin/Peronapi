@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Syn-Chorus 01: The New Life
 addappid(2730530)
-addappid(2730531,0,"9b15757dca69a84c6e9b59b81bb72bb691693e11dfb633537772b33eab89a6ae")
--- setManifestid(2730531,"2316010701327599583")
+addappid(2730531, 1, "9b15757dca69a84c6e9b59b81bb72bb691693e11dfb633537772b33eab89a6ae")

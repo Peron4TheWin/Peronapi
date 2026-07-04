@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vector Bias Playtest
 addappid(2927750)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2927751,0,"5992aa677de63632774dc6c1cd6b5b5f580371d49b414c18f9a4442a6a294c5e")
+addappid(2927751, 1, "5992aa677de63632774dc6c1cd6b5b5f580371d49b414c18f9a4442a6a294c5e")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trans-Siberian Railway Simulator Demo
 addappid(2528150)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2528151,0,"7dfdfa736dbe68c2b2ae632fa103442dc56ac4f37c3319cea98bfbc466a53633")
+addappid(2528151, 1, "7dfdfa736dbe68c2b2ae632fa103442dc56ac4f37c3319cea98bfbc466a53633")

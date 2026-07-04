@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 铭日记 重书 / Mikoto Remake
 addappid(2191620)
-addappid(2191621,0,"6b422e1f8b4c0bf8f65e0f08d56140707823da1f68a48b0e28f19eeb9c380d6c")
--- setManifestid(2191621,"7995317714945349253")
+addappid(2191621, 1, "6b422e1f8b4c0bf8f65e0f08d56140707823da1f68a48b0e28f19eeb9c380d6c")

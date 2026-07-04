@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alice's Mom's Rescue
+addappid(399260)
+addappid(399261, 1, "d19a76f0d4311838616af9529f86a0ef0264984ff4df13d6ca3cfb288481b0a6")

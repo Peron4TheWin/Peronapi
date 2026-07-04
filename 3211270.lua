@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trizon Playtest
 addappid(3211270)
-addappid(3211271,0,"d37b5077c032d7fcb08bfb8e256a5a3556ac66d29cc549b38c4efa9c9fead639")
--- setManifestid(3211271,"4519066662464327165")
+addappid(3211271, 1, "d37b5077c032d7fcb08bfb8e256a5a3556ac66d29cc549b38c4efa9c9fead639")

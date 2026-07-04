@@ -1,5 +1,4 @@
-
-addappid(390970) -- Russian Horror Story
-addtoken(390970, "2048429940861331930")
-addappid(390971, 1, "5a5f238410d4b652ae675a41158da130dac6b0f0055edb9178068bac2fbb534f") -- Depot 390971
--- setManifestid(390971, "7822758908286228024", 67340976)
+-- Lua provided by SkyAPI 
+-- Game: AppID 390970
+addappid(390970)
+addappid(390971, 1, "5a5f238410d4b652ae675a41158da130dac6b0f0055edb9178068bac2fbb534f")

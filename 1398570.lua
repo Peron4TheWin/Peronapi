@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Escape
 addappid(1398570)
-addappid(1398571,0,"4538ee9eceae821c37f6d743cfcabdf917b720738556b7644fbb0efbd615e96d")
--- setManifestid(1398571,"2549391804390764950")
+addappid(1398571, 1, "4538ee9eceae821c37f6d743cfcabdf917b720738556b7644fbb0efbd615e96d")

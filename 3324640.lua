@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Grave Keeper
 addappid(3324640)
-addappid(3324641,0,"369288bc5210b91f84124d543f9a07d5873e64b868ff0e05eb6f260d1be36013")
--- setManifestid(3324641,"6806199942002458037")
+addappid(3324641, 1, "369288bc5210b91f84124d543f9a07d5873e64b868ff0e05eb6f260d1be36013")

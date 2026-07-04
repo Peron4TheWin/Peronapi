@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Clair Obscur: Expedition 33
 addappid(1903340)
-addappid(1903341,0,"8593f9c4cd595f833d5344e55cd6c6fdb73d9a4fa05dab033ba71622265e8c82")
--- setManifestid(1903341,"1338324010941565591")
+addappid(1903341, 1, "8593f9c4cd595f833d5344e55cd6c6fdb73d9a4fa05dab033ba71622265e8c82")
+addappid(3228520)

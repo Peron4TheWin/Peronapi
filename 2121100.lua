@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Cabin - Summer Vacation
 addappid(2121100)
-addappid(2121101,0,"9d97606ed5674c3b6298ac7f549a99b762f8615fbf3546ddcd12c72fb74d86a2")
+addappid(2121101, 1, "9d97606ed5674c3b6298ac7f549a99b762f8615fbf3546ddcd12c72fb74d86a2")

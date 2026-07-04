@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nancy Drew®: The White Wolf of Icicle Creek
 addappid(31930)
-addappid(31931,0,"5b4c3c8c3dbf2f30ddc8777d159bb16e6a98ba4d6d7cb0d759cbaa41669c9f72")
--- setManifestid(31931,"5658294328345260841")
+addappid(31931, 1, "5b4c3c8c3dbf2f30ddc8777d159bb16e6a98ba4d6d7cb0d759cbaa41669c9f72")

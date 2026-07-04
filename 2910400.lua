@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elemental Novice
 addappid(2910400)
-addappid(2910401,0,"fbae3ad535f51242f045bfba93ce1332a66665c4d7d847e0f4f5b08b4a50192d")
--- setManifestid(2910401,"405282057100731069")
+addappid(2910401, 1, "fbae3ad535f51242f045bfba93ce1332a66665c4d7d847e0f4f5b08b4a50192d")

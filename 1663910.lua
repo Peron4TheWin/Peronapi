@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiny Gods Of The Nile
 addappid(1663910)
-addappid(1663911,0,"57a43fe5ce0e5e326ff824c9b5470c0be06fde904de6ff9cc5ea103ca77530da")
--- setManifestid(1663911,"483304453103394777")
+addappid(1663911, 1, "57a43fe5ce0e5e326ff824c9b5470c0be06fde904de6ff9cc5ea103ca77530da")

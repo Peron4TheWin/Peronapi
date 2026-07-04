@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Des racines et des graines
 addappid(2428790)
-addappid(2428791,0,"a8cb50ba55a28b6269a9fc093f3991bd899812112a957344e52b52db3d3e3b6a")
--- setManifestid(2428791,"4118995585273870996")
+addappid(2428791, 1, "a8cb50ba55a28b6269a9fc093f3991bd899812112a957344e52b52db3d3e3b6a")

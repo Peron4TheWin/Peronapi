@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silence In The Cabin
 addappid(2240910)
-addappid(2240911,0,"6ecf71aaefabd000eda907b5c8167b0688443061e6d2d0b7ce2cc381bb06c736")
--- setManifestid(2240911,"9174355604975838672")
+addappid(2240911, 1, "6ecf71aaefabd000eda907b5c8167b0688443061e6d2d0b7ce2cc381bb06c736")

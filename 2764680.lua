@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Chamber
 addappid(2764680)
-addappid(2764681,0,"b2a255ff73612d8f17c05d1ce9f0410ef6ea733e01abbb42c9c345a91fe338e8")
--- setManifestid(2764681,"6136610156152759721")
+addappid(2764681, 1, "b2a255ff73612d8f17c05d1ce9f0410ef6ea733e01abbb42c9c345a91fe338e8")
+addappid(2776010)

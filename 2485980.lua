@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hakan's War Manager
 addappid(2485980)
-addappid(2485981,0,"afb60921119c4dff46987486adb6572cad236fd955d22fc0f642c8803bc81581")
--- setManifestid(2485981,"2572715021764221565")
+addappid(2485981, 1, "afb60921119c4dff46987486adb6572cad236fd955d22fc0f642c8803bc81581")

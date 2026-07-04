@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prisoners of Ulag'Bol: A Dungeon Crawling Deckbuilder
 addappid(3402160)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3402161,0,"deb4e761ddfd95d3865e7531295d64797a7c6a37f2ef65b29bf7831926eef158")
--- setManifestid(3402161,"1574036592961015454")
+addappid(3402161, 1, "deb4e761ddfd95d3865e7531295d64797a7c6a37f2ef65b29bf7831926eef158")

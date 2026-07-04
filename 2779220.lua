@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guano
 addappid(2779220)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2779221,0,"2abb4386d2995ebae9aa5eb374ceddd089974c71e7fbbcc1d16f95c24666cf8b")
--- setManifestid(2779221,"8260445313847906101")
+addappid(2779221, 1, "2abb4386d2995ebae9aa5eb374ceddd089974c71e7fbbcc1d16f95c24666cf8b")

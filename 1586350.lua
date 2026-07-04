@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NEOGEO POCKET COLOR SELECTION Vol. 1 Steam Edition
 addappid(1586350)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1586351,0,"342f8f67c2db17486a13076db592c22fcd3194927fd3a1d3650d11adec79bcf3")
--- setManifestid(1586351,"4089452861344638199")
+addappid(1586351, 1, "342f8f67c2db17486a13076db592c22fcd3194927fd3a1d3650d11adec79bcf3")

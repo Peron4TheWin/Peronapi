@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGO® Indiana Jones™: The Original Adventures
 addappid(32330)
-addappid(32331,0,"3f030450b19be8520dd1d7dd2b76b84ccaa0e2bef6df534d098d136e7f5f80cd")
--- setManifestid(32331,"5952564723665979214")
+addappid(32331, 1, "3f030450b19be8520dd1d7dd2b76b84ccaa0e2bef6df534d098d136e7f5f80cd")

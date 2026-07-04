@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Achievement Idler: Black
 addappid(684050)
-addappid(684051,0,"2ec2f7df0694addc324ebbc27e41a28fd74eb5ed2d686363622eb678ae9abb28")
--- setManifestid(684051,"19079279103146400")
+addappid(684051, 1, "2ec2f7df0694addc324ebbc27e41a28fd74eb5ed2d686363622eb678ae9abb28")

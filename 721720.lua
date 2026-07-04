@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Company of Heroes: Battle of Crete
 addappid(721720)
-addappid(721721,0,"3cabc6dda31d34ba454e7b13935d6b9fcbbf746a886a8ee2e8116f094a6f0ef9")
--- setManifestid(721721,"592337658020346992")
+addappid(721721, 1, "3cabc6dda31d34ba454e7b13935d6b9fcbbf746a886a8ee2e8116f094a6f0ef9")

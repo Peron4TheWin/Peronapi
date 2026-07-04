@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Detective Penguin
 addappid(3110260)
-addappid(3110261,0,"b22be8bafa8aad6c67ed9cb49f549246717024ca43bf6677b6365dabd3b0bb8c")
--- setManifestid(3110261,"4699059278631983717")
+addappid(3110261, 1, "b22be8bafa8aad6c67ed9cb49f549246717024ca43bf6677b6365dabd3b0bb8c")

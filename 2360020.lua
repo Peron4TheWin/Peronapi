@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kao the Kangaroo (2000 re-release)
 addappid(2360020)
-addappid(2360021,0,"204c6d1a4d5b6532ca4ac9568a261f85bd9433c134a10d3393aa071f5a646277")
--- setManifestid(2360021,"5256672084933829895")
+addappid(2360021, 1, "204c6d1a4d5b6532ca4ac9568a261f85bd9433c134a10d3393aa071f5a646277")

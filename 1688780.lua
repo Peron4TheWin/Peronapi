@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Light Fighter
 addappid(1688780)
-addappid(1688781,0,"dd57db33b0b31fb1c40d74fa4348c480035cb49026d25d4a8933e0181e5ee128")
--- setManifestid(1688781,"3732063756226758299")
+addappid(1688781, 1, "dd57db33b0b31fb1c40d74fa4348c480035cb49026d25d4a8933e0181e5ee128")

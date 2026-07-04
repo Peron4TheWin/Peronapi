@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Up or Lava!
 addappid(2549580)
-addappid(2549581,0,"af511990e0c5b472034c08d94810e97679db8ebe45ad5af456cfd2be40a79ba4")
--- setManifestid(2549581,"1737287545602948231")
+addappid(2549581, 1, "af511990e0c5b472034c08d94810e97679db8ebe45ad5af456cfd2be40a79ba4")

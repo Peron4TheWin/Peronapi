@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 超级机霸(Super Ship Blaster)
 addappid(2564370)
-addappid(2564371,0,"fe0effb409b1532839db79fdcd6906570c387e693c48014b358fc235ea688273")
--- setManifestid(2564371,"5980709266796740580")
+addappid(2564371, 1, "fe0effb409b1532839db79fdcd6906570c387e693c48014b358fc235ea688273")

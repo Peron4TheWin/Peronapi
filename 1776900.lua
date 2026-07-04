@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Sunny Beach
 addappid(1776900)
-addappid(1776901,0,"a49c2b2a58fe64e8955842b9592f7d9682ebdbf26a8de3ed7cff7b24adfa02c6")
--- setManifestid(1776901,"7327112501986488981")
+addappid(1776901, 1, "a49c2b2a58fe64e8955842b9592f7d9682ebdbf26a8de3ed7cff7b24adfa02c6")
+addappid(1784740)

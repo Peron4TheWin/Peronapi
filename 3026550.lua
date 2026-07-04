@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fluff's Adventure: A Tale of Fur and Steel Demo
 addappid(3026550)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3026551,0,"5e9a877257bb853d5351e616e688f41826be36959e52363e1576ab733365f028")
+addappid(3026551, 1, "5e9a877257bb853d5351e616e688f41826be36959e52363e1576ab733365f028")

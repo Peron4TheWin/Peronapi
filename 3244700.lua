@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Archaeology - Egypt
 addappid(3244700)
-addappid(3244701,0,"109bc6ad08eab7c64765bbc89f266e29fbceb1305f540536db1ce2b369c61126")
--- setManifestid(3244701,"5323081098208267616")
+addappid(3244701, 1, "109bc6ad08eab7c64765bbc89f266e29fbceb1305f540536db1ce2b369c61126")

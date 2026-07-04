@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cat Fred Evil Pet
 addappid(2611040)
-addappid(2611041,0,"d5803ce516d53366fc299f0470600570959bbf650b858ba303591ff3e15a70aa")
--- setManifestid(2611041,"6978135679150775743")
+addappid(2611041, 1, "d5803ce516d53366fc299f0470600570959bbf650b858ba303591ff3e15a70aa")

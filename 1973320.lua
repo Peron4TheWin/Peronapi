@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Road Defense: Outsiders
 addappid(1973320)
-addappid(1973321,0,"1b3e9732c4e4533d0afa085148e1ad61de5b267de3ae00387f0481d6ba83c6aa")
--- setManifestid(1973321,"7228892346726866897")
+addappid(1973321, 1, "1b3e9732c4e4533d0afa085148e1ad61de5b267de3ae00387f0481d6ba83c6aa")

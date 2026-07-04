@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Welcome Back, Commander
 addappid(3015620)
-addappid(3015621,0,"89f663630f68a5c25a643b509807b96e11adbad0ec2ed9bedf02ccb58ebce6aa")
--- setManifestid(3015621,"7012154986414083223")
+addappid(3015621, 1, "89f663630f68a5c25a643b509807b96e11adbad0ec2ed9bedf02ccb58ebce6aa")
+addappid(4167900)

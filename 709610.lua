@@ -1,5 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Mahjong Match
 addappid(709610)
-addappid(709611,0,"b38db83e6b0cbd8870126414795ff50912711e0587257ff8e3977c6f01af752c")
--- setManifestid(709611,"345648328141436515")
+addappid(709611, 1, "b38db83e6b0cbd8870126414795ff50912711e0587257ff8e3977c6f01af752c")
 addappid(739460)
 addappid(740700)

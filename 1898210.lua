@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eros Fantasy
 addappid(1898210)
-addappid(1898211,0,"3c0ff465d076b14a7bbbd9b515f36204c899288f9243af21a7a59e4d7349e41d")
--- setManifestid(1898211,"8484707560456507382")
+addappid(1898211, 1, "3c0ff465d076b14a7bbbd9b515f36204c899288f9243af21a7a59e4d7349e41d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Master of Chess
 addappid(2248900)
-addappid(2248901,0,"12513e729aac40281fe4ce7b7dae74dabaa67558e17bf501be8725dbb3241c2f")
--- setManifestid(2248901,"405932191865061193")
+addappid(2248901, 1, "12513e729aac40281fe4ce7b7dae74dabaa67558e17bf501be8725dbb3241c2f")

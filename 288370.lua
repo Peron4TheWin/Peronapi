@@ -1,10 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Strike Suit Zero: Director's Cut
 addappid(288370)
-addappid(228984)
--- setManifestid(228984,"2547553897526095397")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(288371,0,"41fc913f368930800e0925cf5dd3d99e60fc19579aacf34ae57fce4bc2684f0a")
--- setManifestid(288371,"4282309783147105640")
-addappid(288372)
+addappid(288371, 1, "41fc913f368930800e0925cf5dd3d99e60fc19579aacf34ae57fce4bc2684f0a")
 addappid(301800)
-addappid(288373)

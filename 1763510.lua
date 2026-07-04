@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: X8
 addappid(1763510)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1763511,0,"be8d25f344a50ee5aed64e14d427b15625172d72b6cecb994fbaf1c7a0d3f2d2")
-addappid(1763512)
+addappid(1763511, 1, "be8d25f344a50ee5aed64e14d427b15625172d72b6cecb994fbaf1c7a0d3f2d2")

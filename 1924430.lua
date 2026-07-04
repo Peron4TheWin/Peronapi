@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cookie Cutter: Overkill Edition
 addappid(1924430)
-addappid(1924431,0,"55f1ee3bf31c7ca59e30e91329e6763fe783ec32c55c6f2358b11fa9e52313cf")
+addappid(1924431, 1, "55f1ee3bf31c7ca59e30e91329e6763fe783ec32c55c6f2358b11fa9e52313cf")

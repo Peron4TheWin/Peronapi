@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Game´s Tale
 addappid(2674140)
-addappid(2674141,0,"e1ff92f3efaaaf0ab084821859f1f21a7e3a180bf999c3553fe2272c3637ad31")
+addappid(2674141, 1, "e1ff92f3efaaaf0ab084821859f1f21a7e3a180bf999c3553fe2272c3637ad31")

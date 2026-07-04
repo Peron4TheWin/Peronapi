@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knights of the Temple: Infernal Crusade
 addappid(1194610)
-addappid(1194611,0,"02723370984598477fbe6cf750e2b1e5577f31fffdeda9592344fedb8e9c167e")
--- setManifestid(1194611,"5491516968378831079")
+addappid(1194611, 1, "02723370984598477fbe6cf750e2b1e5577f31fffdeda9592344fedb8e9c167e")

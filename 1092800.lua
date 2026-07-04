@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summit of the Wolf
 addappid(1092800)
-addappid(1092801,0,"ad6b32b7c72af65401fbc8fd8386754c880b805e04d30f42565b95ee14d3a15c")
--- setManifestid(1092801,"1647257611362019821")
+addappid(1092801, 1, "ad6b32b7c72af65401fbc8fd8386754c880b805e04d30f42565b95ee14d3a15c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Freon
 addappid(1721520)
-addappid(1721521,0,"d5d4d07d461a2161aaf265f4ef20d872d9f13caa110e4c46eaa9a21067f59006")
--- setManifestid(1721521,"2520946714081693388")
+addappid(1721521, 1, "d5d4d07d461a2161aaf265f4ef20d872d9f13caa110e4c46eaa9a21067f59006")

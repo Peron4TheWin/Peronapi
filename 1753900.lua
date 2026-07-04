@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World of Motors
 addappid(1753900)
-addappid(1753901,0,"4543c78b196f9f543c13be28f31641c2eda66cc8e8fa5300c3316530e8b20ca8")
--- setManifestid(1753901,"4403603538601822263")
+addappid(1753901, 1, "4543c78b196f9f543c13be28f31641c2eda66cc8e8fa5300c3316530e8b20ca8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Missing Stars
 addappid(2261640)
-addappid(2261641,0,"af5f9cf90a2af391e5ebb1f31bef606b5559b2407fe210abd7f66f2eb18b2f93")
--- setManifestid(2261641,"6457939110610373982")
+addappid(2261641, 1, "af5f9cf90a2af391e5ebb1f31bef606b5559b2407fe210abd7f66f2eb18b2f93")

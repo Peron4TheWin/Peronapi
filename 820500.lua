@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tisnart Shapes
 addappid(820500)
-addappid(820501,0,"cc6fa62a0a468157683d8226485d450b26f4d452cb7de31f2dda87f11217097a")
--- setManifestid(820501,"6848323809871589926")
+addappid(820501, 1, "cc6fa62a0a468157683d8226485d450b26f4d452cb7de31f2dda87f11217097a")

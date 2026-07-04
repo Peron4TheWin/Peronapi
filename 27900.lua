@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twin Sector
 addappid(27900)
-addappid(27901,0,"4d2b0ee9277821d42a329519e78cd9aaf028b05abe96988f3856faa83f56bc72")
--- setManifestid(27901,"1462698268788667787")
+addappid(27901, 1, "4d2b0ee9277821d42a329519e78cd9aaf028b05abe96988f3856faa83f56bc72")

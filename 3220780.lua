@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wool at the Gates Demo
 addappid(3220780)
-addappid(3220781,0,"d9b0537cae6dab09d5b5afc9d3e38c4723cb4c8864fc7802675b0e158d6d2bdb")
+addappid(3220781, 1, "d9b0537cae6dab09d5b5afc9d3e38c4723cb4c8864fc7802675b0e158d6d2bdb")

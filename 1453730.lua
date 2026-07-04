@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Liminal
 addappid(1453730)
-addappid(1453731,0,"ff2dd4745bfe21277e7623794703ccd0a83f142286cf4cd067c7fb0353416ef8")
--- setManifestid(1453731,"5015135878939222174")
+addappid(1453731, 1, "ff2dd4745bfe21277e7623794703ccd0a83f142286cf4cd067c7fb0353416ef8")

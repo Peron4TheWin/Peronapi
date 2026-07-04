@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Labyrinth of Greed
 addappid(1812840)
-addappid(1812841,0,"ce2dcb5203d4b80b0c6ed4cb1ed6a08f611a6119ff5de379405fba9e217ce434")
--- setManifestid(1812841,"1152473977615085941")
+addappid(1812841, 1, "ce2dcb5203d4b80b0c6ed4cb1ed6a08f611a6119ff5de379405fba9e217ce434")

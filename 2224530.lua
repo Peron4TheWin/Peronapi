@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gas Station Tycoon
 addappid(2224530)
-addappid(2224531,0,"812d411f44f2b732fbca9b63f4aa502899f8479edcc1679308c795bde0388e8b")
--- setManifestid(2224531,"2089506709509890257")
+addappid(2224531, 1, "812d411f44f2b732fbca9b63f4aa502899f8479edcc1679308c795bde0388e8b")

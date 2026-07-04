@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: QuickSwitch
 addappid(2833930)
-addappid(2833931,0,"d523aac5d02a217c89ca6d5b37473d6f564c152cba77cf8aae371da718503ba2")
--- setManifestid(2833931,"2511603052340345516")
+addappid(2833931, 1, "d523aac5d02a217c89ca6d5b37473d6f564c152cba77cf8aae371da718503ba2")

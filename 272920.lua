@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rail Adventures
+addappid(272920)
+addappid(272921, 1, "6137bfd909da2242c9459236d10ed601fe5811655005617022d719100f0e8887")

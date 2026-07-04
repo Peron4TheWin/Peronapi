@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kaiju Fishing Demo
 addappid(1313720)
-addappid(1313721,0,"aa149bf64d726f848d912f0b85bf77bfefbe34bc207d85c0869a3d889a368fcb")
+addappid(1313721, 1, "aa149bf64d726f848d912f0b85bf77bfefbe34bc207d85c0869a3d889a368fcb")

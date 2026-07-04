@@ -1,8 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World's Worst Handyman Demo
 addappid(1942320)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1942321,0,"ab2d9b10009cdf611188685e0a6730fbd3853b6101c38674f6be0aaf7d6f53f1")
+addappid(1942321, 1, "ab2d9b10009cdf611188685e0a6730fbd3853b6101c38674f6be0aaf7d6f53f1")

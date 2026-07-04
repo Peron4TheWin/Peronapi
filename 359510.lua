@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tangle Tower
+addappid(359510)
+addappid(359511, 1, "4cf3afa340d68d6a4677231a98b5fb96380211929e412cb586a4323ef34b0d58")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Liquor And Wine Shop Simulator - Store Simulator
 addappid(3274060)
-addappid(3274061,0,"70d6badbd28b76835097500598c8a6d6f24b65e9876afb07462cbfc87dd74ed5")
--- setManifestid(3274061,"4968539957989494148")
+addappid(3274061, 1, "70d6badbd28b76835097500598c8a6d6f24b65e9876afb07462cbfc87dd74ed5")

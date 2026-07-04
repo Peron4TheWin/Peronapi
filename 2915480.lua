@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EGGGG
 addappid(2915480)
-addappid(2915481,0,"6ca8fd3a3c8ddbeeb01041a3613debda56d64a855a00e5a865a09763c96a6a39")
--- setManifestid(2915481,"3966399315444353423")
-addappid(2915482)
+addappid(2915481, 1, "6ca8fd3a3c8ddbeeb01041a3613debda56d64a855a00e5a865a09763c96a6a39")

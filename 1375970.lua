@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Korean Adventures in Russia
 addappid(1375970)
-addappid(1375971,0,"7aedb14a8b3345e50790443131921d7dce72e2011b57764f00276e550bc14f35")
--- setManifestid(1375971,"1029807023965760943")
+addappid(1375971, 1, "7aedb14a8b3345e50790443131921d7dce72e2011b57764f00276e550bc14f35")

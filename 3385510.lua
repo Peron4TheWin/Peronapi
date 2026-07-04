@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Smalland: Survive the Wilds Soundtrack
 addappid(3385510)
-addappid(3385511,0,"37a3f6974653dba1c475694d2e76eea55ef2ac4ccdf55bebd262c8b61730d4c5")
--- setManifestid(3385511,"2572245026277571257")
+addappid(3385511, 1, "37a3f6974653dba1c475694d2e76eea55ef2ac4ccdf55bebd262c8b61730d4c5")

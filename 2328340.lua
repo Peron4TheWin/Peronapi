@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 十月怪谈-Insane Rules
 addappid(2328340)
-addappid(2328341,0,"6206d6ede8866445eea8ee91ab8f648282e472b8ca64d0fff0e2313548b23cd6")
--- setManifestid(2328341,"6291285179820655389")
+addappid(2328341, 1, "6206d6ede8866445eea8ee91ab8f648282e472b8ca64d0fff0e2313548b23cd6")

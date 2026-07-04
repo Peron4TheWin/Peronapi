@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jigsaw Novel - The Job Promotion
 addappid(1934090)
-addappid(1934091,0,"bdb7157466ddf05c28325d7b433f83e3616ea3c67cf34d808ab8afe82813f31f")
--- setManifestid(1934091,"6669038846665270427")
+addappid(1934091, 1, "bdb7157466ddf05c28325d7b433f83e3616ea3c67cf34d808ab8afe82813f31f")

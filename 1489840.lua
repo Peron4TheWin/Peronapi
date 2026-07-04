@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fortoresse
 addappid(1489840)
-addappid(1489841,0,"cc39e6ebcdb0406693c42fe4ab4a174a2d306eca7f8abde422f685adea913973")
--- setManifestid(1489841,"3326859690009266420")
+addappid(1489841, 1, "cc39e6ebcdb0406693c42fe4ab4a174a2d306eca7f8abde422f685adea913973")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pih
 addappid(2870710)
-addappid(2870711,0,"b2ddc85ffb0094b75d9222fd057d715f4f6d039e242ac38f31d18e49e9914304")
--- setManifestid(2870711,"4183185857716724176")
+addappid(2870711, 1, "b2ddc85ffb0094b75d9222fd057d715f4f6d039e242ac38f31d18e49e9914304")

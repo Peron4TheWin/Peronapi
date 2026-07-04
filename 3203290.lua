@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Black Vault
 addappid(3203290)
-addappid(3203291,0,"e934f55b7f4ce6898a1b4870482ebe255bddd1cd9fc404e05806abc493a3d975")
--- setManifestid(3203291,"2952625478226034336")
+addappid(3203291, 1, "e934f55b7f4ce6898a1b4870482ebe255bddd1cd9fc404e05806abc493a3d975")

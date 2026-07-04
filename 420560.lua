@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firefighting Simulator - The Squad
 addappid(420560)
-addappid(229005)
--- setManifestid(229005,"7992454656023763365")
-addappid(420561,0,"b9c305a15d2bf9b3391d9655749df9c99e797b311fdb5f4d137c7429732a9590")
--- setManifestid(420561,"2339816915156030272")
-addappid(420562)
-addappid(420563)
+addappid(420561, 1, "b9c305a15d2bf9b3391d9655749df9c99e797b311fdb5f4d137c7429732a9590")

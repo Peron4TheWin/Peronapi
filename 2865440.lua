@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FRONT MISSION 2: Remake
 addappid(2865440)
-addappid(2865441,0,"482559fb2638bef793aaaf13ad2d9a3e97e41b6f6b9541970ce0dfa0e59e8f56")
--- setManifestid(2865441,"4373971948075386066")
+addappid(2865441, 1, "482559fb2638bef793aaaf13ad2d9a3e97e41b6f6b9541970ce0dfa0e59e8f56")

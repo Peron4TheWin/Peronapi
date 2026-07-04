@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desert Mystery
 addappid(1500260)
-addappid(1500261,0,"d865b8f12927e3e3801cdae6b8c244c2445e33dce718e6ac5ed8807aff4a6ae5")
--- setManifestid(1500261,"5685529750098891154")
+addappid(1500261, 1, "d865b8f12927e3e3801cdae6b8c244c2445e33dce718e6ac5ed8807aff4a6ae5")

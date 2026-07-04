@@ -1,8 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Stalked 2
 addappid(2976490)
-addappid(2976491,0,"6984e8dddcd7172c7cd0eda21e514fb2e8be4f057bba81de922a2f276f95e014")
--- setManifestid(2976491,"9142109144705891286")
-
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]
+addappid(2976491, 1, "6984e8dddcd7172c7cd0eda21e514fb2e8be4f057bba81de922a2f276f95e014")

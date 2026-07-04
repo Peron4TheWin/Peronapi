@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ShapeHero Factory
 addappid(2389040)
-addappid(2389041,0,"e02efa2085a6430f99abd6920f993e651b6e7c6d4ea524a92eba66a689f5ae59")
+addappid(2389041, 1, "e02efa2085a6430f99abd6920f993e651b6e7c6d4ea524a92eba66a689f5ae59")

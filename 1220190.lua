@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Darts
 addappid(1220190)
-addappid(1220191,0,"c950f3717dc878ed6a8504aa5c695b9ce765dfced06eaab62e56c6f0b3bcc11a")
--- setManifestid(1220191,"875638293420962341")
+addappid(1220191, 1, "c950f3717dc878ed6a8504aa5c695b9ce765dfced06eaab62e56c6f0b3bcc11a")

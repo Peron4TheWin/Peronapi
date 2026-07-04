@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shattered Steel
 addappid(624060)
-addappid(624061,0,"6647d22dc9ffa6935d93a9b492d5c016a777febb7f4e17bc8452f103ffa1e679")
--- setManifestid(624061,"2257675116939445644")
+addappid(624061, 1, "6647d22dc9ffa6935d93a9b492d5c016a777febb7f4e17bc8452f103ffa1e679")

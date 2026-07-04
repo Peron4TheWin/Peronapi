@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Date or Destiny : Kiss or Miss
 addappid(2127030)
-addappid(2127031,0,"f93b6c72709abf9fbb675c9702f5a15a13248103754cb247394c4678302ecc29")
--- setManifestid(2127031,"6176091821773507536")
+addappid(2127031, 1, "f93b6c72709abf9fbb675c9702f5a15a13248103754cb247394c4678302ecc29")

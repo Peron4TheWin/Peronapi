@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex on Beach
 addappid(2448130)
-addappid(2448131,0,"a6c5a9828bff6a81dc6ecb02985d9b37af9cac5685861d8a06484fbbfe1095f0")
--- setManifestid(2448131,"6629318574863549726")
+addappid(2448131, 1, "a6c5a9828bff6a81dc6ecb02985d9b37af9cac5685861d8a06484fbbfe1095f0")

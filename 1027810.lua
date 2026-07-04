@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ZooKeeper
 addappid(1027810)
-addappid(1027811,0,"f5610bf97997ea77faecd6a634bcacee36798493d2ad23310f78a9f1050a649c")
--- setManifestid(1027811,"6091436925795870242")
+addappid(1027811, 1, "f5610bf97997ea77faecd6a634bcacee36798493d2ad23310f78a9f1050a649c")

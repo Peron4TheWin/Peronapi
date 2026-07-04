@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Long Story Short
 addappid(2538370)
--- setManifestid(228989,"3514306556860204959")
-addappid(2538371,0,"83fcafc23d4204b0dc577b6792eeb8f23240220e9851a1db4bbe4452b05e9307")
--- setManifestid(2538371,"7937132459277278381")
+addappid(2538371, 1, "83fcafc23d4204b0dc577b6792eeb8f23240220e9851a1db4bbe4452b05e9307")

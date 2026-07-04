@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Something Strange in the Woods
 addappid(1488960)
-addappid(1488961,0,"f07fe82f81dcfdadefc0e88040bd094022d90d723d9fbbe34291c9bec870a61d")
--- setManifestid(1488961,"8983118076390208818")
+addappid(1488961, 1, "f07fe82f81dcfdadefc0e88040bd094022d90d723d9fbbe34291c9bec870a61d")

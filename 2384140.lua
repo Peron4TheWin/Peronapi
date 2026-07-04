@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Luminous Skies: A Short Adventure
 addappid(2384140)
-addappid(2384141,0,"0d0afd32cc7496c084258c731bc467f20d82dad9006aed3aa3012e79b86de5b8")
--- setManifestid(2384141,"3224840258584804832")
+addappid(2384141, 1, "0d0afd32cc7496c084258c731bc467f20d82dad9006aed3aa3012e79b86de5b8")

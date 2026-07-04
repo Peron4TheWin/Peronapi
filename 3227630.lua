@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chicken Fall:Joint raid Demo
 addappid(3227630)
-addappid(3227631,0,"eef70868d6da726c7b4c6ad0cea52498ba3c4de314e6992e682380c5978c2d91")
--- setManifestid(3227631,"5832336528375100196")
+addappid(3227631, 1, "eef70868d6da726c7b4c6ad0cea52498ba3c4de314e6992e682380c5978c2d91")

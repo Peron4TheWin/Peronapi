@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Duck Life: Retro Pack
 addappid(1433950)
-addappid(1433951,0,"1e1a8e40e44cff0ae99d5ea4f43e260b020ecf91f1e9f764a66f02c07a660d39")
--- setManifestid(1433951,"2862803849219059485")
+addappid(1433951, 1, "1e1a8e40e44cff0ae99d5ea4f43e260b020ecf91f1e9f764a66f02c07a660d39")

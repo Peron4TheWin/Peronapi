@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shadow Racer
 addappid(1981300)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1981301,0,"733600483b464724858c1d84245e7b48ec54272d25d7ad3c2ad1a31acdebdfdf")
--- setManifestid(1981301,"4086643379790524037")
+addappid(1981301, 1, "733600483b464724858c1d84245e7b48ec54272d25d7ad3c2ad1a31acdebdfdf")

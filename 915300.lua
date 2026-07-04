@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The planet's rescuer
 addappid(915300)
-addappid(915301,0,"7bedc5f44e1541d92f9dee24b824063d667e60deca461072771bbc0a85a75fdb")
--- setManifestid(915301,"6026951064006514144")
+addappid(915301, 1, "7bedc5f44e1541d92f9dee24b824063d667e60deca461072771bbc0a85a75fdb")

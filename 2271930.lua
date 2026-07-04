@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: IfSunSets
 addappid(2271930)
-addappid(2271931,0,"a9c8ce48855c73a5fa7beb2422ba11ac8bd612529feb8e8bd8a06cb0004652f2")
--- setManifestid(2271931,"5700586722407399763")
+addappid(2271931, 1, "a9c8ce48855c73a5fa7beb2422ba11ac8bd612529feb8e8bd8a06cb0004652f2")

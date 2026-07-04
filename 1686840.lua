@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loop Room
 addappid(1686840)
-addappid(1686841,0,"335139da4fd9aa92774052ae5c011f6a21747bee16d14e3b8f61facf5b769d4e")
--- setManifestid(1686841,"5145513293226276110")
+addappid(1686841, 1, "335139da4fd9aa92774052ae5c011f6a21747bee16d14e3b8f61facf5b769d4e")

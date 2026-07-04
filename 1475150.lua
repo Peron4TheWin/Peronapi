@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: White Rabbit
 addappid(1475150)
-addappid(1475151,0,"3ff00fdf0869e42d7586c6f26b97d2a241741803214f9b2067f683d39dd0ae3e")
--- setManifestid(1475151,"4259852923015933619")
+addappid(1475151, 1, "3ff00fdf0869e42d7586c6f26b97d2a241741803214f9b2067f683d39dd0ae3e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Black Smith3
 addappid(1614940)
-addappid(1614941,0,"014878adf09e3e110078127d3e0c000bcb1eb7a4f076bddefa79799aa4abd260")
--- setManifestid(1614941,"1732175052931349819")
+addappid(1614941, 1, "014878adf09e3e110078127d3e0c000bcb1eb7a4f076bddefa79799aa4abd260")

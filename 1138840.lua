@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bad North Demo
 addappid(1138840)
-addappid(1138841,0,"2b256c75536cadb9a9a0883fdf44087085d73b0fcb9d8a3c6a3114ddbc50c6d0")
--- setManifestid(1138841,"5641568234022324181")
+addappid(1138841, 1, "2b256c75536cadb9a9a0883fdf44087085d73b0fcb9d8a3c6a3114ddbc50c6d0")

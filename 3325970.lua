@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chonkers Demo
 addappid(3325970)
-addappid(3325971,0,"903f5d1080ae1c58dec04c2f98ff6a4e599e8cf2266a84a2f94968a574b2223d")
--- setManifestid(3325971,"7792087999975773502")
+addappid(3325971, 1, "903f5d1080ae1c58dec04c2f98ff6a4e599e8cf2266a84a2f94968a574b2223d")

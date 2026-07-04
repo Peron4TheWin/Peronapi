@@ -1,10 +1,11 @@
+-- Lua provided by SkyAPI 
+-- Game: CyberHoney
 addappid(2863050)
-addappid(2863051,0,"169d143388221f3947f79e5360707181ce8d988c5e7cd6159f5e390084b70f04")
--- setManifestid(2863051,"4188970507447647928")
-addappid(2875690)
-addappid(2875680)
-addappid(2875730)
-addappid(2875720)
+addappid(2863051, 1, "169d143388221f3947f79e5360707181ce8d988c5e7cd6159f5e390084b70f04")
 addappid(2867790)
-addappid(2875710)
+addappid(2875680)
+addappid(2875690)
 addappid(2875700)
+addappid(2875710)
+addappid(2875720)
+addappid(2875730)

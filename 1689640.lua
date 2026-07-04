@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warden's Will
 addappid(1689640)
-addappid(1689641,0,"8a79dc2b8691feaf41ee3bc05550f2e5f2cccc5a30fc1eb18569e9fe3a37795b")
--- setManifestid(1689641,"2945350470372880897")
+addappid(1689641, 1, "8a79dc2b8691feaf41ee3bc05550f2e5f2cccc5a30fc1eb18569e9fe3a37795b")

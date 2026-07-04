@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eye of the Temple: First Steps
 addappid(1365940)
-addappid(1365941,0,"4700b29ab125c9ea292c785e32028863e027eb08feedd5e4c831f14c11e4d019")
--- setManifestid(1365941,"8098729745836023626")
+addappid(1365941, 1, "4700b29ab125c9ea292c785e32028863e027eb08feedd5e4c831f14c11e4d019")

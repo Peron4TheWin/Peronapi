@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: House of Jigsaw: Happy puzzling, Happy home
 addappid(2607920)
-addappid(2607921,0,"bc31085fc34af38fa4686d23b06d18f6a850fbb392c054ef517b42a528b5ecae")
--- setManifestid(2607921,"8265054970277205768")
+addappid(2607921, 1, "bc31085fc34af38fa4686d23b06d18f6a850fbb392c054ef517b42a528b5ecae")

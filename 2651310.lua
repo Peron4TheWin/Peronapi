@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape from the Goblin Lair
 addappid(2651310)
-addappid(2651311,0,"bde9a862771b76a267d498de86955fabad96e78a8e6e113a1ab66e04a7aa3352")
--- setManifestid(2651311,"4910389341011220534")
+addappid(2651311, 1, "bde9a862771b76a267d498de86955fabad96e78a8e6e113a1ab66e04a7aa3352")

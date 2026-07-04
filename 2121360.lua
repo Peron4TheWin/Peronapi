@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 东北之夏
 addappid(2121360)
-addappid(2121361,0,"cdb2eea95ce5d57010ab3cfbc7bc845629e3859fb33723a3de6970fd6835fb02")
+addappid(2121361, 1, "cdb2eea95ce5d57010ab3cfbc7bc845629e3859fb33723a3de6970fd6835fb02")

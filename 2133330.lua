@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 2tinycowboys
 addappid(2133330)
-addappid(2133331,0,"1cb4865aa5211aafb3fd0c9d904f4ac954e3b6748f599e47948a72a40708eff6")
--- setManifestid(2133331,"2425707403527263110")
+addappid(2133331, 1, "1cb4865aa5211aafb3fd0c9d904f4ac954e3b6748f599e47948a72a40708eff6")

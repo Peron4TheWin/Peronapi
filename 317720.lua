@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiestru
 addappid(317720)
-addappid(317721,0,"fefcb869111382a181cdbba000730494447dbda1dc2a5efcedd2d1e4a512e4d9")
--- setManifestid(317721,"542573638722480400")
+addappid(317721, 1, "fefcb869111382a181cdbba000730494447dbda1dc2a5efcedd2d1e4a512e4d9")

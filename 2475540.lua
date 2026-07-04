@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dekamara Demo
 addappid(2475540)
-addappid(2475541,0,"8c40bb4db3421e8ac7cfefdb48a491a4a45187f4c5372933bf91baecd1f1e67e")
--- setManifestid(2475541,"1747374880004849201")
+addappid(2475541, 1, "8c40bb4db3421e8ac7cfefdb48a491a4a45187f4c5372933bf91baecd1f1e67e")

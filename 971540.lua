@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SAMS
 addappid(971540)
-addappid(971541,0,"ddbe2a6d3e55fe11282fa9d8859bad6a7da93cab586cadbac078a529d993f23b")
+addappid(971541, 1, "ddbe2a6d3e55fe11282fa9d8859bad6a7da93cab586cadbac078a529d993f23b")

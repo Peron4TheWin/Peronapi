@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosmolace
 addappid(3413210)
-addappid(3413211,0,"3cab8821b1f84238688a17431ea6a7fa3c4c19c1f959961bdbcb5c549884e4f5")
--- setManifestid(3413211,"8640861907242168484")
+addappid(3413211, 1, "3cab8821b1f84238688a17431ea6a7fa3c4c19c1f959961bdbcb5c549884e4f5")

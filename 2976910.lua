@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Burger
 addappid(2976910)
-addappid(2976911,0,"61c8b40d9b84e12e1d492aaf3ad9438b60ca2290986d833065f24d6cb21cb12b")
--- setManifestid(2976911,"6155214267093113472")
+addappid(2976911, 1, "61c8b40d9b84e12e1d492aaf3ad9438b60ca2290986d833065f24d6cb21cb12b")
+addappid(3012100)

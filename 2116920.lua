@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Runic Survivor
 addappid(2116920)
-addappid(2116921,0,"0651355f47b78b7754a8bb1f683d4aa54d41d9e2095a59dbed2b835666cabc9d")
--- setManifestid(2116921,"8453262808849877845")
+addappid(2116921, 1, "0651355f47b78b7754a8bb1f683d4aa54d41d9e2095a59dbed2b835666cabc9d")

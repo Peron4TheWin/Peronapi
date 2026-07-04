@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Before I Go Demo
 addappid(2920960)
-addappid(2920961,0,"5d97f89c91f468ad6aeb3b6e2e8ef091db7888e3c684ba1ba9fccbb0b56495aa")
--- setManifestid(2920961,"4073032754168172075")
+addappid(2920961, 1, "5d97f89c91f468ad6aeb3b6e2e8ef091db7888e3c684ba1ba9fccbb0b56495aa")

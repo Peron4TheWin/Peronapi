@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don't Mess With Bober
 addappid(3177010)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3177011,0,"03cd8e4232184b34a0ca791cc89efe43c7ddd2109f0f71941cc76433b507a6b1")
--- setManifestid(3177011,"6237393408974337923")
+addappid(3177011, 1, "03cd8e4232184b34a0ca791cc89efe43c7ddd2109f0f71941cc76433b507a6b1")

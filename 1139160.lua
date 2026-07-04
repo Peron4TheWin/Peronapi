@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Divided Reigns
 addappid(1139160)
--- setManifestid(228990,"1829726630299308803")
-addappid(1139161,0,"3246e651cccfdc54d6b7c22578823018c88460aeae7b9b05b58a0f837c07e5e5")
--- setManifestid(1139161,"926606506309039673")
+addappid(1139161, 1, "3246e651cccfdc54d6b7c22578823018c88460aeae7b9b05b58a0f837c07e5e5")

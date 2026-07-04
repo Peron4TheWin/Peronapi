@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tantal
 addappid(1425280)
-addappid(229020)
-addappid(1425281,0,"5f7b81c86c19a99e86a0cd74ddb9ef44ae5d94b39b16bbe2f4888b0c603f41c1")
+addappid(1425281, 1, "5f7b81c86c19a99e86a0cd74ddb9ef44ae5d94b39b16bbe2f4888b0c603f41c1")

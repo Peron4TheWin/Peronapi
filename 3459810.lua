@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 扩张吧王国 Expand the Kingdom
 addappid(3459810)
-addappid(3459811,0,"a14367d786586e2b9c050594c65fd18d6352f1009794af3f30bb73015d257eae")
--- setManifestid(3459811,"2265228201270921982")
+addappid(3459811, 1, "a14367d786586e2b9c050594c65fd18d6352f1009794af3f30bb73015d257eae")

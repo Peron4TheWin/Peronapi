@@ -1,2 +1,4 @@
-addappid(3699970, 1, "None")
+-- Lua provided by SkyAPI 
+-- Game: Blasfemia
+addappid(3699970)
 addappid(3699971, 1, "bd479351e02e020c397dab0bcfeadd8517a06e4ff272b2a2fed335c47f1d5c75")

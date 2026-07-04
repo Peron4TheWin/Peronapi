@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bodyless
 addappid(1202100)
-addappid(1202101,0,"a8a87fc3bd294f4904924a3dbe14e053b89ac5c37e262d2666b88dc40d2b0ad8")
+addappid(1202101, 1, "a8a87fc3bd294f4904924a3dbe14e053b89ac5c37e262d2666b88dc40d2b0ad8")

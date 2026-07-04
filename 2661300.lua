@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Grounded 2
 addappid(2661300)
+addappid(2661301, 1, "cac026f4758d6992ff85de08375749a662b82dc6517be7dc72368060eca7427d")
 addappid(3788090)
-addappid(2661301,0,"cac026f4758d6992ff85de08375749a662b82dc6517be7dc72368060eca7427d")
--- setManifestid(2661301,"3134483447220873445")

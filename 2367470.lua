@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jigsaw Puzzle World
 addappid(2367470)
-addappid(2367471,0,"78c417e3858bbf987bb32ee096b91df9c6b4eb974aa35ea562242b41798fe232")
--- setManifestid(2367471,"2393256017401745319")
+addappid(2367471, 1, "78c417e3858bbf987bb32ee096b91df9c6b4eb974aa35ea562242b41798fe232")

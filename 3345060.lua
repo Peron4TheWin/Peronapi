@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kemono Teatime Demo
 addappid(3345060)
-addappid(3345061,0,"c7973c6088d4b10df9c6aec1c30ed49994b9b7048a1374e28bae30a8a816bf30")
--- setManifestid(3345061,"874232476643262312")
+addappid(3345061, 1, "c7973c6088d4b10df9c6aec1c30ed49994b9b7048a1374e28bae30a8a816bf30")

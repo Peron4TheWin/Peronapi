@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nitro Nation VR Demo
 addappid(1903150)
-addappid(1903151,0,"d1c284ef10f28580c57af6d0ffe5d486a38f43ed9bfeeb732b8c3925dd1bfab9")
--- setManifestid(1903151,"414483855580584797")
+addappid(1903151, 1, "d1c284ef10f28580c57af6d0ffe5d486a38f43ed9bfeeb732b8c3925dd1bfab9")

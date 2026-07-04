@@ -1,9 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Endless World Idle RPG
 addappid(840260)
-addappid(228986)
--- setManifestid(228986,"8782296191957114623")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(840261,0,"68393bb84ae42b9e51f7e6c298ffa0dc73e2d1f16edbd9708c054034cb9ecb3d")
-addappid(840264)
+addappid(840261, 1, "68393bb84ae42b9e51f7e6c298ffa0dc73e2d1f16edbd9708c054034cb9ecb3d")
 addappid(1104720)
-addappid(840262,0,"6f34cf56cf2307ec7ae28ddb3457b0f16a020f785a3e9705dca7bc6b69c2e4f8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hayseed Knight
 addappid(1332990)
-addappid(1332991,0,"6766661cb9b4075de84ab793bac24269f6c476045774b9d8aa8bc4a93ff5bfa2")
--- setManifestid(1332991,"1750508340768247889")
+addappid(1332991, 1, "6766661cb9b4075de84ab793bac24269f6c476045774b9d8aa8bc4a93ff5bfa2")

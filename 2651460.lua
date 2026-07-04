@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Knight Girl And Dungeons
 addappid(2651460)
-addappid(2651461,0,"8909af2fc7ffb1eb4372b6b8ae65c096a21d0092f2cb667549a373698b7d6095")
--- setManifestid(2651461,"989860246369728206")
+addappid(2651461, 1, "8909af2fc7ffb1eb4372b6b8ae65c096a21d0092f2cb667549a373698b7d6095")

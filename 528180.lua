@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Agricola: All Creatures Big and Small
 addappid(528180)
-addappid(528181,0,"b912fbe1277ce96c9c599a477b67a7bf4c6b36ffc2110458177fae8d5066a52a")
--- setManifestid(528181,"8876146716404363145")
+addappid(528181, 1, "b912fbe1277ce96c9c599a477b67a7bf4c6b36ffc2110458177fae8d5066a52a")

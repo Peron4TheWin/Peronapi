@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Blooming Chaos 2 - Soundtrack 2
 addappid(1372130)
-addappid(1372131,0,"ad11d5643c0cd9138261c2e2f1ecd970619303e01505fef800762fbf9e122089")
--- setManifestid(1372131,"7490738411448950680")
+addappid(1372131, 1, "ad11d5643c0cd9138261c2e2f1ecd970619303e01505fef800762fbf9e122089")

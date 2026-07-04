@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 冷血症骰子
 addappid(1401220)
-addappid(1401221,0,"c4fc3754c5442447b49f68c67d3427a51db93a794bceee096adf2586dcfa5c34")
--- setManifestid(1401221,"8181373172747852010")
+addappid(1401221, 1, "c4fc3754c5442447b49f68c67d3427a51db93a794bceee096adf2586dcfa5c34")

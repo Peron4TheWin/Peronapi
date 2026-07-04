@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: History in Letters - The Eternal Alchemist
 addappid(318680)
-addappid(318681,0,"d19475a926b27c871cace0fe7691e476ffc96b54058d048abf75accb49583ec6")
--- setManifestid(318681,"8035687678790635442")
-addappid(318682,0,"848843bea4cddff308f49e8fb0d6e1a1355f2b88244bacfcf6b69145933833b2")
--- setManifestid(318682,"3013157168857270568")
+addappid(318681, 1, "d19475a926b27c871cace0fe7691e476ffc96b54058d048abf75accb49583ec6")

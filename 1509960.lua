@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PICO PARK
 addappid(1509960)
-addappid(1509961,0,"1ea9efc77f966369354189cff52ee9d118e406ff157718c1aa540beff716a879")
--- setManifestid(1509961,"3786873849308285650")
+addappid(1509961, 1, "1ea9efc77f966369354189cff52ee9d118e406ff157718c1aa540beff716a879")

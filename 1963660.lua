@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neodori Forever
 addappid(1963660)
-addappid(1963661,0,"0090e23ad69e296830e631cf8ee8b747fbcf6e82ec4c4345443ff113eb3262d9")
--- setManifestid(1963661,"7679361783764365985")
+addappid(1963661, 1, "0090e23ad69e296830e631cf8ee8b747fbcf6e82ec4c4345443ff113eb3262d9")

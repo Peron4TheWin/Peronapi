@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wobbly Life Soundtrack
 addappid(3106460)
-addappid(3106461,0,"c4e05dc23c4bd4fbb8ac04b9f8e9f6bf92067182615b17a010ab9a62acae6032")
--- setManifestid(3106461,"1676052157317739315")
+addappid(3106461, 1, "c4e05dc23c4bd4fbb8ac04b9f8e9f6bf92067182615b17a010ab9a62acae6032")

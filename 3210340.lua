@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 天月麻雀 Playtest
 addappid(3210340)
-addappid(3210341,0,"44fd30408d37c037dce806ed83a541023c889ac4c643e257c01b94c62ee92101")
--- setManifestid(3210341,"8188935100811100045")
+addappid(3210341, 1, "44fd30408d37c037dce806ed83a541023c889ac4c643e257c01b94c62ee92101")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Green Blood
 addappid(732820)
-addappid(732821,0,"c2a6b8885d08bc3ef76b57529032680eb077b6bc58e6abeedd74b4b4e3921e18")
--- setManifestid(732821,"9002216980030731073")
+addappid(732821, 1, "c2a6b8885d08bc3ef76b57529032680eb077b6bc58e6abeedd74b4b4e3921e18")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Panic: Room Escape (VR)
 addappid(649460)
-addappid(649461,0,"54a3d2aa579df963c96ec8f1407603d58632599de11db5f1ca8fe180a73f72be")
--- setManifestid(649461,"554347915505453483")
+addappid(649461, 1, "54a3d2aa579df963c96ec8f1407603d58632599de11db5f1ca8fe180a73f72be")

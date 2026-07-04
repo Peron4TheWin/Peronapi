@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Snowsquall Grip
 addappid(3000420)
-addappid(3000421,0,"08894e4d4960f707a5ef380736aa125ea44793b2ddaf3f83a98fb2b9f09da9e0")
--- setManifestid(3000421,"7882172450035220447")
+addappid(3000421, 1, "08894e4d4960f707a5ef380736aa125ea44793b2ddaf3f83a98fb2b9f09da9e0")

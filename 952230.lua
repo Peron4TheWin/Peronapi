@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 5 Star Miami Resort
 addappid(952230)
-addappid(952231,0,"6f27a8287566dbe77bbf15a7ae81900ccd9b7373ab1df92cf966989b25559c54")
--- setManifestid(952231,"5673067557088234658")
+addappid(952231, 1, "6f27a8287566dbe77bbf15a7ae81900ccd9b7373ab1df92cf966989b25559c54")

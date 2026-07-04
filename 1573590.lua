@@ -1,2 +1,4 @@
-addappid(1573590) -- Colonize
-addappid(1573591, 1, "d7f6c58684ca28de6965efd0084c80ea11df0a53864949f4dd2d3a2f554fea04") -- Depot 1573591
+-- Lua provided by SkyAPI 
+-- Game: Colonize
+addappid(1573590)
+addappid(1573591, 1, "d7f6c58684ca28de6965efd0084c80ea11df0a53864949f4dd2d3a2f554fea04")

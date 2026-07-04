@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Camping Simulator: The Squad
 addappid(1562260)
-addappid(1562261,0,"d2bf766c1b75f19d6e6a875ba4c98ba46036890dd8945e13afa9afae5f70ae8a")
---setManifestid(1562261,"767487754771586190")
+addappid(1562261, 1, "d2bf766c1b75f19d6e6a875ba4c98ba46036890dd8945e13afa9afae5f70ae8a")

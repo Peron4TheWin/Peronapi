@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Hacker Demo
 addappid(2018710)
-addappid(2018711,0,"6493f9b2d5ac55b3b1a2be5a9158bc9dbca28ea5c2279dd170e38ce0363c7875")
--- setManifestid(2018711,"2001165496524184490")
+addappid(2018711, 1, "6493f9b2d5ac55b3b1a2be5a9158bc9dbca28ea5c2279dd170e38ce0363c7875")

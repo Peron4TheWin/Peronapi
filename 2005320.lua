@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Illusion 幻覚
 addappid(2005320)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(2005321,0,"4c87e9894343067fdcb23baec00d508ca1c7276d4abb5050c5bc7f8d425558d6")
--- setManifestid(2005321,"1913417485921969978")
+addappid(2005321, 1, "4c87e9894343067fdcb23baec00d508ca1c7276d4abb5050c5bc7f8d425558d6")

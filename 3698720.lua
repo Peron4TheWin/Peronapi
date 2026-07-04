@@ -1,2 +1,5 @@
-addappid(3698720, 1, "None")
+-- Lua provided by SkyAPI 
+-- Game: ランブルバースト
+addappid(3698720)
 addappid(3698721, 1, "b1df52c913f406bedcf3b455c4fb03ac99b7c65a29c3247a6b603e35faf6c81b")
+addappid(3717440)

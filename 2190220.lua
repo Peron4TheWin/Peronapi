@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Danmaku Kagura Phantasia Lost
 addappid(2190220)
-addappid(2190221,0,"d94856de16f133e42d1d1c4c4c4bd5fb5c79ab25709f242ad77cd1cd5b69ba96")
--- setManifestid(2190221,"8297024815594200988")
+addappid(2190221, 1, "d94856de16f133e42d1d1c4c4c4bd5fb5c79ab25709f242ad77cd1cd5b69ba96")

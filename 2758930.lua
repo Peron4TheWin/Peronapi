@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Symbiant Re:Union - PG-13 Artbook & CG Pack
 addappid(2758930)
-addappid(2758931,0,"35970cd2b0603f242bbc4f9a403830ecaf0028d6254a8412040cd291dcb1e97a")
--- setManifestid(2758931,"8835892576001599824")
+addappid(2758931, 1, "35970cd2b0603f242bbc4f9a403830ecaf0028d6254a8412040cd291dcb1e97a")

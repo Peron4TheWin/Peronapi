@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CyberHeroes Arena DX
 addappid(2233240)
-addappid(2233241,0,"660c2356dce52c3f5bb55ecf0e7aa9e7c3ac63fcd39b15cca4a2ae730ee8a4e4")
--- setManifestid(2233241,"5170831878882842711")
+addappid(2233241, 1, "660c2356dce52c3f5bb55ecf0e7aa9e7c3ac63fcd39b15cca4a2ae730ee8a4e4")

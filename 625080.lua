@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FlatOut 4: Total Insanity Workshop Tool
 addappid(625080)
-addappid(625081,0,"8de0ee978dbb27d843651ac376a6f9c7b323aeb0d831dac2d94952a3e99462e1")
--- setManifestid(625081,"7871997590864288927")
+addappid(625081, 1, "8de0ee978dbb27d843651ac376a6f9c7b323aeb0d831dac2d94952a3e99462e1")

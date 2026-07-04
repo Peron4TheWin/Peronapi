@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hotel Business Simulator
 addappid(2738870)
-addappid(2738871,0,"664145979e274d395ffc16541eae1429a1b95a05f21965adecf1ae634c6b31b6")
--- setManifestid(2738871,"3210613503537632147")
+addappid(2738871, 1, "664145979e274d395ffc16541eae1429a1b95a05f21965adecf1ae634c6b31b6")

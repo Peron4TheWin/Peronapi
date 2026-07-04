@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: holo8
 addappid(3373960)
-addappid(3373961,0,"aa6daa4d1016dae3379b6832a8b9bcf0b6590d3bfbb43bc966caa7e34f99b703")
--- setManifestid(3373961,"3902036843356469310")
+addappid(3373961, 1, "aa6daa4d1016dae3379b6832a8b9bcf0b6590d3bfbb43bc966caa7e34f99b703")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dream Big 2
 addappid(1551150)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1551151,0,"b1cf315d4b0e392ba7c5facecf660372608facb324623c56679e4e5f60ecf8fd")
--- setManifestid(1551151,"8231610583287762247")
+addappid(1551151, 1, "b1cf315d4b0e392ba7c5facecf660372608facb324623c56679e4e5f60ecf8fd")

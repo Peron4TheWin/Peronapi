@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Full Dive: Game Master Edition
 addappid(1710740)
-addappid(1710741,0,"8a4fc70cc2f3e4f82ca5b236fcdc723ec475ac6ff174b80d6c9b0c6d270351a8")
--- setManifestid(1710741,"3105079097314905335")
+addappid(1710741, 1, "8a4fc70cc2f3e4f82ca5b236fcdc723ec475ac6ff174b80d6c9b0c6d270351a8")
+addappid(2951590)

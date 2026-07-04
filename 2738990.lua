@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Node Farm
 addappid(2738990)
-addappid(2738991,0,"6f85921732319a70ee9c493efbb955e18e776c530382e99a07abca30e7f29f09")
--- setManifestid(2738991,"6390845818834118935")
+addappid(2738991, 1, "6f85921732319a70ee9c493efbb955e18e776c530382e99a07abca30e7f29f09")

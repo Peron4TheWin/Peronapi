@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: God Of Weapons
 addappid(2342950)
-addappid(2342951,0,"f18007f05de526f58cd0f02db0d25b1d6513980aecc85e94ed7c67b75a300266")
---setManifestid(2342951,"1068553508344757689")
+addappid(2342951, 1, "f18007f05de526f58cd0f02db0d25b1d6513980aecc85e94ed7c67b75a300266")
+addappid(3282270)

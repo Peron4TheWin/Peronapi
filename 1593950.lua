@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don't Touch this Button!
 addappid(1593950)
-addappid(1593951,0,"2e04bfdd3ad7ad80361bc69394211a145c455e9ef9b115ae0bf0fe7fb92f1f50")
--- setManifestid(1593951,"4846734583145762392")
+addappid(1593951, 1, "2e04bfdd3ad7ad80361bc69394211a145c455e9ef9b115ae0bf0fe7fb92f1f50")

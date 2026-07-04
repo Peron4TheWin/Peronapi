@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crunch Element
 addappid(1090250)
-addappid(1090251,0,"fb2d64153fd2c15477f5180013ccdb688ec4728a362ed33fc7c6bda9b1302f65")
--- setManifestid(1090251,"5262819401477911032")
+addappid(1090251, 1, "fb2d64153fd2c15477f5180013ccdb688ec4728a362ed33fc7c6bda9b1302f65")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little Heroes
 addappid(2704100)
-addappid(2704101,0,"86df36619b578ef0939382d01a6bc16267816fcd7ca17a61d699dce335daa987")
--- setManifestid(2704101,"2855796997172224293")
+addappid(2704101, 1, "86df36619b578ef0939382d01a6bc16267816fcd7ca17a61d699dce335daa987")

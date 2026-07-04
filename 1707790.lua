@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dorfs: Hammers for Hire
 addappid(1707790)
-addappid(1707791,0,"742c601603ad7cb42ba81c01fb2cccd66c7117c0ae21a936e69a896e61c6a42a")
--- setManifestid(1707791,"5642123943892429961")
+addappid(1707791, 1, "742c601603ad7cb42ba81c01fb2cccd66c7117c0ae21a936e69a896e61c6a42a")

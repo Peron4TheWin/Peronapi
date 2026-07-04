@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Village Life
 addappid(1385780)
-addappid(1385781,0,"fdc852879405d80a605024d7e954a9f6e5b8aa00e6216addd621bd70c3d8640f")
--- setManifestid(1385781,"2977630172956858187")
+addappid(1385781, 1, "fdc852879405d80a605024d7e954a9f6e5b8aa00e6216addd621bd70c3d8640f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yaoling: Mythical Journey Demo
 addappid(2985020)
-addappid(2985021,0,"3f21a25fe410a5483e726213f7d0c4c3e618946256510f3978364cb67c95965f")
--- setManifestid(2985021,"6994811679055238536")
+addappid(2985021, 1, "3f21a25fe410a5483e726213f7d0c4c3e618946256510f3978364cb67c95965f")

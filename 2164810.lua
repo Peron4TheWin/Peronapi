@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XYZ
 addappid(2164810)
-addappid(229000)
-addappid(2164811,0,"7c8b70d3bffda610d4e4a64fc731e0e1e77cefc0edd34c3efeeee2c05edc5414")
+addappid(2164811, 1, "7c8b70d3bffda610d4e4a64fc731e0e1e77cefc0edd34c3efeeee2c05edc5414")

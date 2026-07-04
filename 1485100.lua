@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Femdom Sim: Femdom University
 addappid(1485100)
-addappid(1485101,0,"3855aabacf0ac086f83ae57937067984de4a949bca905d6619e137a5d77d4cd2")
--- setManifestid(1485101,"5705464148330593376")
+addappid(1485101, 1, "3855aabacf0ac086f83ae57937067984de4a949bca905d6619e137a5d77d4cd2")

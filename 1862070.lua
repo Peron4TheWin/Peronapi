@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Semiconductor
 addappid(1862070)
-addappid(1862071,0,"c832a7e866f5f5b28de7186304f7157d0151b6aad22fb5ffd4017f7c59a84e30")
--- setManifestid(1862071,"5152153676231734452")
+addappid(1862071, 1, "c832a7e866f5f5b28de7186304f7157d0151b6aad22fb5ffd4017f7c59a84e30")

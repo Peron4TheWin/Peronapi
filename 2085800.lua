@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kalinur
 addappid(2085800)
-addappid(2085801,0,"c24783d663977db4d31bf7fe0e03ab150099689250935ee73bdc2e5b461d4be2")
--- setManifestid(2085801,"6881202761446998541")
+addappid(2085801, 1, "c24783d663977db4d31bf7fe0e03ab150099689250935ee73bdc2e5b461d4be2")

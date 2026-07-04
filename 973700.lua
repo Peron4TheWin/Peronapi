@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disassembly VR
 addappid(973700)
-addappid(973701,0,"fdee0b71ffb7f6920e0ea195d2758560b7506fcdf9627f0789b97fa502fe60a8")
--- setManifestid(973701,"5816296304336589331")
+addappid(973701, 1, "fdee0b71ffb7f6920e0ea195d2758560b7506fcdf9627f0789b97fa502fe60a8")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 完蛋！我也能追到美女了！
 addappid(2712540)
-addappid(2712541,0,"ad87625f8f7f5df47fa6ddc091f8b6462066fca8d588b49cf8afc5d5f87ca1fa")
--- setManifestid(2712541,"1506767292675660740")
-addappid(2712543,0,"46dccda997a12a9b35cd890c7181c6c38b2ad3c224354808bbb35b085151ac22")
--- setManifestid(2712543,"1851297055963869640")
+addappid(2712541, 1, "ad87625f8f7f5df47fa6ddc091f8b6462066fca8d588b49cf8afc5d5f87ca1fa")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Salt Demo
 addappid(327870)
-addappid(327871,0,"75cb574d42e60ab7fbbcd4635e5a2911e8520b9f6e246342866045bcac9c0c3e")
--- setManifestid(327871,"12245881035903795")
+addappid(327871, 1, "75cb574d42e60ab7fbbcd4635e5a2911e8520b9f6e246342866045bcac9c0c3e")

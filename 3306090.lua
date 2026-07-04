@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Cursed Ritual
 addappid(3306090)
-addappid(3306091,0,"d4d3c6ed81ea192a317350921d771daf5d331b5e2bc9986043a7611c234c443d")
--- setManifestid(3306091,"462698241361085837")
+addappid(3306091, 1, "d4d3c6ed81ea192a317350921d771daf5d331b5e2bc9986043a7611c234c443d")

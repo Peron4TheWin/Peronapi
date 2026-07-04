@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fear Corporation
 addappid(1697680)
-addappid(1697681,0,"ee5eaa00757bab0b1062d7b60463f2168ee925ba369685e726b938fce34a73b7")
--- setManifestid(1697681,"8448836853296590281")
+addappid(1697681, 1, "ee5eaa00757bab0b1062d7b60463f2168ee925ba369685e726b938fce34a73b7")

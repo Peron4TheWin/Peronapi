@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fractured Perception
 addappid(3512810)
-addappid(3512811,0,"9d7af50fde77db64cd23a551865fe92d24737986850d8b48277aeea9b77577c6")
--- setManifestid(3512811,"8697381388647751750")
+addappid(3512811, 1, "9d7af50fde77db64cd23a551865fe92d24737986850d8b48277aeea9b77577c6")

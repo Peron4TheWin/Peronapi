@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator
 addappid(2594920)
-addappid(2594921,0,"cc74cf5fd6f04a4b93dcda5d2a932e7acba5f090808eb95b5b7cc1498454b20f")
--- setManifestid(2594921,"3259740048132237889")
+addappid(2594921, 1, "cc74cf5fd6f04a4b93dcda5d2a932e7acba5f090808eb95b5b7cc1498454b20f")

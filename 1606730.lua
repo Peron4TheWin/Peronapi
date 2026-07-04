@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Coin Dash
 addappid(1606730)
-addappid(1606731,0,"ed8140ed906bdbaf13b366dfaf4c5c31b7cb28a73fdf00654d059061452c7483")
--- setManifestid(1606731,"8500360054094047792")
+addappid(1606731, 1, "ed8140ed906bdbaf13b366dfaf4c5c31b7cb28a73fdf00654d059061452c7483")

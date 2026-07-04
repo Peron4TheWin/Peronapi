@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Harem Dungeon
 addappid(3191580)
-addappid(3191581,0,"ba5202acf43d3dfd2b86c548d9158c950778aba0de61dfbe991a3f92d53827bc")
--- setManifestid(3191581,"1202628314811241998")
+addappid(3191581, 1, "ba5202acf43d3dfd2b86c548d9158c950778aba0de61dfbe991a3f92d53827bc")

@@ -1,7 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: STANDBY
 addappid(494580)
-addappid(494581,0,"7f1af1e31c016748d7c4566e88ba6b59758a1c8b79809162fda7c8d361786e0e")
--- setManifestid(494581,"2171469715862880894")
-addappid(494582,0,"ccbc5e7effef4b524f509cfd51fe76f3f7f7728bf5d6b1562cd989ddf1424d11")
--- setManifestid(494582,"8283758714493162181")
-addappid(578201)
+addappid(494581, 1, "7f1af1e31c016748d7c4566e88ba6b59758a1c8b79809162fda7c8d361786e0e")
 addappid(578200)
+addappid(578201)

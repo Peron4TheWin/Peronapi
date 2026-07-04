@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 山海长歌
 addappid(2113990)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(2113991,0,"23a15dd5e8d10daf26e1fdcd28c5eda85fd406afaa400b6ab2c63e6a88d05287")
--- setManifestid(2113991,"3537628118881159711")
+addappid(2113991, 1, "23a15dd5e8d10daf26e1fdcd28c5eda85fd406afaa400b6ab2c63e6a88d05287")

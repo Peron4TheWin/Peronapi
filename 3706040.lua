@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blastforge Breach
 addappid(3706040)
-addappid(3706041,0,"d2d3bc4c3b680944bc42e0a0c1b1846a65bb78fe27110e2347980713ef451710")
--- setManifestid(3706041,"3691110893690585133")
+addappid(3706041, 1, "d2d3bc4c3b680944bc42e0a0c1b1846a65bb78fe27110e2347980713ef451710")

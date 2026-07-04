@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wish You All The Best
 addappid(3685540)
-addappid(3685541,0,"a46727d49f7123a4bd98bb52a7971c894fdd006c3fa2da336334a896db4e9dea")
--- setManifestid(3685541,"8461117859834581482")
+addappid(3685541, 1, "a46727d49f7123a4bd98bb52a7971c894fdd006c3fa2da336334a896db4e9dea")

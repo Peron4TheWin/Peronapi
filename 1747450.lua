@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 成土市的我 CTcity
 addappid(1747450)
-addappid(1747451,0,"9d558eaa5f4debf3a3f2d33951d518e7f973ccecff9a0f00ed1a6bf3f68ecd53")
--- setManifestid(1747451,"6945763943847484788")
+addappid(1747451, 1, "9d558eaa5f4debf3a3f2d33951d518e7f973ccecff9a0f00ed1a6bf3f68ecd53")

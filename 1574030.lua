@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: War Of Freedom
+addappid(1574030)
+addappid(1574031, 1, "09c190fd8bea99000feceda99c0896596bb1a621504e4ebf7d47927fad15ac53")

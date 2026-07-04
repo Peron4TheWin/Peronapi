@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Auto Cell: Game of Life
 addappid(1729590)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1729591,0,"e1dc36759f9d5b228d821b0f2eddde13f16d3f7bba69bab095df127f6e25a186")
--- setManifestid(1729591,"5504737650426364712")
+addappid(1729591, 1, "e1dc36759f9d5b228d821b0f2eddde13f16d3f7bba69bab095df127f6e25a186")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magical Delicacy
 addappid(2231190)
-addappid(2231191,0,"48e7e0796ba1b96f1722c7e298aa7138ade390af6f1421c5fafd6d31b73ebafa")
--- setManifestid(2231191,"4287789414335149685")
+addappid(2231191, 1, "48e7e0796ba1b96f1722c7e298aa7138ade390af6f1421c5fafd6d31b73ebafa")

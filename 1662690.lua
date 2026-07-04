@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twin Stones: The Journey of Bukka
 addappid(1662690)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1662691,0,"c1f250ccb6e39bce027201c6285b6c78ec9fb1ca1eb3552d3e53a36efcf9cdc2")
-addappid(1662692)
+addappid(1662691, 1, "c1f250ccb6e39bce027201c6285b6c78ec9fb1ca1eb3552d3e53a36efcf9cdc2")

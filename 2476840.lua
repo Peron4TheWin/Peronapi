@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 浮游
 addappid(2476840)
-addappid(2476841,0,"cfbfdc300be7807aaef451f5f40e71009193d56bba13420e83e3bf3d7f3963bb")
--- setManifestid(2476841,"7801352638712860429")
+addappid(2476841, 1, "cfbfdc300be7807aaef451f5f40e71009193d56bba13420e83e3bf3d7f3963bb")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Laika: Aged Through Blood
 addappid(1796220)
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(1796221,0,"408f773b77855a7d717242c7888fd324568fb64132fef6bdb24c500ce3837c29")
---setManifestid(1796221,"4492409415281019123")
+addappid(1796221, 1, "408f773b77855a7d717242c7888fd324568fb64132fef6bdb24c500ce3837c29")

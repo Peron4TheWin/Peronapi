@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 Pumpkins
 addappid(1764550)
-addappid(1764551,0,"3833259260b4f24c0947fc8f1d7c29606eda0c0b9d1a65d351cab31124da3b4a")
--- setManifestid(1764551,"118653721464026625")
+addappid(1764551, 1, "3833259260b4f24c0947fc8f1d7c29606eda0c0b9d1a65d351cab31124da3b4a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gods of Savvarah | Part I
 addappid(2098870)
-addappid(2098871,0,"aca547a57de740bafe2aae6f361c714a64b81112e01049940ac7c11b7040ac74")
--- setManifestid(2098871,"1985352667095297308")
+addappid(2098871, 1, "aca547a57de740bafe2aae6f361c714a64b81112e01049940ac7c11b7040ac74")

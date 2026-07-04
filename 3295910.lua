@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backrooms Cleanup Crew Demo
 addappid(3295910)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3295911,0,"76081faaedc07bce69bccca099bc8d240221cd166adcc1184b6c59c9fea1f234")
+addappid(3295911, 1, "76081faaedc07bce69bccca099bc8d240221cd166adcc1184b6c59c9fea1f234")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burning Instinct
 addappid(927050)
-addappid(927051,0,"acd351067db74a87de9b186545f34571b0a3fc05893dd4fc232939d91e916a2e")
--- setManifestid(927051,"2764354971451024171")
+addappid(927051, 1, "acd351067db74a87de9b186545f34571b0a3fc05893dd4fc232939d91e916a2e")

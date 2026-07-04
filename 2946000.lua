@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hannah’s Day Demo
 addappid(2946000)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2946001,0,"4dc91183dc074e79694c2b4d4f82ac275f484263102eaf91c78d216ca0d4826a")
+addappid(2946001, 1, "4dc91183dc074e79694c2b4d4f82ac275f484263102eaf91c78d216ca0d4826a")

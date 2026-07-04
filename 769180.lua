@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nekojishi Original Soundtrack
 addappid(769180)
-addappid(769180,0,"b0854cdafcb706a5f6b749d43b445c523612970465c741a0009962213dee3697")
-addappid(769181,0,"d8c30c885bfc4bcfebcecc00f14eb6bc1708f5f7483fb822c4ac0703fc1ce276")
+addappid(769181, 1, "d8c30c885bfc4bcfebcecc00f14eb6bc1708f5f7483fb822c4ac0703fc1ce276")

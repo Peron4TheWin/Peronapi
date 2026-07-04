@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lyca
 addappid(3421300)
-addappid(3421301,0,"df4a00244c156b8240c69b5ffc7e623d16d6785e53db1c36fc8749c0cd81bcd8")
--- setManifestid(3421301,"1079788812937538035")
+addappid(3421301, 1, "df4a00244c156b8240c69b5ffc7e623d16d6785e53db1c36fc8749c0cd81bcd8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Billie Bust Up Playtest
 addappid(2364680)
-addappid(2364681,0,"e1eabf83cbdfbfced2d7849a20f94f1a7677f8d390912cd0836940f578a61516")
--- setManifestid(2364681,"4178883887936983908")
+addappid(2364681, 1, "e1eabf83cbdfbfced2d7849a20f94f1a7677f8d390912cd0836940f578a61516")

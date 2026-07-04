@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Misfire
 addappid(1145270)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(1145271,0,"428d6ce0abac70cde1ff0c59018f4f5ddcc27f4afc83a6c3a6a7202b007917fc")
--- setManifestid(1145271,"727629606323315970")
+addappid(1145271, 1, "428d6ce0abac70cde1ff0c59018f4f5ddcc27f4afc83a6c3a6a7202b007917fc")

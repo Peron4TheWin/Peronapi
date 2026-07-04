@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summoner Apprentice
 addappid(1450240)
-addappid(1450241,0,"9dcb8991dd61afa1103e11efac9656ab702be351bbf20ee51a985a79ff4f589a")
--- setManifestid(1450241,"203205369002518017")
+addappid(1450241, 1, "9dcb8991dd61afa1103e11efac9656ab702be351bbf20ee51a985a79ff4f589a")

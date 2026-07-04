@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Endless Empty Soundtrack
 addappid(2840130)
-addappid(2840131,0,"9332f978ec43d260fc83c8ced62015225a8eb0d524fdc2ad4c9c9b25d476343a")
--- setManifestid(2840131,"1226446677157004942")
+addappid(2840131, 1, "9332f978ec43d260fc83c8ced62015225a8eb0d524fdc2ad4c9c9b25d476343a")

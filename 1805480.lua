@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Like a Dragon: Ishin!
 addappid(1805480)
-addappid(1805481,0,"b6865a3777287943bedd9ec78a50d638f0eea4d711441035e656bcc633a83765")
+addappid(1805481, 1, "b6865a3777287943bedd9ec78a50d638f0eea4d711441035e656bcc633a83765")

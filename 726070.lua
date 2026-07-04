@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hidden Object - Sweet Home
 addappid(726070)
-addappid(726071,0,"f566ca0b73b5e3ad611069ee10fd3580ec8d8ae65d8988422934fdb2ef797c15")
--- setManifestid(726071,"1635122686645991487")
+addappid(726071, 1, "f566ca0b73b5e3ad611069ee10fd3580ec8d8ae65d8988422934fdb2ef797c15")

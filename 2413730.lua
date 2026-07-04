@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zombie Hunter: D-Day
 addappid(2413730)
-addappid(2413731,0,"c5670f74edbdb4709a9aeab0d094c7b40ce75a190252b9b3cb0dcaf1053ab3e2")
--- setManifestid(2413731,"2104760518226401009")
+addappid(2413731, 1, "c5670f74edbdb4709a9aeab0d094c7b40ce75a190252b9b3cb0dcaf1053ab3e2")

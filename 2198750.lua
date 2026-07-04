@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Amanda the Adventurer Demo
 addappid(2198750)
-addappid(2198751,0,"8409aa3aeb3750bf5ec6e97b1e058c5cf4f42c914adceb0e0c02418e4a436be3")
--- setManifestid(2198751,"3617474887589636202")
+addappid(2198751, 1, "8409aa3aeb3750bf5ec6e97b1e058c5cf4f42c914adceb0e0c02418e4a436be3")

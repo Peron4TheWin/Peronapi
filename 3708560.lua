@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brainfuck Challenge
 addappid(3708560)
-addappid(3708561,0,"bd5c0a4a9beea4e1bad8b303cab3dd354dfb2a31cf5e616ebe6cb3a7708e91e2")
--- setManifestid(3708561,"4368439456903489392")
+addappid(3708561, 1, "bd5c0a4a9beea4e1bad8b303cab3dd354dfb2a31cf5e616ebe6cb3a7708e91e2")

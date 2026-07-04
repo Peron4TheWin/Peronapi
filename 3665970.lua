@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drop Adventure - مغامرة قطرة
 addappid(3665970)
-addappid(3665971,0,"533a1e6b7f9c44cdaaacd98fa4826525117ede00d23fd0414b0c5bc8c51fd978")
+addappid(3665971, 1, "533a1e6b7f9c44cdaaacd98fa4826525117ede00d23fd0414b0c5bc8c51fd978")

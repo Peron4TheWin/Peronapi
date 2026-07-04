@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bythzkel Sombréa Playtest
 addappid(3122870)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229033,"2059065101492814639")
-addappid(3122871,0,"9a1c82cdfaf45e0049ba9ecb581a32e700380003bd7966daadfa0dfd9b9aad3a")
+addappid(3122871, 1, "9a1c82cdfaf45e0049ba9ecb581a32e700380003bd7966daadfa0dfd9b9aad3a")

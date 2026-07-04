@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fisher Idle
 addappid(3449840)
-addappid(3449841,0,"0716a9315162c640fe56c0cb7ba00bcd1529f8d203b1e4afd779bbd0efa78952")
--- setManifestid(3449841,"6009207448245888590")
+addappid(3449841, 1, "0716a9315162c640fe56c0cb7ba00bcd1529f8d203b1e4afd779bbd0efa78952")

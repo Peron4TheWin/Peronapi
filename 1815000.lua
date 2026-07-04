@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Alone
 addappid(1815000)
-addappid(1815001,0,"a657ae33d7325d6d0e8a3632926986026f0c96bcb3b6761bc50e0b2960a95984")
+addappid(1815001, 1, "a657ae33d7325d6d0e8a3632926986026f0c96bcb3b6761bc50e0b2960a95984")

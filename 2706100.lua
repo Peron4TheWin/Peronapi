@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Castle Capture Topkapi Demo
 addappid(2706100)
-addappid(2706101,0,"3befe460ab41ef4a1f81fbb408ce846392f82ba4bbcc78080e180269be772ea0")
--- setManifestid(2706101,"7045932695947798473")
+addappid(2706101, 1, "3befe460ab41ef4a1f81fbb408ce846392f82ba4bbcc78080e180269be772ea0")

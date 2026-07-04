@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100% Orange Juice Demo
 addappid(304440)
--- setManifestid(228984,"2547553897526095397")
--- setManifestid(229000,"4622705914179893434")
-addappid(304441,0,"22683d5f91141a274f587c0d077ab1e5bfb2adec850d09fda4514fb6ee37caf2")
+addappid(304441, 1, "22683d5f91141a274f587c0d077ab1e5bfb2adec850d09fda4514fb6ee37caf2")

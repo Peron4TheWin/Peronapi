@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Witch of Mystery Tower
 addappid(1587290)
-addappid(1587291,0,"5f0345992f7c3872df56931323405a81ac3ecfbca78fe1f3a01bd01d877e9ec1")
--- setManifestid(1587291,"1096549295869061577")
+addappid(1587291, 1, "5f0345992f7c3872df56931323405a81ac3ecfbca78fe1f3a01bd01d877e9ec1")

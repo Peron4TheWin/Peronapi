@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horny Goddesses Quiz
 addappid(1786960)
-addappid(1786961,0,"de9ee84948f93bf739f5556a46e786fb1c28c44a03b4dd3e612ad77220523812")
--- setManifestid(1786961,"3639384833314168422")
+addappid(1786961, 1, "de9ee84948f93bf739f5556a46e786fb1c28c44a03b4dd3e612ad77220523812")

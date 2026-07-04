@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Banzai Escape 2: Subterranean
 addappid(1758950)
-addappid(1758951,0,"3651e588ed8ac682488b7648d77031600a182166827ae7b4edb91e5fe8e2e024")
--- setManifestid(1758951,"6890371752336955844")
+addappid(1758951, 1, "3651e588ed8ac682488b7648d77031600a182166827ae7b4edb91e5fe8e2e024")

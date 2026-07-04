@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dream Survivors
 addappid(2774490)
-addappid(2774491,0,"4795578d9ec5cc4ed9731a8e1bdd4dbc17e27139055b5ef36cc35c68531ac36f")
--- setManifestid(2774491,"7865229371630006622")
+addappid(2774491, 1, "4795578d9ec5cc4ed9731a8e1bdd4dbc17e27139055b5ef36cc35c68531ac36f")

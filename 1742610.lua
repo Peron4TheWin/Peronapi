@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirits of the Hellements - TD
 addappid(1742610)
-addappid(1742611,0,"a6a8d76f89f0b81ef29f265eed826061fe5191b07814f35b4572255289a7702b")
--- setManifestid(1742611,"938070731470363758")
+addappid(1742611, 1, "a6a8d76f89f0b81ef29f265eed826061fe5191b07814f35b4572255289a7702b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Haste
 addappid(1826540)
-addappid(1826541,0,"34da739bbfaf26c6652d3804e12d1e5b9b7f5672a226f9ea3e3ad13ea777797e")
--- setManifestid(1826541,"6042536396472543986")
+addappid(1826541, 1, "34da739bbfaf26c6652d3804e12d1e5b9b7f5672a226f9ea3e3ad13ea777797e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jeepney Simulator
 addappid(2489990)
-addappid(2489991,0,"f60da4a9072f576a7c3b6144bd7ae8b8d62332c4e5c346d197e9401fab73ab7f")
--- setManifestid(2489991,"1906272791750103682")
+addappid(2489991, 1, "f60da4a9072f576a7c3b6144bd7ae8b8d62332c4e5c346d197e9401fab73ab7f")

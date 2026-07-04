@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 瓶盖战舰 Playtest
 addappid(3143690)
-addappid(3143691,0,"e576515e9b045330f0aed43032dd14f0f32cf01f4f270eeb7a485002846bfeb4")
--- setManifestid(3143691,"3068845579273705060")
+addappid(3143691, 1, "e576515e9b045330f0aed43032dd14f0f32cf01f4f270eeb7a485002846bfeb4")

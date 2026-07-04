@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3 min per day! Improve your aged eyes(Presbyopia)
 addappid(1371170)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229006,"1784011429307107530")
--- setManifestid(229020,"5799761707845834510")
-addappid(1371171,0,"041b18f5798fcf3d2b5d6af1ef53a3905d8313d02d44947254f0d705ab7b4a88")
--- setManifestid(1371171,"3035451621355333131")
+addappid(1371171, 1, "041b18f5798fcf3d2b5d6af1ef53a3905d8313d02d44947254f0d705ab7b4a88")

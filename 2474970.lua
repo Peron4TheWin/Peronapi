@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai: Magical girls
 addappid(2474970)
-addappid(2474971,0,"dd09af7c9f4d3c7c8d0e111d261318884ccf8a0496c7881417e22ac0740f7a2f")
--- setManifestid(2474971,"5244626689728768402")
+addappid(2474971, 1, "dd09af7c9f4d3c7c8d0e111d261318884ccf8a0496c7881417e22ac0740f7a2f")

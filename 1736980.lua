@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BounceShot
 addappid(1736980)
-addappid(1736981,0,"49618d06b4f236a92d2417a0717985c7b59cebb0824a5d872fb8a2544efd2f77")
--- setManifestid(1736981,"4627625487696484524")
+addappid(1736981, 1, "49618d06b4f236a92d2417a0717985c7b59cebb0824a5d872fb8a2544efd2f77")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: King Of Water
 addappid(2142370)
-addappid(2142371,0,"1d2beaf63dee6457972646d7703f6824500155a57cfec6fea5e12670a7283845")
+addappid(2142371, 1, "1d2beaf63dee6457972646d7703f6824500155a57cfec6fea5e12670a7283845")

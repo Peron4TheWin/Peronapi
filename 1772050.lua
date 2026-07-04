@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Souls of White Star
 addappid(1772050)
--- setManifestid(229005,"7992454656023763365")
-addappid(1772051,0,"e2bcfd8c9279a9384ec0b7e5867826afa026bbc41b00e0c4230bebd79de029c5")
--- setManifestid(1772051,"4141560705535317581")
+addappid(1772051, 1, "e2bcfd8c9279a9384ec0b7e5867826afa026bbc41b00e0c4230bebd79de029c5")

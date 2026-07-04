@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Raging Loop
 addappid(648100)
-addappid(648101,0,"30e0ded97b0a63a895b735c25fa3596825fc11b2f5769202d6da4258b3f0e591")
---setManifestid(648101,"8016674546490539091")
+addappid(648101, 1, "30e0ded97b0a63a895b735c25fa3596825fc11b2f5769202d6da4258b3f0e591")

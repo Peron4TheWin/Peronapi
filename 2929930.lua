@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Xenowars Demo
 addappid(2929930)
-addappid(2929931,0,"de977f2ceceee9f3d50a740565f3f1a5999b45667bb374de3e53da3961e95ff4")
--- setManifestid(2929931,"4623069161268375690")
+addappid(2929931, 1, "de977f2ceceee9f3d50a740565f3f1a5999b45667bb374de3e53da3961e95ff4")

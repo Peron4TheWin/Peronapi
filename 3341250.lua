@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World of Tanks Blitz Playtest
 addappid(3341250)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(3341251,0,"d9e54e45120c44253288be4379eeb5543ff8597db00808d2d7a0ab0442a988cc")
+addappid(3341251, 1, "d9e54e45120c44253288be4379eeb5543ff8597db00808d2d7a0ab0442a988cc")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Record Shop Simulator
 addappid(3111580)
-addappid(3111581,0,"387ff37c7044fc545f710a0e76d6a0b389562a15640fea0d8a16b577d8f59abd")
--- setManifestid(3111581,"8787975067775594657")
+addappid(3111581, 1, "387ff37c7044fc545f710a0e76d6a0b389562a15640fea0d8a16b577d8f59abd")

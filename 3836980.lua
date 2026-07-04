@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silent Tales‌: Vermilion Embers
 addappid(3836980)
-addappid(3836981,0,"ae54fe70a7859a44912db9b10d2f470288e25519b2143147158e61cd3aa4796e")
--- setManifestid(3836981,"6616300842007859225")
+addappid(3836981, 1, "ae54fe70a7859a44912db9b10d2f470288e25519b2143147158e61cd3aa4796e")

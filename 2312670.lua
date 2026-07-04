@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Cosmic Wheel Sisterhood Demo
 addappid(2312670)
-addappid(2312671,0,"535a98df5e267c3236fd2765798765d155697a7c42c6a0e207f092dcb4917de7")
--- setManifestid(2312671,"6995128137965860230")
+addappid(2312671, 1, "535a98df5e267c3236fd2765798765d155697a7c42c6a0e207f092dcb4917de7")

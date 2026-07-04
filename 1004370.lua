@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Paper Cut Mansion
 addappid(1004370)
-addappid(1004371,0,"36a1bc5541f99d5ca44710553cd91971acf784f08e2a8623d4f129cc1b03b53a")
--- setManifestid(1004371,"7718016630325920440")
+addappid(1004371, 1, "36a1bc5541f99d5ca44710553cd91971acf784f08e2a8623d4f129cc1b03b53a")

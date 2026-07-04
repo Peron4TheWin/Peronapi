@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heart Chain Kitty
 addappid(933210)
-addappid(933211,0,"f84728029dfb473259324d6a472dd3bdffb0343c81ac540850c00ac2d1407f9d")
--- setManifestid(933211,"7042001136655636574")
+addappid(933211, 1, "f84728029dfb473259324d6a472dd3bdffb0343c81ac540850c00ac2d1407f9d")

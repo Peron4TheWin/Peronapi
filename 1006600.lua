@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Octoq Puzzle
 addappid(1006600)
-addappid(1006601,0,"19b66c19227e6aa1c43009dde3bf757b141ea5086fd96ae2734effd9a804a392")
--- setManifestid(1006601,"6385450041439026475")
+addappid(1006601, 1, "19b66c19227e6aa1c43009dde3bf757b141ea5086fd96ae2734effd9a804a392")

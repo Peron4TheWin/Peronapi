@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rise of Kenshin Playtest
 addappid(2984990)
-addappid(2984991,0,"2218896d984432fedf759ec338c92a2c586fad949972c1c9cd2f7b38c1db7669")
--- setManifestid(2984991,"3777428926398367137")
+addappid(2984991, 1, "2218896d984432fedf759ec338c92a2c586fad949972c1c9cd2f7b38c1db7669")

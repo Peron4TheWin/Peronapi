@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pokie The Stickfigure
 addappid(1345200)
-addappid(1345201,0,"c1b106d7ebeda95d5c7af7ace6fe64e17281e7b26bc06345ee86a066059c92d0")
--- setManifestid(1345201,"2293434913930387191")
+addappid(1345201, 1, "c1b106d7ebeda95d5c7af7ace6fe64e17281e7b26bc06345ee86a066059c92d0")

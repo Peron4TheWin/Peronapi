@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 透明的她与真实的我 Demo
 addappid(3142830)
-addappid(3142831,0,"8e9db92c6f741ac1c66732fa1be8348c8c09867cb3c05df3c70b8513f806181e")
--- setManifestid(3142831,"8642203480474092759")
+addappid(3142831, 1, "8e9db92c6f741ac1c66732fa1be8348c8c09867cb3c05df3c70b8513f806181e")

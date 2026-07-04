@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 桃源村日志 Playtest
 addappid(2986740)
-addappid(2986741,0,"2ba22e5cf94634fe75f5d285f69f876efd2b5227f229e026f45373e718a2fbec")
--- setManifestid(2986741,"740693462746264870")
+addappid(2986741, 1, "2ba22e5cf94634fe75f5d285f69f876efd2b5227f229e026f45373e718a2fbec")

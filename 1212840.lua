@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: パトルの軍事博物館３ 超絶無敵究極兵器
 addappid(1212840)
-addappid(1212841,0,"7faaa703e57292ce0d4bf62e410f8589b321cd6ad4fb2774ea6346486a4e6516")
--- setManifestid(1212841,"1836757357537037277")
+addappid(1212841, 1, "7faaa703e57292ce0d4bf62e410f8589b321cd6ad4fb2774ea6346486a4e6516")

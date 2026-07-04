@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: KALEIDO STELLA
 addappid(1005890)
-addappid(1005891,0,"dce6a59a2f665402d9f0185c727b5ddcb11587c7999a186a3a01a1540c5bf1ba")
--- setManifestid(1005891,"3013349845718586279")
+addappid(1005891, 1, "dce6a59a2f665402d9f0185c727b5ddcb11587c7999a186a3a01a1540c5bf1ba")
 addappid(1109530)

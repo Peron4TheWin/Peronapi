@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Waltz: Anime tank girls
 addappid(581130)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(228984,"2547553897526095397")
--- setManifestid(228985,"3966345552745568756")
-addappid(581131,0,"892d98caddf02cabe047250f5e3a85737f49cc35552f14c11461265dad31c1aa")
--- setManifestid(581131,"6668374625413991626")
+addappid(581131, 1, "892d98caddf02cabe047250f5e3a85737f49cc35552f14c11461265dad31c1aa")

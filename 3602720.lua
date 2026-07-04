@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CashGrab: Refunded
 addappid(3602720)
-addappid(3602721,0,"bd2ff05c474b86c3b998f13032d7bd53af26f64526fb510d5b1396226b46d703")
--- setManifestid(3602721,"7661944629237362112")
+addappid(3602721, 1, "bd2ff05c474b86c3b998f13032d7bd53af26f64526fb510d5b1396226b46d703")

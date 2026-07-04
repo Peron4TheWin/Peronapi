@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battlefield: Bad Company™ 2
 addappid(24960)
-addappid(24961,0,"9900d08628ad2bf35a66c757bc3c82ebc93e898bfc25d9416d198aa9f8b7df89")
--- setManifestid(24961,"4081207827496872520")
+addappid(24961, 1, "9900d08628ad2bf35a66c757bc3c82ebc93e898bfc25d9416d198aa9f8b7df89")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixelpunk XL
 addappid(803850)
--- setManifestid(229000,"4622705914179893434")
-addappid(803851,0,"3abef54eef8734181e379c8b84494e77df1047fe96f005211dd33826a2b8a269")
--- setManifestid(803851,"176516783766498012")
+addappid(803851, 1, "3abef54eef8734181e379c8b84494e77df1047fe96f005211dd33826a2b8a269")

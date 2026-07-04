@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bulkhead
 addappid(1467670)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1467671,0,"20832b6dd556d881bcdbb69b1cbdf73f176b6323a26d6edfe471afc2f79e2227")
--- setManifestid(1467671,"899209437882596218")
+addappid(1467671, 1, "20832b6dd556d881bcdbb69b1cbdf73f176b6323a26d6edfe471afc2f79e2227")

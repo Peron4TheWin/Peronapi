@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heretic + Hexen
 addappid(3286930)
-addappid(3286931,0,"9b93d7f5baf46df2860922615af3bd0cc1c32dabd3e3adb53df73cfc425f3eb6")
--- setManifestid(3286931,"1584969527720587717")
+addappid(3286931, 1, "9b93d7f5baf46df2860922615af3bd0cc1c32dabd3e3adb53df73cfc425f3eb6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tsukai Furushita Kotoba Ya Uta Wo MV
 addappid(1165570)
-addappid(1165571,0,"8b6d0d489901506744c2ad16d8af0382ad301c7c00933de4dcdf07e49db3aed4")
--- setManifestid(1165571,"8587032188855997305")
+addappid(1165571, 1, "8b6d0d489901506744c2ad16d8af0382ad301c7c00933de4dcdf07e49db3aed4")

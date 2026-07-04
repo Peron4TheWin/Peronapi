@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Seed of Pandora: Legend of the Gaia Tree
 addappid(2213070)
-addappid(2213071,0,"d5b8bd893741d4f377f205f80c0a3789ca4485a20d156d688ce5ab9b11250fa2")
--- setManifestid(2213071,"6930974511085578144")
+addappid(2213071, 1, "d5b8bd893741d4f377f205f80c0a3789ca4485a20d156d688ce5ab9b11250fa2")

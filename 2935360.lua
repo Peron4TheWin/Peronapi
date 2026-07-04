@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blood Typers Demo
 addappid(2935360)
-addappid(2935361,0,"0963694a8b46f3cb2c6ce165a2fb028c1f7be6f50d77a0b07de0cc4522c1ff10")
+addappid(2935361, 1, "0963694a8b46f3cb2c6ce165a2fb028c1f7be6f50d77a0b07de0cc4522c1ff10")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sengoku
 addappid(73210)
-addappid(73211,0,"c2c6464cb015fa7e332eb4e3cad4b4ae809a5a9f6838cbf1c09474934a56ece0")
--- setManifestid(73211,"2983158909545757196")
+addappid(73211, 1, "c2c6464cb015fa7e332eb4e3cad4b4ae809a5a9f6838cbf1c09474934a56ece0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Barton Lynch Pro Surfing
 addappid(1776170)
-addappid(1776171,0,"2aad217043129deb8cae4d093d44457257505ce57ae63b628e8bd10242fa92d9")
--- setManifestid(1776171,"4182301923552505973")
+addappid(1776171, 1, "2aad217043129deb8cae4d093d44457257505ce57ae63b628e8bd10242fa92d9")

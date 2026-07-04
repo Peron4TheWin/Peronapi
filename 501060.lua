@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: C.S.S. CITADEL VR
 addappid(501060)
-addappid(501061,0,"4a09c63af9fbf79d3c640f32fdac411c49f11497c41da166b08ee0668dea0acc")
--- setManifestid(501061,"5804791116283831721")
+addappid(501061, 1, "4a09c63af9fbf79d3c640f32fdac411c49f11497c41da166b08ee0668dea0acc")

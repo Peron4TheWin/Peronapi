@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pretty Girls Mahjong Solitaire [BLUE]
 addappid(1418680)
-addappid(1418681,0,"7113e18737f49ed8bae044a7f35224043f5ab6234b651e658e0b799435d96eb9")
--- setManifestid(1418681,"1531233228967017569")
+addappid(1418681, 1, "7113e18737f49ed8bae044a7f35224043f5ab6234b651e658e0b799435d96eb9")

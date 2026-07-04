@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dadish
 addappid(1522950)
-addappid(1522951,0,"005e22bf4cde647cd3dadb2411e3ffcc1927dc3c743430ac48908cff4e9627e5")
--- setManifestid(1522951,"6830104636544287851")
+addappid(1522951, 1, "005e22bf4cde647cd3dadb2411e3ffcc1927dc3c743430ac48908cff4e9627e5")

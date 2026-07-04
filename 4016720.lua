@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: POHMIELISKO
+addappid(4016720)
+addappid(4016721, 1, "56f3655d1a9bbc0ab0594e86af505fcf4b435e4826b215d2d332023066893a3c")

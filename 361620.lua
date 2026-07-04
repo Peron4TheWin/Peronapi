@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: True Bliss
 addappid(361620)
-addappid(361621,0,"f6b74c7fc718c5a71a35a6933a24ddd6061a4b88d6ba02d9bc809c8bb61a594d")
--- setManifestid(361621,"2230977032819899583")
+addappid(361621, 1, "f6b74c7fc718c5a71a35a6933a24ddd6061a4b88d6ba02d9bc809c8bb61a594d")

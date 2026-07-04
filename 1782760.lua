@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FURY
 addappid(1782760)
-addappid(1782761,0,"e0bee2fadf1fe5c2a468ba266158e123a4b274d15da0d6e7e0462b188c528ae3")
--- setManifestid(1782761,"1399037767030763977")
+addappid(1782761, 1, "e0bee2fadf1fe5c2a468ba266158e123a4b274d15da0d6e7e0462b188c528ae3")

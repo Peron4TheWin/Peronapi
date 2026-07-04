@@ -1,7 +1,11 @@
+-- Lua provided by SkyAPI 
+-- Game: Sonic Racing: CrossWorlds
 addappid(2486820)
+addappid(2486821, 1, "08e2539b55bc79fefa9447d3479c57b481c4256c12ebd50529fc3722fcc3727f")
+addappid(3565190)
 addappid(3592250)
+addappid(3601430)
+addappid(3601440)
 addappid(3601500)
 addappid(3601510)
 addappid(3601530)
-addappid(2486821,0,"08e2539b55bc79fefa9447d3479c57b481c4256c12ebd50529fc3722fcc3727f")
--- setManifestid(2486821,"4568197498656447880")

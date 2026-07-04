@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deep Space Cache
 addappid(3226750)
-addappid(3226751,0,"73bc231ac362e174ec4a45a78f138d6398b439f4c88f23258a8f30dc12f42f35")
+addappid(3226751, 1, "73bc231ac362e174ec4a45a78f138d6398b439f4c88f23258a8f30dc12f42f35")

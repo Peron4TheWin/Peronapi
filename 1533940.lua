@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 轮回修真OL
 addappid(1533940)
-addappid(1533941,0,"818d11b9c222143e3e7a0109757e85bfe6ba41d39a399a47d8da965b1bf48d5a")
--- setManifestid(1533941,"2129278555277903132")
+addappid(1533941, 1, "818d11b9c222143e3e7a0109757e85bfe6ba41d39a399a47d8da965b1bf48d5a")

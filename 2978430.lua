@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai City
 addappid(2978430)
-addappid(2978431,0,"110f49e27808ed092aed54837e7b9199c1485929e14ee1f1c2b95887fadcc279")
--- setManifestid(2978431,"627101237252958667")
+addappid(2978431, 1, "110f49e27808ed092aed54837e7b9199c1485929e14ee1f1c2b95887fadcc279")

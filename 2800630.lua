@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Smurfs - Village Party
 addappid(2800630)
-addappid(2800631,0,"9ab00c9e6a7a696d67ecdea0f8df0e0c40915ce6634c815d018be1a84e307841")
---setManifestid(2800631,"8239665601954608088")
+addappid(2800631, 1, "9ab00c9e6a7a696d67ecdea0f8df0e0c40915ce6634c815d018be1a84e307841")

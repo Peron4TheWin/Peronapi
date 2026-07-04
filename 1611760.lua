@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Sketchbook About Her Sun
 addappid(1611760)
-addappid(1611761,0,"f9dabd68c55bded3ea4f84645c65fcd9d75d4f2926984935c21e84202150a67f")
--- setManifestid(1611761,"296834750345683519")
+addappid(1611761, 1, "f9dabd68c55bded3ea4f84645c65fcd9d75d4f2926984935c21e84202150a67f")

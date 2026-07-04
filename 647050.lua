@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Hardcore
 addappid(647050)
-addappid(647051,0,"d48fe90559ef102f78db8acc0663647e796b6b62bc5116bf544e554d16059e6e")
+addappid(647051, 1, "d48fe90559ef102f78db8acc0663647e796b6b62bc5116bf544e554d16059e6e")

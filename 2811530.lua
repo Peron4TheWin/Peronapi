@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Candy Shop Simulator
 addappid(2811530)
-addappid(2811531,0,"17f88a81710c03591223461b03a59f5f6d935b90a8d67b2f5a8c984de3f0faa3")
--- setManifestid(2811531,"4934621592634484336")
+addappid(2811531, 1, "17f88a81710c03591223461b03a59f5f6d935b90a8d67b2f5a8c984de3f0faa3")

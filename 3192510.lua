@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Runaway
 addappid(3192510)
-addappid(3192511,0,"b88a9f67eb1eb3b720a45780770ff76d5fa908c6dd63636edd3d473c9f1dca8a")
--- setManifestid(3192511,"7453814466483038534")
+addappid(3192511, 1, "b88a9f67eb1eb3b720a45780770ff76d5fa908c6dd63636edd3d473c9f1dca8a")

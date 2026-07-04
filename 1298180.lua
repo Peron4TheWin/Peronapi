@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Pair Matching Puzzle Connect
 addappid(1298180)
-addappid(1298181,0,"de09ab254035855238036f8def4600cdecd3204bf0efb78b228635a2cedcf6aa")
--- setManifestid(1298181,"4653814604642558120")
+addappid(1298181, 1, "de09ab254035855238036f8def4600cdecd3204bf0efb78b228635a2cedcf6aa")
 addappid(1303830)
 addappid(1307170)
 addappid(1311260)

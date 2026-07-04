@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skate or Don't! Demo
 addappid(1828360)
-addappid(1828361,0,"1c3b561f13d97137961681bfe63ce4f71ef175224e1723d676c505ee3c17e5f6")
--- setManifestid(1828361,"4702576756190410184")
+addappid(1828361, 1, "1c3b561f13d97137961681bfe63ce4f71ef175224e1723d676c505ee3c17e5f6")

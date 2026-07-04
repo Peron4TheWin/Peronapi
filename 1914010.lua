@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sweet Agents
 addappid(1914010)
-addappid(1914011,0,"8eabfa4c75923d68edc69e39f020dfc5b4dd747a17df5e2dc69d4535a817a604")
--- setManifestid(1914011,"4750299418070989371")
+addappid(1914011, 1, "8eabfa4c75923d68edc69e39f020dfc5b4dd747a17df5e2dc69d4535a817a604")

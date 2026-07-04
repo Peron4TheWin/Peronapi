@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Tower Of Babel
 addappid(2762390)
-addappid(2762391,0,"cdbb567aac0d3513c388aaf06ee56049c453704dce4c89f510e650f3c31d0ec2")
--- setManifestid(2762391,"7964810315817632609")
+addappid(2762391, 1, "cdbb567aac0d3513c388aaf06ee56049c453704dce4c89f510e650f3c31d0ec2")

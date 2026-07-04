@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Locomoto
 addappid(2328650)
-addappid(2328651,0,"b9e753aca4fea95b65712e3789ec37b64c4d7fa62a3f8f026e342f8085b64e3d")
--- setManifestid(2328651,"3225499998782740819")
+addappid(2328651, 1, "b9e753aca4fea95b65712e3789ec37b64c4d7fa62a3f8f026e342f8085b64e3d")

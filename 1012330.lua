@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Umichan Sorani
 addappid(1012330)
-addappid(1012331,0,"05b99ac1feceba563d00f994acec8b0060c3858382ce1f051da5fd66778ebae0")
--- setManifestid(1012331,"3543138763713322963")
+addappid(1012331, 1, "05b99ac1feceba563d00f994acec8b0060c3858382ce1f051da5fd66778ebae0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Thing: Space X
 addappid(709700)
-addappid(709701,0,"45cc92ef6163c4fa93fb576f82fa11a6461688af506e59bab796387fdbef4651")
--- setManifestid(709701,"7986692611608614415")
+addappid(709701, 1, "45cc92ef6163c4fa93fb576f82fa11a6461688af506e59bab796387fdbef4651")

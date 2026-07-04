@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D Escape Room: Detective Story
 addappid(3411050)
-addappid(3411051,0,"c4600ef021e6ad60a4c455e997994f39bebc3eae442cc334d3475c7aff8371ed")
--- setManifestid(3411051,"349792079932151564")
+addappid(3411051, 1, "c4600ef021e6ad60a4c455e997994f39bebc3eae442cc334d3475c7aff8371ed")

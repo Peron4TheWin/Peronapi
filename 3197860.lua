@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infinite Idle: Online Clicker RPG
 addappid(3197860)
-addappid(3197861,0,"14aa175c0a5cf2a84207801849b3cb6dfe3a2eacb34ec9e51009fa5c5974888a")
--- setManifestid(3197861,"8432456160470714035")
+addappid(3197861, 1, "14aa175c0a5cf2a84207801849b3cb6dfe3a2eacb34ec9e51009fa5c5974888a")

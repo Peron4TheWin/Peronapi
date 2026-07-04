@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Voidwrought
 addappid(2014550)
-addappid(2014551,0,"6d2ed618640bb062b370e4f15dc33c4cfddb5536b55bc4bf6b3d633885110588")
--- setManifestid(2014551,"660015679237291422")
+addappid(2014551, 1, "6d2ed618640bb062b370e4f15dc33c4cfddb5536b55bc4bf6b3d633885110588")

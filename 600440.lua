@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyber Complex
 addappid(600440)
-addappid(600441,0,"3ab890a2b45354482d7e48852c39809051ed3abe56b3364bcf611bd3fa0b8ed9")
--- setManifestid(600441,"3242222517802538723")
+addappid(600441, 1, "3ab890a2b45354482d7e48852c39809051ed3abe56b3364bcf611bd3fa0b8ed9")

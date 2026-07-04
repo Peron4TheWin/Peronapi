@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Beach Girls
 addappid(2488690)
-addappid(2488691,0,"2837cbd7a0223c4496842d852f6f9792e868c1988eeff6bf4918fa6abe928623")
--- setManifestid(2488691,"6570570802613894147")
+addappid(2488691, 1, "2837cbd7a0223c4496842d852f6f9792e868c1988eeff6bf4918fa6abe928623")
+addappid(2547130)

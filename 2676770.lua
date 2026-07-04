@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Basketball Grand Slam 2024
 addappid(2676770)
-addappid(2676771,0,"f4725bf821fb05a7b772002c4d4e78801d74154ff80b604d28dfb6977c56c333")
+addappid(2676771, 1, "f4725bf821fb05a7b772002c4d4e78801d74154ff80b604d28dfb6977c56c333")

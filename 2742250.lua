@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 锦鱼图
 addappid(2742250)
-addappid(2742251,0,"4f77b5698dd041d82d735706fc9eb515593fffa506cb2839815bec6d57cbbf4b")
--- setManifestid(2742251,"5818161969634845882")
+addappid(2742251, 1, "4f77b5698dd041d82d735706fc9eb515593fffa506cb2839815bec6d57cbbf4b")

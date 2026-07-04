@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Japan Train Models - JR West Edition
 addappid(2686770)
-addappid(2686771,0,"7b14be018829e673c5b3a48ba9b20a4a6cce127ecba4edf6b5e00786741a9ab7")
--- setManifestid(2686771,"7968310697077216379")
+addappid(2686771, 1, "7b14be018829e673c5b3a48ba9b20a4a6cce127ecba4edf6b5e00786741a9ab7")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Country
 addappid(1055770)
-addappid(1055771,0,"fd0c5df02f48500ec1fec6f7d924ef4080e58c87b7820f16ff90f63b06412263")
--- setManifestid(1055771,"7282396619526585378")
+addappid(1055771, 1, "fd0c5df02f48500ec1fec6f7d924ef4080e58c87b7820f16ff90f63b06412263")

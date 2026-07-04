@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haunted House™ (2010)
 addappid(9960)
-addappid(9961,0,"dee9a4a4416e8124ec67825070ee48a342e8d261d0ebdcb9b43d87e4ed811ef1")
--- setManifestid(9961,"7370507087554264740")
+addappid(9961, 1, "dee9a4a4416e8124ec67825070ee48a342e8d261d0ebdcb9b43d87e4ed811ef1")

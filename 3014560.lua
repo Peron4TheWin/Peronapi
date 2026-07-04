@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 白噪生存指南 Playtest
 addappid(3014560)
-addappid(3014561,0,"36b732f950099bf1b8cf7b5d3719cc6c99e63ee013f7213c68cfd94cd904a0b1")
+addappid(3014561, 1, "36b732f950099bf1b8cf7b5d3719cc6c99e63ee013f7213c68cfd94cd904a0b1")

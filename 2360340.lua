@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Whitewater VR: Extreme Kayaking Adventure
 addappid(2360340)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2360341,0,"0fedd17ae7fda6201a8040baa266afa7688737bdf68049f96a5594c635fdce2a")
--- setManifestid(2360341,"5436562243051469381")
+addappid(2360341, 1, "0fedd17ae7fda6201a8040baa266afa7688737bdf68049f96a5594c635fdce2a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Secret of the Rendrasha Blade CH1&2
 addappid(738700)
-addappid(738701,0,"d11c4b784e8daca4f5d96d815719ec8b5339ffd7d4d724f95cfb10d722a0ddfa")
--- setManifestid(738701,"2269765449600061508")
+addappid(738701, 1, "d11c4b784e8daca4f5d96d815719ec8b5339ffd7d4d724f95cfb10d722a0ddfa")

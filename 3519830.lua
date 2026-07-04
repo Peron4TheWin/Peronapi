@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: satori
 addappid(3519830)
-addappid(3519831,0,"31475758b4695d435f7a2b57be1d52c351d2d3b63ab719bbe4f1885e24fbb4a5")
--- setManifestid(3519831,"6229700081295416214")
+addappid(3519831, 1, "31475758b4695d435f7a2b57be1d52c351d2d3b63ab719bbe4f1885e24fbb4a5")

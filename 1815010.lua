@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Maid Knight Alicia
 addappid(1815010)
-addappid(1815011,0,"24854a1318f2a74b4d76f4bcdadc3c8c5e386fb19515bc115215a0e6a5e62349")
+addappid(1815011, 1, "24854a1318f2a74b4d76f4bcdadc3c8c5e386fb19515bc115215a0e6a5e62349")
+addappid(1965220)

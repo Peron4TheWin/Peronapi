@@ -1,3 +1,11 @@
+-- Lua provided by SkyAPI 
+-- Game: DORAEMON STORY OF SEASONS: Friends of the Great Kingdom
 addappid(1492730)
-addappid(1492731,0,"7a2c277cce45042f0a1d145eaf9c1d726882d47f61669b5f72ad56d991156276")
--- setManifestid(1492731,"6272594670443705729")
+addappid(1492731, 1, "7a2c277cce45042f0a1d145eaf9c1d726882d47f61669b5f72ad56d991156276")
+addappid(2019410)
+addappid(2062250)
+addappid(2062251)
+addappid(2062252)
+addappid(2062253)
+addappid(2062254)
+addappid(2062255)

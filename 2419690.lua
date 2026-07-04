@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Quadroids
 addappid(2419690)
-addappid(2419691,0,"f54ebfd4939590a2d59b14fc35c9c8e0331d53a747ede090b994d61ee8345172")
--- setManifestid(2419691,"5789041603086509860")
+addappid(2419691, 1, "f54ebfd4939590a2d59b14fc35c9c8e0331d53a747ede090b994d61ee8345172")

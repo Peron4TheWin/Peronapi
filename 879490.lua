@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crying Suns Demo
 addappid(879490)
-addappid(879491,0,"da2edebabfdf7168ecfcbd741198068caf6d06bd65231fb54219ec884bcfeeb9")
--- setManifestid(879491,"7136868139310001873")
+addappid(879491, 1, "da2edebabfdf7168ecfcbd741198068caf6d06bd65231fb54219ec884bcfeeb9")

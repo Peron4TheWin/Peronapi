@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Crime Simulator
 addappid(2737070)
-addappid(2737071,0,"36e272c2274c8d6dbf4a697d1faa618de36bbacf8439215d60cca4350601aedb")
--- setManifestid(2737071,"3896371507088549219")
+addappid(2737071, 1, "36e272c2274c8d6dbf4a697d1faa618de36bbacf8439215d60cca4350601aedb")
+addappid(4794830)

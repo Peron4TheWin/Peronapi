@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super TSA
 addappid(3690470)
-addappid(3690471,0,"9eb7d1a3218bc9a9de989b1e42e971f8950e3af6c7aa40b61719fbe6569e222b")
--- setManifestid(3690471,"3861166522680412100")
+addappid(3690471, 1, "9eb7d1a3218bc9a9de989b1e42e971f8950e3af6c7aa40b61719fbe6569e222b")

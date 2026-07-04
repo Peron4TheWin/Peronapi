@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Do Not Buy This Game Demo
 addappid(1304040)
-addappid(1304041,0,"0a9beccdc81f2973f5c35b6b26cf1d2d69675499ec1034733e6ce859e895a460")
+addappid(1304041, 1, "0a9beccdc81f2973f5c35b6b26cf1d2d69675499ec1034733e6ce859e895a460")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sentimental Trickster: Yaoi BL Gay Visual Novel
 addappid(1519590)
-addappid(1519591,0,"04508425fd7c0999fff2bc268b47db0fcd753a140b690d0a785e6cc21fc135d1")
--- setManifestid(1519591,"8839030055502200450")
+addappid(1519591, 1, "04508425fd7c0999fff2bc268b47db0fcd753a140b690d0a785e6cc21fc135d1")

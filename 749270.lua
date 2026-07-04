@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magic Siege - Defender
 addappid(749270)
-addappid(749271,0,"6ecf521351f1a04cdb87e7139c882a44aec6fac93ed18d97eede654404fe0cb8")
--- setManifestid(749271,"2120958113334684267")
+addappid(749271, 1, "6ecf521351f1a04cdb87e7139c882a44aec6fac93ed18d97eede654404fe0cb8")

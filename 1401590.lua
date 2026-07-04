@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disney Dreamlight Valley
 addappid(1401590)
-addappid(1401591,0,"d99c609dc11544c08f0a832afd94357653d3f924cc683c27394cf548b1c3d161")
--- setManifestid(1401591,"4627272997234383821")
+addappid(1401591, 1, "d99c609dc11544c08f0a832afd94357653d3f924cc683c27394cf548b1c3d161")

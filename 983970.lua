@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haven
 addappid(983970)
-addappid(983971,0,"270bb6d3630d819c2d4e6d0faa2c8a24dfa888eda22a010808caef600c1e6aa2")
+addappid(983971, 1, "270bb6d3630d819c2d4e6d0faa2c8a24dfa888eda22a010808caef600c1e6aa2")

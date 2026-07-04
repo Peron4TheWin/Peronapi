@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: There Is a Way
 addappid(593100)
-addappid(593101,0,"d7cd74fbb418640121c03233ac97cc436dac530b6391c316fd23c752704faa92")
--- setManifestid(593101,"8740721909956711154")
+addappid(593101, 1, "d7cd74fbb418640121c03233ac97cc436dac530b6391c316fd23c752704faa92")

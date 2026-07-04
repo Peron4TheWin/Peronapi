@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Night Museum
 addappid(3456200)
-addappid(3456201,0,"c9e3dce37886f1280a2b933f9aa9516cada7119370f7dd3d2200c5639d1fae6d")
--- setManifestid(3456201,"3048153670919646049")
+addappid(3456201, 1, "c9e3dce37886f1280a2b933f9aa9516cada7119370f7dd3d2200c5639d1fae6d")

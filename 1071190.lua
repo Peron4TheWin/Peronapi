@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MineRalph
 addappid(1071190)
-addappid(1071191,0,"5fac98230b7976c192bfa891d8e83a409bbcd7210c01747885adb101dd8c5c57")
--- setManifestid(1071191,"7713514709235641942")
-addappid(1071192)
-addappid(1071193)
+addappid(1071191, 1, "5fac98230b7976c192bfa891d8e83a409bbcd7210c01747885adb101dd8c5c57")

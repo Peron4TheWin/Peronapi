@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mythology Waifus Mahjong
 addappid(2277840)
-addappid(2277841,0,"0487f9fc50218698fa8e1b6ee43af0caa8a2424582f1c103ac188cd9f0b7d7b2")
+addappid(2277841, 1, "0487f9fc50218698fa8e1b6ee43af0caa8a2424582f1c103ac188cd9f0b7d7b2")

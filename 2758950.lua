@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Home Detective VR - Immersive Edition
 addappid(2758950)
-addappid(2758951,0,"eeaf1b3c5ae54f66a0d3f0dfc48c50a50552e90550ea33a02713ae1538d5a9ca")
--- setManifestid(2758951,"1027069563307365875")
+addappid(2758951, 1, "eeaf1b3c5ae54f66a0d3f0dfc48c50a50552e90550ea33a02713ae1538d5a9ca")

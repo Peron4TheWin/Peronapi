@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: 修仙•母珠传 Pig Training Legend
 addappid(3262320)
-addappid(3262321,0,"f7e001ed53f7bd875d4829c18c215c9112ae8a429efcf86acda4eed829a6fa77")
--- setManifestid(3262321,"8541929244800510915")
+addappid(3262321, 1, "f7e001ed53f7bd875d4829c18c215c9112ae8a429efcf86acda4eed829a6fa77")

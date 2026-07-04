@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Elven Educator ~another ver~
 addappid(1284390)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(229002)
--- setManifestid(229002,"7260605429366465749")
-addappid(1284391,0,"411d8cf2001b5c5ed3b606ab792377fa5a7140f7203e871274d0e9f2584729dc")
--- setManifestid(1284391,"359473442960585116")
+addappid(1284391, 1, "411d8cf2001b5c5ed3b606ab792377fa5a7140f7203e871274d0e9f2584729dc")

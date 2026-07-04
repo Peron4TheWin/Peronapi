@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Archean
 addappid(2941660)
-addappid(2941661,0,"9e9c4a4cb9451b1e189a13b090d38f79707b0a150a3bf50a17cdd38aedfb85c5")
--- setManifestid(2941661,"4015208334526833024")
+addappid(2941661, 1, "9e9c4a4cb9451b1e189a13b090d38f79707b0a150a3bf50a17cdd38aedfb85c5")

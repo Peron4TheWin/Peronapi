@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Otherworld Legends
 addappid(1761380)
-addappid(1761381,0,"519cf38b3d934c5d95b676bd2ffc86297dc57ffbd4c050eb85007b57ba765794")
--- setManifestid(1761381,"995866045581071227")
+addappid(1761381, 1, "519cf38b3d934c5d95b676bd2ffc86297dc57ffbd4c050eb85007b57ba765794")

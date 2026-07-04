@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Grim Gamble / グリムギャンブル
 addappid(3739360)
-addappid(3739361,0,"ddb4860af4740e65d44b719efbe5bc212ac9053636e5f0c7341c245a52819075")
--- setManifestid(3739361,"6423723275461679023")
+addappid(3739361, 1, "ddb4860af4740e65d44b719efbe5bc212ac9053636e5f0c7341c245a52819075")

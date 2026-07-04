@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Milk Girl -Sweet memories of summer
 addappid(1890680)
-addappid(1890681,0,"f00c0507ffd60673c50c786759cc07d952f22bce91ff77ecd35f87a5570c890b")
--- setManifestid(1890681,"1098074300431701898")
-addappid(2254040,0,"ede03d8eb54aebfa2ab65cb607fd789e5b19517f50b6288324702ddf656a9d8d")
--- setManifestid(2254040,"3227155113590018042")
+addappid(1890681, 1, "f00c0507ffd60673c50c786759cc07d952f22bce91ff77ecd35f87a5570c890b")
+addappid(2254040, 0, "ede03d8eb54aebfa2ab65cb607fd789e5b19517f50b6288324702ddf656a9d8d")

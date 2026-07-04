@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEFENDUN Demo
 addappid(2323820)
-addappid(2323821,0,"de086617cfd6bf746ce081026e050e2e5b2c27d3da026c1013fa5c4e427d8270")
--- setManifestid(2323821,"7074020591520816989")
+addappid(2323821, 1, "de086617cfd6bf746ce081026e050e2e5b2c27d3da026c1013fa5c4e427d8270")

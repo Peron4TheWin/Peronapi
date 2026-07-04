@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hero Project: Redemption Season
 addappid(459310)
-addappid(459311,0,"df2e736414db157b6dddf1c1a3168a27e61edb9a4b4d7abe5000993270adcac9")
--- setManifestid(459311,"138165661865230327")
+addappid(459311, 1, "df2e736414db157b6dddf1c1a3168a27e61edb9a4b4d7abe5000993270adcac9")

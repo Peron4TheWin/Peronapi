@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Freakshow:Anniversary
 addappid(763610)
-addappid(763611,0,"5742b578ab4467716514b5976a0c5fd2511f607bdb2a834a13e9ee77aaea6066")
--- setManifestid(763611,"311770095562507786")
+addappid(763611, 1, "5742b578ab4467716514b5976a0c5fd2511f607bdb2a834a13e9ee77aaea6066")

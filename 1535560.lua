@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Farmer Against Potatoes Idle
 addappid(1535560)
-addappid(1535561,0,"84e8c05a65f0c95d7850ae9ea2d2848ceb25acd5dd72356d917ba0305e5cecbd")
--- setManifestid(1535561,"1437117046007286595")
+addappid(1535561, 1, "84e8c05a65f0c95d7850ae9ea2d2848ceb25acd5dd72356d917ba0305e5cecbd")

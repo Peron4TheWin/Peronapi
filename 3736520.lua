@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SAHUR: Escape Together
 addappid(3736520)
-addappid(3736521,0,"313517f3bb6cc87e48bf2c575d03812fd43e8d611d62013b6777053e9db009d6")
--- setManifestid(3736521,"3543770840437955702")
+addappid(3736521, 1, "313517f3bb6cc87e48bf2c575d03812fd43e8d611d62013b6777053e9db009d6")

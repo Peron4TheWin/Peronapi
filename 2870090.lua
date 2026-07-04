@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Axis Unseen Soundtrack
 addappid(2870090)
-addappid(2870091,0,"99e038ab105e826ce2743ecf5ff7a79b7c90176311b64bf4431988b51848e017")
--- setManifestid(2870091,"4510224294109401476")
+addappid(2870091, 1, "99e038ab105e826ce2743ecf5ff7a79b7c90176311b64bf4431988b51848e017")

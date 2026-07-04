@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VED Demo
 addappid(2085110)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2085111,0,"d11fc3768d1a70ecfc786a0cb5205062b008e311da40fb938c647c57bb007ac5")
+addappid(2085111, 1, "d11fc3768d1a70ecfc786a0cb5205062b008e311da40fb938c647c57bb007ac5")

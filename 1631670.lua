@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project: AHNO's Ark
 addappid(1631670)
-addappid(1631671,0,"fef774b8c85834295d6e0f721b7770079155f79c667d3254841a7ebff45acb4b")
--- setManifestid(1631671,"1568534262517269001")
+addappid(1631671, 1, "fef774b8c85834295d6e0f721b7770079155f79c667d3254841a7ebff45acb4b")

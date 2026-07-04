@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sweet Delivery
 addappid(3691730)
-addappid(3691731,0,"2c01aea237e957078484bd887ceef741243500943ebe560e85659f4c1bb0a303")
--- setManifestid(3691731,"5983334530182778702")
+addappid(3691731, 1, "2c01aea237e957078484bd887ceef741243500943ebe560e85659f4c1bb0a303")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 猫语拾光 Cat And Life
 addappid(2972890)
-addappid(2972891,0,"b2bfbf94c00b2ee85a3846a53b8feb6af864baa08d377a37eb425d09f73d4737")
--- setManifestid(2972891,"5961023441569333194")
+addappid(2972891, 1, "b2bfbf94c00b2ee85a3846a53b8feb6af864baa08d377a37eb425d09f73d4737")

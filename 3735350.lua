@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Akeno's Veil
 addappid(3735350)
-addappid(3735351,0,"59c5d98fd3ef4cf1db8099e95d8c166e4cf0d5345523d28b0913387b14507328")
--- setManifestid(3735351,"4399097745344544546")
+addappid(3735351, 1, "59c5d98fd3ef4cf1db8099e95d8c166e4cf0d5345523d28b0913387b14507328")

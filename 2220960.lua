@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Outlanders Demo
 addappid(2220960)
-addappid(2220961,0,"cf169290886fd1cf4dc751818e08c69582f3533dbc3ce02787c6955c153ee71e")
--- setManifestid(2220961,"2480295378272725993")
+addappid(2220961, 1, "cf169290886fd1cf4dc751818e08c69582f3533dbc3ce02787c6955c153ee71e")

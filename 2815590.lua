@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twizzle Puzzle: Birds
 addappid(2815590)
-addappid(2815591,0,"870a68e5ca50b2ce6fabe9a7e210ceb8a25a0c0bb12c340fe5f93ab0df7b5930")
+addappid(2815591, 1, "870a68e5ca50b2ce6fabe9a7e210ceb8a25a0c0bb12c340fe5f93ab0df7b5930")

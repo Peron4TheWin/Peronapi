@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SixteenPetals
 addappid(3483920)
-addappid(3483921,0,"3cbf29b47434ebbba3b5a9833bf5f8d933f544d2075e8c25117b44fa773c30fa")
--- setManifestid(3483921,"241907560539498486")
+addappid(3483921, 1, "3cbf29b47434ebbba3b5a9833bf5f8d933f544d2075e8c25117b44fa773c30fa")

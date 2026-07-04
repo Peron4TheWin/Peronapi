@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: čeke ceké
 addappid(1960380)
-addappid(1960381,0,"fafc9e927d122118230524f600f0ee3402272441f1f44f3aefe4b52cb4a03a1f")
--- setManifestid(1960381,"8845196156359993591")
+addappid(1960381, 1, "fafc9e927d122118230524f600f0ee3402272441f1f44f3aefe4b52cb4a03a1f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mayhem Survivors: Animals
 addappid(2539180)
-addappid(2539181,0,"e633b06a0c0535a449e7aa974116238e94a8a79b8fd9e199b678cffc8396ef6b")
--- setManifestid(2539181,"3104433160244564089")
+addappid(2539181, 1, "e633b06a0c0535a449e7aa974116238e94a8a79b8fd9e199b678cffc8396ef6b")

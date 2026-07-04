@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ex Vitro
 addappid(2425580)
-addappid(2425581,0,"243c49b938f787b04f8b2ca0d4e15f117f2eca9d7f374c6a212c1f38366cbba6")
--- setManifestid(2425581,"7496585880584529884")
+addappid(2425581, 1, "243c49b938f787b04f8b2ca0d4e15f117f2eca9d7f374c6a212c1f38366cbba6")
+addappid(2733010)

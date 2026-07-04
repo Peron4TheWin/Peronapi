@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dr Livingstone, I Presume? Reversed Escape Room
 addappid(1237510)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1237511,0,"5900b2653011c2c301f470be292934c21eb74e5bf04871b5af57c10818b1f022")
--- setManifestid(1237511,"8166776522021135251")
+addappid(1237511, 1, "5900b2653011c2c301f470be292934c21eb74e5bf04871b5af57c10818b1f022")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Remember When
 addappid(1526750)
-addappid(1526751,0,"0561ef2f6fae2eef4e292bbee10b0b1c9c87631bcbb7ef55a8afafe307160632")
--- setManifestid(1526751,"2358576983287947469")
+addappid(1526751, 1, "0561ef2f6fae2eef4e292bbee10b0b1c9c87631bcbb7ef55a8afafe307160632")

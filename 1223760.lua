@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Recoil
 addappid(1223760)
-addappid(1223761,0,"e20bb6db85a0f7e8f544ed23ce3079e88ec90de1af8aaa62113d087214116c04")
--- setManifestid(1223761,"7246387777078326707")
+addappid(1223761, 1, "e20bb6db85a0f7e8f544ed23ce3079e88ec90de1af8aaa62113d087214116c04")

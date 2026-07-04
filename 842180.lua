@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prison Simulator
 addappid(842180)
-addappid(842181,0,"613f14926c14907812b3dafc61eace8ecad7bea31eb7d101181b78dbfdca03fb")
---setManifestid(842181,"8855776631804349005")
+addappid(842181, 1, "613f14926c14907812b3dafc61eace8ecad7bea31eb7d101181b78dbfdca03fb")

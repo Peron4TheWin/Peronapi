@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou - Reimus Awesome Holiday
 addappid(2137560)
-addappid(2137561,0,"27b044d10906f78401de0a776e135c97f67f08b8f2acd768c6b400c62410d039")
--- setManifestid(2137561,"2808144822240257258")
+addappid(2137561, 1, "27b044d10906f78401de0a776e135c97f67f08b8f2acd768c6b400c62410d039")

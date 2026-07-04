@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hidden Cats: Rome
 addappid(3681940)
-addappid(3681941,0,"07bc6d908c36acc66b0c31bcb55aab4750a67b5903d93d288607c9649eb96dff")
--- setManifestid(3681941,"1284166397712965290")
+addappid(3681941, 1, "07bc6d908c36acc66b0c31bcb55aab4750a67b5903d93d288607c9649eb96dff")

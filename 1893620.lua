@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Circadian Dice
 addappid(1893620)
-addappid(1893621,0,"072b28c77e6a48b80fce4a8b0d34dc430a8013f35b6e261810b0eab284f60f7b")
--- setManifestid(1893621,"2404091056996771339")
+addappid(1893621, 1, "072b28c77e6a48b80fce4a8b0d34dc430a8013f35b6e261810b0eab284f60f7b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultimate Booster Experience
 addappid(499620)
-addappid(499621,0,"ca2f424652033cbca45c36048ee6d3c7b104fec46585c7216a5417370c9a5042")
--- setManifestid(499621,"2322093776112692130")
+addappid(499621, 1, "ca2f424652033cbca45c36048ee6d3c7b104fec46585c7216a5417370c9a5042")

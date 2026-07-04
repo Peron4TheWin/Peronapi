@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 实习班主任 Practice Teacher
 addappid(2134580)
-addappid(2134581,0,"07b7eff1e8aa1a2c9a411b81dd5423ec27d78f3e522f61997b4115d029622683")
--- setManifestid(2134581,"4449218766405220061")
+addappid(2134581, 1, "07b7eff1e8aa1a2c9a411b81dd5423ec27d78f3e522f61997b4115d029622683")

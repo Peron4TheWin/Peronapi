@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Konkan Coast Pirate Solutions
 addappid(2156410)
-addappid(2156411,0,"73405f68fc5c0a6fb835be267b7af844f82bebed5d10d80801be1c094ce73e2d")
--- setManifestid(2156411,"1018525777445854060")
+addappid(2156411, 1, "73405f68fc5c0a6fb835be267b7af844f82bebed5d10d80801be1c094ce73e2d")

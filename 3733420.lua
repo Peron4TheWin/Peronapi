@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Galactic Warship Soundtrack
 addappid(3733420)
-addappid(3733421,0,"900ab552371a4c1e597f5e09b1a45d7ae7db941add7ab2be12c06e85925583b2")
--- setManifestid(3733421,"3839207334242686163")
+addappid(3733421, 1, "900ab552371a4c1e597f5e09b1a45d7ae7db941add7ab2be12c06e85925583b2")

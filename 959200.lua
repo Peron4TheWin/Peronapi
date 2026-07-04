@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battleships and Carriers - WW2 Battleship Game
 addappid(959200)
-addappid(959201,0,"f91ac06e7d607e9a41880727a3db22beb8f76983afcb1693126c925447ed29aa")
--- setManifestid(959201,"3420580950396866494")
+addappid(959201, 1, "f91ac06e7d607e9a41880727a3db22beb8f76983afcb1693126c925447ed29aa")

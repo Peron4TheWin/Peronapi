@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MEAT RPG
 addappid(1316160)
-addappid(1316161,0,"dff0f16524025e515fef24e34d48804507f219e84bd4b47c6eb08363b185101f")
+addappid(1316161, 1, "dff0f16524025e515fef24e34d48804507f219e84bd4b47c6eb08363b185101f")

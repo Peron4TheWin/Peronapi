@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ChargeShot
 addappid(401840)
-addappid(401841,0,"fa5f78b22441cfa5e7c76218cb43d3d3bc6e940b880a6910a425d7f1e582db32")
--- setManifestid(401841,"8185980588694969914")
+addappid(401841, 1, "fa5f78b22441cfa5e7c76218cb43d3d3bc6e940b880a6910a425d7f1e582db32")

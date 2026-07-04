@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Birds Huddled Together
 addappid(2930720)
-addappid(2930721,0,"099d8a0511e800c1cb055016e6e5541edcdcc84c472a293fac937edea722a1a7")
--- setManifestid(2930721,"4748478591231173749")
+addappid(2930721, 1, "099d8a0511e800c1cb055016e6e5541edcdcc84c472a293fac937edea722a1a7")

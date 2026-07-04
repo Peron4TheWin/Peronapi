@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NEKOPALIVE
 addappid(469990)
--- setManifestid(228986,"8782296191957114623")
-addappid(469991,0,"07bc91442bc6e5407ba8bd72e061a8e18c4d7f1c009c9d59cb37f51047aff766")
--- setManifestid(469991,"9037308776740819541")
+addappid(469991, 1, "07bc91442bc6e5407ba8bd72e061a8e18c4d7f1c009c9d59cb37f51047aff766")

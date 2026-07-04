@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ace Of Words
+addappid(398680)
+addappid(398681, 1, "b0586add8578fc24484b982b9c08fd0c30396caec0a6fa19967ec3b6f47b95b8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: It Returned To The Desert
 addappid(2188620)
-addappid(2188621,0,"a8dccf437b144cba8a2a69c4b5b6096a99eb92123e481035b8742b57d00d717c")
--- setManifestid(2188621,"6344705108491070905")
+addappid(2188621, 1, "a8dccf437b144cba8a2a69c4b5b6096a99eb92123e481035b8742b57d00d717c")

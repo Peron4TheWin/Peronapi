@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EMZOMBED
 addappid(2609760)
-addappid(2609761,0,"e2a38cea8d5821063268c45b22799e562dc9923f292ff015ff08e33cf5d372ad")
--- setManifestid(2609761,"7666688083345973575")
+addappid(2609761, 1, "e2a38cea8d5821063268c45b22799e562dc9923f292ff015ff08e33cf5d372ad")

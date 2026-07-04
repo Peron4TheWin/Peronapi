@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Idle Warrior
 addappid(1241020)
-addappid(1241021,0,"74962fd56c6fcf560a98ad2098bb4a1fe4ae59ce2a0efaddc1ec39b516990254")
--- setManifestid(1241021,"6364581392869628635")
+addappid(1241021, 1, "74962fd56c6fcf560a98ad2098bb4a1fe4ae59ce2a0efaddc1ec39b516990254")
+addappid(1243390)

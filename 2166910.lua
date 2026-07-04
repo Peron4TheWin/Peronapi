@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 呆呆大冒险
 addappid(2166910)
-addappid(2166911,0,"8493e0c28262fd3ce3603a9ede7a370e6bf6ad92ee0dcd0a1711de5e2352f646")
--- setManifestid(2166911,"7459904719906814243")
+addappid(2166911, 1, "8493e0c28262fd3ce3603a9ede7a370e6bf6ad92ee0dcd0a1711de5e2352f646")

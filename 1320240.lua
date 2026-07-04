@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: zoku sonohigurashi vs touhou universe 2
 addappid(1320240)
-addappid(1320241,0,"ec757dd454bb5b36c2b8694476f4494894ec2bed954f351d4587e28508b5d854")
--- setManifestid(1320241,"6696068075306426852")
+addappid(1320241, 1, "ec757dd454bb5b36c2b8694476f4494894ec2bed954f351d4587e28508b5d854")

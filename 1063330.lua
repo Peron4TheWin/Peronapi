@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 麻神消消乐
 addappid(1063330)
-addappid(228987)
-addappid(1063331,0,"5f0e2189528ad74d3419c3cd457d8c96779a07b34cc8e54edbe1b6e697256aa7")
+addappid(1063331, 1, "5f0e2189528ad74d3419c3cd457d8c96779a07b34cc8e54edbe1b6e697256aa7")

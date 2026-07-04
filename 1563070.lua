@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Outside The Box
 addappid(1563070)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1563071,0,"46da09c39adc233ad3e4854f7a6fbe53da1318532b3e157fab32e4614d53602a")
--- setManifestid(1563071,"8822905364780666129")
+addappid(1563071, 1, "46da09c39adc233ad3e4854f7a6fbe53da1318532b3e157fab32e4614d53602a")

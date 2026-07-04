@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Car Crash Couch Party
 addappid(780120)
-addappid(780121,0,"a9f1152638ffa25f0e6cc85cc03af6f376b33263ae76785bb4dfc03efea43988")
--- setManifestid(780121,"3132278280107093262")
+addappid(780121, 1, "a9f1152638ffa25f0e6cc85cc03af6f376b33263ae76785bb4dfc03efea43988")

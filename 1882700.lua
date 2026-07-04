@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pleasure Kingdom
 addappid(1882700)
-addappid(1882701,0,"4f8d32c32074ed5f161399ef2d53a762490d012df19e8fc630103a53f6897fcc")
--- setManifestid(1882701,"7674794489116821016")
+addappid(1882701, 1, "4f8d32c32074ed5f161399ef2d53a762490d012df19e8fc630103a53f6897fcc")

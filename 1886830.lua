@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Legend of The Sacred Stone EX
 addappid(1886830)
-addappid(1886831,0,"fa710aae267ec0dba1d1c72224d2d1f30c1bc138990482cc30d3e8eb838d8f33")
--- setManifestid(1886831,"5656851674588544934")
+addappid(1886831, 1, "fa710aae267ec0dba1d1c72224d2d1f30c1bc138990482cc30d3e8eb838d8f33")

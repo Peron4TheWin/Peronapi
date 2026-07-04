@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 东方异域见闻 ~ Touhou Dystopian Demo
 addappid(3484140)
-addappid(3484141,0,"98bfc6c0b3d6af880a9a0d9b56e947c51a67f8a9338c869db1d6c9d4db419480")
--- setManifestid(3484141,"3382493907976422209")
+addappid(3484141, 1, "98bfc6c0b3d6af880a9a0d9b56e947c51a67f8a9338c869db1d6c9d4db419480")

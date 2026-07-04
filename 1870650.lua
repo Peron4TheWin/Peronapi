@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Werewolves Revenge Playtest
 addappid(1870650)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(1870651,0,"2177f5bbe85adedd65a48e8eb352be31d82ea3c7e35376a3ba413109d23fa93b")
+addappid(1870651, 1, "2177f5bbe85adedd65a48e8eb352be31d82ea3c7e35376a3ba413109d23fa93b")

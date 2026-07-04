@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Formula Car Racing Simulator
 addappid(1221590)
-addappid(1221591,0,"099668b91ba4f573a2087f1f08e9360ec08024bab77d464f6f13c083066cfcf9")
--- setManifestid(1221591,"4210011830799713891")
+addappid(1221591, 1, "099668b91ba4f573a2087f1f08e9360ec08024bab77d464f6f13c083066cfcf9")

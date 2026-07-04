@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Roguelike
 addappid(1308740)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1308741,0,"695b690be98f7dd92d42088686f2db9674ba78012a8b0aaa8cc1a8b063672caa")
--- setManifestid(1308741,"7488316638524355631")
+addappid(1308741, 1, "695b690be98f7dd92d42088686f2db9674ba78012a8b0aaa8cc1a8b063672caa")

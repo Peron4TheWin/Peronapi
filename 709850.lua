@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AMBUSH tactics
 addappid(709850)
--- setManifestid(228990,"1829726630299308803")
-addappid(709851,0,"6cc18f4ecf178607164de888f0d71a6ef72e4ab636d08a9a97ecca320886f5fa")
--- setManifestid(709851,"529804250880480547")
+addappid(709851, 1, "6cc18f4ecf178607164de888f0d71a6ef72e4ab636d08a9a97ecca320886f5fa")

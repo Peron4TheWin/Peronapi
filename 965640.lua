@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horror Legends
 addappid(965640)
-addappid(965641,0,"4867521c694fb74ad502ead44435721160fbf73e2ebae8f8293277ce7c3dff09")
--- setManifestid(965641,"8181121017816854317")
+addappid(965641, 1, "4867521c694fb74ad502ead44435721160fbf73e2ebae8f8293277ce7c3dff09")

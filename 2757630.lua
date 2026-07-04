@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lonely Knight - Idle Roguelike RPG
 addappid(2757630)
-addappid(2757631,0,"1514a7f1e48c09d3988add6efcc5a3d0965115375bb230b36986fa603518bda2")
--- setManifestid(2757631,"1520850124158536018")
+addappid(2757631, 1, "1514a7f1e48c09d3988add6efcc5a3d0965115375bb230b36986fa603518bda2")

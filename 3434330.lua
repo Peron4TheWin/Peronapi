@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 恶魔的房间 The Demon's Room
 addappid(3434330)
-addappid(3434331,0,"33e44d9333504275fafef888a4d960e2172a94a490e0f587a91b6fb7dbdb6e1f")
--- setManifestid(3434331,"8050334981443260142")
+addappid(3434331, 1, "33e44d9333504275fafef888a4d960e2172a94a490e0f587a91b6fb7dbdb6e1f")

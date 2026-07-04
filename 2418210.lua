@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Drilling Station Demo
 addappid(2418210)
-addappid(2418211,0,"5d33bace5b76391d07e733d0f17903cced0c6c72c443c19b09ba485df1d4620b")
+addappid(2418211, 1, "5d33bace5b76391d07e733d0f17903cced0c6c72c443c19b09ba485df1d4620b")

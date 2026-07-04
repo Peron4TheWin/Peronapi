@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Murder In Tehran's Alleys 2016
 addappid(639730)
-addappid(639731,0,"afd0ebcd6005589cb251ea3c0cbfc37124b925b30ee63058a5d4cc1eebaac92a")
--- setManifestid(639731,"1804332530134134744")
+addappid(639731, 1, "afd0ebcd6005589cb251ea3c0cbfc37124b925b30ee63058a5d4cc1eebaac92a")

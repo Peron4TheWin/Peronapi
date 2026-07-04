@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Observer: System Redux
 addappid(1386900)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1386901,0,"5d105f7b3b3220b1f700e1781be55447e3e30adedfc1698593d0ceb3b31e86e2")
--- setManifestid(1386901,"8851447905049334082")
+addappid(1386901, 1, "5d105f7b3b3220b1f700e1781be55447e3e30adedfc1698593d0ceb3b31e86e2")

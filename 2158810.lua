@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosmic Coliseum
 addappid(2158810)
-addappid(2158811,0,"92841fb59aa8b7c0c44f750aa8c7d052bc11d76a32467c44a716efc4b774458b")
--- setManifestid(2158811,"8635625800783940381")
+addappid(2158811, 1, "92841fb59aa8b7c0c44f750aa8c7d052bc11d76a32467c44a716efc4b774458b")

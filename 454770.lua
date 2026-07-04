@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystic Melee
 addappid(454770)
-addappid(454771,0,"883432a463753ea39be5174d53cae9cfb48b0dff3267cffcbaf32a7207fe17f7")
--- setManifestid(454771,"3412424232144119567")
+addappid(454771, 1, "883432a463753ea39be5174d53cae9cfb48b0dff3267cffcbaf32a7207fe17f7")

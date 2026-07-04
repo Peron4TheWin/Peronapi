@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 九州：立志
 addappid(1461980)
-addappid(1461981,0,"58e0f8f158a90b34033b559e57704bfbf86b3d6e2dbb92206eed33c6f5b673ce")
--- setManifestid(1461981,"6212993608388732516")
+addappid(1461981, 1, "58e0f8f158a90b34033b559e57704bfbf86b3d6e2dbb92206eed33c6f5b673ce")

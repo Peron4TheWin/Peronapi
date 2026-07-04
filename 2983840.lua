@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: #!/bin/bash
 addappid(2983840)
-addappid(2983841,0,"da2f17b69d97acf65b186313afbf19bf7c656d3f1bd90e335e736cd1e773dcca")
--- setManifestid(2983841,"8557313380841227523")
+addappid(2983841, 1, "da2f17b69d97acf65b186313afbf19bf7c656d3f1bd90e335e736cd1e773dcca")

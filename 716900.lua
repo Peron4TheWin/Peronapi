@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: El Ministerio del Tiempo VR: Salva el tiempo
 addappid(716900)
-addappid(228986)
--- setManifestid(228986,"8782296191957114623")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(716901,0,"f0a76ccd8f232b2b999eacf54d80334c6b38b3559b663f828db8f07b4473cb69")
+addappid(716901, 1, "f0a76ccd8f232b2b999eacf54d80334c6b38b3559b663f828db8f07b4473cb69")

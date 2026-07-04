@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: A Foretold Affair
 addappid(586670)
-addappid(586671,0,"feed74a181a570c375244b41621c1ffc884beeb6d9949a708ccb3b993617cb78")
--- setManifestid(586671,"5397573371339544361")
+addappid(586671, 1, "feed74a181a570c375244b41621c1ffc884beeb6d9949a708ccb3b993617cb78")
+addappid(594420)

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: MicroWorks
 addappid(1233410)
-addappid(1233411,0,"a7c49f9159f1a66db0ab2283b15e5370bd82624d4f14e1d028d04d836f2e19ee")
--- setManifestid(1233411,"3893205118513401390")
+addappid(1233411, 1, "a7c49f9159f1a66db0ab2283b15e5370bd82624d4f14e1d028d04d836f2e19ee")
+addappid(2355460)

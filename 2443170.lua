@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Survivor Challenge TD
 addappid(2443170)
-addappid(2443171,0,"379e629757d60e6dc27f1d0624d7caf060dde4a43169780c3ebec6f9e6faaccb")
--- setManifestid(2443171,"6545312582808961375")
+addappid(2443171, 1, "379e629757d60e6dc27f1d0624d7caf060dde4a43169780c3ebec6f9e6faaccb")

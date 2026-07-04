@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cactus Cowboy - Plants at War
 addappid(1973110)
-addappid(1973111,0,"a443edb7d8d11ace5363d29faa7958603a3469fde644adf518097f4a8f43b481")
--- setManifestid(1973111,"129296059952289478")
+addappid(1973111, 1, "a443edb7d8d11ace5363d29faa7958603a3469fde644adf518097f4a8f43b481")

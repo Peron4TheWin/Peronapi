@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Patrician III
 addappid(33570)
-addappid(33571,0,"79a4ad86c24189c100232bf2037dea3a9d0a4b24ddb3f2fbabfa14a9cae44ada")
--- setManifestid(33571,"6784142959358224649")
+addappid(33571, 1, "79a4ad86c24189c100232bf2037dea3a9d0a4b24ddb3f2fbabfa14a9cae44ada")

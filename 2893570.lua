@@ -1,9 +1,10 @@
+-- Lua provided by SkyAPI 
+-- Game: DRAGON QUEST I & II HD-2D Remake
 addappid(2893570)
+addappid(2893571, 1, "511f158856c1819c10a9d2916437455351f4fde9144e27c85cdbd64769037309")
 addappid(3707290)
 addappid(3707300)
 addappid(3707310)
 addappid(3904130)
 addappid(3904140)
 addappid(3904280)
-addappid(2893571,0,"511f158856c1819c10a9d2916437455351f4fde9144e27c85cdbd64769037309")
--- setManifestid(2893571,"2485611735242171593")

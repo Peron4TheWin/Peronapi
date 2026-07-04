@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Guard
 addappid(2320620)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2320621,0,"78154f4491b862a2f7181bf4f0efc242dad537308dbee2acb5a1d78ef86a58f7")
--- setManifestid(2320621,"8810332711936415552")
+addappid(2320621, 1, "78154f4491b862a2f7181bf4f0efc242dad537308dbee2acb5a1d78ef86a58f7")

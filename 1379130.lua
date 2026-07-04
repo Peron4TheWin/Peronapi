@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: League of Angels-Heaven's Fury
 addappid(1379130)
-addappid(1379131,0,"06405abe57f50ad9d667629d8c952e06a77f8003d8c6fcbc1aaacf33764be053")
--- setManifestid(1379131,"5322000256318833113")
+addappid(1379131, 1, "06405abe57f50ad9d667629d8c952e06a77f8003d8c6fcbc1aaacf33764be053")

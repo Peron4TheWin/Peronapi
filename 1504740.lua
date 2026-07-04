@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Find Yourself
 addappid(1504740)
-addappid(1504741,0,"cbefeebc157ed50a96eee1c2d4c2221911fd79254367e8c7063481c4fee5ffb1")
--- setManifestid(1504741,"1922702573654182370")
+addappid(1504741, 1, "cbefeebc157ed50a96eee1c2d4c2221911fd79254367e8c7063481c4fee5ffb1")

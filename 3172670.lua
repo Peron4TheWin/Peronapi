@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Arena: Passion of Aquilon 💋⚔️
 addappid(3172670)
-addappid(3172671,0,"5af754b4d0fc021eb39db5a02fd4e703a3cf7a7c0c66f35c83294a7f669cb70e")
--- setManifestid(3172671,"5897545056764793688")
+addappid(3172671, 1, "5af754b4d0fc021eb39db5a02fd4e703a3cf7a7c0c66f35c83294a7f669cb70e")

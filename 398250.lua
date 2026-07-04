@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moonstrider
+addappid(398250)
+addappid(398251, 1, "c733d8a3e5390055275278d00b1fddef8075cdc761f8633df842e95388b8b2ee")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bomber Festival
 addappid(2702340)
-addappid(2702341,0,"05a8143a15eab5df9e125fb722b9e6ebd337c320aaa1f29c7acdb815a5f1e000")
+addappid(2702341, 1, "05a8143a15eab5df9e125fb722b9e6ebd337c320aaa1f29c7acdb815a5f1e000")

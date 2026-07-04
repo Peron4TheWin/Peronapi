@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Executive Assault
 addappid(331500)
-addappid(331501,0,"a27aa665742db0ac4dec2289fbc86ca193759a7d0ca6321db3152d281e514835")
--- setManifestid(331501,"6095121325881715781")
+addappid(331501, 1, "a27aa665742db0ac4dec2289fbc86ca193759a7d0ca6321db3152d281e514835")
+addappid(390980)

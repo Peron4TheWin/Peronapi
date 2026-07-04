@@ -1,3 +1,4 @@
-addappid(2607870)
-addappid(2607871,0,"63effcccb63f3b94634026d5d8d42c22bc70882a2cbd5b60fc04bcb914228400")
---setManifestid(2607871,"1887283267054775162")
+-- Lua provided by SkyAPI 
+-- Game: Slyders
+addappid(2607870)
+addappid(2607871, 1, "63effcccb63f3b94634026d5d8d42c22bc70882a2cbd5b60fc04bcb914228400")

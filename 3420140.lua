@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Emiko
 addappid(3420140)
-addappid(3420141,0,"8d2de9fd53b08a83ac40475b50eca0bb9b783086d52c80f84a5802972663199c")
--- setManifestid(3420141,"6822430718992709385")
+addappid(3420141, 1, "8d2de9fd53b08a83ac40475b50eca0bb9b783086d52c80f84a5802972663199c")

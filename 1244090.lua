@@ -1,4 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Sea of Stars: Sunset Edition
 addappid(1244090)
-addappid(1244091,1,"1549d20da14b7d148867bd5c7ae9353bf17b61ca4b5babd432a332beb9ca8b92")
---setManifestid(1244091,"3743279557482666453",3925471393)
+addappid(1244091, 1, "1549d20da14b7d148867bd5c7ae9353bf17b61ca4b5babd432a332beb9ca8b92")
 addappid(2550500)
+addappid(2550501, 0, "8b97c6e0dfb7c12208ed1fd619275b1c92564b93971477f777880be9887198ef")

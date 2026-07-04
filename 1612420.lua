@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suit for Hire
 addappid(1612420)
-addappid(1612421,0,"94247ea5c273f90c20d1c1269b4a3591ef8b2bca05db931d4c5e42774cf2ab30")
--- setManifestid(1612421,"4387272399139822029")
+addappid(1612421, 1, "94247ea5c273f90c20d1c1269b4a3591ef8b2bca05db931d4c5e42774cf2ab30")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: New Joe & Mac - Caveman Ninja
 addappid(1492320)
-addappid(1492321,0,"6596c3f2141f55b649dea3d05760bffb7668355ae0e44cb7ea59bf92f1b3e3b7")
--- setManifestid(1492321,"804218128115841875")
+addappid(1492321, 1, "6596c3f2141f55b649dea3d05760bffb7668355ae0e44cb7ea59bf92f1b3e3b7")

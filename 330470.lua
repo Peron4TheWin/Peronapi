@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Over The Void
 addappid(330470)
-addappid(330471,0,"728c80aac26b20fceec7d5a51af75260b9b99e401dec19685e312b8b726e8ad3")
--- setManifestid(330471,"7651353573758400862")
+addappid(330471, 1, "728c80aac26b20fceec7d5a51af75260b9b99e401dec19685e312b8b726e8ad3")

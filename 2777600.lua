@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RTS Tactical Warfare Demo
 addappid(2777600)
-addappid(2777601,0,"39d28e1d25e55cde444b828038775a988f6d364eeb518697738a9a7e1f93ed36")
+addappid(2777601, 1, "39d28e1d25e55cde444b828038775a988f6d364eeb518697738a9a7e1f93ed36")

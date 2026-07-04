@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: In The Ember 余烬之中
 addappid(976060)
-addappid(976061,0,"5ff10e310861134127b5806551d7c0a3fdd8adb5129759e6fbf0f0f50b37dfb9")
--- setManifestid(976061,"2580309011620199815")
+addappid(976061, 1, "5ff10e310861134127b5806551d7c0a3fdd8adb5129759e6fbf0f0f50b37dfb9")

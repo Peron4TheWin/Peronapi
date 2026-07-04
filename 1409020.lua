@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mana Maker
 addappid(1409020)
-addappid(1409021,0,"a93ceb6e41dea3c1498d92c92eafa8c866948a0601a60ccce5c29f97d9752f2c")
--- setManifestid(1409021,"2568453073667367930")
+addappid(1409021, 1, "a93ceb6e41dea3c1498d92c92eafa8c866948a0601a60ccce5c29f97d9752f2c")

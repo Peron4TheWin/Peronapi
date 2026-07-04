@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Power of Doznath
 addappid(3007940)
-addappid(3007941,0,"28b2c85481b121f45639b8e897baf539f6ff3b1af81622602f89a8b7af88f1ee")
--- setManifestid(3007941,"4670946806124324711")
+addappid(3007941, 1, "28b2c85481b121f45639b8e897baf539f6ff3b1af81622602f89a8b7af88f1ee")

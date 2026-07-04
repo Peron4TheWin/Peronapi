@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pawn Simulator
 addappid(2804490)
-addappid(2804491,0,"02f73ed5b6c236edd8a7c72df40be01eaf9d17d9dccb3cf7dc5c6aad1cad3c92")
--- setManifestid(2804491,"3479780553000338196")
+addappid(2804491, 1, "02f73ed5b6c236edd8a7c72df40be01eaf9d17d9dccb3cf7dc5c6aad1cad3c92")

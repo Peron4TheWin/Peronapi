@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SWAT Commander
 addappid(1619310)
-addappid(1619311,0,"746a4bc5852606ac0fe070cc74d3b16dd2556377f868c346992fd88ae1d5eb65")
--- setManifestid(1619311,"1469014638571201694")
+addappid(1619311, 1, "746a4bc5852606ac0fe070cc74d3b16dd2556377f868c346992fd88ae1d5eb65")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knight Squad 2 Trials
 addappid(1529560)
-addappid(1529561,0,"13618ff07af9e11b66e02c4cb5e5dd089e213b765bb16a32d5b149372f1d1a0c")
--- setManifestid(1529561,"2471586877213774603")
+addappid(1529561, 1, "13618ff07af9e11b66e02c4cb5e5dd089e213b765bb16a32d5b149372f1d1a0c")

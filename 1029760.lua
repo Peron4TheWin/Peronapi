@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TANKNAROK
 addappid(1029760)
-addappid(1029761,0,"8ce792020d827cdfecdf7428f8e059b33956efd53513467597aee48caf739520")
--- setManifestid(1029761,"8493239685601094407")
+addappid(1029761, 1, "8ce792020d827cdfecdf7428f8e059b33956efd53513467597aee48caf739520")

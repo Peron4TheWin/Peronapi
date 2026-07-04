@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Villa's Blinds
 addappid(1333800)
-addappid(1333801,0,"477ce66be2e8fd6395ec1db54aa57c39f51d3da56547ede118a9ff83bcd220c5")
--- setManifestid(1333801,"658601830152454362")
+addappid(1333801, 1, "477ce66be2e8fd6395ec1db54aa57c39f51d3da56547ede118a9ff83bcd220c5")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Tinkerlands
 addappid(2617700)
-addappid(2617701,0,"0151b8692c144b2d131cb45001d70cedfc16ae266e9857a28673d3db89e962ea")
--- setManifestid(2617701,"8413944809275202345")
+addappid(2617701, 1, "0151b8692c144b2d131cb45001d70cedfc16ae266e9857a28673d3db89e962ea")
+addappid(3710880)

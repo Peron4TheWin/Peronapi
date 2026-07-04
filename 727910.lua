@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Titanic: The Experience
 addappid(727910)
-addappid(727911,0,"7eccf67e49c0735977a21745ef89ada1cb13223906db6d4499825e978faf2366")
--- setManifestid(727911,"3339480598142847906")
+addappid(727911, 1, "7eccf67e49c0735977a21745ef89ada1cb13223906db6d4499825e978faf2366")

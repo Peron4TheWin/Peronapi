@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ALTER EGO
 addappid(2398310)
-addappid(2398311,0,"8e72e471f94abc95c6efeb2067009ef0ed9a21523b68aac2aec159f683f55a0b")
--- setManifestid(2398311,"6415475102520013155")
+addappid(2398311, 1, "8e72e471f94abc95c6efeb2067009ef0ed9a21523b68aac2aec159f683f55a0b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BAR
 addappid(2568050)
-addappid(2568051,0,"4b5abc62369a8c6348d91aca1f0e512c8a76ead0c2d11fbe7ecd4ec7dbb19c57")
--- setManifestid(2568051,"1142161253031428202")
+addappid(2568051, 1, "4b5abc62369a8c6348d91aca1f0e512c8a76ead0c2d11fbe7ecd4ec7dbb19c57")

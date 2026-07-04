@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spellcats: Auto Card Tactics
 addappid(2150910)
-addappid(2150911,0,"130f9e8bfc2d67620a059a4a014bc0a716b5c742237f3cae2cfe32190d705506")
--- setManifestid(2150911,"861813733663690919")
+addappid(2150911, 1, "130f9e8bfc2d67620a059a4a014bc0a716b5c742237f3cae2cfe32190d705506")

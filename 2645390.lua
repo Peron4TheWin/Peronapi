@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pelagos: A Marine Adventure
 addappid(2645390)
-addappid(2645391,0,"ab953b62802794af133de0d8cd5f4667ca9ac61584d8d3137e4bbdb5798a8fea")
--- setManifestid(2645391,"6135874288485678385")
+addappid(2645391, 1, "ab953b62802794af133de0d8cd5f4667ca9ac61584d8d3137e4bbdb5798a8fea")

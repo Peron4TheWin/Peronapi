@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Exit the Gungeon
 addappid(1209490)
--- setManifestid(228990,"1829726630299308803")
-addappid(1209491,0,"c62fffd4494265f0d61a5c37829f4c4637c4fc6628a25dc6230300533449aaaa")
--- setManifestid(1209491,"2402812892968256154")
+addappid(1209491, 1, "c62fffd4494265f0d61a5c37829f4c4637c4fc6628a25dc6230300533449aaaa")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot Dog Reporter
 addappid(2605350)
-addappid(2605351,0,"b5e12672539e093bb0457a56c3b918c84849beddae77f062e84538852118b7a3")
--- setManifestid(2605351,"7932263233699628137")
+addappid(2605351, 1, "b5e12672539e093bb0457a56c3b918c84849beddae77f062e84538852118b7a3")

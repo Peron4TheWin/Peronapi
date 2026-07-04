@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dead Pets: A Punk Rock Slice of Life Sim Demo
 addappid(2106980)
-addappid(2106981,0,"f1717912e6f9f6d3f3cedc487674ed129e0a0a5d38d4a09e46f63f3863b3362e")
+addappid(2106981, 1, "f1717912e6f9f6d3f3cedc487674ed129e0a0a5d38d4a09e46f63f3863b3362e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY
 addappid(836590)
-addappid(229020)
-addappid(836591,0,"c54c4cb25c499519385a1b15c72ab5c52123e055e6139a3ab1a6ecca9c07f7d1")
+addappid(836591, 1, "c54c4cb25c499519385a1b15c72ab5c52123e055e6139a3ab1a6ecca9c07f7d1")

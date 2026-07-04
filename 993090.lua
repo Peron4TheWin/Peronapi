@@ -1,11 +1,4 @@
-
-addappid(993090) -- Lossless Scaling
-addtoken(993090, "6308073361085917231")
-addappid(993091, 1, "3a02317ffe8c475c236c603a9fcd31c7cd8e4a109240f4c3d9fa28081bdc02bd") -- Lossless Scaling Content
--- setManifestid(993091, "2549887697121492489", 183809856)
-addappid(993092, 1, "7f42c4f024fecc789a821093226e8655818e4f981c698ff5f5bba81abe4edda3") -- Depot 993092
--- setManifestid(993092, "3384896674095978390", 181724992)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
--- setManifestid(228989, "3514306556860204959", 39590283)
-addappid(229007, 1, "eba9fa9ff4f811929c119074450f49f739113bcae9317ded9bea262aa21ec58d") -- .NET 4.8 Redist (Shared from App 228980)
--- setManifestid(229007, "4477590687906973371", 117381405)
+-- Lua provided by SkyAPI 
+-- Game: AppID 993090
+addappid(993090)
+addappid(993091, 1, "3a02317ffe8c475c236c603a9fcd31c7cd8e4a109240f4c3d9fa28081bdc02bd")

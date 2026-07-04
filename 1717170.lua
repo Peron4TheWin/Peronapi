@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gentlemen's Club
 addappid(1717170)
-addappid(1717171,0,"f4a8c7ab099ae214cede532ea6ed218bb0d82448d9fbd88e64c8426fab6642f1")
--- setManifestid(1717171,"2418864907747083563")
+addappid(1717171, 1, "f4a8c7ab099ae214cede532ea6ed218bb0d82448d9fbd88e64c8426fab6642f1")

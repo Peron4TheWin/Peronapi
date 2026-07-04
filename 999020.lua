@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Mega Man Zero/ZX Legacy Collection
 addappid(999020)
-addappid(999021,0,"974feb98b181de2a334cede506d077ad1374981971c2b55c9902dec581afe55a")
-addappid(1109480,0,"9c67b6dd619329ca1498f6002d0ce7f5cfb04a2560a0f72debd3e1f940692683")
+addappid(999021, 1, "974feb98b181de2a334cede506d077ad1374981971c2b55c9902dec581afe55a")
+addappid(1109480, 0, "9c67b6dd619329ca1498f6002d0ce7f5cfb04a2560a0f72debd3e1f940692683")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burial
 addappid(3554790)
-addappid(3554791,0,"e29d22f12cc2f879e40ab18cc32a34fa82fea36c7b19b5ca2b19abef37beb325")
--- setManifestid(3554791,"175953127253195027")
+addappid(3554791, 1, "e29d22f12cc2f879e40ab18cc32a34fa82fea36c7b19b5ca2b19abef37beb325")

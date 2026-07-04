@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Highrise Demo
 addappid(2175130)
-addappid(2175131,0,"2ec0d7504c3a9445019c974da5e25c04f5fd913984a2051ef3f177c0a08d5b3c")
--- setManifestid(2175131,"8103750106416112525")
+addappid(2175131, 1, "2ec0d7504c3a9445019c974da5e25c04f5fd913984a2051ef3f177c0a08d5b3c")

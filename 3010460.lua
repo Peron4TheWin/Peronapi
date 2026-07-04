@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backroom Company
 addappid(3010460)
-addappid(3010461,0,"e62116c41a5959c1ff5040fdd41271c8b2629fc47b804069ea2d897ee48d2f2d")
--- setManifestid(3010461,"5525894785866095383")
+addappid(3010461, 1, "e62116c41a5959c1ff5040fdd41271c8b2629fc47b804069ea2d897ee48d2f2d")

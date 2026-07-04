@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hyper Pop
 addappid(2286110)
-addappid(2286111,0,"2de354a32dfa9e96cd482440aa708eb6e755a0386dc0c535af3033b538150003")
--- setManifestid(2286111,"4292727318569169218")
+addappid(2286111, 1, "2de354a32dfa9e96cd482440aa708eb6e755a0386dc0c535af3033b538150003")

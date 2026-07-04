@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Umihara Kawase Shun
 addappid(384700)
-addappid(384701,0,"18d7d2b8f2d596d27f3052c92489b78de94482a41ce5b4be2bbc969608a78e0b")
--- setManifestid(384701,"6330730913666614330")
+addappid(384701, 1, "18d7d2b8f2d596d27f3052c92489b78de94482a41ce5b4be2bbc969608a78e0b")

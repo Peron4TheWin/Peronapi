@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Conradito Cafézito
 addappid(3235270)
-addappid(3235271,0,"71e1ee172e0a5a15a333c1146e375a46671e14171d1ae10cf45d0c5723a7885d")
--- setManifestid(3235271,"6108733063160325817")
+addappid(3235271, 1, "71e1ee172e0a5a15a333c1146e375a46671e14171d1ae10cf45d0c5723a7885d")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Serious Fun Football
 addappid(1392560)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1392561,0,"3a9c053cb6d7edc0d21c7a8deffb04626d0d142faad322861736b2143429977b")
--- setManifestid(1392561,"304897236360000407")
+addappid(1392561, 1, "3a9c053cb6d7edc0d21c7a8deffb04626d0d142faad322861736b2143429977b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Swordship
 addappid(1804270)
-addappid(1804271,0,"4c6f284a77b97d0f0dedeca23d709fe435215974bb5d28f653869a92fff0a991")
--- setManifestid(1804271,"587325993340138045")
+addappid(1804271, 1, "4c6f284a77b97d0f0dedeca23d709fe435215974bb5d28f653869a92fff0a991")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beats Warrior: Nian
 addappid(1065630)
-addappid(1065631,0,"86ff209a0f3bf20e505a05f97daf068d97c9e93701fb9a51802179307b9553a5")
--- setManifestid(1065631,"814987631476530658")
+addappid(1065631, 1, "86ff209a0f3bf20e505a05f97daf068d97c9e93701fb9a51802179307b9553a5")

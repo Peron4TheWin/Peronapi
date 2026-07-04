@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ranch Simulator: Build, Hunt, Farm
 addappid(1119730)
-addappid(229007)
-addappid(229033)
-addappid(1119731,0,"5ba0690900411cc3e2378222e0e437425d26e3b81707810123555cf0c5606a77")
+addappid(1119731, 1, "5ba0690900411cc3e2378222e0e437425d26e3b81707810123555cf0c5606a77")

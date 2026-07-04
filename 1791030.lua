@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Motherland
 addappid(1791030)
-addappid(1791031,0,"04f2dd6fd89f1167d8915dac82c31d283c57ae044aa1b2e092fa62ad54bf076e")
+addappid(1791031, 1, "04f2dd6fd89f1167d8915dac82c31d283c57ae044aa1b2e092fa62ad54bf076e")

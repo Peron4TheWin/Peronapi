@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shred & Tear Early Prototype Demo
 addappid(2010430)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2010431,0,"918867ed7a440cfe27b02b656eaa1483ab5ea9353d3ece1baf6c680664098164")
+addappid(2010431, 1, "918867ed7a440cfe27b02b656eaa1483ab5ea9353d3ece1baf6c680664098164")

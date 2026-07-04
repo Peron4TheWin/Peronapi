@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Kunkun Terror Express
 addappid(2923130)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2923131,0,"012305f5296d70552b81b1d4597e041c95ec90d9ac9b40b2a7fdb9ce3ea9f4d7")
--- setManifestid(2923131,"4997742232772991638")
+addappid(2923131, 1, "012305f5296d70552b81b1d4597e041c95ec90d9ac9b40b2a7fdb9ce3ea9f4d7")
+addappid(2930000)

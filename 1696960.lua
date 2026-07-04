@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lake Haven - Chrysalis
 addappid(1696960)
-addappid(1696961,0,"37ce068732be8faa970ef566d7fd7fe61f217b9943d9004bad0858c0ec30ca6a")
--- setManifestid(1696961,"2199287284778823391")
+addappid(1696961, 1, "37ce068732be8faa970ef566d7fd7fe61f217b9943d9004bad0858c0ec30ca6a")

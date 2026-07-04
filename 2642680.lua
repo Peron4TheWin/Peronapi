@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Half Sword Tech Demo
 addappid(2642680)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2642681,0,"730e6f8f0beb385c1a1ed0596d231bd8fc5ebbcbf87c2c7ba445ff008662dc05")
+addappid(2642681, 1, "730e6f8f0beb385c1a1ed0596d231bd8fc5ebbcbf87c2c7ba445ff008662dc05")

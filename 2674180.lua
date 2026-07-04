@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Refind Self: The Personality Test Game Soundtrack
 addappid(2674180)
-addappid(2674181,0,"30f5ff8136ec31727534d2c33eae669d38fcd4c0b83f5231ce5499ee7eb61f9a")
--- setManifestid(2674181,"4256399332321335848")
+addappid(2674181, 1, "30f5ff8136ec31727534d2c33eae669d38fcd4c0b83f5231ce5499ee7eb61f9a")

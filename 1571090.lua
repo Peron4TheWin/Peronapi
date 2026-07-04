@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BEAST CRIMES
+addappid(1571090)
+addappid(1571091, 1, "a0bfc8950c12ba90a395bac811806504065f2ee26b69c8e37effd01049199f0a")

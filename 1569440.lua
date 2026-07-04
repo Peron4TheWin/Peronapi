@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OneShot: Fading Memory
 addappid(1569440)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(229020,"5799761707845834510")
-addappid(1569441,0,"795ae553653b0905c5eee2fb8a716262396ff15c4313640cabbb00f01d1e4512")
--- setManifestid(1569441,"3140900681330943048")
+addappid(1569441, 1, "795ae553653b0905c5eee2fb8a716262396ff15c4313640cabbb00f01d1e4512")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Falling As Lightning
 addappid(1728640)
-addappid(1728641,0,"83d16cd72e65ca9b6a4b853060fc02c69a77ad1e95c13d54cc33b53225544ba1")
--- setManifestid(1728641,"999021259090259815")
+addappid(1728641, 1, "83d16cd72e65ca9b6a4b853060fc02c69a77ad1e95c13d54cc33b53225544ba1")

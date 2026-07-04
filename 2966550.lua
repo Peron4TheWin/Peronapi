@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SpreadCheat
 addappid(2966550)
-addappid(2966551,0,"706fa5a4d9316190b781c59062f2e3718083772f75362bc8999feca1fdb1c2cb")
--- setManifestid(2966551,"1294281260351176132")
+addappid(2966551, 1, "706fa5a4d9316190b781c59062f2e3718083772f75362bc8999feca1fdb1c2cb")

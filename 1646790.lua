@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Striving for Light
 addappid(1646790)
-addappid(1646791,0,"387a839d535759a41e628d9eae51b5df05ad03e45ce39e9d92c6a9bd110d9bd5")
--- setManifestid(1646791,"6660213395928457257")
+addappid(1646791, 1, "387a839d535759a41e628d9eae51b5df05ad03e45ce39e9d92c6a9bd110d9bd5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mr. White
 addappid(2138790)
-addappid(2138791,0,"02fa167e6ea57ea193ea04da7d9bc320732f621f2c69a386a59c185b19951c83")
--- setManifestid(2138791,"2269532108438944224")
+addappid(2138791, 1, "02fa167e6ea57ea193ea04da7d9bc320732f621f2c69a386a59c185b19951c83")

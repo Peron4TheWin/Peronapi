@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: QUADRICOLOR: Ultra Sentai Color Ranger
 addappid(1581440)
-addappid(1581441,0,"0b8fa7916636b67e1bc6d501a34339f86362a33189019ff0e88c39607dee5467")
--- setManifestid(1581441,"8550615309275892601")
+addappid(1581441, 1, "0b8fa7916636b67e1bc6d501a34339f86362a33189019ff0e88c39607dee5467")

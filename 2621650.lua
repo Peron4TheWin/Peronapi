@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Affectionate Annie
 addappid(2621650)
-addappid(2621651,0,"8daf15406daf14eea7a189fd851a3c1f5b7a47b1e0e22032b79e889218e0bd4a")
--- setManifestid(2621651,"2168405248436564549")
+addappid(2621651, 1, "8daf15406daf14eea7a189fd851a3c1f5b7a47b1e0e22032b79e889218e0bd4a")

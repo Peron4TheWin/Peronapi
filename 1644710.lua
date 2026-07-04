@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NOeSIS Ⅱ-人间无常（试玩版）
 addappid(1644710)
-addappid(1644711,0,"f6ce717936b7700c85c04e042c57e3d8a33e7d2df26c7b0b58ef1b91108c29a7")
--- setManifestid(1644711,"3681222410497173974")
+addappid(1644711, 1, "f6ce717936b7700c85c04e042c57e3d8a33e7d2df26c7b0b58ef1b91108c29a7")

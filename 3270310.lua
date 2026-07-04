@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Harem of Gods Demo
 addappid(3270310)
-addappid(3270311,0,"2232894f311073238fcaffe4ec2aa717600db16d9241242b3ccce254f4277cea")
--- setManifestid(3270311,"1331032910447271033")
+addappid(3270311, 1, "2232894f311073238fcaffe4ec2aa717600db16d9241242b3ccce254f4277cea")

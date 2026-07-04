@@ -1,12 +1,5 @@
-
-addappid(224480) -- Octodad: Dadliest Catch
-addappid(224484, 1, "57a0ab06475197f953f5fbec310f366741442aadbb562181b2cb89e85b2dd8c7") -- Octodad Content Linux
--- setManifestid(224484, "4253549932522289047", 20422805)
-addappid(224482, 1, "63e1888aaccd1bd13a2d01fd28b08d3a8c0e9e80968521dbe4ef45fdae3632a0") -- Octodad Content OSX
--- setManifestid(224482, "2782582796488406357", 18835430)
-addappid(224481, 1, "0c445f92664319a109907a326398699a92ae30a44c196554a7667f54088b463b") -- Octodad Content Windows
--- setManifestid(224481, "8491811867326479954", 30001192)
-addappid(224483, 1, "7d5fa7d187fa069a17bc3b7759270c4f1e6b8c1409a0bc26f47089d49f02df63") -- Main Octodad Shared Content
--- setManifestid(224483, "542502232443733342", 3033413647)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
--- setManifestid(228990, "1829726630299308803", 102931551)
+-- Lua provided by SkyAPI 
+-- Game: Octodad: Dadliest Catch
+addappid(224480)
+addappid(224481, 1, "0c445f92664319a109907a326398699a92ae30a44c196554a7667f54088b463b")
+addappid(296170, 0, "28354c9b84b75dfd88b68705a69e7f3c4aad351080e1b068747996b253e77159")

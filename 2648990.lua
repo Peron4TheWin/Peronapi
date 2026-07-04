@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nerd Survivors
 addappid(2648990)
-addappid(2648991,0,"f7f2d9e981e6b2a55dcbd4dad2de4e6544fc3dbd915cda08123660847ebde572")
--- setManifestid(2648991,"5990607739619942886")
+addappid(2648991, 1, "f7f2d9e981e6b2a55dcbd4dad2de4e6544fc3dbd915cda08123660847ebde572")

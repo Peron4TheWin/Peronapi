@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kingdom of Cards
 addappid(3160500)
-addappid(3160501,0,"d38985ce515aca8fc52fac0ace682a9ff7fe646d423661b251c2578bb1e3a461")
--- setManifestid(3160501,"297419936156993827")
+addappid(3160501, 1, "d38985ce515aca8fc52fac0ace682a9ff7fe646d423661b251c2578bb1e3a461")

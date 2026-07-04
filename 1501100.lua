@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Key Escape
 addappid(1501100)
-addappid(1501101,0,"0fb867aaac7aad5a65124a184448bda0f5eff01395d4f8931722d5a83a0ea3e8")
--- setManifestid(1501101,"2129866028151096976")
+addappid(1501101, 1, "0fb867aaac7aad5a65124a184448bda0f5eff01395d4f8931722d5a83a0ea3e8")

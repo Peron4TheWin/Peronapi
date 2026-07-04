@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Empyrean
+addappid(557700)
+addappid(557701, 1, "843a29e3cc3f1f8215be00304ac6e5a0fcae6e1180825f50771be378038e54d8")

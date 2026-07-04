@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero Zero - Multiplayer RPG
 addappid(482920)
-addappid(482921,0,"90a97f494368c6a622fffd78ced9c5872d61167e9447f975c365be59bac722d2")
--- setManifestid(482921,"8769863711109327166")
+addappid(482921, 1, "90a97f494368c6a622fffd78ced9c5872d61167e9447f975c365be59bac722d2")

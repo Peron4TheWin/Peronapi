@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Otoko Cross: Pretty Boys Klondike Solitaire
 addappid(1958860)
-addappid(1958861,0,"064ba895cb0c5bcc7ac8dff367b537c4912a1f426dfec2aa8f401ff915068c58")
--- setManifestid(1958861,"7446576726920402344")
+addappid(1958861, 1, "064ba895cb0c5bcc7ac8dff367b537c4912a1f426dfec2aa8f401ff915068c58")

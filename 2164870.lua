@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sinister Entity
 addappid(2164870)
-addappid(2164871,0,"ab135a5efa4bba3aba6143e287b5efbe4d778a1412da234078e9bdff495c68cd")
--- setManifestid(2164871,"8503437814679697880")
+addappid(2164871, 1, "ab135a5efa4bba3aba6143e287b5efbe4d778a1412da234078e9bdff495c68cd")

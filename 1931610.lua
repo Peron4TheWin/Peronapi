@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NejicomiSimulator Vol.4 Demo
 addappid(1931610)
-addappid(1931611,0,"e43e0129f49044729decdb88c6d6a78a4375ce35771bf6c348ec34087b3e43cc")
--- setManifestid(1931611,"7901898782063077780")
+addappid(1931611, 1, "e43e0129f49044729decdb88c6d6a78a4375ce35771bf6c348ec34087b3e43cc")

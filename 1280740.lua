@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Buddy Simulator 1984 Demo
 addappid(1280740)
-addappid(1280741,0,"6e684b222c95c66a60a3bd174a50102249dcb418f1bb11a7cec85314033a4d24")
--- setManifestid(1280741,"8062152263601171940")
+addappid(1280741, 1, "6e684b222c95c66a60a3bd174a50102249dcb418f1bb11a7cec85314033a4d24")

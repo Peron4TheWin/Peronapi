@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tap Cats: Epic Card Battle
 addappid(864920)
-addappid(864921,0,"0575a85d8911b8294a7f4643f2674eedd802d5393ffc811fed4bf22340a217a3")
--- setManifestid(864921,"204138565444703663")
-addappid(864923)
+addappid(864921, 1, "0575a85d8911b8294a7f4643f2674eedd802d5393ffc811fed4bf22340a217a3")

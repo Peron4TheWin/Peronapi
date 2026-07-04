@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pillars of Dust
 addappid(1144140)
-addappid(1144141,0,"1ba3f94746752c31ad476e18faead6159954eda130a5c71dc83f34985d605c2b")
--- setManifestid(1144141,"7661295004560729479")
+addappid(1144141, 1, "1ba3f94746752c31ad476e18faead6159954eda130a5c71dc83f34985d605c2b")

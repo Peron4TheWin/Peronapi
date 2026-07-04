@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 墲人之境-无人之境
 addappid(1242700)
-addappid(1242701,0,"72a254679c0d4e10374f05691c8835ff3a4c98ed478d22bb1a0ef149adda9423")
--- setManifestid(1242701,"4570930862310929387")
+addappid(1242701, 1, "72a254679c0d4e10374f05691c8835ff3a4c98ed478d22bb1a0ef149adda9423")

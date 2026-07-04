@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Death Rally
 addappid(108700)
-addappid(108701,0,"317c7bae5e38b7f8cfa0719c4432b0d0ed13589473cbb7dc8d73e96f45647a8e")
--- setManifestid(108701,"6033375742333368986")
+addappid(108701, 1, "317c7bae5e38b7f8cfa0719c4432b0d0ed13589473cbb7dc8d73e96f45647a8e")

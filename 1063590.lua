@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Masters
 addappid(1063590)
-addappid(1063591,0,"6aa269e41a71a6c9a558bedd4ebace3769c1852b0c6ff9d674afa82fdc6e0e4a")
--- setManifestid(1063591,"2836952087692362768")
+addappid(1063591, 1, "6aa269e41a71a6c9a558bedd4ebace3769c1852b0c6ff9d674afa82fdc6e0e4a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clock Tower: Rewind
 addappid(2794770)
-addappid(2794771,0,"f48d6d7cab6eb22681b4eaa06dd1b162119afaef0f637b2e58b12862dc33fa70")
--- setManifestid(2794771,"9029253910714386042")
+addappid(2794771, 1, "f48d6d7cab6eb22681b4eaa06dd1b162119afaef0f637b2e58b12862dc33fa70")

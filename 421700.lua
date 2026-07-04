@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Santa
 addappid(421700)
-addappid(421701,0,"62880d1ed8f04a05ba23cfaf7b993825875659526e8c21a59cb8314f5ef866eb")
--- setManifestid(421701,"2518851581505469037")
+addappid(421701, 1, "62880d1ed8f04a05ba23cfaf7b993825875659526e8c21a59cb8314f5ef866eb")

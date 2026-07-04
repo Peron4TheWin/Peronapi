@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Mortal Glory 2
 addappid(2216660)
-addappid(2216661,0,"76ef1545e653200f1dbedefe70a3c5bf32def32852fc69f1cbf8856ea3d141ea")
--- setManifestid(2216661,"6349978292211064880")
+addappid(2216661, 1, "76ef1545e653200f1dbedefe70a3c5bf32def32852fc69f1cbf8856ea3d141ea")
+addappid(2973140)

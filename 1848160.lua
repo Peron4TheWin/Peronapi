@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AMaze DOS
 addappid(1848160)
-addappid(1848161,0,"c1bb50828a7f472e67a6cb008433885bbadc353bb9d65b0c6489781dd01ca639")
--- setManifestid(1848161,"4418632681389613549")
+addappid(1848161, 1, "c1bb50828a7f472e67a6cb008433885bbadc353bb9d65b0c6489781dd01ca639")

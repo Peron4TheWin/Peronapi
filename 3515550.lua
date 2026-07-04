@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mr. Meat
 addappid(3515550)
-addappid(3515551,0,"fb9a6a473186e026749119f5ba44c5c40b9bcc1ddf524a756f775a9ba0fc596b")
+addappid(3515551, 1, "fb9a6a473186e026749119f5ba44c5c40b9bcc1ddf524a756f775a9ba0fc596b")

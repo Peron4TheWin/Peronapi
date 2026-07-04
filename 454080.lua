@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burst
 addappid(454080)
-addappid(454081,0,"c58e94bfa6415766be0bfcd48b04960825040b260a66d4b749df667f265d35ef")
--- setManifestid(454081,"5187233568796851384")
+addappid(454081, 1, "c58e94bfa6415766be0bfcd48b04960825040b260a66d4b749df667f265d35ef")

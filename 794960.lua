@@ -1,7 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Sojourn
 addappid(794960)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(794961,0,"d6752444bdc33b033712d98e7c5ffc7ec44cc5befe3011b412d32af3165c3486")
---setManifestid(794961,"940714933356046918")
+addappid(794961, 1, "d6752444bdc33b033712d98e7c5ffc7ec44cc5befe3011b412d32af3165c3486")
+addappid(1396270, 0, "6725fee2aa967c0a0ab3c04c5efa7e7e7028b1ce64b9b8b66e964a44897a67fb")

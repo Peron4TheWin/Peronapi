@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Card Blitz: WWII
 addappid(1264220)
-addappid(1264221,0,"e3bcbcb4ec52665c5158c86644a5d28fb53fcc7b7a2d22139c05e21ee25280d3")
--- setManifestid(1264221,"5882944321904610976")
+addappid(1264221, 1, "e3bcbcb4ec52665c5158c86644a5d28fb53fcc7b7a2d22139c05e21ee25280d3")

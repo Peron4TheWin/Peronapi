@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FM
 addappid(1313530)
-addappid(1313531,0,"30a3ff132a67a7d26f505b1bad98f6ddfcef1ecf249b1642845f7a475730be23")
--- setManifestid(1313531,"3177367266412557054")
+addappid(1313531, 1, "30a3ff132a67a7d26f505b1bad98f6ddfcef1ecf249b1642845f7a475730be23")

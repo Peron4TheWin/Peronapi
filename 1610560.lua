@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyber Hunter: Awakening
 addappid(1610560)
-addappid(1610561,0,"c187bc1bf6c3e8c774ce3a1cce14d7d298178cddf3c864e37e21bac871e6df85")
--- setManifestid(1610561,"6586788097255644683")
+addappid(1610561, 1, "c187bc1bf6c3e8c774ce3a1cce14d7d298178cddf3c864e37e21bac871e6df85")

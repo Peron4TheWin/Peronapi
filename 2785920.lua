@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ảo Mộng Tru Tiên - Gamota
 addappid(2785920)
-addappid(2785921,0,"f68f4b8af67069599e3df33b3b1ebeb89bc9e02007d0bcf246431683a1782e76")
--- setManifestid(2785921,"8209127159394126375")
+addappid(2785921, 1, "f68f4b8af67069599e3df33b3b1ebeb89bc9e02007d0bcf246431683a1782e76")

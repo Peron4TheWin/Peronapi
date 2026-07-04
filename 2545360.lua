@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lonely Mountains: Snow Riders
 addappid(2545360)
-addappid(2545361,0,"097b0ce09326208a8d662ac6de3f39f1cc1f8bad9caaecd6ffb87937706620d8")
---setManifestid(2545361,"3748991059696012336")
+addappid(2545361, 1, "097b0ce09326208a8d662ac6de3f39f1cc1f8bad9caaecd6ffb87937706620d8")

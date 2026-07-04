@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 绽于枝垂樱下~Flowering Across the Hakugyokurou
 addappid(1063190)
-addappid(1063191,0,"78cb6391410c80a4592401bde811262b449db2d7e0bb40b9ac7e8890a3c768c6")
--- setManifestid(1063191,"4416137731203086233")
+addappid(1063191, 1, "78cb6391410c80a4592401bde811262b449db2d7e0bb40b9ac7e8890a3c768c6")

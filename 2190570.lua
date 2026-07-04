@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Corsair`s Madness Prologue: Jungle`s Island
 addappid(2190570)
-addappid(2190571,0,"8862c98b12d7bde04e2061b73b7f6149377f61f4923fd8100091604772559bc7")
--- setManifestid(2190571,"5553345883078062305")
+addappid(2190571, 1, "8862c98b12d7bde04e2061b73b7f6149377f61f4923fd8100091604772559bc7")

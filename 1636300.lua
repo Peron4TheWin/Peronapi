@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 浪迹三国
 addappid(1636300)
-addappid(1636301,0,"31bdaf570d9b29616e68f283ad27c0f8db294f7b90666975bdd345ddfc58948c")
--- setManifestid(1636301,"6339531684005192298")
+addappid(1636301, 1, "31bdaf570d9b29616e68f283ad27c0f8db294f7b90666975bdd345ddfc58948c")

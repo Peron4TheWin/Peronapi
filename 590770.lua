@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vectonic
 addappid(590770)
-addappid(590771,0,"57324366e7a8d180e33a2cb5937c193c06efd99819c6351c54d00c0aaa97ef6c")
--- setManifestid(590771,"8495278138929068121")
+addappid(590771, 1, "57324366e7a8d180e33a2cb5937c193c06efd99819c6351c54d00c0aaa97ef6c")

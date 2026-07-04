@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jennifer's Lustful Journey
 addappid(3422220)
-addappid(3422221,0,"fcca2b659fd65d906c32a75d69389bc6dab8b0139fb89a298b8e6eff02b17c89")
--- setManifestid(3422221,"2628467866887993568")
+addappid(3422221, 1, "fcca2b659fd65d906c32a75d69389bc6dab8b0139fb89a298b8e6eff02b17c89")

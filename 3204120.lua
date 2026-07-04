@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Maestro's Cold War 2
 addappid(3204120)
-addappid(3204121,0,"8e5979fb805b0194cd6f902c893ae3ca24d9cc297407aa0d57b26e7f6fe04f62")
--- setManifestid(3204121,"4587045236836876435")
+addappid(3204121, 1, "8e5979fb805b0194cd6f902c893ae3ca24d9cc297407aa0d57b26e7f6fe04f62")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Fighter
 addappid(1790710)
-addappid(1790711,0,"6ef4d7f1ed52d8b23e734ed67b95de2c061ddaf33ff4af0960c60edba80b54a8")
--- setManifestid(1790711,"313678970085036443")
+addappid(1790711, 1, "6ef4d7f1ed52d8b23e734ed67b95de2c061ddaf33ff4af0960c60edba80b54a8")

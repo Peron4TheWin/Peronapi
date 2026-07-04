@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cypher
 addappid(746710)
-addappid(746711,0,"593c27b51c9f8e44d82f973ec03605be385e62fb99dc1c25e5770332fb6bbff0")
+addappid(746711, 1, "593c27b51c9f8e44d82f973ec03605be385e62fb99dc1c25e5770332fb6bbff0")

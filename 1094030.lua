@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Lurk in the Dark : Prologue
 addappid(1094030)
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229000,"4622705914179893434")
-addappid(1094031,0,"4a2cdfb10153b645e3a4330df6f5ce604f22473a4065e1e38e36ab8aaeb5de0b")
--- setManifestid(1094031,"1312160543171512010")
+addappid(1094031, 1, "4a2cdfb10153b645e3a4330df6f5ce604f22473a4065e1e38e36ab8aaeb5de0b")
+addappid(1254380)

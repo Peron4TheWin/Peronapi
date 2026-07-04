@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dodge Show
 addappid(835520)
-addappid(835521,0,"3fdd981cd05b208700be5f5f40c77df32a7b1d254c8f69c6857f4774cfe48f44")
+addappid(835521, 1, "3fdd981cd05b208700be5f5f40c77df32a7b1d254c8f69c6857f4774cfe48f44")

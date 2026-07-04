@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Out Bike the Tsunami™
 addappid(1604400)
-addappid(1604401,0,"5e5262fecc2e159dbedacfecb86f31275f32fe9a8591106a0680e9fc33dd2535")
--- setManifestid(1604401,"228951872940418191")
+addappid(1604401, 1, "5e5262fecc2e159dbedacfecb86f31275f32fe9a8591106a0680e9fc33dd2535")

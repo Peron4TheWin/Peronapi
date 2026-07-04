@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ragdoll Funhouse
+addappid(1579610)
+addappid(1579611, 1, "bcd9dda9e0c0efbd98595d4a347c4d2079f95a9bf7996743ad2f36f53e1c4432")

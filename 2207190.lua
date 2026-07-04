@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monochrome Mobius: Rights and Wrongs Forgotten - Soundtrack “Prelude”
 addappid(2207190)
-addappid(2207191,0,"d8435fda081fc83a849bb4097cd3ca210cabd40bb43fc899d9f225c12c5367d9")
--- setManifestid(2207191,"5149740537378129282")
+addappid(2207191, 1, "d8435fda081fc83a849bb4097cd3ca210cabd40bb43fc899d9f225c12c5367d9")

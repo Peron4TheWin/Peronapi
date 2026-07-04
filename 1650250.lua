@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ToruTaru
 addappid(1650250)
-addappid(1650251,0,"f3cde8c44ee7aaba727698484ce284fea2a8104f2d2686862e172fc474c0e815")
--- setManifestid(1650251,"8929691254451429774")
+addappid(1650251, 1, "f3cde8c44ee7aaba727698484ce284fea2a8104f2d2686862e172fc474c0e815")

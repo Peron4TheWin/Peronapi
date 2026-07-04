@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ENSLAVED™: Odyssey to the West™ Premium Edition
 addappid(245280)
-addappid(228982)
--- setManifestid(228982,"6413394087650432851")
-addappid(229000)
--- setManifestid(229000,"4622705914179893434")
-addappid(245281,0,"a6cfce21cc7c15d96ab9b03df6ec106aa8de25c858ebcea5c85e82c6c8fbc6f5")
--- setManifestid(245281,"2425808563779645606")
+addappid(245281, 1, "a6cfce21cc7c15d96ab9b03df6ec106aa8de25c858ebcea5c85e82c6c8fbc6f5")

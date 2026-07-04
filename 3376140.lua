@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 武侠幸存者
 addappid(3376140)
-addappid(3376141,0,"8ba4c6c4d5135961f7afd4d78fda96bad2306363945c8c4388c2edb15f3236aa")
--- setManifestid(3376141,"5547464614910663738")
+addappid(3376141, 1, "8ba4c6c4d5135961f7afd4d78fda96bad2306363945c8c4388c2edb15f3236aa")

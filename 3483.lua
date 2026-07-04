@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Peggle Extreme
 addappid(3483)
-addappid(3484,0,"9139196ed941eada40864fa998092a88f23d27906865f8e7f7a7fd82150320d1")
--- setManifestid(3484,"4053752754002852222")
+addappid(3484, 1, "9139196ed941eada40864fa998092a88f23d27906865f8e7f7a7fd82150320d1")

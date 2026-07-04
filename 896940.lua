@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Switcher
 addappid(896940)
-addappid(896941,0,"19c50f509d7054bd008fcb96a451cde19e664083c5eb763eb33a7d36c7815e02")
--- setManifestid(896941,"4949778358939310313")
+addappid(896941, 1, "19c50f509d7054bd008fcb96a451cde19e664083c5eb763eb33a7d36c7815e02")

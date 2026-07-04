@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spark the Electric Jester 3 Demo
 addappid(1629540)
-addappid(1629541,0,"e08148e9dd4463f4d65901d98291d6e23ba3bbe275a892a8339ab04012a97cc9")
--- setManifestid(1629541,"4279926890167154920")
+addappid(1629541, 1, "e08148e9dd4463f4d65901d98291d6e23ba3bbe275a892a8339ab04012a97cc9")

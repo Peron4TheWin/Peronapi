@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Glass Cannon
 addappid(3325030)
-addappid(3325031,0,"6759c366d12a3b0c6b4cf7acb1f7943ff63e6992dc3c2ad13dcd7cb8972ce958")
+addappid(3325031, 1, "6759c366d12a3b0c6b4cf7acb1f7943ff63e6992dc3c2ad13dcd7cb8972ce958")

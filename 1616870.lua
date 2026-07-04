@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dininho Space Adventure
 addappid(1616870)
-addappid(1616871,0,"1015b1271aa17cc33e1a8070a0b79d7a5b59df19ff5ff922acdc8b9bf4c0d2d6")
--- setManifestid(1616871,"4325420264270528407")
+addappid(1616871, 1, "1015b1271aa17cc33e1a8070a0b79d7a5b59df19ff5ff922acdc8b9bf4c0d2d6")

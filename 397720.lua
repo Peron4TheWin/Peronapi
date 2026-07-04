@@ -1,0 +1,15 @@
+-- Lua provided by SkyAPI 
+-- Game: Romance of the Three Kingdoms Maker
+addappid(397720)
+addappid(397721, 1, "32bf9114fa22da7bef6f6c69c2a9acb2ef110e92856bcf951912895a82160f36")
+addappid(413590)
+addappid(420540, 0, "fce1d8ea169ae387599dc408c59e842340ef8af29a84ef7cdddcc83f9673f8ee")
+addappid(426200)
+addappid(426700)
+addappid(426710)
+addappid(426720)
+addappid(426740)
+addappid(426741)
+addappid(426742)
+addappid(426743)
+addappid(429590)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 木偶公馆
 addappid(1976740)
-addappid(1976741,0,"3226589c6bbd36ec55af7d605c15188aa7e7b596b2ccaa98202e3ba78fecca79")
--- setManifestid(1976741,"6788243200663469143")
+addappid(1976741, 1, "3226589c6bbd36ec55af7d605c15188aa7e7b596b2ccaa98202e3ba78fecca79")

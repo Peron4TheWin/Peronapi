@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Watercolor Hell
 addappid(1982050)
-addappid(1982051,0,"5a5fe814b81ca8ceea32deafeace0df609780b0f9628de05f710fd529d1ef3f5")
--- setManifestid(1982051,"5326368421603218303")
+addappid(1982051, 1, "5a5fe814b81ca8ceea32deafeace0df609780b0f9628de05f710fd529d1ef3f5")

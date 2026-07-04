@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dawn of Corruption
 addappid(1608730)
-addappid(1608731,0,"65e84e1ba4273f785c3b6f87a2e0702cbff6ed1d67e986ed69bd8469a6ca952c")
--- setManifestid(1608731,"7753655812751321300")
+addappid(1608731, 1, "65e84e1ba4273f785c3b6f87a2e0702cbff6ed1d67e986ed69bd8469a6ca952c")
+addappid(4485290)

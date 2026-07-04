@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Cow Girls 3 Stories
 addappid(2443550)
-addappid(2443551,0,"07684db9df6b3f664ee179c1f193114e9a8a1daa00a0cc401478a4c88a9d4098")
--- setManifestid(2443551,"6884656726831618332")
+addappid(2443551, 1, "07684db9df6b3f664ee179c1f193114e9a8a1daa00a0cc401478a4c88a9d4098")
+addappid(2452780)

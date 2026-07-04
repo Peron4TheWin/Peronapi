@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Multi Turret Academy Playtest
 addappid(2425880)
-addappid(2425881,0,"a40d764fa6de8a16f037244f73767adc8951b1238ddb94b95b0bce989a5594c5")
--- setManifestid(2425881,"7978025048553412355")
+addappid(2425881, 1, "a40d764fa6de8a16f037244f73767adc8951b1238ddb94b95b0bce989a5594c5")

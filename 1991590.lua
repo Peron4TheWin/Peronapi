@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guacamojo
 addappid(1991590)
-addappid(1991591,0,"a0675a888c74babc72bc4bfc6c491353cb9317866e4da70437d0f3c9766a6c5f")
--- setManifestid(1991591,"5982891081221544569")
+addappid(1991591, 1, "a0675a888c74babc72bc4bfc6c491353cb9317866e4da70437d0f3c9766a6c5f")

@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: SoulFrost
 addappid(675220)
-addappid(675221,0,"d994e67126f3b4b738e8fd46cf18fa17463c3f70b7ee471fda0e302f58436f96")
--- setManifestid(675221,"6372691605466954945")
+addappid(675221, 1, "d994e67126f3b4b738e8fd46cf18fa17463c3f70b7ee471fda0e302f58436f96")
 addappid(690880)

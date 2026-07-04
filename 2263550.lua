@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touch the Color
 addappid(2263550)
-addappid(2263551,0,"b848ef1a120b874874764fe59157d13e36639a7e6ec12a4295d0b8a05cdb864b")
--- setManifestid(2263551,"4217156846223208672")
+addappid(2263551, 1, "b848ef1a120b874874764fe59157d13e36639a7e6ec12a4295d0b8a05cdb864b")

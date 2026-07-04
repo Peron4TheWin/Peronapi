@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meteorfall: Krumit's Tale Demo
 addappid(1386370)
-addappid(1386371,0,"e29a6f2dcf2bd694f3a218e857784f900606e9079a944b2caf1a9ed153eadb62")
--- setManifestid(1386371,"7614460702117964745")
+addappid(1386371, 1, "e29a6f2dcf2bd694f3a218e857784f900606e9079a944b2caf1a9ed153eadb62")

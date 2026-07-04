@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Third Front: WWII
 addappid(804730)
-addappid(804731,0,"4054f121fba59ac9e30de6569693e92eb3937cd784fa8c583d140f2f284f8faf")
--- setManifestid(804731,"2321772130936123920")
-addappid(804732)
+addappid(804731, 1, "4054f121fba59ac9e30de6569693e92eb3937cd784fa8c583d140f2f284f8faf")

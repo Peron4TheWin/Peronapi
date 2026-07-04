@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deadly Rescue
 addappid(682360)
-addappid(682361,0,"9d86762cfedd7e359859a86882e77089d10eed221955893d000a4514f366d0bd")
--- setManifestid(682361,"5438232191890030138")
+addappid(682361, 1, "9d86762cfedd7e359859a86882e77089d10eed221955893d000a4514f366d0bd")

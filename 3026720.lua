@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arcane Arts: Sorcerer's Quest
 addappid(3026720)
-addappid(3026721,0,"4812b9323712bde1e3fa8d4a7dce98164e1a1e6f7e08c7fcc433e1a69237ae9e")
--- setManifestid(3026721,"606496488874874770")
-addappid(3026722)
+addappid(3026721, 1, "4812b9323712bde1e3fa8d4a7dce98164e1a1e6f7e08c7fcc433e1a69237ae9e")

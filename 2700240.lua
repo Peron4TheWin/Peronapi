@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloody Ink
 addappid(2700240)
-addappid(2700241,0,"68c15a97c18e262f302efa472ba3c36e42e77716e2a0c3d6d132f55edee6acfb")
--- setManifestid(2700241,"2868257216381135456")
+addappid(2700241, 1, "68c15a97c18e262f302efa472ba3c36e42e77716e2a0c3d6d132f55edee6acfb")

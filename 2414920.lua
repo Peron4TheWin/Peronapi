@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No zombie land: Lucy
 addappid(2414920)
-addappid(2414921,0,"d262f02550f804326a4c8019bf322eed081482b5c1157fe7df86911bf789a389")
--- setManifestid(2414921,"5332594122804028274")
+addappid(2414921, 1, "d262f02550f804326a4c8019bf322eed081482b5c1157fe7df86911bf789a389")

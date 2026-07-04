@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Who Takes The Crown?
 addappid(2550290)
-addappid(2550291,0,"4e280bcd961fcdd3577bc2638622f3c9c4a0bd52a4c3c054734c4a0ae3658f33")
--- setManifestid(2550291,"1279077548755038121")
+addappid(2550291, 1, "4e280bcd961fcdd3577bc2638622f3c9c4a0bd52a4c3c054734c4a0ae3658f33")

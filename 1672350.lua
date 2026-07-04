@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: First Samurai
 addappid(1672350)
-addappid(1672351,0,"44faf67cb260103ae21b466b4132c4f19f0430f64c32cbd5bd36f123fa5b6ce6")
--- setManifestid(1672351,"6608783637391467653")
+addappid(1672351, 1, "44faf67cb260103ae21b466b4132c4f19f0430f64c32cbd5bd36f123fa5b6ce6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PSIONIC
 addappid(1467260)
-addappid(1467261,0,"ba88f231af586dadd351c9c9d01027d0ee8e0562da260c8ae5c4564dd6d6e12a")
--- setManifestid(1467261,"6543053021469615663")
+addappid(1467261, 1, "ba88f231af586dadd351c9c9d01027d0ee8e0562da260c8ae5c4564dd6d6e12a")

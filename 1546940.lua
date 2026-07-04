@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beard Blade
 addappid(1546940)
-addappid(1546941,0,"7da984a8b78e6eadf9145cfe279f6559150cea5726eb9cea03755d20ef61b8fe")
+addappid(1546941, 1, "7da984a8b78e6eadf9145cfe279f6559150cea5726eb9cea03755d20ef61b8fe")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vampire Girls
 addappid(2357090)
-addappid(2357091,0,"76fb12b620510bffb633a25801eb379cc3049972ecf5d2e5cc6ca198e41acbce")
--- setManifestid(2357091,"6617845594067431564")
+addappid(2357091, 1, "76fb12b620510bffb633a25801eb379cc3049972ecf5d2e5cc6ca198e41acbce")

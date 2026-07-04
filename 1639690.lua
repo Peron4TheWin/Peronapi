@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flowering Across 樱下花期
 addappid(1639690)
-addappid(1639691,0,"9fd8b4eb2cd6f5fae54c8c532e83a9dc023c442f2925752f438684ab40aeed40")
--- setManifestid(1639691,"6584596524509031440")
+addappid(1639691, 1, "9fd8b4eb2cd6f5fae54c8c532e83a9dc023c442f2925752f438684ab40aeed40")

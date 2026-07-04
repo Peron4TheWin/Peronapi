@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Son Korsan
 addappid(645830)
-addappid(645831,0,"447fcc8ae2284b46a96a2b734af83b3dd7358b04b81e0bf0c7820c809f7efe69")
--- setManifestid(645831,"2541808979850924836")
+addappid(645831, 1, "447fcc8ae2284b46a96a2b734af83b3dd7358b04b81e0bf0c7820c809f7efe69")

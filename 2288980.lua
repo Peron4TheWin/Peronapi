@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: X4: Kingdom End Soundtrack
 addappid(2288980)
-addappid(2288981,0,"b097cd8dc20634053bffed9ff710fce1d4bd8dc92c5c6e16a107272a5e5d0aa2")
--- setManifestid(2288981,"1262894827417048674")
-addappid(2288982,0,"3131100704077f834eaf705de6234f2ac293933834c053ea88085747dd0e0dd8")
--- setManifestid(2288982,"7460051991421093102")
+addappid(2288981, 1, "b097cd8dc20634053bffed9ff710fce1d4bd8dc92c5c6e16a107272a5e5d0aa2")

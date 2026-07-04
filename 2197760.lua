@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Scenes: From the Woods
 addappid(2197760)
-addappid(2197761,0,"d33fc0e6572c086141a0f9ed264ca49275b0d00a86fee78c8522632c9c814fc7")
--- setManifestid(2197761,"5263999237790527386")
+addappid(2197761, 1, "d33fc0e6572c086141a0f9ed264ca49275b0d00a86fee78c8522632c9c814fc7")

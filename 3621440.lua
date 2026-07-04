@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cut it!
 addappid(3621440)
-addappid(3621441,0,"b7c8e01f34204e2b81fe70104fe51c5e28666c94949f9fa773a1887dd38fc191")
+addappid(3621441, 1, "b7c8e01f34204e2b81fe70104fe51c5e28666c94949f9fa773a1887dd38fc191")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dealer's Life Legend
 addappid(2185030)
-addappid(2185031,0,"1e6ed8d13fd509f3b06030f51f4bffd3433ddc19d98c8e8ae2b22efe7bf2da60")
--- setManifestid(2185031,"7989725971521886185")
+addappid(2185031, 1, "1e6ed8d13fd509f3b06030f51f4bffd3433ddc19d98c8e8ae2b22efe7bf2da60")
+addappid(4182180)

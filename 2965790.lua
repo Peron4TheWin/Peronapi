@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arena of block puzzle
 addappid(2965790)
-addappid(2965791,0,"b7079b88874e776cc3def5f4209fe3ec522f982f4a29ccac2161a1a1bd6212e4")
--- setManifestid(2965791,"6391322828311877884")
+addappid(2965791, 1, "b7079b88874e776cc3def5f4209fe3ec522f982f4a29ccac2161a1a1bd6212e4")

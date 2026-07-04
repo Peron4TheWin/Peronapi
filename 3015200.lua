@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cozy Marbles Demo
 addappid(3015200)
-addappid(3015201,0,"a78831a4b776d1c5af9638e2fbf8290768e775c07353c8cb91d4722c98fac73b")
--- setManifestid(3015201,"5593281265634901052")
+addappid(3015201, 1, "a78831a4b776d1c5af9638e2fbf8290768e775c07353c8cb91d4722c98fac73b")

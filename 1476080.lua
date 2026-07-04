@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grow Big (or Go Home): Ultimate Edition
 addappid(1476080)
-addappid(1476081,0,"b3cbc98fca201aeddb37dde4cd3334a78e619c67b764744e423f611bca839197")
--- setManifestid(1476081,"121038007385559982")
+addappid(1476081, 1, "b3cbc98fca201aeddb37dde4cd3334a78e619c67b764744e423f611bca839197")

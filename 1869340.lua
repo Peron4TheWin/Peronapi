@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEEP FOG 霧城 Demo
 addappid(1869340)
-addappid(1869341,0,"1e3509ac3ad10b4ff2ac812469572da80080f589b4ef0ed58c7dbac9836a9a2b")
--- setManifestid(1869341,"2988327895204467402")
+addappid(1869341, 1, "1e3509ac3ad10b4ff2ac812469572da80080f589b4ef0ed58c7dbac9836a9a2b")

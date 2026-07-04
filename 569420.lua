@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VRQB
 addappid(569420)
-addappid(569421,0,"aed21d898e59b05400e30d2534a06afcb19fb2ed18609c54cf679b4f71309025")
--- setManifestid(569421,"102726126098696983")
+addappid(569421, 1, "aed21d898e59b05400e30d2534a06afcb19fb2ed18609c54cf679b4f71309025")

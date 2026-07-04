@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GHOSTKEEPER
 addappid(2094160)
-addappid(2094161,0,"acab1f2e550394dc00626fb9703cd8bbf4c210805864d2d33a158496c3ce4f3d")
--- setManifestid(2094161,"1654233157380268383")
+addappid(2094161, 1, "acab1f2e550394dc00626fb9703cd8bbf4c210805864d2d33a158496c3ce4f3d")

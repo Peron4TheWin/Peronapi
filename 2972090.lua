@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spellagis
 addappid(2972090)
-addappid(2972091,0,"953868bda68004f3ec09bec2dd66dbf758df69dc912fee54248c74f5fb3cb80d")
--- setManifestid(2972091,"4358544066624798652")
+addappid(2972091, 1, "953868bda68004f3ec09bec2dd66dbf758df69dc912fee54248c74f5fb3cb80d")

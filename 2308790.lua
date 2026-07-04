@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UNDRESS!
 addappid(2308790)
-addappid(2308791,0,"eb29001c976def41f1db0f58bf2da2032061f834c4927e3ce8fac14c32cb4411")
--- setManifestid(2308791,"4480820938276040313")
+addappid(2308791, 1, "eb29001c976def41f1db0f58bf2da2032061f834c4927e3ce8fac14c32cb4411")

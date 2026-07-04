@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sifu's Quest
 addappid(3082620)
-addappid(3082621,0,"2caed03ad9dfb9d3704a4e52373096582ece6440cc13bd86e5d5a34a63d3ac20")
--- setManifestid(3082621,"7509722566714236706")
+addappid(3082621, 1, "2caed03ad9dfb9d3704a4e52373096582ece6440cc13bd86e5d5a34a63d3ac20")

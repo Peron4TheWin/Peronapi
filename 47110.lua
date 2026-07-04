@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape From Paradise
 addappid(47110)
-addappid(47111,0,"84ba831f93bb834162a9328e902387aeb763a46f3cc3af2ac1b7753e2b0987fb")
--- setManifestid(47111,"6661908847132502249")
+addappid(47111, 1, "84ba831f93bb834162a9328e902387aeb763a46f3cc3af2ac1b7753e2b0987fb")

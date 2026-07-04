@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: King of Bones
 addappid(3693030)
-addappid(3693031,0,"2aacb90613d03d9744cb7880e3f243a3054c29165f6feb0ac42036c74a80a223")
+addappid(3693031, 1, "2aacb90613d03d9744cb7880e3f243a3054c29165f6feb0ac42036c74a80a223")

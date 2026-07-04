@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Toy Tinker Simulator: Prologue
 addappid(1510570)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1510571,0,"339b48442632af49bc2ed143c234023296aa2942da8e253864fabf5f2f73135b")
--- setManifestid(1510571,"5965059809942009324")
+addappid(1510571, 1, "339b48442632af49bc2ed143c234023296aa2942da8e253864fabf5f2f73135b")

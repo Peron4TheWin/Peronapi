@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moth Lake: A Horror Story
 addappid(2077720)
-addappid(2077721,0,"d7dc9f8fad1b3e71d5697628154aebc13e5c172076d58d35ab645bfaf6c20505")
--- setManifestid(2077721,"6741264012305411812")
+addappid(2077721, 1, "d7dc9f8fad1b3e71d5697628154aebc13e5c172076d58d35ab645bfaf6c20505")

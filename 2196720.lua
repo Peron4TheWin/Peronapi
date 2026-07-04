@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hypnotizing Beautiful Sisters Who Piss Me Off Demo
 addappid(2196720)
-addappid(2196721,0,"f6affb7f35c723821cf471f8ec07d4891773094c50e5a9341d5175e3b362b7b2")
--- setManifestid(2196721,"7214216315286763376")
+addappid(2196721, 1, "f6affb7f35c723821cf471f8ec07d4891773094c50e5a9341d5175e3b362b7b2")

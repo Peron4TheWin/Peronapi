@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Witchaven II: Blood Vengeance
 addappid(1655430)
-addappid(1655431,0,"b62ebd249c8ec3ecb807a53ce1f3d4a77bc30513c908c1ac10295436bd790bcb")
--- setManifestid(1655431,"9153764878374036731")
+addappid(1655431, 1, "b62ebd249c8ec3ecb807a53ce1f3d4a77bc30513c908c1ac10295436bd790bcb")

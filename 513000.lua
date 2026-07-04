@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: KUBOOM
 addappid(513000)
-addappid(513001,0,"9bb41e239868d7d49d07d59d1d82de9b04066ae3767682de2fccee672f88d2d8")
--- setManifestid(513001,"3464984930103817793")
+addappid(513001, 1, "9bb41e239868d7d49d07d59d1d82de9b04066ae3767682de2fccee672f88d2d8")
+addappid(550050)

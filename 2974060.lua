@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [REC] Paroxysm
 addappid(2974060)
-addappid(2974061,0,"a199d48bb7085fa5e62fab4364b0eb831d8e352e8374e53a64075d965ac11323")
--- setManifestid(2974061,"2245117871659562572")
+addappid(2974061, 1, "a199d48bb7085fa5e62fab4364b0eb831d8e352e8374e53a64075d965ac11323")

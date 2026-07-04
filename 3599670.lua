@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forest Factory Simulator
 addappid(3599670)
-addappid(3599671,0,"f92588604c8c93fc6bbeacba5918aac274ae592340aafd1b95e87f23fa9b9ab2")
--- setManifestid(3599671,"7006543598131681283")
+addappid(3599671, 1, "f92588604c8c93fc6bbeacba5918aac274ae592340aafd1b95e87f23fa9b9ab2")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tandem: A Tale of Shadows
 addappid(1436920)
-addappid(1436921,0,"479d8d48f777a4dfa26db3c0d6ed115657330d3eacf73b64d183315857ee825d")
--- setManifestid(1436921,"2732769026692740460")
-addappid(1436922)
+addappid(1436921, 1, "479d8d48f777a4dfa26db3c0d6ed115657330d3eacf73b64d183315857ee825d")

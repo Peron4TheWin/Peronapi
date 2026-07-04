@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burstfire
 addappid(349580)
-addappid(349581,0,"d168923bb4e739701aff7238bc33f4f9a80c3e3992845b3041c1f1c9fd42e2a1")
+addappid(349581, 1, "d168923bb4e739701aff7238bc33f4f9a80c3e3992845b3041c1f1c9fd42e2a1")

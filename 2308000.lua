@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Centipede Gun
 addappid(2308000)
-addappid(2308001,0,"2f85d5c398fc02bec7a680ccdd540221cb8c0ef0111359641e9fc8c1d1c20ce2")
--- setManifestid(2308001,"804245108298449236")
+addappid(2308001, 1, "2f85d5c398fc02bec7a680ccdd540221cb8c0ef0111359641e9fc8c1d1c20ce2")

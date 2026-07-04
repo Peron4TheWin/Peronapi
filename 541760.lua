@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Frontier
 addappid(541760)
-addappid(541761,0,"34ae10f0e858d445cda5dcb562af72a340365f5ee84a24927407795e52f3f5df")
--- setManifestid(541761,"2749883435983584354")
+addappid(541761, 1, "34ae10f0e858d445cda5dcb562af72a340365f5ee84a24927407795e52f3f5df")

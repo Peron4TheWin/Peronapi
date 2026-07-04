@@ -1,4 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Le Mans Ultimate
 addappid(2399420)
+addappid(2399421, 1, "5ebe75565e2b00384fc9a712d85cb05cff556cce0e0a2566bbb63be290aaa378")
 addappid(2973280)
 addappid(2973290)
 addappid(2997280)
@@ -8,5 +11,3 @@ addappid(3260820)
 addappid(3307210)
 addappid(3468240)
 addappid(3511300)
-addappid(2399421,0,"5ebe75565e2b00384fc9a712d85cb05cff556cce0e0a2566bbb63be290aaa378")
--- setManifestid(2399421,"119682487582209388")

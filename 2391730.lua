@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Street Cat's Tale 2: Outside is Dangerous (Demo)
 addappid(2391730)
-addappid(2391731,0,"7f3c88afc54f978c67d482ba715c543f2f68586d2d2ce7248643f249a7ba2dc6")
--- setManifestid(2391731,"1322698955121670540")
+addappid(2391731, 1, "7f3c88afc54f978c67d482ba715c543f2f68586d2d2ce7248643f249a7ba2dc6")

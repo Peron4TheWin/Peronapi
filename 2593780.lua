@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Re:Lord – Tales of Adventure
 addappid(2593780)
-addappid(2593781,0,"561f28705ceb23feca9e7670c5e8c0d32f2414c1f965e0cbef4223cf3648ea45")
--- setManifestid(2593781,"153840511765415798")
+addappid(2593781, 1, "561f28705ceb23feca9e7670c5e8c0d32f2414c1f965e0cbef4223cf3648ea45")

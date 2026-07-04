@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crazy Edition of Stunts
 addappid(2147130)
-addappid(2147131,0,"2b5ff3732bd9e1ad9c409e7dbf753a42f0d99bf33ce45b738b6ab3b7896ac8e1")
--- setManifestid(2147131,"5464486564471441154")
+addappid(2147131, 1, "2b5ff3732bd9e1ad9c409e7dbf753a42f0d99bf33ce45b738b6ab3b7896ac8e1")

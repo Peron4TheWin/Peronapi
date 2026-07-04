@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hellblade II: Senua’s Saga
 addappid(2461850)
-addappid(2461851,0,"20ebd57bddf344eb01febcbdaa20afc8b1a8fe7e4bdbeecc88ca520b0df44560")
--- setManifestid(2461851,"8763532073516055148")
+addappid(2461851, 1, "3805dcaa86b71b66a1c801a5d51ccbeeabe1dac943203014f8810e33d77a0814")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: B-12
 addappid(616640)
--- setManifestid(228990,"1829726630299308803")
-addappid(616641,0,"e3356e87af4e79a06cab4edcaac5e09c80f38b5a40eab601b62754dc055bceb6")
--- setManifestid(616641,"5337518893910720909")
+addappid(616641, 1, "e3356e87af4e79a06cab4edcaac5e09c80f38b5a40eab601b62754dc055bceb6")

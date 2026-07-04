@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Defend Felinearth
 addappid(438090)
-addappid(438091,0,"96ed2e50702e9b154d3f29af6351bd24e3d9bbdaaa4cee3152284dba52fa5186")
--- setManifestid(438091,"6410796089767147653")
+addappid(438091, 1, "96ed2e50702e9b154d3f29af6351bd24e3d9bbdaaa4cee3152284dba52fa5186")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Life: Franchise Lord
 addappid(1828320)
--- setManifestid(228988,"6645201662696499616")
-addappid(1828321,0,"2d0d68025c06e2ea5fbf36588df50c4ce7a48e3ea4d3351191b92c7c40d2846f")
--- setManifestid(1828321,"1342654352936246745")
+addappid(1828321, 1, "2d0d68025c06e2ea5fbf36588df50c4ce7a48e3ea4d3351191b92c7c40d2846f")

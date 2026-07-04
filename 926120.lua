@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery Trackers: Black Isle Collector's Edition
 addappid(926120)
-addappid(926121,0,"2746f86db1531a39825fbf5d6d636ffcf3eeeb52d69cece48f194e157a04f7c8")
--- setManifestid(926121,"2881701641031240999")
+addappid(926121, 1, "2746f86db1531a39825fbf5d6d636ffcf3eeeb52d69cece48f194e157a04f7c8")

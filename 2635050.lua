@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sancticide
 addappid(2635050)
-addappid(228989)
-
-addappid(228990)
-
-addappid(2635051,0,"9d55bb1512a1aac31ebbecfc6c48b45e6e5f3f9a5436792544dd9ab17631cf68")
+addappid(2635051, 1, "9d55bb1512a1aac31ebbecfc6c48b45e6e5f3f9a5436792544dd9ab17631cf68")

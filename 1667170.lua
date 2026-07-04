@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Claustrophobia
 addappid(1667170)
-addappid(1667171,0,"a846ac2600e30cdc1f01d6b05a28473b0fb2ba905e34e8ec83c068b9ab1fe4a2")
--- setManifestid(1667171,"2049305351529739795")
+addappid(1667171, 1, "a846ac2600e30cdc1f01d6b05a28473b0fb2ba905e34e8ec83c068b9ab1fe4a2")

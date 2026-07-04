@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: COLLECTION of SaGa FINAL FANTASY LEGEND
 addappid(1642620)
--- setManifestid(228988,"6645201662696499616")
-addappid(1642621,0,"37e5c69516ba3fe109dd57a96a172e4f586356fa6fcc47efe6ac465cb2370b1a")
--- setManifestid(1642621,"8833501137017413398")
+addappid(1642621, 1, "37e5c69516ba3fe109dd57a96a172e4f586356fa6fcc47efe6ac465cb2370b1a")

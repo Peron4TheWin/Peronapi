@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: クウルウ見聞録
 addappid(2552570)
-addappid(2552571,0,"45b12f408ed4efe5ff9be930c1a7ab50b3fc5f10feb9a55be9baffd2236a4cd7")
--- setManifestid(2552571,"7374349203403200134")
+addappid(2552571, 1, "45b12f408ed4efe5ff9be930c1a7ab50b3fc5f10feb9a55be9baffd2236a4cd7")

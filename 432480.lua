@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grenade Madness
 addappid(432480)
-addappid(432481,0,"7323d5d0bb42d832a4f6f353234567848d03a8d615e33d22d33a1738e5f4bd70")
--- setManifestid(432481,"2513821313788478717")
+addappid(432481, 1, "7323d5d0bb42d832a4f6f353234567848d03a8d615e33d22d33a1738e5f4bd70")

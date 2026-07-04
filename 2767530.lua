@@ -1,3 +1,4 @@
-addappid(2767530)
-addappid(2767531,0,"5e98faea04897f670898e4eac039ecfe4eff5770d0fe517f44a3731de86f130c")
---setManifestid(2767531,"8803988489144498136")
+-- Lua provided by SkyAPI 
+-- Game: Wicked Seed
+addappid(2767530)
+addappid(2767531, 1, "5e98faea04897f670898e4eac039ecfe4eff5770d0fe517f44a3731de86f130c")

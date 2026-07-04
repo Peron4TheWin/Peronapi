@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SECTOR
+addappid(366960)
+addappid(366961, 1, "09fbaec44a6a1ba38e59fa4543e34b90d88d5bff8399797fae34176172020778")

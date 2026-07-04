@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Vampyr
 addappid(427290)
-addappid(427291,0,"cdc71f514e81cdcdf2205f20a95908bd1e90d12bad79d5089096ba9966113524")
--- setManifestid(427291,"1028370181203077487")
+addappid(427291, 1, "cdc71f514e81cdcdf2205f20a95908bd1e90d12bad79d5089096ba9966113524")
+addappid(728850)

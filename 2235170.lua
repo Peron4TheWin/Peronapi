@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Boba Simulator Demo
 addappid(2235170)
-addappid(2235171,0,"1a8a145543082a682717e2a09564894c112eec0628c434d2c4ca7ba47ec559bf")
--- setManifestid(2235171,"7286534138091862284")
+addappid(2235171, 1, "1a8a145543082a682717e2a09564894c112eec0628c434d2c4ca7ba47ec559bf")

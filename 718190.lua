@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Koboo: The Tree Spirit
 addappid(718190)
-addappid(718191,0,"1a339d436e94b815aef86c90839cb79ee9e2d3db01f6b3472d231a9354507ef0")
--- setManifestid(718191,"603869004345783229")
+addappid(718191, 1, "1a339d436e94b815aef86c90839cb79ee9e2d3db01f6b3472d231a9354507ef0")

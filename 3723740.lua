@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Red Recon: 1944 Playtest
 addappid(3723740)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3723741,0,"0b41e59136235db495d0cc8cf5221869ddf9cc66d4da9893d802e4cbe71256cd")
+addappid(3723741, 1, "0b41e59136235db495d0cc8cf5221869ddf9cc66d4da9893d802e4cbe71256cd")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D Pool
 addappid(492160)
-addappid(492161,0,"0c341636264020710be56dba1f0a36e53bf19d2d3fba79df64ed7ffc66fb4c91")
--- setManifestid(492161,"4288138605739754145")
+addappid(492161, 1, "0c341636264020710be56dba1f0a36e53bf19d2d3fba79df64ed7ffc66fb4c91")

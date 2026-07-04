@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Finding Cats In Amusement Park
 addappid(2563350)
-addappid(2563351,0,"146bdd6802b87dceb9afed033b904867baf7009b123863433fd72b8a6712a5ad")
--- setManifestid(2563351,"4353239180340704884")
+addappid(2563351, 1, "146bdd6802b87dceb9afed033b904867baf7009b123863433fd72b8a6712a5ad")

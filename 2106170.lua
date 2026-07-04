@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Weapon Master 超级武器大师
 addappid(2106170)
-addappid(2106171,0,"7258ba1f3639e0e11bbd950a8c61651c1b77ebcb1c423c003bb7024535f8cb46")
--- setManifestid(2106171,"8288732167476155765")
+addappid(2106171, 1, "7258ba1f3639e0e11bbd950a8c61651c1b77ebcb1c423c003bb7024535f8cb46")

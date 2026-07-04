@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sensual Adventures - Episode 5
 addappid(1544500)
-addappid(1544501,0,"021101119a4cb2018a9130bb7fce35a661d6f8b98bfde0764bee7711a684a4a8")
--- setManifestid(1544501,"256162205452439108")
+addappid(1544501, 1, "021101119a4cb2018a9130bb7fce35a661d6f8b98bfde0764bee7711a684a4a8")

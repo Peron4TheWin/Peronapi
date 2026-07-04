@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SYNTHROME
 addappid(3308280)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3308281,0,"bc7aa853c7c1b79aa041ef51055fa8fef0b3b2ab316e6ab90ae7de3f666e5a37")
--- setManifestid(3308281,"8468801574180444917")
+addappid(3308281, 1, "bc7aa853c7c1b79aa041ef51055fa8fef0b3b2ab316e6ab90ae7de3f666e5a37")

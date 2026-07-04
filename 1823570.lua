@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Age of Valakas: Vietnam
 addappid(1823570)
-addappid(1823571,0,"a84020e13dd8cadae78c5ffb6689a93c75bfba76c7aef7828110c4a7dc7264df")
--- setManifestid(1823571,"5956220357093579161")
+addappid(1823571, 1, "a84020e13dd8cadae78c5ffb6689a93c75bfba76c7aef7828110c4a7dc7264df")

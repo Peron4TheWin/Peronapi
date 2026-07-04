@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Dragons
 addappid(1862530)
-addappid(1862531,0,"9a6f083a2c3dd00ae60c30427c51532c6be54e5ff875c5ad1b1acdbad1f6a070")
--- setManifestid(1862531,"7804167824428670096")
+addappid(1862531, 1, "9a6f083a2c3dd00ae60c30427c51532c6be54e5ff875c5ad1b1acdbad1f6a070")

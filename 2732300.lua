@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: You Draw, I Guess Demo
 addappid(2732300)
-addappid(2732301,0,"437155d28c6435e041260c5f767a8de5b960d49f12a152e33d2194c065fbacfd")
--- setManifestid(2732301,"542465910498618699")
+addappid(2732301, 1, "437155d28c6435e041260c5f767a8de5b960d49f12a152e33d2194c065fbacfd")

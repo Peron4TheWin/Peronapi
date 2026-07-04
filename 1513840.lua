@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: V.O.D.K.A. Open World Survival Shooter
 addappid(1513840)
-addappid(1513841,0,"c150826ef06e4393841e2754a66b86f893964b13f31250b14c0cae11d5a7d7e7")
--- setManifestid(1513841,"9117416024358175516")
+addappid(1513841, 1, "c150826ef06e4393841e2754a66b86f893964b13f31250b14c0cae11d5a7d7e7")

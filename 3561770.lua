@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Irudo
 addappid(3561770)
-addappid(3561771,0,"7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992")
+addappid(3561771, 1, "7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992")
+addappid(4650660)

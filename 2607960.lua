@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Running Through The Beat
 addappid(2607960)
--- setManifestid(228989,"3514306556860204959")
-addappid(2607961,0,"40322a7618842d18ac04a551bdd9f44f4a6081bd23492f06abbebbf0a2807f9f")
--- setManifestid(2607961,"1301843924214268225")
+addappid(2607961, 1, "40322a7618842d18ac04a551bdd9f44f4a6081bd23492f06abbebbf0a2807f9f")

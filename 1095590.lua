@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 方解夢異聞 ～ Avant-Garde Discerning Paralleler (東方二次創作STG)
 addappid(1095590)
-addappid(1095591,0,"14e4b60fe966a618198e2a012eb987d8deab38ac1a97d59576be62638ab4db33")
--- setManifestid(1095591,"118345454238712837")
+addappid(1095591, 1, "14e4b60fe966a618198e2a012eb987d8deab38ac1a97d59576be62638ab4db33")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SICK
 addappid(1735930)
-addappid(1735931,0,"31c43369d66f7be3613088337c5eb1e115dda29a1c3ae844cb298043bae7c3de")
--- setManifestid(1735931,"3892793900782661940")
+addappid(1735931, 1, "31c43369d66f7be3613088337c5eb1e115dda29a1c3ae844cb298043bae7c3de")

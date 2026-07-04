@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Threshold
 addappid(1840770)
-addappid(1840771,0,"c0a5a766236103cabd0d53edb150b337220b65b53aff5bd9ea34cf7582fe32e9")
--- setManifestid(1840771,"6348061701970444854")
+addappid(1840771, 1, "c0a5a766236103cabd0d53edb150b337220b65b53aff5bd9ea34cf7582fe32e9")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dynasty
 addappid(2599420)
-addappid(2599421,0,"e5f62f0535bbee8446c0bb3d0129d5fcf6b36809ec9f02715ea1094ecbaff4ae")
--- setManifestid(2599421,"5468475236042633718")
+addappid(2599421, 1, "e5f62f0535bbee8446c0bb3d0129d5fcf6b36809ec9f02715ea1094ecbaff4ae")

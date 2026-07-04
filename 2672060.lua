@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Other Side Of Mist And Mountain
 addappid(2672060)
-addappid(2672061,0,"b7fff35812906e73ec5d6970c860527da6a27902c9ddf6dd87405ff585cc219e")
+addappid(2672061, 1, "b7fff35812906e73ec5d6970c860527da6a27902c9ddf6dd87405ff585cc219e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Healer
 addappid(955740)
-addappid(955741,0,"7d6b1d71f6b8c1b0e0da7742a713fc5c2bd8ce341599e1072e86b1ba40a9a84a")
--- setManifestid(955741,"2023625651823718870")
+addappid(955741, 1, "7d6b1d71f6b8c1b0e0da7742a713fc5c2bd8ce341599e1072e86b1ba40a9a84a")

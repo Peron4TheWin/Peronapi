@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alternative Punishment
 addappid(1901410)
-addappid(1901411,0,"07bcc36468819bdc5f291f155efa4304d0d7a0e5a6af317114245c9cf1675740")
--- setManifestid(1901411,"4192106511371680599")
+addappid(1901411, 1, "07bcc36468819bdc5f291f155efa4304d0d7a0e5a6af317114245c9cf1675740")

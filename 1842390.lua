@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Day
 addappid(1842390)
-addappid(1842391,0,"e61c17662135bfd84f4e98a4e820b1507dcc8fa4bc71ed479338040945a006ac")
--- setManifestid(1842391,"465202692918696577")
+addappid(1842391, 1, "e61c17662135bfd84f4e98a4e820b1507dcc8fa4bc71ed479338040945a006ac")

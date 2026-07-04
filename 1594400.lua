@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GAI Stops Auto: Right Version Simulator
 addappid(1594400)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1594401,0,"33f19bc4a58efe9c4b01fb6b517d985ec7a80b1a05df381618c7928f75ec1bb3")
--- setManifestid(1594401,"6005693782024981039")
+addappid(1594401, 1, "33f19bc4a58efe9c4b01fb6b517d985ec7a80b1a05df381618c7928f75ec1bb3")

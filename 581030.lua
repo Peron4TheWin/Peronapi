@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Hope: Trump vs Mafia - North Korea
 addappid(581030)
-addappid(581031,0,"f44194cf209a23b3a78025cac8d8edd9ea0b3b29166cdf0f0e2d729b298ff48a")
--- setManifestid(581031,"5423280925668565233")
+addappid(581031, 1, "f44194cf209a23b3a78025cac8d8edd9ea0b3b29166cdf0f0e2d729b298ff48a")

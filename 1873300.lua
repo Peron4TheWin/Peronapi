@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gyelfars
 addappid(1873300)
-addappid(1873301,0,"d31c49f9d96366a8c7c6717edb3e8c77a58d869789485cf149d7a15bad15dc07")
--- setManifestid(1873301,"2162222715660174605")
+addappid(1873301, 1, "d31c49f9d96366a8c7c6717edb3e8c77a58d869789485cf149d7a15bad15dc07")

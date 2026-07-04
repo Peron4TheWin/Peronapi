@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gearhead Karting Simulator - Mechanic & Racing
 addappid(2325800)
-addappid(2325801,0,"3743f78e62347197f3df1dc59625a6f2af57df01cb3f865f98a41a0c790f6dde")
--- setManifestid(2325801,"5026439678546703617")
+addappid(2325801, 1, "3743f78e62347197f3df1dc59625a6f2af57df01cb3f865f98a41a0c790f6dde")

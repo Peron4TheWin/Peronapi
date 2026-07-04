@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Milly the dog
 addappid(1081110)
-addappid(1081111,0,"e18f6eb23bf9dca3387871c3c8cc8a8d058df1d7a0071f6f1263f4505e5f4486")
--- setManifestid(1081111,"8663353492760334017")
+addappid(1081111, 1, "e18f6eb23bf9dca3387871c3c8cc8a8d058df1d7a0071f6f1263f4505e5f4486")

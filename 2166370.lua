@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Sexy Nurses
 addappid(2166370)
-addappid(2166371,0,"572c5ba92643da1e6725872b9200732cd51759299886476d94eafb5c5c2a1bd8")
--- setManifestid(2166371,"5107496915162262415")
+addappid(2166371, 1, "572c5ba92643da1e6725872b9200732cd51759299886476d94eafb5c5c2a1bd8")

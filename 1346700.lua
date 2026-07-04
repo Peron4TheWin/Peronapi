@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soccer Adventures
 addappid(1346700)
-addappid(1346701,0,"4d403324b9cc9d44c49ce86eb29afdb193e97b96a00af7fef0424a917b615ff7")
--- setManifestid(1346701,"4789145583215495729")
+addappid(1346701, 1, "4d403324b9cc9d44c49ce86eb29afdb193e97b96a00af7fef0424a917b615ff7")

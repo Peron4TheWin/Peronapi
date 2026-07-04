@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Indigo Park: Chapter 1
 addappid(2504480)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2504481,0,"ef0b248a2f1c7fa262566d9bb4f241e1b72cd390b5966a2085ea7f4cdb744749")
--- setManifestid(2504481,"4068798031950643953")
+addappid(2504481, 1, "ef0b248a2f1c7fa262566d9bb4f241e1b72cd390b5966a2085ea7f4cdb744749")
+addappid(3722130)

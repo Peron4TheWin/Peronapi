@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bounty City: 3-Way Battle
 addappid(2620340)
-addappid(2620341,0,"ba007482f18e524fa99a67643c92435a6b078182139ac6aa2a74b8c141c87253")
--- setManifestid(2620341,"3410284201285349283")
+addappid(2620341, 1, "ba007482f18e524fa99a67643c92435a6b078182139ac6aa2a74b8c141c87253")

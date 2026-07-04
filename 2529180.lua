@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Color Splash: Cats
 addappid(2529180)
-addappid(2529181,0,"466d4060d979556f5e3f4c5eda9377581195ec769b6ee52674c16f8ba60d6a7d")
--- setManifestid(2529181,"540818186331990464")
+addappid(2529181, 1, "466d4060d979556f5e3f4c5eda9377581195ec769b6ee52674c16f8ba60d6a7d")

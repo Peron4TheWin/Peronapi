@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Birch Simulator
 addappid(2635120)
-addappid(2635121,0,"c4a31fe9273eb2961a91298029dfe929d870e49f1cb40012bf201664f93eadf5")
--- setManifestid(2635121,"414050348176243898")
+addappid(2635121, 1, "c4a31fe9273eb2961a91298029dfe929d870e49f1cb40012bf201664f93eadf5")

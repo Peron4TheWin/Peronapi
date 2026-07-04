@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alia's Carnival! Flowering Sky
 addappid(2425410)
-addappid(2425411,0,"5fe46983582159f687c4bf0698ff79ec166923ce97ae1d391ea94255c74a90e6")
--- setManifestid(2425411,"6900060432189963081")
+addappid(2425411, 1, "5fe46983582159f687c4bf0698ff79ec166923ce97ae1d391ea94255c74a90e6")

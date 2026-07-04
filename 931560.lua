@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Seven Days
 addappid(931560)
-addappid(228987)
--- setManifestid(228987,"4302102680580581867")
-addappid(931561,0,"5d737ee09ee36839bea7329bc2f32e4c937ed67c684136e4b991afb800cbd17f")
--- setManifestid(931561,"4932419524979410731")
+addappid(931561, 1, "5d737ee09ee36839bea7329bc2f32e4c937ed67c684136e4b991afb800cbd17f")

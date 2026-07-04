@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UNDER DEFEAT
 addappid(2869510)
-addappid(2869511,0,"dddcafbbead29fe12f8b01ff6c722f6e478e664cf62c66633e2dfed3928486b3")
--- setManifestid(2869511,"1196312809321884451")
+addappid(2869511, 1, "dddcafbbead29fe12f8b01ff6c722f6e478e664cf62c66633e2dfed3928486b3")

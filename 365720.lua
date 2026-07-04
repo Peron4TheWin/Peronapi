@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skyrim Script Extender (SKSE)
 addappid(365720)
-addappid(365721,0,"2e04bbfe79bd927b998969187f8b205d3331d20b8d9023a97921216ef4e863bb")
--- setManifestid(365721,"156251567283089870")
+addappid(365721, 1, "2e04bbfe79bd927b998969187f8b205d3331d20b8d9023a97921216ef4e863bb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Prison
 addappid(2325750)
-addappid(2325751,0,"bf95c9dc8bb4ddce13323e8d71849e1bf96716ab50150922ab00567a7b5a6a46")
--- setManifestid(2325751,"2859241146716725396")
+addappid(2325751, 1, "bf95c9dc8bb4ddce13323e8d71849e1bf96716ab50150922ab00567a7b5a6a46")

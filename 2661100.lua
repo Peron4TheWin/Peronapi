@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Braves: Beginning
 addappid(2661100)
-addappid(2661101,0,"67c27ddd236e9c458782e5f99644a513cfaf68587c4cca0962c549633f9f4121")
--- setManifestid(2661101,"9039046026294111655")
+addappid(2661101, 1, "67c27ddd236e9c458782e5f99644a513cfaf68587c4cca0962c549633f9f4121")

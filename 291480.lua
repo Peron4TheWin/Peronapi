@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warface: Clutch
 addappid(291480)
-addappid(291481,0,"a7acb47ed390e070a19f509637e3ad1ca0364526bb5612999d0690ece3ef2355")
--- setManifestid(291481,"1287552759443030227")
+addappid(291481, 1, "a7acb47ed390e070a19f509637e3ad1ca0364526bb5612999d0690ece3ef2355")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skill Up!
 addappid(2850240)
-addappid(2850241,0,"e709d30e3beceef0c4e05f3a204c79bd9fe5dcb46e639ea74e76d7875448a3d1")
--- setManifestid(2850241,"1155921633466191957")
+addappid(2850241, 1, "e709d30e3beceef0c4e05f3a204c79bd9fe5dcb46e639ea74e76d7875448a3d1")

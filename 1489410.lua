@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alice Escaped!
 addappid(1489410)
-addappid(1489411,0,"5e615adc9a1fa841126c2e56d7302a25fbf834be86a8665a46ec03747663dd0a")
+addappid(1489411, 1, "5e615adc9a1fa841126c2e56d7302a25fbf834be86a8665a46ec03747663dd0a")

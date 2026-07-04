@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Seduction of Shaqeera
 addappid(994160)
-addappid(994161,0,"1330d421936145599a728040b7bc985f9c3fe5d3380d0e219e3189c2f6794bea")
--- setManifestid(994161,"1811842062196973653")
+addappid(994161, 1, "1330d421936145599a728040b7bc985f9c3fe5d3380d0e219e3189c2f6794bea")

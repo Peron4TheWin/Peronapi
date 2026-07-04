@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Скуфоритянин
 addappid(3329100)
-addappid(3329101,0,"ae81a943862b789cfcd8930d16b609cc824f720449a4c2c20a5418f7e56bae3c")
--- setManifestid(3329101,"8384765054316818746")
+addappid(3329101, 1, "ae81a943862b789cfcd8930d16b609cc824f720449a4c2c20a5418f7e56bae3c")

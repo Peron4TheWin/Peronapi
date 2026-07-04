@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shantae and the Pirate's Curse
 addappid(345820)
-addappid(345821,0,"4dcea77b08e111e2805676ba6797b296bee452ce2d8c5f67f41e7a22448506ed")
--- setManifestid(345821,"1907636325678954502")
+addappid(345821, 1, "4dcea77b08e111e2805676ba6797b296bee452ce2d8c5f67f41e7a22448506ed")

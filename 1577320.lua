@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Somewhere in the Shadow
+addappid(1577320)
+addappid(1577321, 1, "4474ede68cd4d61bc098f18ee5e59565c0d9e2e3fb7b5868d83522d8a9fba943")

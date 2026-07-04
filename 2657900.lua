@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: For Sale
 addappid(2657900)
-addappid(2657901,0,"5ea97161c2aa0b8fce50f08c0ab429e9fc2a1b7e515bb27665a69529f087c609")
--- setManifestid(2657901,"234868479104063018")
+addappid(2657901, 1, "5ea97161c2aa0b8fce50f08c0ab429e9fc2a1b7e515bb27665a69529f087c609")

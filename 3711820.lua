@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blue Prince - The Original Soundtrack
 addappid(3711820)
-addappid(3711821,0,"63f4a9a7ae46d2017207c4d2f59865c6e83ca600f3d5ed40ab162c6757aa7cf7")
--- setManifestid(3711821,"6547546803760430721")
-addappid(3711822,0,"4ac9f58e3e07b660dd3ec075cbd98f90a097b386d6b407e9a66c884ec59fd437")
--- setManifestid(3711822,"1799914261393895549")
+addappid(3711821, 1, "63f4a9a7ae46d2017207c4d2f59865c6e83ca600f3d5ed40ab162c6757aa7cf7")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Punch A Bunch
 addappid(1512590)
-addappid(1512591,0,"7a368a3cc1912e1e8b4a946fad878d0beac6801c6878242d926595d845148c64")
--- setManifestid(1512591,"7912141972952709029")
+addappid(1512591, 1, "7a368a3cc1912e1e8b4a946fad878d0beac6801c6878242d926595d845148c64")

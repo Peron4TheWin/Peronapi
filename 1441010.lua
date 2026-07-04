@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Pacifist's Great and Final Nightmare
 addappid(1441010)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1441011,0,"c350405f407520dc6a5fab8a031fb8e472d4c01dd5665df5ca6e0307b0e6c88f")
--- setManifestid(1441011,"401912317568842008")
+addappid(1441011, 1, "c350405f407520dc6a5fab8a031fb8e472d4c01dd5665df5ca6e0307b0e6c88f")

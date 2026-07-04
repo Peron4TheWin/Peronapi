@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PhaRaBis
 addappid(3650550)
-addappid(3650551,0,"6fa4db918f92c2bc80bec590a1a7c1e9f871f40a7a13950f67a6d486a9bd193d")
--- setManifestid(3650551,"3552086882989026983")
+addappid(3650551, 1, "6fa4db918f92c2bc80bec590a1a7c1e9f871f40a7a13950f67a6d486a9bd193d")

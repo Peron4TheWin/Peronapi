@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bunny Battle Arena
 addappid(872340)
-addappid(872341,0,"0eb6ebbb2054ad6f398933c9dfd6ddbdb164765ef6a16732ba294db73f8dcea0")
--- setManifestid(872341,"1843424973471901929")
+addappid(872341, 1, "0eb6ebbb2054ad6f398933c9dfd6ddbdb164765ef6a16732ba294db73f8dcea0")

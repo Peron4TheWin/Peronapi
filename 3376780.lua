@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shoes Store Simulator Demo
 addappid(3376780)
-addappid(3376781,0,"7716e1a2e8eabf3985551c070541352ea2377f2af8f677408430d39fb171e8ce")
--- setManifestid(3376781,"8358412348059612552")
+addappid(3376781, 1, "7716e1a2e8eabf3985551c070541352ea2377f2af8f677408430d39fb171e8ce")

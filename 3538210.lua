@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alliance Peacefighter
 addappid(3538210)
-addappid(3538211,0,"1f84a5860012dd2cd53854d5322207a162b8b88c5b8f4e0b3333e485e6daa414")
--- setManifestid(3538211,"917068406552008518")
+addappid(3538211, 1, "1f84a5860012dd2cd53854d5322207a162b8b88c5b8f4e0b3333e485e6daa414")

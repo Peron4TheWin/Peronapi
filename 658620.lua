@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wonderful Everyday Down the Rabbit-Hole
 addappid(658620)
-addappid(658621,0,"302911e178f6741460eb3404ad1fc88eaeae4650cd71719b39f6f845aaba9310")
--- setManifestid(658621,"2378265908064537538")
+addappid(658621, 1, "302911e178f6741460eb3404ad1fc88eaeae4650cd71719b39f6f845aaba9310")

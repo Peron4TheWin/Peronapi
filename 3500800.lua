@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: DreadOut Remastered Collection
 addappid(3500800)
-addappid(3500801,0,"84427016d595a3eaccd571395eac13b30c8cd78357c39d27e3f8937df9756e1b")
--- setManifestid(3500801,"6248581734196827904")
+addappid(3500801, 1, "84427016d595a3eaccd571395eac13b30c8cd78357c39d27e3f8937df9756e1b")
+addappid(3858020)

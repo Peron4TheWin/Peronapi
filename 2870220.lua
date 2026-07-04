@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tuggowar
 addappid(2870220)
-addappid(2870221,0,"fcad9bd6dbcff26e0da497c4920b0d973f4893191acc64c8eaf6464b7d03776f")
--- setManifestid(2870221,"6953854454993375431")
+addappid(2870221, 1, "fcad9bd6dbcff26e0da497c4920b0d973f4893191acc64c8eaf6464b7d03776f")

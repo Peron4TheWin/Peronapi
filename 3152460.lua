@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Curtain Call: Chronicles of Heroes
 addappid(3152460)
-addappid(3152461,0,"b8bfdb82156f20438eddeb66c6b5dfd0ebd9ad50372f3d6a0615d207de8473e0")
--- setManifestid(3152461,"1616399069618505768")
+addappid(3152461, 1, "b8bfdb82156f20438eddeb66c6b5dfd0ebd9ad50372f3d6a0615d207de8473e0")

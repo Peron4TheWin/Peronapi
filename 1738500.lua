@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: velvet clouds
 addappid(1738500)
-addappid(1738501,0,"a9dabeeafb3054a9e2db8347b33b2cf7d840904e2a5f02568a8025c9733898bf")
--- setManifestid(1738501,"5375763715327718741")
+addappid(1738501, 1, "a9dabeeafb3054a9e2db8347b33b2cf7d840904e2a5f02568a8025c9733898bf")

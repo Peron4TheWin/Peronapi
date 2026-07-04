@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Striving for Light Soundtrack
 addappid(1829720)
-addappid(1829721,0,"f337ab8d90a02606417fd0c36e4c7a7ca839e5929b9a21e5a55e0922d38797e1")
--- setManifestid(1829721,"3770272889757458551")
+addappid(1829721, 1, "f337ab8d90a02606417fd0c36e4c7a7ca839e5929b9a21e5a55e0922d38797e1")

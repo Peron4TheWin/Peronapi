@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deadly Premonition 2: A Blessing in Disguise
 addappid(1271100)
-addappid(1271101,0,"3afe755d42d2ca2e94246b22220813f691fed7102195e29f982d1e7e8f2da708")
--- setManifestid(1271101,"407598475006754983")
+addappid(1271101, 1, "3afe755d42d2ca2e94246b22220813f691fed7102195e29f982d1e7e8f2da708")

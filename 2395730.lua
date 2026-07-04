@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spiral Up
 addappid(2395730)
-addappid(2395731,0,"71baca7cf1f086031a4a1ce49ac785f2d8bd51391d265e6f202b6da9e8c2032b")
+addappid(2395731, 1, "71baca7cf1f086031a4a1ce49ac785f2d8bd51391d265e6f202b6da9e8c2032b")

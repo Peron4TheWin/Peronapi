@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Era of Survival
 addappid(1234380)
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229000,"4622705914179893434")
--- setManifestid(229033,"2059065101492814639")
-addappid(1234381,0,"cc3ea3e0694bab56d1c410e873779f83bd1ebbf5dd12e58d6ec814cf7dd5c49c")
--- setManifestid(1234381,"6421275762564143558")
+addappid(1234381, 1, "cc3ea3e0694bab56d1c410e873779f83bd1ebbf5dd12e58d6ec814cf7dd5c49c")

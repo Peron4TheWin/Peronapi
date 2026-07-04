@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prison Forever
 addappid(1219580)
-addappid(1219581,0,"04abc436a1e232ed48d1bf64376bd0e971b511777fe5e4a3a3d137e6e755d8bb")
--- setManifestid(1219581,"5723215562587067446")
+addappid(1219581, 1, "04abc436a1e232ed48d1bf64376bd0e971b511777fe5e4a3a3d137e6e755d8bb")

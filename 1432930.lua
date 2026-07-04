@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cybernetica: fallen city
 addappid(1432930)
-addappid(1432931,0,"eb7a8035ccf83592a4dd3e3c38f96f135c129629e5c91e5d1fd62c3684788ea5")
+addappid(1432931, 1, "eb7a8035ccf83592a4dd3e3c38f96f135c129629e5c91e5d1fd62c3684788ea5")

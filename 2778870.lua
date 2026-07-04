@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cozy Room Decorator Demo
 addappid(2778870)
-addappid(2778871,0,"f380d1c2e1778afbe2a04fac31ac473383a5439f9b908e7e9407d11a79b745a8")
--- setManifestid(2778871,"6127832580638898254")
+addappid(2778871, 1, "f380d1c2e1778afbe2a04fac31ac473383a5439f9b908e7e9407d11a79b745a8")

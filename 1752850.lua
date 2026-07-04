@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Find Match Icons
 addappid(1752850)
-addappid(1752851,0,"0f907006b4fc0ccb5f7fbf7ad272c7dcffc30145e4465bd19ea47ca4e7cfeb93")
--- setManifestid(1752851,"4838527912821909962")
+addappid(1752851, 1, "0f907006b4fc0ccb5f7fbf7ad272c7dcffc30145e4465bd19ea47ca4e7cfeb93")

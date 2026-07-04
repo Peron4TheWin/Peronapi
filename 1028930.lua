@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: It Moves
 addappid(1028930)
--- setManifestid(228982,"6413394087650432851")
-addappid(1028931,0,"a065abc64f9398af187eab0939c4cb116e6d9f0b5da9d3fc6fcaf2999a3c9186")
--- setManifestid(1028931,"7783833171338595774")
+addappid(1028931, 1, "a065abc64f9398af187eab0939c4cb116e6d9f0b5da9d3fc6fcaf2999a3c9186")

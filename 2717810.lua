@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Void Wizard
 addappid(2717810)
-addappid(2717811,0,"0906bac0fa19813613a57abad8dc9eec6b3dbfa0e39dae4014de1059a3fc86de")
--- setManifestid(2717811,"1521850491972519976")
+addappid(2717811, 1, "0906bac0fa19813613a57abad8dc9eec6b3dbfa0e39dae4014de1059a3fc86de")

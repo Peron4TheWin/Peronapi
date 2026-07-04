@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haunting At Cliffhouse
+addappid(1575290)
+addappid(1575291, 1, "2f9cef8eebe3699aef0be370c7181e88fe92476c6c1b73b6eed39755eb483f86")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BOMB: Who let the dogfight?
 addappid(301500)
-addappid(301501,0,"8ab24d16826ff2e9055f634e94cc64417ec5a927fae8da0268eae57da6704e8e")
--- setManifestid(301501,"7933890805211204447")
-addappid(301502,0,"3e49ac085b16227d9b8745335252662f4d74b99eaab3d6c536fc81a4506b1219")
--- setManifestid(301502,"8890826458379022069")
+addappid(301501, 1, "8ab24d16826ff2e9055f634e94cc64417ec5a927fae8da0268eae57da6704e8e")

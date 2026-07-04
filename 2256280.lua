@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Skyward
 addappid(2256280)
-addappid(2256281,0,"07feb165afde78f7e5d417d639301eceda03507f4636368b6a21a8549a8d81c9")
--- setManifestid(2256281,"6324663018140919431")
+addappid(2256281, 1, "07feb165afde78f7e5d417d639301eceda03507f4636368b6a21a8549a8d81c9")

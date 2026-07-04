@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Legends
 addappid(1482870)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1482871,0,"2628f8a2f9220a6bc466d565fe1f53d24593143fbf7aaf78538fd0fce47733aa")
--- setManifestid(1482871,"827101536811512326")
+addappid(1482871, 1, "2628f8a2f9220a6bc466d565fe1f53d24593143fbf7aaf78538fd0fce47733aa")

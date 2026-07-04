@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Peresmeshnik
 addappid(1353370)
-addappid(1353371,0,"cff7b4b96d09e4c99b71fe39f69044d3aa0857ed9051db452b1cbcdee6a27232")
--- setManifestid(1353371,"2347286046476173735")
+addappid(1353371, 1, "cff7b4b96d09e4c99b71fe39f69044d3aa0857ed9051db452b1cbcdee6a27232")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vertical Strike Endless Challenge
 addappid(313390)
-addappid(313391,0,"9854fcfb06a581cb341c23f2ad3478990257affeeff08ee81936423f3866efa3")
--- setManifestid(313391,"1038752758998627069")
+addappid(313391, 1, "9854fcfb06a581cb341c23f2ad3478990257affeeff08ee81936423f3866efa3")

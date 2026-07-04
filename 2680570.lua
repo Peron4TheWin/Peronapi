@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Morbid: The Lords of Ire Demo
 addappid(2680570)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2680571,0,"88d50655e0edf0f55ce8db995241b5d5242dd96ddd4ed7a009b231f4440892b5")
+addappid(2680571, 1, "88d50655e0edf0f55ce8db995241b5d5242dd96ddd4ed7a009b231f4440892b5")

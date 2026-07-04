@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: hallucination - 幻觉
 addappid(1167700)
-addappid(1167701,0,"c84f9787518987dd3997eadbc82128110bdd316f7f53c881ec55a472e20f767e")
+addappid(1167701, 1, "c84f9787518987dd3997eadbc82128110bdd316f7f53c881ec55a472e20f767e")
+addappid(1226400)

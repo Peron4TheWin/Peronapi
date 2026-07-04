@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zet Zillions
 addappid(2229560)
-addappid(2229561,0,"91161aebcfa29bf039b624a2c81f097793db4455287bda944179623d65bc535a")
--- setManifestid(2229561,"8813775726606791550")
+addappid(2229561, 1, "91161aebcfa29bf039b624a2c81f097793db4455287bda944179623d65bc535a")

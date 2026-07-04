@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Golden Mine Pickaxe
 addappid(1857070)
-addappid(1857071,0,"90dbcb8beb21b6d125e838cf0a0851c89aa2bb8c46b155c2b7037da1f57e0702")
--- setManifestid(1857071,"755645209497002909")
+addappid(1857071, 1, "90dbcb8beb21b6d125e838cf0a0851c89aa2bb8c46b155c2b7037da1f57e0702")

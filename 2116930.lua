@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mozart Requiem
 addappid(2116930)
-addappid(2116931,0,"201ed3e8d3b3483d557f126a62ee482382e4237941e6c97bacd111e6a977df0b")
--- setManifestid(2116931,"4078218212511468250")
+addappid(2116931, 1, "201ed3e8d3b3483d557f126a62ee482382e4237941e6c97bacd111e6a977df0b")

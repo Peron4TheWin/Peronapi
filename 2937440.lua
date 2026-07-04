@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rival Stars Horse Racing: VR Edition
 addappid(2937440)
-addappid(2937441,0,"20c894dfba60cfd7bb335b46b4a5a1de4ddd0e70f3ac9bc738505105d5bf49bd")
--- setManifestid(2937441,"6489448919025307880")
+addappid(2937441, 1, "20c894dfba60cfd7bb335b46b4a5a1de4ddd0e70f3ac9bc738505105d5bf49bd")

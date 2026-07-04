@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Friend Sighting
 addappid(1219110)
-addappid(1219111,0,"a9a2530310fc2c75f46e9a7c052d8e3cea2e806b96b0b22e7afe052fa84db77d")
--- setManifestid(1219111,"6604109399862798012")
+addappid(1219111, 1, "a9a2530310fc2c75f46e9a7c052d8e3cea2e806b96b0b22e7afe052fa84db77d")

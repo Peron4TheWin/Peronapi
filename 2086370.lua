@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Double Dragon
 addappid(2086370)
-addappid(2086371,0,"f761f47f184dfbfee6af0d87ca41520915e1c9ddbfc1c2f225f31aad86798631")
--- setManifestid(2086371,"4239607927773698641")
+addappid(2086371, 1, "f761f47f184dfbfee6af0d87ca41520915e1c9ddbfc1c2f225f31aad86798631")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Perennial Dusk -Kinsenka-
 addappid(3470530)
--- setManifestid(228990,"1829726630299308803")
-addappid(3470531,0,"509067aa31e7af8e7f39d39f17db94e8c16ce576dc738c93d2e7a44269126753")
--- setManifestid(3470531,"2541096816336374319")
+addappid(3470531, 1, "509067aa31e7af8e7f39d39f17db94e8c16ce576dc738c93d2e7a44269126753")

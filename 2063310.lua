@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Joe Wander and the Enigmatic Adventures
 addappid(2063310)
-addappid(2063311,0,"bea1cbef7553fd74c5b6adfe046d2c591ce75336b67ee290483cb9d2f398d57b")
--- setManifestid(2063311,"5199723593622806749")
+addappid(2063311, 1, "bea1cbef7553fd74c5b6adfe046d2c591ce75336b67ee290483cb9d2f398d57b")

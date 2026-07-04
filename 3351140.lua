@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Limoria
 addappid(3351140)
-addappid(3351141,0,"e6340bf55090bdb9a0a5d7149a9240cec31cc72c1a2ff50c737a48dfd3ae4ab9")
--- setManifestid(3351141,"3994466755937207464")
+addappid(3351141, 1, "e6340bf55090bdb9a0a5d7149a9240cec31cc72c1a2ff50c737a48dfd3ae4ab9")

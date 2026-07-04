@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Sophia the Traveler
 addappid(1602540)
-addappid(1602541,0,"e6a2337699cbd4fac9c79fa3722df63986a98073162df82b1bb205a12c29e4da")
--- setManifestid(1602541,"1122485837538748886")
+addappid(1602541, 1, "e6a2337699cbd4fac9c79fa3722df63986a98073162df82b1bb205a12c29e4da")
+addappid(2850160)

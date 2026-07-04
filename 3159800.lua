@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DeviDevi Survivor
 addappid(3159800)
-addappid(3159801,0,"4431a0a4b1da41035f777bed25b99f8ac7f0f26be25b0e78f4dc6c17991a900b")
+addappid(3159801, 1, "4431a0a4b1da41035f777bed25b99f8ac7f0f26be25b0e78f4dc6c17991a900b")

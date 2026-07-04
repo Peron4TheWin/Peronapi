@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Resist the succubus—The end of the female Knight R18 DLC
 addappid(1947360)
-addappid(1947361,0,"7457d9a866dfee94eb5210ed8ee9502513ff31a752f5be5a86ed4cbf7edc5a90")
--- setManifestid(1947361,"2021063956593493000")
+addappid(1947361, 1, "7457d9a866dfee94eb5210ed8ee9502513ff31a752f5be5a86ed4cbf7edc5a90")

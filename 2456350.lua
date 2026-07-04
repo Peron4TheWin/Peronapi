@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Scourge | Tai Ương
 addappid(2456350)
-addappid(2456351,0,"5ccb2b5564af5a9512d72b2c4a917f78210a4b3ef66a81992a9cde71fa378a56")
--- setManifestid(2456351,"3716107547149492447")
+addappid(2456351, 1, "5ccb2b5564af5a9512d72b2c4a917f78210a4b3ef66a81992a9cde71fa378a56")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loot Run
 addappid(733570)
-addappid(733571,0,"045ba22a3f706a54309bcba25269810b559a514901608d6826e8a40aec1b67ef")
+addappid(733571, 1, "045ba22a3f706a54309bcba25269810b559a514901608d6826e8a40aec1b67ef")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gripper's 3D/VR Adventure
 addappid(3549440)
-addappid(3549441,0,"8d205086ebdc84dff3bc5855802a5e0c0b27ab9bab57bff88e48c18df40a304f")
--- setManifestid(3549441,"7739916855925950154")
+addappid(3549441, 1, "8d205086ebdc84dff3bc5855802a5e0c0b27ab9bab57bff88e48c18df40a304f")

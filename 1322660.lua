@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spitlings Demo
 addappid(1322660)
-addappid(1322661,0,"d77777d37b6addd6038a14c5ec03b14a7700e08c9bc2965d694ce756b41f621d")
--- setManifestid(1322661,"5433607972026583956")
+addappid(1322661, 1, "d77777d37b6addd6038a14c5ec03b14a7700e08c9bc2965d694ce756b41f621d")

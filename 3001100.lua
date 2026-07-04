@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UnHolY JaiL TRPG
 addappid(3001100)
-addappid(3001101,0,"8bd164b4e9ec07e958ab44fe16297309baee61a66296ee6c910cd9a753149099")
--- setManifestid(3001101,"326142013353357475")
+addappid(3001101, 1, "8bd164b4e9ec07e958ab44fe16297309baee61a66296ee6c910cd9a753149099")

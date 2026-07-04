@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Time Assassin
 addappid(3734880)
-addappid(3734881,0,"ecdd45a929e7924f5126fc9b7c5a249131fca53fe6f6485167a9db8b527fd6c1")
--- setManifestid(3734881,"3907314387233220878")
+addappid(3734881, 1, "ecdd45a929e7924f5126fc9b7c5a249131fca53fe6f6485167a9db8b527fd6c1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cavalry Girls
 addappid(2055050)
-addappid(2055051,0,"fe0a834b62767e6d6dd0742841fd2a2e1454e8a6f5768fba2031f3124516e5f8")
--- setManifestid(2055051,"8482786054978785193")
+addappid(2055051, 1, "fe0a834b62767e6d6dd0742841fd2a2e1454e8a6f5768fba2031f3124516e5f8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CowaCowa: Jinmenken
 addappid(3266200)
-addappid(3266201,0,"83adcf06c4591373ebde08dc1e2b32fc812334876a41efa0bf2fa6cd786c4de4")
--- setManifestid(3266201,"325362521161263924")
+addappid(3266201, 1, "83adcf06c4591373ebde08dc1e2b32fc812334876a41efa0bf2fa6cd786c4de4")

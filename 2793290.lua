@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LipTrip ~My Boss Is My Heat Suppressant?!~
 addappid(2793290)
-addappid(2793291,0,"dfd53da07fb089cf04049b50afc67031f6dc69d38164174b148ae7623bfc0bac")
--- setManifestid(2793291,"7474981420717240947")
+addappid(2793291, 1, "dfd53da07fb089cf04049b50afc67031f6dc69d38164174b148ae7623bfc0bac")

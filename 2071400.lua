@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bum Bum Monsterz
 addappid(2071400)
-addappid(2071401,0,"06e06fbb32e7308427c565ab56ee35edfc2eb16fef7c2bdb319ed55846d9afb3")
--- setManifestid(2071401,"1347838459203041785")
+addappid(2071401, 1, "06e06fbb32e7308427c565ab56ee35edfc2eb16fef7c2bdb319ed55846d9afb3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: H.E.N.T.A.L.K.E.R.
 addappid(2927880)
-addappid(2927881,0,"0124746bb01704baf6b942a61d35b1985a6fe9dfbaf89dae555d616924f6d61d")
--- setManifestid(2927881,"2771179722804922941")
+addappid(2927881, 1, "0124746bb01704baf6b942a61d35b1985a6fe9dfbaf89dae555d616924f6d61d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ClayTown Horror OST
 addappid(2205450)
-addappid(2205451,0,"8af6f1d0a25a5fb616428daadeb5dbdd949458719e98c6bbeff6712c2adb9141")
--- setManifestid(2205451,"686131817391637398")
+addappid(2205451, 1, "8af6f1d0a25a5fb616428daadeb5dbdd949458719e98c6bbeff6712c2adb9141")

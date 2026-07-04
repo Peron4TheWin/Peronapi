@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RhythmSnake Demo
 addappid(1166930)
-addappid(1166931,0,"8fe02733254c66c4a12326586eef9f5ff93b87539b517b3ee929d4586dcd90a8")
+addappid(1166931, 1, "8fe02733254c66c4a12326586eef9f5ff93b87539b517b3ee929d4586dcd90a8")

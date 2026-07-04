@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gunner, HEAT, PC!
 addappid(1705180)
-addappid(1705181,0,"9dba2a78017b5384c4cc0cf599c6b3fe252c3635dcef818c04f98aa9ea9374e9")
--- setManifestid(1705181,"8871819205536753128")
+addappid(1705181, 1, "9dba2a78017b5384c4cc0cf599c6b3fe252c3635dcef818c04f98aa9ea9374e9")

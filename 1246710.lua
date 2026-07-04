@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hooplord
 addappid(1246710)
-addappid(1246711,0,"dd28976c50fdfd5fa45ff002fccd88cda7c0f2af60678c3c07e32520ed68bf87")
--- setManifestid(1246711,"6489909962974353318")
+addappid(1246711, 1, "dd28976c50fdfd5fa45ff002fccd88cda7c0f2af60678c3c07e32520ed68bf87")

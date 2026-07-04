@@ -1,9 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Stories: The Path of Destinies
 addappid(439190)
-addappid(228985)
---setManifestid(228985,"3966345552745568756")
-addappid(228986)
---setManifestid(228986,"8782296191957114623")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(439191,0,"f75cf3086b7d6535060167970aca7851ff431e87fdedb6d68ef8416f4a33bf87")
---setManifestid(439191,"1331801270154297293")
+addappid(439191, 1, "f75cf3086b7d6535060167970aca7851ff431e87fdedb6d68ef8416f4a33bf87")
+addappid(471741, 0, "70e9dd42cb732f3cd67c19f28fbe8ede0d44014e3d9ed51c20c1fed37591efd7")

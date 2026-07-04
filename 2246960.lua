@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Shot in the Dark - Chapter One Demo
 addappid(2246960)
-addappid(2246961,0,"e24ea39d05fd9700ce256a0cc4e8f58636dc30661c8bc26e25bedccce231449d")
--- setManifestid(2246961,"2571362077696152994")
+addappid(2246961, 1, "e24ea39d05fd9700ce256a0cc4e8f58636dc30661c8bc26e25bedccce231449d")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kitty May Cry
 addappid(2123100)
-addappid(2123101,0,"ce3ff66d4c788f4e57c8fa9353fcf5c4ebabdf0342452db5d58a8f54b0ab0bc7")
+addappid(2123101, 1, "ce3ff66d4c788f4e57c8fa9353fcf5c4ebabdf0342452db5d58a8f54b0ab0bc7")

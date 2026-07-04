@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Craft Keep VR
 addappid(546350)
-addappid(546351,0,"20a28fcd2d3f0a0298d01482f179014372b1114c11855ab4fa5084cb7c6a0316")
--- setManifestid(546351,"2064527573107543151")
+addappid(546351, 1, "20a28fcd2d3f0a0298d01482f179014372b1114c11855ab4fa5084cb7c6a0316")

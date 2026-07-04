@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Baby In Yellow
 addappid(2291340)
-addappid(2291341,0,"2b5d1d695b2eb44f8dfb6da030036555818151ae85c931c08266c4ae04d15c42")
--- setManifestid(2291341,"1468307953788351889")
+addappid(2291341, 1, "2b5d1d695b2eb44f8dfb6da030036555818151ae85c931c08266c4ae04d15c42")

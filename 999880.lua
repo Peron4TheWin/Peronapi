@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NASA's Exoplanet Excursions
 addappid(999880)
-addappid(999881,0,"199df8d046bd5003510efcbff88299c42faec7adf052832d1c2119b06649afca")
--- setManifestid(999881,"1300689545078939096")
+addappid(999881, 1, "199df8d046bd5003510efcbff88299c42faec7adf052832d1c2119b06649afca")

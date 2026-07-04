@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Construct VR - The Volumetric Movie
 addappid(1674620)
--- setManifestid(228988,"6645201662696499616")
-addappid(1674621,0,"cc6806f0961419e76683f193bfcae010a556ed60490409d99e84b39647c35173")
--- setManifestid(1674621,"7691726196336879013")
+addappid(1674621, 1, "cc6806f0961419e76683f193bfcae010a556ed60490409d99e84b39647c35173")

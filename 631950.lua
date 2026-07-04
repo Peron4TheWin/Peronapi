@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Caelum: Into the Sky
 addappid(631950)
-addappid(631951,0,"24f05fe32d7216a502bf8df75bba224d4f9cb4d12c1671ba17a1a39c6abe4c6a")
--- setManifestid(631951,"1195434073205235309")
+addappid(631951, 1, "24f05fe32d7216a502bf8df75bba224d4f9cb4d12c1671ba17a1a39c6abe4c6a")

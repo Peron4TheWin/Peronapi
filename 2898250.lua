@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rent A Car Simulator 24: Prologue
 addappid(2898250)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2898251,0,"f0ec4fd554b79b812d6d955c0567e460c9ff5acfd1c49e0cbad201b82e9633fd")
--- setManifestid(2898251,"5719320207884534806")
+addappid(2898251, 1, "f0ec4fd554b79b812d6d955c0567e460c9ff5acfd1c49e0cbad201b82e9633fd")

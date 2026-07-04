@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Missile Tank
 addappid(1350570)
-addappid(1350571,0,"bfcc2260418e7ec47d83f447a65dee145589650bba4ec52773df419f3771cf09")
--- setManifestid(1350571,"8621698113725007086")
+addappid(1350571, 1, "bfcc2260418e7ec47d83f447a65dee145589650bba4ec52773df419f3771cf09")

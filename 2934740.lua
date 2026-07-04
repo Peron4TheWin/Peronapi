@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Farming Boy Demo
 addappid(2934740)
-addappid(2934741,0,"6a212ba8d469b643c6d0eaf939ef22be8b939d74fb188cbf6f876beea4217cb9")
--- setManifestid(2934741,"3946346455603242413")
+addappid(2934741, 1, "6a212ba8d469b643c6d0eaf939ef22be8b939d74fb188cbf6f876beea4217cb9")

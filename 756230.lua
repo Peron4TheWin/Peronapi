@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KARTOFELKA
 addappid(756230)
-addappid(756231,0,"44cd41eb9eee35bd7ca8cdaad98704c2d426a3a29a69b4d4e45b291d74f71a4c")
--- setManifestid(756231,"200794774969702289")
+addappid(756231, 1, "44cd41eb9eee35bd7ca8cdaad98704c2d426a3a29a69b4d4e45b291d74f71a4c")

@@ -1,5 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Campus Notes - forget me not.
 addappid(435360)
-addappid(435361,0,"e7044f8edf7ccb5b5c7dd97b6a018385efc2a8537c045f062194ab2898d4d710")
--- setManifestid(435361,"3783470025109034816")
+addappid(435361, 1, "e7044f8edf7ccb5b5c7dd97b6a018385efc2a8537c045f062194ab2898d4d710")
 addappid(691520)
 addappid(711510)

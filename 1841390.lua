@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 hidden fish
 addappid(1841390)
-addappid(1841391,0,"5c8563f630de1bc4f28910b23c1abde45a2b1b03d80c0c6d6784f9aeca2441f8")
--- setManifestid(1841391,"3856089685958501427")
+addappid(1841391, 1, "5c8563f630de1bc4f28910b23c1abde45a2b1b03d80c0c6d6784f9aeca2441f8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Glider Island
 addappid(500110)
-addappid(500111,0,"95e2ed6b4aabf26c1acbdd5d1b723ed37b7bd0d864422c93fe177749c333f5a0")
--- setManifestid(500111,"4012131474681773604")
+addappid(500111, 1, "95e2ed6b4aabf26c1acbdd5d1b723ed37b7bd0d864422c93fe177749c333f5a0")

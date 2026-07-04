@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geneforge 4: Rebellion
 addappid(201000)
-addappid(201001,0,"b1b963a3e71e712b517fc5b210d65b06896cf1ea55f852576729233bff6ae3bc")
--- setManifestid(201001,"7435432875363830156")
+addappid(201001, 1, "b1b963a3e71e712b517fc5b210d65b06896cf1ea55f852576729233bff6ae3bc")

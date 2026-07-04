@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gate to Site 8
 addappid(1527830)
-addappid(1527831,0,"8743f20c4c96f5e663e1b04e3d8535917f8915801b7c0ff852077fa3b24a9cd2")
--- setManifestid(1527831,"6798512954752301714")
+addappid(1527831, 1, "8743f20c4c96f5e663e1b04e3d8535917f8915801b7c0ff852077fa3b24a9cd2")

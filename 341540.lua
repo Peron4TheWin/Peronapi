@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TRIP Steam Edition
 addappid(341540)
-addappid(341541,0,"4f4c561785f0396e1ea9d338da11d92bd4c75231990cbe6cedf8a62a9b2243e1")
--- setManifestid(341541,"2459647658169884342")
+addappid(341541, 1, "4f4c561785f0396e1ea9d338da11d92bd4c75231990cbe6cedf8a62a9b2243e1")

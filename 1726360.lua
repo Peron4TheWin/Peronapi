@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Peter's Adventures in English [Learn English]
 addappid(1726360)
-addappid(1726361,0,"b620d9849edfad3675e21293793272667aa1fef5d21b84c1bcdb81f85dd8319b")
--- setManifestid(1726361,"333313067670412193")
+addappid(1726361, 1, "b620d9849edfad3675e21293793272667aa1fef5d21b84c1bcdb81f85dd8319b")
+addappid(1813520)

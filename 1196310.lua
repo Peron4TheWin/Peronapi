@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fantasy Grounds VTT
 addappid(1196310)
-addappid(1196311,0,"775e122ebc7a4df99d613dcfbd24e3adb43976c2e396b7c59f92e665b731d275")
--- setManifestid(1196311,"5551766967266901897")
+addappid(1196311, 1, "775e122ebc7a4df99d613dcfbd24e3adb43976c2e396b7c59f92e665b731d275")

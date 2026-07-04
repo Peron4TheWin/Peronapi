@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Pussy 2
 addappid(1072120)
-addappid(1072121,0,"9548145bfecd53c278aee43cacfb426119c884eb9d5fb68ae967f238f7aa94dc")
--- setManifestid(1072121,"587665281969195354")
+addappid(1072121, 1, "9548145bfecd53c278aee43cacfb426119c884eb9d5fb68ae967f238f7aa94dc")

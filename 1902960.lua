@@ -1,8 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost Records: Bloom & Rage
 addappid(1902960)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1902961,0,"abad4c4c537119525145d83f5b7fe9761125627d17fc04758be2de4d40de12ed")
--- setManifestid(1902961,"6409180190415452819")
+addappid(1902961, 1, "abad4c4c537119525145d83f5b7fe9761125627d17fc04758be2de4d40de12ed")
 addappid(1977350)

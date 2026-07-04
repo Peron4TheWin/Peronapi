@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Siren's Call: Escape Velocity Demo
 addappid(2486630)
-addappid(2486631,0,"65524835219991afd2b480db9dffca206169b950893fceaab1eea5738117f86b")
--- setManifestid(2486631,"2964275449068822526")
+addappid(2486631, 1, "65524835219991afd2b480db9dffca206169b950893fceaab1eea5738117f86b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bored Wife
 addappid(2917140)
-addappid(2917141,0,"5a02d862179259627ff48210ff71bdc6c6ae484af8a7acd12783a63a2edadbcb")
--- setManifestid(2917141,"3015618009094961261")
+addappid(2917141, 1, "5a02d862179259627ff48210ff71bdc6c6ae484af8a7acd12783a63a2edadbcb")

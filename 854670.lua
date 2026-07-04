@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HEROES TRIALS
 addappid(854670)
-addappid(854671,0,"b79d6cea70e4849cf88e4e27edb3e80db51f4ebd7ace1329c50a8fd206990476")
--- setManifestid(854671,"6532116168098404724")
+addappid(854671, 1, "b79d6cea70e4849cf88e4e27edb3e80db51f4ebd7ace1329c50a8fd206990476")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Worms
 addappid(70640)
-addappid(70641,0,"2929ec716ea9977eaaa7b17a1b4d02ae3101d5568cb743958a5e06feb2a2ad7d")
--- setManifestid(70641,"3645705794046116746")
+addappid(70641, 1, "2929ec716ea9977eaaa7b17a1b4d02ae3101d5568cb743958a5e06feb2a2ad7d")

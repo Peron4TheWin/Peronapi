@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Airship: Kingdoms Adrift
 addappid(1597310)
-addappid(1597311,0,"0cb22a67e8bdac7870eafa27da25abfc2915597ed7f0a56eb9c0ac66a88ae52a")
--- setManifestid(1597311,"1246740649361506018")
+addappid(1597311, 1, "0cb22a67e8bdac7870eafa27da25abfc2915597ed7f0a56eb9c0ac66a88ae52a")

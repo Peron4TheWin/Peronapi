@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kill Invaders
 addappid(2693650)
-addappid(2693651,0,"d65ba4432758863aca195fe4ffde52e75d434763161325cd86ddd996ccbebec7")
--- setManifestid(2693651,"2332295892558104882")
+addappid(2693651, 1, "d65ba4432758863aca195fe4ffde52e75d434763161325cd86ddd996ccbebec7")

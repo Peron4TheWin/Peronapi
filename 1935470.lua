@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Tales of Bayun
 addappid(1935470)
-addappid(1935471,0,"805a73c53205586b640abcdb7af078778524d369fd31be407596ec136c9ccc9e")
--- setManifestid(1935471,"512523786780744048")
+addappid(1935471, 1, "805a73c53205586b640abcdb7af078778524d369fd31be407596ec136c9ccc9e")

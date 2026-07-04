@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Swappy World Demo
 addappid(2709200)
-addappid(2709201,0,"893f7258f7f6e7bfa16dd7bf4b1a8033f7bdf7cc8183cf0aa02a46405f551386")
--- setManifestid(2709201,"6014583349899935417")
+addappid(2709201, 1, "893f7258f7f6e7bfa16dd7bf4b1a8033f7bdf7cc8183cf0aa02a46405f551386")

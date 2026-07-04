@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gilbert Goodmate and the Mushroom of Phungoria
 addappid(365730)
-addappid(365731,0,"3ed130db41e50c3b1c28a1ea29d96449e6163cc554a49e459820b7192051fcbd")
--- setManifestid(365731,"7614126175140300285")
+addappid(365731, 1, "3ed130db41e50c3b1c28a1ea29d96449e6163cc554a49e459820b7192051fcbd")

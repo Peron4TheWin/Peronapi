@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AliveCursor Demo
 addappid(2147070)
-addappid(2147071,0,"3a82cbfff78e28abaf6a7bd13633cbd9e8e31b824f07e346226683cba1d1a2e1")
--- setManifestid(2147071,"8809414282545324691")
+addappid(2147071, 1, "3a82cbfff78e28abaf6a7bd13633cbd9e8e31b824f07e346226683cba1d1a2e1")

@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Masturbate
+addappid(1576850)
+addappid(1576851, 1, "db9a1d4862c8f36ba73b43247951cce2f48a033d7deb5c8419e6e098cb12f6f8")
+addappid(1583100)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pillowheads: It's Party Time
 addappid(1102000)
-addappid(1102001,0,"90a64c683d96937cb5dcac20496154224d859aaae9d2d9e1d6eba3a18292c8f2")
--- setManifestid(1102001,"6916793024174864312")
+addappid(1102001, 1, "90a64c683d96937cb5dcac20496154224d859aaae9d2d9e1d6eba3a18292c8f2")

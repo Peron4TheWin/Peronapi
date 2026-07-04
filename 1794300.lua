@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BLUE WISH DESIRE
 addappid(1794300)
-addappid(1794301,0,"fecccec8cd9e110a20f2f5971d15f38aad78a19f5a605747bb6e855c0ca76112")
--- setManifestid(1794301,"758291019080525982")
+addappid(1794301, 1, "fecccec8cd9e110a20f2f5971d15f38aad78a19f5a605747bb6e855c0ca76112")

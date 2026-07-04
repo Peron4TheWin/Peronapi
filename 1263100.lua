@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Kids on Earth and the Staff of Doom
 addappid(1263100)
-addappid(1263101,0,"ccc24bdbaad68d36350e92f39f02c418584aa052be9b6541eb549481fff893ec")
--- setManifestid(1263101,"9052611265108878473")
+addappid(1263101, 1, "ccc24bdbaad68d36350e92f39f02c418584aa052be9b6541eb549481fff893ec")

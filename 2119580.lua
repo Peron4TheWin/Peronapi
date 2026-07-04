@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Golden Record Retriever
 addappid(2119580)
-addappid(2119581,0,"a526d9b816ada6a29591f825066740046872d28c2029571f6beb4fcdefeafcb6")
--- setManifestid(2119581,"5621856525631245457")
+addappid(2119581, 1, "a526d9b816ada6a29591f825066740046872d28c2029571f6beb4fcdefeafcb6")

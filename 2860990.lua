@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nautical Survival
 addappid(2860990)
-addappid(2860991,0,"5cdfa2f759118e07450834e04418a5281ab8fcf09284d1b750ba66ff354a0247")
--- setManifestid(2860991,"1943908244493893641")
+addappid(2860991, 1, "5cdfa2f759118e07450834e04418a5281ab8fcf09284d1b750ba66ff354a0247")

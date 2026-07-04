@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Paradixion: Son's Room
 addappid(2415540)
-addappid(2415541,0,"9d9a0d12444e812bba4761437bf8debcb5ff09969419ed13c518d5b09e2375d3")
--- setManifestid(2415541,"1628462259894353061")
+addappid(2415541, 1, "9d9a0d12444e812bba4761437bf8debcb5ff09969419ed13c518d5b09e2375d3")

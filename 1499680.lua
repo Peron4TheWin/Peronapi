@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ertugrul Gazi
 addappid(1499680)
-addappid(1499681,0,"ada2366dc22ba585f9d011be5c3ee3f49dd854b4f6cbd2dade0f8f59c1f87378")
--- setManifestid(1499681,"3986858559602561098")
+addappid(1499681, 1, "ada2366dc22ba585f9d011be5c3ee3f49dd854b4f6cbd2dade0f8f59c1f87378")

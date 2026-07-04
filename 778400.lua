@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Corpse Party: Sweet Sachiko's Hysteric Birthday Bash
 addappid(778400)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(778401,0,"89de994ad629d4d6aa3f31abe5737417ace75005efc8df6db08d1183fa9dcf5c")
--- setManifestid(778401,"6176570986606214168")
+addappid(778401, 1, "89de994ad629d4d6aa3f31abe5737417ace75005efc8df6db08d1183fa9dcf5c")

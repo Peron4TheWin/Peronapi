@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lovely Sex with Childhood Friend -An innocent girl becomes addicted to lewd play-
 addappid(3370460)
-addappid(3370461,0,"3b64166aa24ce934dc47a4c177a3b4dbf9dd53068715f6ee784515245a65281b")
--- setManifestid(3370461,"6857070280437590099")
+addappid(3370461, 1, "3b64166aa24ce934dc47a4c177a3b4dbf9dd53068715f6ee784515245a65281b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JUSFASLEX
 addappid(2769380)
-addappid(2769381,0,"a8c20558539c9f26074defe236ad91df4671bc82df19ca96b3f547cbce68109c")
--- setManifestid(2769381,"2265518066628720774")
+addappid(2769381, 1, "a8c20558539c9f26074defe236ad91df4671bc82df19ca96b3f547cbce68109c")

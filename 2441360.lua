@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Get Me Out, Please
 addappid(2441360)
-addappid(2441361,0,"93802718adec1fc87bff8aa465376f1d80fb030b1422b3d78969070f58c15faf")
--- setManifestid(2441361,"3130580318049815036")
+addappid(2441361, 1, "93802718adec1fc87bff8aa465376f1d80fb030b1422b3d78969070f58c15faf")
 addappid(2746930)

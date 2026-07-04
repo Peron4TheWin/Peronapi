@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Debtors' Club
 addappid(2411560)
-addappid(2411561,0,"7155e26af60f637865c73cb3cdb6ac65fe4c0bf48766ecd705a8c5b4029f7c81")
--- setManifestid(2411561,"3216552465239211685")
+addappid(2411561, 1, "7155e26af60f637865c73cb3cdb6ac65fe4c0bf48766ecd705a8c5b4029f7c81")

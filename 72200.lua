@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Universe Sandbox Legacy
 addappid(72200)
-addappid(72201,0,"dc3bbd4eb85201e1e8d1d9c58ef85793b5977d37f452258f50c7113b5ad10946")
--- setManifestid(72201,"4304370622637990385")
+addappid(72201, 1, "dc3bbd4eb85201e1e8d1d9c58ef85793b5977d37f452258f50c7113b5ad10946")

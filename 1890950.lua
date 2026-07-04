@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: REAVER
 addappid(1890950)
-addappid(1890951,0,"9dcaf4562a05d225767c3124f4a94dd23ef5d33b8a1e19383bbe24164342ea99")
--- setManifestid(1890951,"2656814610467154524")
+addappid(1890951, 1, "9dcaf4562a05d225767c3124f4a94dd23ef5d33b8a1e19383bbe24164342ea99")

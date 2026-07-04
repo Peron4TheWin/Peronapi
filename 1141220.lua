@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: DemonCrawl
 addappid(1141220)
+addappid(1141221, 1, "4eecb0dd5caf73aab793d017b553ce379da1a52832df33d9f0dd8d48b6cead55")
 addappid(1548200)
-addappid(1141221,0,"4eecb0dd5caf73aab793d017b553ce379da1a52832df33d9f0dd8d48b6cead55")
--- setManifestid(1141221,"3309526853925894887")

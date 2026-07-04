@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OVERVIEW (A Walk Through The Universe)
 addappid(751110)
-addappid(751111,0,"327910bfab145618e0d61fed263a25c2d16140c67cf84765c0668415ab97a627")
--- setManifestid(751111,"2280534024918364713")
+addappid(751111, 1, "327910bfab145618e0d61fed263a25c2d16140c67cf84765c0668415ab97a627")

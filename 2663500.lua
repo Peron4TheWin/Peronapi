@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firework Simulator Demo
 addappid(2663500)
-addappid(2663501,0,"aa0d672cb72c74cf84787ebdc0aa45045a49f511eacd84c88c3bfecea4ae1655")
--- setManifestid(2663501,"859993048230056839")
+addappid(2663501, 1, "aa0d672cb72c74cf84787ebdc0aa45045a49f511eacd84c88c3bfecea4ae1655")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infiniball
 addappid(1243060)
-addappid(1243061,0,"6c3e4c84074d1f12bcb91b8667117183fae7dd8d2d06718a7515f5d13a9a9c29")
--- setManifestid(1243061,"7613378475099309412")
+addappid(1243061, 1, "6c3e4c84074d1f12bcb91b8667117183fae7dd8d2d06718a7515f5d13a9a9c29")

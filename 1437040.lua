@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starshot: Space Circus Fever
 addappid(1437040)
-addappid(1437041,0,"b2faeb9b2b0807d646aec42f38c78a67ecdfab6b8b6a33ffffb66e47d4bae65c")
--- setManifestid(1437041,"4688109952930044679")
+addappid(1437041, 1, "b2faeb9b2b0807d646aec42f38c78a67ecdfab6b8b6a33ffffb66e47d4bae65c")

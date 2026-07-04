@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 浊之铃 Demo
 addappid(1873950)
-addappid(1873951,0,"39894a6d3215de8763f98964849469348ec2df9efda84f616ecb2021febc58c0")
--- setManifestid(1873951,"3262324116698235576")
+addappid(1873951, 1, "39894a6d3215de8763f98964849469348ec2df9efda84f616ecb2021febc58c0")

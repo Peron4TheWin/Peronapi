@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloody Chronicles - New Cycle of Death Visual Novel
 addappid(455310)
-addappid(455311,0,"bd9e9847673eaca8193bfb89e6fc91c26f1900a1561372be7adc700ac95659b9")
--- setManifestid(455311,"2130354121338771420")
+addappid(455311, 1, "bd9e9847673eaca8193bfb89e6fc91c26f1900a1561372be7adc700ac95659b9")

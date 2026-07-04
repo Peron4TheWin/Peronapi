@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jane Angel: Templar Mystery
 addappid(323270)
-addappid(323271,0,"ea5097a9abc28a494f6f027ee7b7f22851e6c858b6737c7eb8234e0177781c2c")
--- setManifestid(323271,"5097753852385883584")
+addappid(323271, 1, "ea5097a9abc28a494f6f027ee7b7f22851e6c858b6737c7eb8234e0177781c2c")

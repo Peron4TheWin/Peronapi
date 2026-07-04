@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Garden Path
 addappid(1638500)
-addappid(1638501,0,"1906609e5c5659ef042d29aeadc5d21bcc0b24529fef2d33cffc9f35d537f089")
--- setManifestid(1638501,"5328327246900362790")
+addappid(1638501, 1, "1906609e5c5659ef042d29aeadc5d21bcc0b24529fef2d33cffc9f35d537f089")

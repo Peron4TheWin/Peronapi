@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Lost Valley
 addappid(360890)
-addappid(360891,0,"1db92bfd7bf428860d80ef86e2be263efe4169706e7465f9f85f7cdd5ec6e46a")
--- setManifestid(360891,"1626641115978815101")
+addappid(360891, 1, "1db92bfd7bf428860d80ef86e2be263efe4169706e7465f9f85f7cdd5ec6e46a")

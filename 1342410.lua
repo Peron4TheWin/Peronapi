@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [TDA02] Muv-Luv Unlimited: THE DAY AFTER - Episode 02 REMASTERED
 addappid(1342410)
--- setManifestid(228988,"6645201662696499616")
-addappid(1342411,0,"a104d17a1b51371e37842330a08e2cf48dfff15aec2552964e44a99642cc98e8")
--- setManifestid(1342411,"6399559563013950203")
+addappid(1342411, 1, "a104d17a1b51371e37842330a08e2cf48dfff15aec2552964e44a99642cc98e8")

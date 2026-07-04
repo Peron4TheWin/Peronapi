@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Runaway VR
 addappid(687890)
-addappid(687891,0,"a4488f73c1cac125e03089a183ccc935e77840323eb03dc83cb00cf5826b0e60")
--- setManifestid(687891,"251279343082554952")
+addappid(687891, 1, "a4488f73c1cac125e03089a183ccc935e77840323eb03dc83cb00cf5826b0e60")

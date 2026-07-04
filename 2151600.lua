@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NOX TIMORE REMAKE
 addappid(2151600)
-addappid(2151601,0,"6609a241dabd3124e525230d8c7937a737ec200e8ff94b148c55d5da333ca1aa")
--- setManifestid(2151601,"359389954832409110")
+addappid(2151601, 1, "6609a241dabd3124e525230d8c7937a737ec200e8ff94b148c55d5da333ca1aa")

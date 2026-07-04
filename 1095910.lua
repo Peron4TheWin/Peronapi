@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wanba Warriors Demo
 addappid(1095910)
-addappid(1095911,0,"c62de17b96c9df1479d0531eb840508a3bac2d1320999c36faf0a1a11571896c")
--- setManifestid(1095911,"8113762086608384470")
+addappid(1095911, 1, "c62de17b96c9df1479d0531eb840508a3bac2d1320999c36faf0a1a11571896c")

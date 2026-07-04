@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Selene ~Apoptosis~ Demo
 addappid(1398240)
-addappid(1398241,0,"ea55b544b10880bd9b94b840705d32cf1fa3c6167cf3f1a20e9d58c167bcabe5")
--- setManifestid(1398241,"442207211667394682")
+addappid(1398241, 1, "ea55b544b10880bd9b94b840705d32cf1fa3c6167cf3f1a20e9d58c167bcabe5")

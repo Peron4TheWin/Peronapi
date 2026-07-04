@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Mia
 addappid(3474590)
-addappid(3474591,0,"5f931c06609bb772f12dc5fb91323f8a1c435bf34034dad2815fd8dcbb5ac003")
--- setManifestid(3474591,"5404875554802067436")
+addappid(3474591, 1, "5f931c06609bb772f12dc5fb91323f8a1c435bf34034dad2815fd8dcbb5ac003")

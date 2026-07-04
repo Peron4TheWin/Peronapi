@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D Hentai Puzzle
 addappid(1444430)
-addappid(1444431,0,"b9997fad591213da132b332b6522d8285032ab011c0f645ece2fcbf226ab6e3c")
--- setManifestid(1444431,"4196481581713638452")
+addappid(1444431, 1, "b9997fad591213da132b332b6522d8285032ab011c0f645ece2fcbf226ab6e3c")

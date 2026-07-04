@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Phantom Spark
 addappid(1924180)
-addappid(1924181,0,"c77ef21c05c0594f56440365c538930a455167accd0532f26d1ff957db53ccf2")
--- setManifestid(1924181,"4249441794884489632")
+addappid(1924181, 1, "c77ef21c05c0594f56440365c538930a455167accd0532f26d1ff957db53ccf2")

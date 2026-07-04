@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rugrats: Adventures in Gameland Demo
 addappid(2822760)
-addappid(2822761,0,"9e76dfa8ad89aaac4a0377a70b5850ac51efc2fd5da4059b1f233883d7a0fc96")
--- setManifestid(2822761,"8303278991204350514")
+addappid(2822761, 1, "9e76dfa8ad89aaac4a0377a70b5850ac51efc2fd5da4059b1f233883d7a0fc96")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosa Nostra
 addappid(954000)
-addappid(954001,0,"b3f51ff3f920b15bd6e77ac653d4fc89a82f94f966ea2f965f7da668e4755504")
--- setManifestid(954001,"6347958682394345537")
+addappid(954001, 1, "b3f51ff3f920b15bd6e77ac653d4fc89a82f94f966ea2f965f7da668e4755504")

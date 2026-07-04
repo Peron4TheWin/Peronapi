@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Genesis Survivors
 addappid(3073350)
-addappid(3073351,0,"74550d8dd474f1dbcb54856e9d28ae153953d04f03245e11bee7b258a31af80d")
--- setManifestid(3073351,"1136067003884597980")
+addappid(3073351, 1, "74550d8dd474f1dbcb54856e9d28ae153953d04f03245e11bee7b258a31af80d")

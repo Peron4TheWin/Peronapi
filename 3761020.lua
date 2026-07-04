@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARK: Aquatica - Luminati Suns Song
 addappid(3761020)
-addappid(3761021,0,"014f2af8839a4964cf5c957f5fd49833d9b22717887e02c132266b3ae74951b1")
--- setManifestid(3761021,"6417303618500064550")
+addappid(3761021, 1, "014f2af8839a4964cf5c957f5fd49833d9b22717887e02c132266b3ae74951b1")

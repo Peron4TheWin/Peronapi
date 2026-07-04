@@ -1,8 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Agarest: Generations of War Zero
 addappid(260130)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(260131,0,"5c7dec1977937bba6b321919215c4a3a1846b830df7d44a8463281a0ee99cbae")
--- setManifestid(260131,"4687247445734896728")
+addappid(260131, 1, "5c7dec1977937bba6b321919215c4a3a1846b830df7d44a8463281a0ee99cbae")
 addappid(281600)
 addappid(281601)
 addappid(281602)

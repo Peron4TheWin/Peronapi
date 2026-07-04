@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Sentinel Agency
 addappid(2951380)
-addappid(2951381,0,"f502570d7e9bdc5854c428991c6512d0bbd55d8eae64fac6b41911a085aa7289")
--- setManifestid(2951381,"3153195367138389842")
+addappid(2951381, 1, "f502570d7e9bdc5854c428991c6512d0bbd55d8eae64fac6b41911a085aa7289")
+addappid(3470410)

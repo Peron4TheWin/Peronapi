@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Bell Echoes Demo
 addappid(2931120)
-addappid(2931121,0,"7ae544eb790a7be4f630957d9aff0c8e40ac54a7caeb53be8f0f98f18c4bdc35")
--- setManifestid(2931121,"4337765486847820620")
+addappid(2931121, 1, "7ae544eb790a7be4f630957d9aff0c8e40ac54a7caeb53be8f0f98f18c4bdc35")

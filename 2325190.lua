@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cat Jigsaw Puzzle Games
 addappid(2325190)
-addappid(2325191,0,"38c5ba83a461ceabfa7374ec6929aafe988aea84c6bd0fca89f912f4e70612bf")
--- setManifestid(2325191,"3524317122331049261")
+addappid(2325191, 1, "38c5ba83a461ceabfa7374ec6929aafe988aea84c6bd0fca89f912f4e70612bf")

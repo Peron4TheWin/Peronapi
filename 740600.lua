@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gachimuchi
 addappid(740600)
-addappid(740601,0,"dc63af9adb0a3c874260f4f44adc53fdfcad330c0d77e2e6612e7dc9616584cf")
--- setManifestid(740601,"4123434413308706225")
+addappid(740601, 1, "dc63af9adb0a3c874260f4f44adc53fdfcad330c0d77e2e6612e7dc9616584cf")

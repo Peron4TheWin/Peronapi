@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AppID 1952700
 addappid(1952700)
-addappid(1952701,0,"acfe8e700faeb17c1e7eae519f0cd88059e1077726432cc55cf4d44b896aeaa1")
+addappid(1952701, 1, "acfe8e700faeb17c1e7eae519f0cd88059e1077726432cc55cf4d44b896aeaa1")

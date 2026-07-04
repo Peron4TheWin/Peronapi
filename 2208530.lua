@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alchemia Story
 addappid(2208530)
-addappid(2208531,0,"2d07a32d96c9755e2a880c75ae3c6e865d29d5b1173ef6665e7cf25104ced3fb")
--- setManifestid(2208531,"887754792698982746")
+addappid(2208531, 1, "2d07a32d96c9755e2a880c75ae3c6e865d29d5b1173ef6665e7cf25104ced3fb")

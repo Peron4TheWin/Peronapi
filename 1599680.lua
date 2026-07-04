@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Street Racing: United
 addappid(1599680)
-addappid(1599681,0,"797a9fe22cd7e7bbe96cd9ba546d084ebf88e82f845269647f500b795dd8d7e4")
--- setManifestid(1599681,"8788425492879580714")
+addappid(1599681, 1, "797a9fe22cd7e7bbe96cd9ba546d084ebf88e82f845269647f500b795dd8d7e4")

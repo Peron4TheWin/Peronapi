@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Paris Transylvania Demo
 addappid(2470480)
-addappid(2470481,0,"b104df8d73508381e9691de315beb6422409ff830497445b26d6108cbacf8bc6")
--- setManifestid(2470481,"1957069358435501830")
+addappid(2470481, 1, "b104df8d73508381e9691de315beb6422409ff830497445b26d6108cbacf8bc6")

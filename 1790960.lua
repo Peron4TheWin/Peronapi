@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape from the Village
 addappid(1790960)
-addappid(1790961,0,"4221c712e529358c096ad5a1628c671a5b4ba03250f94346a65183e637fadca7")
--- setManifestid(1790961,"5387863214648835124")
+addappid(1790961, 1, "4221c712e529358c096ad5a1628c671a5b4ba03250f94346a65183e637fadca7")

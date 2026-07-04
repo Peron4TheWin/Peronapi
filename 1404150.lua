@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape the City
 addappid(1404150)
-addappid(1404151,0,"180d7d6f15a196b24eb31fffe73eb05e65ce00d7a4ef8abce93142b72bf2923d")
--- setManifestid(1404151,"6767278844969646734")
+addappid(1404151, 1, "180d7d6f15a196b24eb31fffe73eb05e65ce00d7a4ef8abce93142b72bf2923d")

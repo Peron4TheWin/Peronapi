@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hibiscus Red
 addappid(1175970)
-addappid(1175971,0,"be692f1658ecf88dce09a1fdfc457045d8d47f5489bcafb1cba1ae38c9d0a320")
--- setManifestid(1175971,"589396142818235879")
-addappid(1175972)
-addappid(1175973)
+addappid(1175971, 1, "be692f1658ecf88dce09a1fdfc457045d8d47f5489bcafb1cba1ae38c9d0a320")
+addappid(1241080)

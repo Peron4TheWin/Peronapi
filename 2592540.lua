@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spin Rhythm XD Demo
 addappid(2592540)
-addappid(2592541,0,"581120d975acfcfc15583c5fc3bee39709a66cd9f60c2c6ce71b5eb2c164127b")
--- setManifestid(2592541,"8224408212519779002")
+addappid(2592541, 1, "581120d975acfcfc15583c5fc3bee39709a66cd9f60c2c6ce71b5eb2c164127b")

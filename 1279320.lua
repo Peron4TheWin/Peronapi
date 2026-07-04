@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 湛蓝星球-迷失·赛博之城
 addappid(1279320)
-addappid(1279321,0,"72f80c42ffd8496ccd5dce3ea9ad4d726c356b4a84a53f6816f00e2bd0fe8af5")
--- setManifestid(1279321,"9071777508368913739")
+addappid(1279321, 1, "72f80c42ffd8496ccd5dce3ea9ad4d726c356b4a84a53f6816f00e2bd0fe8af5")

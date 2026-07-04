@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Die, zombie sausage, die!
 addappid(1060770)
-addappid(1060771,0,"001a93212ed926b6b5c98be37d0a1bc39698fd26f39a254f2683195e53c6bb7f")
--- setManifestid(1060771,"6737250780164498327")
+addappid(1060771, 1, "001a93212ed926b6b5c98be37d0a1bc39698fd26f39a254f2683195e53c6bb7f")

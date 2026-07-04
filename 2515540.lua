@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Battle Of Tarlis
 addappid(2515540)
-addappid(2515541,0,"0ed7e25a71342dddab9f8ef291f0b92577df0a97d79baa3fd10e517ba898e4eb")
--- setManifestid(2515541,"716996687233169147")
+addappid(2515541, 1, "0ed7e25a71342dddab9f8ef291f0b92577df0a97d79baa3fd10e517ba898e4eb")
+addappid(2545440)

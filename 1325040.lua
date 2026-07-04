@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Keylocker | Turn Based Cyberpunk Action
 addappid(1325040)
-addappid(1325041,0,"8a3d01ed8b2245173867d1aee2991451a1b1458f9816f890baa6a2df09aa366e")
--- setManifestid(1325041,"902686008146252484")
+addappid(1325041, 1, "8a3d01ed8b2245173867d1aee2991451a1b1458f9816f890baa6a2df09aa366e")

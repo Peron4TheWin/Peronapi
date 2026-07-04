@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yoshitaka Amano VR Museum
 addappid(1853360)
-addappid(1853361,0,"458bfe3d07625c72cd4eab956f3ec689b9a027c79439c8bb9bb6ea5f33bb9971")
--- setManifestid(1853361,"8505664562886108474")
+addappid(1853361, 1, "458bfe3d07625c72cd4eab956f3ec689b9a027c79439c8bb9bb6ea5f33bb9971")

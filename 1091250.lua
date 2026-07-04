@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Total Party Kill
 addappid(1091250)
-addappid(1091251,0,"a52f16230ee9bd0f1897992a4582cdf692164fdbd86d1b17b016b6a2b70d750e")
--- setManifestid(1091251,"3398940265284882803")
+addappid(1091251, 1, "a52f16230ee9bd0f1897992a4582cdf692164fdbd86d1b17b016b6a2b70d750e")

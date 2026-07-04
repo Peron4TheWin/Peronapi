@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MADE : Interactive Movie – 01. Run away!
 addappid(1484050)
-addappid(1484051,0,"00bd0947cf4132d614172f521f1ee0309c6e420e8b7ce55b9e4b8876295703ba")
--- setManifestid(1484051,"5331621032188060859")
+addappid(1484051, 1, "00bd0947cf4132d614172f521f1ee0309c6e420e8b7ce55b9e4b8876295703ba")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Kawaii Girl 2
 addappid(1359470)
-addappid(1359471,0,"f9d1c13db622941f717cb144768f6d18494e5ae2cbbce46299a20c53f78d7e0f")
--- setManifestid(1359471,"7506089555276228380")
+addappid(1359471, 1, "f9d1c13db622941f717cb144768f6d18494e5ae2cbbce46299a20c53f78d7e0f")
+addappid(1366600)

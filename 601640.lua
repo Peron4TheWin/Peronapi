@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The guard of dungeon
 addappid(601640)
-addappid(601641,0,"e3cf57f84aa4b57a601a3c44b1f74d51e61c26e4cf340962e7f91fe43ae9e4ef")
--- setManifestid(601641,"8195832326932717058")
+addappid(601641, 1, "e3cf57f84aa4b57a601a3c44b1f74d51e61c26e4cf340962e7f91fe43ae9e4ef")
+addappid(754550)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TCG Card Shop Simulator
 addappid(3070070)
-addappid(3070071,0,"5c49dfd1ba36d4e81f59ad3a2cd714ec14bdb40ac41848727aca2dc9ed29c748")
--- setManifestid(3070071,"3668791565496949972")
+addappid(3070071, 1, "5c49dfd1ba36d4e81f59ad3a2cd714ec14bdb40ac41848727aca2dc9ed29c748")

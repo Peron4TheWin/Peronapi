@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AOISHIRO HD REMASTER
 addappid(2097750)
-addappid(2097751,0,"3b05add43170849c2c90fc7ebfa7214d222cdc095af12728c88769d448adb92f")
--- setManifestid(2097751,"3998738968681478137")
+addappid(2097751, 1, "3b05add43170849c2c90fc7ebfa7214d222cdc095af12728c88769d448adb92f")

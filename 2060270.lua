@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warlock character for B.I.O.T.A.
 addappid(2060270)
-addappid(2060271,0,"1b463a7915bff94e4cff58e1de2687bce2b91a194ae3c72fb1811d7124998c6b")
--- setManifestid(2060271,"4935558198760018241")
+addappid(2060271, 1, "1b463a7915bff94e4cff58e1de2687bce2b91a194ae3c72fb1811d7124998c6b")

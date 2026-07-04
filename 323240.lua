@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The World II: Hunting BOSS
 addappid(323240)
-addappid(323241,0,"2ddd66ba90f6a83d8afc84cd40c25f10dd104bd38c0050c2a5e4b8c59c933c92")
--- setManifestid(323241,"95941468025122253")
+addappid(323241, 1, "2ddd66ba90f6a83d8afc84cd40c25f10dd104bd38c0050c2a5e4b8c59c933c92")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unstable Rock
 addappid(2111980)
-addappid(2111981,0,"a686af93bb0f5abed57da4461414152981aae4ebfae5d60d5b6a78117153369c")
--- setManifestid(2111981,"3515590305454574504")
+addappid(2111981, 1, "a686af93bb0f5abed57da4461414152981aae4ebfae5d60d5b6a78117153369c")

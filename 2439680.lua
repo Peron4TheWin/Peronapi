@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Diary Demo
 addappid(2439680)
-addappid(2439681,0,"9c03f3e8adfdbd0a048a72c6abeeeff750f9e3759f01c9e2b890eb268ccbe329")
--- setManifestid(2439681,"6307623507632558303")
+addappid(2439681, 1, "9c03f3e8adfdbd0a048a72c6abeeeff750f9e3759f01c9e2b890eb268ccbe329")

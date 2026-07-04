@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Memorrha
 addappid(954080)
-addappid(954081,0,"bb2da30808161a089a3b962c05ecf102b6d775ff449e910f2f17d77d983c631a")
--- setManifestid(954081,"5407220210351925139")
+addappid(954081, 1, "bb2da30808161a089a3b962c05ecf102b6d775ff449e910f2f17d77d983c631a")

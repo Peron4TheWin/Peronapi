@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery of the Ancients: Deadly Cold Collector's Edition
 addappid(1068700)
-addappid(1068701,0,"20c6bcddeb289e127131da8235c6ec86e7189a65526d0ae6e773bbb99a05e6c8")
--- setManifestid(1068701,"4142922738477908792")
+addappid(1068701, 1, "20c6bcddeb289e127131da8235c6ec86e7189a65526d0ae6e773bbb99a05e6c8")

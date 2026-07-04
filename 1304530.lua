@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sling-A-Thing
 addappid(1304530)
-addappid(1304531,0,"bb1e911c7eeb8d5ca730e521c15d5bd6609a04181ab33c9ab72a3081396c9cda")
--- setManifestid(1304531,"7572449641696034555")
+addappid(1304531, 1, "bb1e911c7eeb8d5ca730e521c15d5bd6609a04181ab33c9ab72a3081396c9cda")

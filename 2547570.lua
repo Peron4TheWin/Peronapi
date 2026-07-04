@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Miss Peach
 addappid(2547570)
-addappid(2547571,0,"a1dacbf271c97cce462420a257b6eb513ad97b39469c302f905c0206e7f3fb9c")
--- setManifestid(2547571,"1537064444175771486")
+addappid(2547571, 1, "a1dacbf271c97cce462420a257b6eb513ad97b39469c302f905c0206e7f3fb9c")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rainyday
 addappid(712980)
-addappid(712981,0,"f37506475cfe8f3beee3b3cb89e9f19bd874342cc196484b6ae17be938afa6d6")
+addappid(712981, 1, "f37506475cfe8f3beee3b3cb89e9f19bd874342cc196484b6ae17be938afa6d6")

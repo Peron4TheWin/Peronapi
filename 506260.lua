@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cladun Returns: This Is Sengoku!
 addappid(506260)
-addappid(506261,0,"01696906973a669990f1f45bf680fe49350ac68828c7e2c1c3963f1418e5ba77")
+addappid(506261, 1, "01696906973a669990f1f45bf680fe49350ac68828c7e2c1c3963f1418e5ba77")

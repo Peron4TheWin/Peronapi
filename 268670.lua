@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Memory of Eldurim
 addappid(268670)
-addappid(268671,0,"d7df985038e2257e7004ff1580b1f571d33174c1a65aa82ab2248a498f4c0b46")
--- setManifestid(268671,"3203488235896360512")
+addappid(268671, 1, "d7df985038e2257e7004ff1580b1f571d33174c1a65aa82ab2248a498f4c0b46")

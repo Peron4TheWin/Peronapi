@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: おしかけねーちゃん Can I crash at your place?
 addappid(3376160)
-addappid(3376161,0,"07ac97e50d3ae190084388a2486b62affcfb9ed38305e814beba46ceb0d75171")
--- setManifestid(3376161,"4716243051955504023")
+addappid(3376161, 1, "07ac97e50d3ae190084388a2486b62affcfb9ed38305e814beba46ceb0d75171")

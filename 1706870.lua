@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sven's SudokuPad
 addappid(1706870)
-addappid(1706871,0,"590cb32a077078ced27ff7c6bc7cb5a5042f0d906ee57a8b6c6fcea61bd40424")
--- setManifestid(1706871,"94972003824716748")
+addappid(1706871, 1, "590cb32a077078ced27ff7c6bc7cb5a5042f0d906ee57a8b6c6fcea61bd40424")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hidden Pirates Top-Down 3D
 addappid(2878310)
-addappid(2878311,0,"87ea543f021f8966ececcc132620793d3f5fd3a42a092b71058dde38070ca727")
--- setManifestid(2878311,"408549081933527581")
+addappid(2878311, 1, "87ea543f021f8966ececcc132620793d3f5fd3a42a092b71058dde38070ca727")

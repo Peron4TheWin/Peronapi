@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dr. Yaga Lost House
 addappid(3149310)
-addappid(3149311,0,"0cb5290b031a48f330aaf5577fc00c240423dd60c36e4d0db1f41a49145824d4")
--- setManifestid(3149311,"220146389881839993")
+addappid(3149311, 1, "0cb5290b031a48f330aaf5577fc00c240423dd60c36e4d0db1f41a49145824d4")

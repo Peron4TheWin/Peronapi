@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Detective Dotson
 addappid(2450840)
-addappid(2450841,0,"4458b5c21ee0e65bbd9f3b9237025990e28f3de28fc011b222b20270303157e6")
--- setManifestid(2450841,"2876560331716777646")
+addappid(2450841, 1, "4458b5c21ee0e65bbd9f3b9237025990e28f3de28fc011b222b20270303157e6")

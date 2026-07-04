@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lucky Mark
 addappid(2450720)
-addappid(2450721,0,"5f5bab30f74be05d4684276721e1b3840d65cb62c33af85fb464acc7e1f84c37")
--- setManifestid(2450721,"680552842623326160")
+addappid(2450721, 1, "5f5bab30f74be05d4684276721e1b3840d65cb62c33af85fb464acc7e1f84c37")

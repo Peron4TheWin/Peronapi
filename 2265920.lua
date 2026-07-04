@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Castle of Blackwater
 addappid(2265920)
-addappid(2265921,0,"86f7844137c9ae7536ba0515df6abfa1dba39c25f5786e4e24bcfb79349b2e44")
--- setManifestid(2265921,"938533390910679447")
+addappid(2265921, 1, "86f7844137c9ae7536ba0515df6abfa1dba39c25f5786e4e24bcfb79349b2e44")

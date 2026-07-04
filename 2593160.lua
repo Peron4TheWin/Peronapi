@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hollow Cocoon Demo
 addappid(2593160)
-addappid(2593161,0,"4a10d0b7c81e459e2e545604cf274be17869facc99a501aaa4372ee39af633ea")
--- setManifestid(2593161,"1949099038838717442")
+addappid(2593161, 1, "4a10d0b7c81e459e2e545604cf274be17869facc99a501aaa4372ee39af633ea")

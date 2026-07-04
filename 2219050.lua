@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Long Steel
 addappid(2219050)
-addappid(2219051,0,"665efb81f3b03cd04622812f9f1a740541c77ddaddd1ac3414e3fbb49f0f9684")
--- setManifestid(2219051,"7265119861907688419")
+addappid(2219051, 1, "665efb81f3b03cd04622812f9f1a740541c77ddaddd1ac3414e3fbb49f0f9684")

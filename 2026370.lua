@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A game that saves the muscles caught in the ceiling of the gymnasium
 addappid(2026370)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2026371,0,"da4cf935d25ad886e2adadc22b02976e74c3ddda8f30f8006a1e5217ba8c63d3")
--- setManifestid(2026371,"1687404087813486334")
+addappid(2026371, 1, "da4cf935d25ad886e2adadc22b02976e74c3ddda8f30f8006a1e5217ba8c63d3")

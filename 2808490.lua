@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 梗过100关
 addappid(2808490)
-addappid(2808491,0,"ecc1cee96c2356d89548bca1b4cd790fb5632ffe2df617784bd63303b0601f46")
--- setManifestid(2808491,"1044095318401255641")
+addappid(2808491, 1, "ecc1cee96c2356d89548bca1b4cd790fb5632ffe2df617784bd63303b0601f46")

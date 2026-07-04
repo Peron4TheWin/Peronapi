@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: What have you done, Father?
 addappid(2584260)
-addappid(2584261,0,"46b3183b6c045f4e16e26d11693b528bda0fc55815e5a648c5ddbdf344529a1e")
--- setManifestid(2584261,"772296530981573905")
+addappid(2584261, 1, "46b3183b6c045f4e16e26d11693b528bda0fc55815e5a648c5ddbdf344529a1e")

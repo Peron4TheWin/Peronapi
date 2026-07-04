@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Human Factory
 addappid(1160040)
-addappid(1160041,0,"e206ea06a42b9e3109282792993a09215bcff68d52739201f2d990a04f2fe8ea")
--- setManifestid(1160041,"1616200411171101279")
+addappid(1160041, 1, "e206ea06a42b9e3109282792993a09215bcff68d52739201f2d990a04f2fe8ea")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: THE QUIET MAN™
 addappid(790540)
--- setManifestid(228990,"1829726630299308803")
-addappid(790541,0,"8a6fd00a5933e79e29a37910c213f741ab9fee49f9841ca8f091162a0a6cb986")
--- setManifestid(790541,"687050837342985652")
+addappid(790541, 1, "8a6fd00a5933e79e29a37910c213f741ab9fee49f9841ca8f091162a0a6cb986")

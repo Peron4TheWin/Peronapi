@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultimechs
 addappid(1657780)
-addappid(1657781,0,"cf42d7beb265ffdfc356a8af97d8554c62aa327104f73b0a9199857a039fe1ac")
--- setManifestid(1657781,"3945144763238697956")
+addappid(1657781, 1, "cf42d7beb265ffdfc356a8af97d8554c62aa327104f73b0a9199857a039fe1ac")

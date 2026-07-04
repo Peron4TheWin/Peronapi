@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Devil Slot Machine
 addappid(2674970)
-addappid(2674971,0,"606890571c5cafa02a8df6718a9f3af9be56d68c83bfd8005c570e4b5482d4ce")
--- setManifestid(2674971,"8503634842529319598")
+addappid(2674971, 1, "606890571c5cafa02a8df6718a9f3af9be56d68c83bfd8005c570e4b5482d4ce")

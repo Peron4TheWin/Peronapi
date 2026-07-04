@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Evil is Back
 addappid(2363930)
-addappid(2363931,0,"2c85c727b21623326d1816fd4aa50974ec53cb04a3889e172f0a8e9dfe26e74c")
--- setManifestid(2363931,"4692148448124008282")
+addappid(2363931, 1, "2c85c727b21623326d1816fd4aa50974ec53cb04a3889e172f0a8e9dfe26e74c")

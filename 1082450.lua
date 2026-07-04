@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gold Hunter
 addappid(1082450)
-addappid(1082451,0,"bafa50139414aab3e425d8774d6ab3087686570bf6082ab10816aa02eb26f258")
+addappid(1082451, 1, "bafa50139414aab3e425d8774d6ab3087686570bf6082ab10816aa02eb26f258")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XBattleCarsPVP
 addappid(2311310)
-addappid(2311311,0,"21f1219804f160123537b776abcabdec412b35a378f159cbbdc3a436b9e36eed")
--- setManifestid(2311311,"3693428914200000123")
+addappid(2311311, 1, "21f1219804f160123537b776abcabdec412b35a378f159cbbdc3a436b9e36eed")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Naked Porn Battle
 addappid(1764890)
-addappid(1764891,0,"a9d821c310fa298a7159a5ff63282b88e75bdbda57e953137db054bbd2198448")
--- setManifestid(1764891,"7355582275752216653")
+addappid(1764891, 1, "a9d821c310fa298a7159a5ff63282b88e75bdbda57e953137db054bbd2198448")
+addappid(2721080)

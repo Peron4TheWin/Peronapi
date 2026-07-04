@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BROKEN God Awakening
 addappid(2011240)
-addappid(2011241,0,"a30d26204a8404ef8c9008b14427a65f1ea96a4a52085cb7b219c1b1cbcfb247")
--- setManifestid(2011241,"4094566231064352594")
+addappid(2011241, 1, "a30d26204a8404ef8c9008b14427a65f1ea96a4a52085cb7b219c1b1cbcfb247")

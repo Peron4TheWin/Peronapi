@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grabbers in the Woods
 addappid(2745420)
-addappid(2745421,0,"ec93f880662a4535f12cc5f6c4db2adeb8d987e2f2f6e4b291ec6b5c0ad56a0f")
--- setManifestid(2745421,"360169119473130917")
+addappid(2745421, 1, "ec93f880662a4535f12cc5f6c4db2adeb8d987e2f2f6e4b291ec6b5c0ad56a0f")

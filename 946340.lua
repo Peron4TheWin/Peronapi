@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LOST CAVE
 addappid(946340)
-addappid(946341,0,"26f222dcc2cb206775b5c7b2c1d543acc448b2922f8ae94bd7ba1bd1dbd64ad2")
--- setManifestid(946341,"7100036295529105238")
+addappid(946341, 1, "26f222dcc2cb206775b5c7b2c1d543acc448b2922f8ae94bd7ba1bd1dbd64ad2")

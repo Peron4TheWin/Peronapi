@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hollow Home Demo
 addappid(3142360)
-addappid(3142361,0,"3fe472719c16eb1ebbcea9e1474840b964bfc345a6397b7e1de465875ef9ee10")
--- setManifestid(3142361,"2957165658931273372")
+addappid(3142361, 1, "3fe472719c16eb1ebbcea9e1474840b964bfc345a6397b7e1de465875ef9ee10")

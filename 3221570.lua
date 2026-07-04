@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fruity Rogue
 addappid(3221570)
-addappid(3221571,0,"37469522cd2925dcdb625ebc692ecda8a4feeef545212ac051ea38000adf6482")
--- setManifestid(3221571,"8403680595402966482")
+addappid(3221571, 1, "37469522cd2925dcdb625ebc692ecda8a4feeef545212ac051ea38000adf6482")

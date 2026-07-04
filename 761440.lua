@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Santa Run
 addappid(761440)
-addappid(761441,0,"796e7043d3fca0e8f77b64a4f5fe0cab94a9e7ba72acc153f75500403b9db5be")
--- setManifestid(761441,"7595540987676379479")
+addappid(761441, 1, "796e7043d3fca0e8f77b64a4f5fe0cab94a9e7ba72acc153f75500403b9db5be")

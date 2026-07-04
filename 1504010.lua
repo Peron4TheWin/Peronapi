@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Negative: The Way of Shinobi
 addappid(1504010)
-addappid(1504011,0,"f10f649a84a61211251cea52515159efe7dd937c069bf84f6fc502ec57574b4a")
--- setManifestid(1504011,"2555277475750133003")
+addappid(1504011, 1, "f10f649a84a61211251cea52515159efe7dd937c069bf84f6fc502ec57574b4a")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bad boy simulator
 addappid(1489380)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1489381,0,"86fe8ba1fac0c3d222bc96ca0233a8e3f525c9ca9690780feb7fdceed69922b9")
--- setManifestid(1489381,"3225566292957416730")
+addappid(1489381, 1, "86fe8ba1fac0c3d222bc96ca0233a8e3f525c9ca9690780feb7fdceed69922b9")

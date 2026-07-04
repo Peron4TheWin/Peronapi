@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Man Survivor
 addappid(2250080)
-addappid(2250081,0,"33a51e40db645494995e7ae1b6c3e7e1891053746cb0e27fa1dc6e60052659af")
--- setManifestid(2250081,"6973747554419497183")
+addappid(2250081, 1, "33a51e40db645494995e7ae1b6c3e7e1891053746cb0e27fa1dc6e60052659af")

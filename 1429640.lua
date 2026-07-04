@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HINGE VR
 addappid(1429640)
-addappid(1429641,0,"24940ec7be91b13b2041487fc6228e20ae58ebd20d131501d83c4ed7b39ee576")
--- setManifestid(1429641,"2417444161364388738")
+addappid(1429641, 1, "24940ec7be91b13b2041487fc6228e20ae58ebd20d131501d83c4ed7b39ee576")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Cell
 addappid(3602010)
-addappid(3602011,0,"4665d78b757442c11623e1cb4c0cae38b90ea0b611e2f32b2e25969d73bed764")
--- setManifestid(3602011,"5817570281247398572")
+addappid(3602011, 1, "4665d78b757442c11623e1cb4c0cae38b90ea0b611e2f32b2e25969d73bed764")

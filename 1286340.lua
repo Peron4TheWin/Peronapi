@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Daily Wife
 addappid(1286340)
-addappid(1286341,0,"6c17c65e6fdac47a20f1ca280fee245ef534958ed72a3fac7d7cd8e09214da83")
--- setManifestid(1286341,"2954539647750639490")
+addappid(1286341, 1, "6c17c65e6fdac47a20f1ca280fee245ef534958ed72a3fac7d7cd8e09214da83")
+addappid(1291320)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Female Prison
 addappid(2203720)
-addappid(2203721,0,"adf7250527728858e049f9cdd810eba022632a5f073e4744a0ed5dc611e43490")
--- setManifestid(2203721,"7731578691993623867")
+addappid(2203721, 1, "adf7250527728858e049f9cdd810eba022632a5f073e4744a0ed5dc611e43490")

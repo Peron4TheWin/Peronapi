@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Descending I - House of Nightmares
+addappid(1575730)
+addappid(1575731, 1, "77b341e2cc72fc5e9f712e380e7ca73d27441af18320b6fb2a6a4a01b3217723")

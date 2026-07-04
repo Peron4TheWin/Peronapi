@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Paco El Hare vs Los Marcianos Siderales
 addappid(1643000)
-addappid(1643001,0,"989b1e18b17d26a61dc2568bf333a7992d7fa31009a5c9a032da4a3d73e38e7d")
--- setManifestid(1643001,"7091489201482109365")
+addappid(1643001, 1, "989b1e18b17d26a61dc2568bf333a7992d7fa31009a5c9a032da4a3d73e38e7d")

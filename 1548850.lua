@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Six Days in Fallujah
 addappid(1548850)
-addappid(1548851,0,"5ddd294e2b084b4ae33865370c91bf4f1f505788577332bd9542a4cf4d01835c")
--- setManifestid(1548851,"356822760289610616")
+addappid(1548851, 1, "5ddd294e2b084b4ae33865370c91bf4f1f505788577332bd9542a4cf4d01835c")

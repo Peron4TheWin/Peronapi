@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disco Simulator Demo
 addappid(1867980)
-addappid(1867981,0,"6c5da22b6041794c0e7c0bcaa59edcf94869612c1eaa2133804601cfe52654e2")
--- setManifestid(1867981,"718438111071010594")
+addappid(1867981, 1, "6c5da22b6041794c0e7c0bcaa59edcf94869612c1eaa2133804601cfe52654e2")

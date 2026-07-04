@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crown Wars: The Black Prince
 addappid(1658920)
-addappid(1658921,0,"75993344fb9b31485b7e0598513345bda18b0db53f1930bc5d19ba3ab5841c7a")
--- setManifestid(1658921,"2670050810387810105")
+addappid(1658921, 1, "75993344fb9b31485b7e0598513345bda18b0db53f1930bc5d19ba3ab5841c7a")

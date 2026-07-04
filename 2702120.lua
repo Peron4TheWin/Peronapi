@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Buccaneer
 addappid(2702120)
-addappid(2702121,0,"c2d5ab93eaa4f8a112539f150660f029ea8045a0efee8d85e9265646c85df0e7")
--- setManifestid(2702121,"4539468215173919694")
+addappid(2702121, 1, "c2d5ab93eaa4f8a112539f150660f029ea8045a0efee8d85e9265646c85df0e7")

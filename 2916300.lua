@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kiko's Apple Adventure
 addappid(2916300)
-addappid(2916301,0,"d5f6e081c7b6465064033b50df246338a3b5ee7d7ea73a525baca81094769565")
--- setManifestid(2916301,"611067999070861464")
+addappid(2916301, 1, "d5f6e081c7b6465064033b50df246338a3b5ee7d7ea73a525baca81094769565")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 重檐 Playtest
 addappid(2941860)
-addappid(2941861,0,"591afbca9c36c7273bfcd3aa9edfa55e005ed530d2b3da5d438de0750a4cf852")
--- setManifestid(2941861,"7610712043648977146")
+addappid(2941861, 1, "591afbca9c36c7273bfcd3aa9edfa55e005ed530d2b3da5d438de0750a4cf852")

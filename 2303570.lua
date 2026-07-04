@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crazy Clown
 addappid(2303570)
-addappid(2303571,0,"bdd8dcb115039a742c580a0741dc9f5a07d0384edb38647cfacf407d13ef4614")
--- setManifestid(2303571,"3441183470215573246")
+addappid(2303571, 1, "bdd8dcb115039a742c580a0741dc9f5a07d0384edb38647cfacf407d13ef4614")

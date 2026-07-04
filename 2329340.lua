@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Rescue Girls Demo
 addappid(2329340)
-addappid(2329341,0,"8117a7e36c2e3890b406d6f6b29af5412d7b175ba8c3d496cdb80d79f47f5eb8")
--- setManifestid(2329341,"8379063198432169896")
+addappid(2329341, 1, "8117a7e36c2e3890b406d6f6b29af5412d7b175ba8c3d496cdb80d79f47f5eb8")

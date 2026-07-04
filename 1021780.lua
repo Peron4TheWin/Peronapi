@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Region
 addappid(1021780)
-addappid(1021781,0,"8a091c2b7946379cfc84d5b377fa50df48e4214fd3cd852dbb8ac87b0291d7ca")
+addappid(1021781, 1, "8a091c2b7946379cfc84d5b377fa50df48e4214fd3cd852dbb8ac87b0291d7ca")

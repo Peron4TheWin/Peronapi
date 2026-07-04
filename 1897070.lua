@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gone rogue Demo
 addappid(1897070)
-addappid(1897071,0,"0627d931e98ff41623361093809fbcc4466c7fbec5d1d3fb9e57ce00f2e29a24")
--- setManifestid(1897071,"9020456202819112330")
+addappid(1897071, 1, "0627d931e98ff41623361093809fbcc4466c7fbec5d1d3fb9e57ce00f2e29a24")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blaster Master Zero 3
 addappid(1588380)
-addappid(1588381,0,"1000aad03478b378ed05d268e6ce1390f6c530b78df816b5310c025fbfe0b0dc")
+addappid(1588381, 1, "1000aad03478b378ed05d268e6ce1390f6c530b78df816b5310c025fbfe0b0dc")

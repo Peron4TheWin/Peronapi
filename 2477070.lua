@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Garbage Truck Driving Simulator
 addappid(2477070)
-addappid(2477071,0,"76f8a5bd3af086684b8815050ef36f09a13e255a0fb994f4dd491a09decc1c13")
--- setManifestid(2477071,"2991263868253084611")
+addappid(2477071, 1, "76f8a5bd3af086684b8815050ef36f09a13e255a0fb994f4dd491a09decc1c13")

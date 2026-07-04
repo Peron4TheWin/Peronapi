@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pocket League Story
 addappid(1923690)
-addappid(1923691,0,"6ab24e13febf5d3c2016403955e02a8a978438a551c546c336aed2bbce2a206b")
+addappid(1923691, 1, "6ab24e13febf5d3c2016403955e02a8a978438a551c546c336aed2bbce2a206b")

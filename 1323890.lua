@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost on the Shore Demo
 addappid(1323890)
-addappid(1323891,0,"333eba719a0a357ede32d47f2293b5c063ca30bb0045d25a0d6e1d2d2adbcada")
--- setManifestid(1323891,"3655306019132749314")
+addappid(1323891, 1, "333eba719a0a357ede32d47f2293b5c063ca30bb0045d25a0d6e1d2d2adbcada")

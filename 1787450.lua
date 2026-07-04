@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Where Is Here: New Home
 addappid(1787450)
-addappid(1787451,0,"224739ed54d8065ddf51343e1def0996ab643397ba1344eee68e897ce8e6c270")
--- setManifestid(1787451,"502982010002798252")
+addappid(1787451, 1, "224739ed54d8065ddf51343e1def0996ab643397ba1344eee68e897ce8e6c270")

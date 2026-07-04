@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deflector: Specimen Zero
 addappid(1736570)
-addappid(1736571,0,"ea171882537ebdbcc855ad589bef8c5fbdfa1a7bc40943216d554e4838e1eef0")
--- setManifestid(1736571,"6593920511223103730")
+addappid(1736571, 1, "ea171882537ebdbcc855ad589bef8c5fbdfa1a7bc40943216d554e4838e1eef0")

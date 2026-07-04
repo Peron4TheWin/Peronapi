@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MOVEIT
 addappid(1850390)
-addappid(1850391,0,"e6bb6d43763ea18d43071d3e91d314c8d3ed88fc0dbde7f69b562c93dd626527")
--- setManifestid(1850391,"5324034928684804569")
+addappid(1850391, 1, "e6bb6d43763ea18d43071d3e91d314c8d3ed88fc0dbde7f69b562c93dd626527")

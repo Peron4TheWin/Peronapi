@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wayward Souls
 addappid(559260)
-addappid(559261,0,"6647d53d4e7256c6721e3ed0c30426963b2ff13be285be2f97c74c43456d8c0f")
--- setManifestid(559261,"6933870704304899990")
+addappid(559261, 1, "6647d53d4e7256c6721e3ed0c30426963b2ff13be285be2f97c74c43456d8c0f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 我来自江湖 From Jianghu
 addappid(1058770)
-addappid(1058771,0,"91b84c89799bb48299af01a22869aa305f118e31f8c3560d6e10011b8cdea2cd")
--- setManifestid(1058771,"680340946130458515")
+addappid(1058771, 1, "91b84c89799bb48299af01a22869aa305f118e31f8c3560d6e10011b8cdea2cd")

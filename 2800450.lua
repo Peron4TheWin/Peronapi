@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Planetaries
 addappid(2800450)
-addappid(228989)
---setManifestid(228989,"1332597174812030948")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(2800451,0,"8b515f00500430cd20db00ce76471ac7b69b72f8523c6c7867dccb6cee346fad")
---setManifestid(2800451,"2682258538610363087")
+addappid(2800451, 1, "8b515f00500430cd20db00ce76471ac7b69b72f8523c6c7867dccb6cee346fad")

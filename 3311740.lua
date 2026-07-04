@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Cabin Factory
 addappid(3311740)
-addappid(3311741,0,"787c16686bf240711ceb9d86f6c1c936bface7c82f473cf41154365c4e5c9448")
--- setManifestid(3311741,"5832913850010952")
+addappid(3311741, 1, "787c16686bf240711ceb9d86f6c1c936bface7c82f473cf41154365c4e5c9448")
+addappid(3530930)

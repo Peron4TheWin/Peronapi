@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Death Pirate
+addappid(359300)
+addappid(359301, 1, "a84c2647b937464bb51fa46dac9d5996ddc2e1c43d5c841c5c2a6fddc80484ff")

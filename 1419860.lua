@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tukoni: Prologue
 addappid(1419860)
-addappid(1419861,0,"6b715ce851d19119d4ffb0a3ec39496e0651e37cf68602d8ec80bbcb7f167bc3")
--- setManifestid(1419861,"1564705963831050636")
+addappid(1419861, 1, "6b715ce851d19119d4ffb0a3ec39496e0651e37cf68602d8ec80bbcb7f167bc3")

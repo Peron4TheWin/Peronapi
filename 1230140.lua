@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ATRI -My Dear Moments-
 addappid(1230140)
-addappid(1230141,0,"39502ae3d63e81aa83ffa3684427babdc6369d7d06a742a3d21efbaa0097e917")
--- setManifestid(1230141,"4004992322941680472")
+addappid(1230141, 1, "39502ae3d63e81aa83ffa3684427babdc6369d7d06a742a3d21efbaa0097e917")

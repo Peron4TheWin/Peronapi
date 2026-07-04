@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 安妮的游戏 The Game of Annie Demo
 addappid(2413780)
-addappid(2413781,0,"22748b13caa9c148f9ef5d0110ff31d3e1e12ee8add72753205ee521a87f028c")
--- setManifestid(2413781,"7377182871666656556")
+addappid(2413781, 1, "22748b13caa9c148f9ef5d0110ff31d3e1e12ee8add72753205ee521a87f028c")

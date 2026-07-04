@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wrestling Empire Demo
 addappid(1646420)
-addappid(1646421,0,"748745480daa2b1fd353cf3b04494f4ced66c3edc8e4a51dc48d369165b54559")
--- setManifestid(1646421,"5369326969365666156")
+addappid(1646421, 1, "748745480daa2b1fd353cf3b04494f4ced66c3edc8e4a51dc48d369165b54559")

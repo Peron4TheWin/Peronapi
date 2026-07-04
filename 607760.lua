@@ -1,8 +1,4 @@
-
-addappid(607760) -- CyberDrifter
-addappid(607761, 1, "b15a208ba0d14bbb6cbf3ff03a6fee720234f385d60e19407574a6f919f0ede4") -- CyberDrifter
--- setManifestid(607761, "5995488077550114569", 924595617)
-addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- VC 2015 Redist (Shared from App 228980)
--- setManifestid(228986, "8782296191957114623", 29759921)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
--- setManifestid(228990, "1829726630299308803", 102931551)
+-- Lua provided by SkyAPI 
+-- Game: AppID 607760
+addappid(607760)
+addappid(607761, 1, "b15a208ba0d14bbb6cbf3ff03a6fee720234f385d60e19407574a6f919f0ede4")

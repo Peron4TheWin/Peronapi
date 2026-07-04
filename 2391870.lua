@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MareQuest: An Interactive Tail
 addappid(2391870)
-addappid(2391871,0,"aca787df1f47e99b728c10dc6e3b75d5f6f48b2580bac15711601e19fe91e331")
--- setManifestid(2391871,"6433825333400931284")
+addappid(2391871, 1, "aca787df1f47e99b728c10dc6e3b75d5f6f48b2580bac15711601e19fe91e331")

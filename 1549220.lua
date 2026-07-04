@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Storyblocks: The King
 addappid(1549220)
-addappid(1549221,0,"553fde5a98242bbb2e56657e27164732d5af02e219815db866e0bb56d616e7c5")
--- setManifestid(1549221,"8675135496518971930")
+addappid(1549221, 1, "553fde5a98242bbb2e56657e27164732d5af02e219815db866e0bb56d616e7c5")

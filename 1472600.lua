@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Terrene - An Evidence Of Life Game
 addappid(1472600)
-addappid(1472601,0,"a23bf1bffa00d54b6237af6bdb88270be5787eb0376aa5375ed7cd180765389e")
--- setManifestid(1472601,"9184668194380132309")
+addappid(1472601, 1, "a23bf1bffa00d54b6237af6bdb88270be5787eb0376aa5375ed7cd180765389e")

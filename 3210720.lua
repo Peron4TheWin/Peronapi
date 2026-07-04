@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Harvest Village
 addappid(3210720)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3210721,0,"a89d3a510bdc819516f9fb0f2d1bb57c69bdee455c5c8180e855dd6020267871")
--- setManifestid(3210721,"8421380506622089091")
+addappid(3210721, 1, "a89d3a510bdc819516f9fb0f2d1bb57c69bdee455c5c8180e855dd6020267871")

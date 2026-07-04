@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Chess Soundtrack
 addappid(2232700)
-addappid(2232701,0,"e3f76a59214aa0957156928fdea3d0cbb41f1547b4ffd80a998520f51eadb295")
--- setManifestid(2232701,"9010010987275060241")
+addappid(2232701, 1, "e3f76a59214aa0957156928fdea3d0cbb41f1547b4ffd80a998520f51eadb295")

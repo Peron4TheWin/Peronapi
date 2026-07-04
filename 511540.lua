@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MoonQuest
 addappid(511540)
-addappid(511541,0,"08c2b7f0690b397a2249faa3f31deb2a6d1f9d1d6cb691f7c9c7b412bb066c95")
--- setManifestid(511541,"6047763685923432774")
+addappid(511541, 1, "08c2b7f0690b397a2249faa3f31deb2a6d1f9d1d6cb691f7c9c7b412bb066c95")

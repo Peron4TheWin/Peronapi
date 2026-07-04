@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Amazing Wagon Adventure
 addappid(250500)
--- setManifestid(229003,"8740933542064151477")
--- setManifestid(229012,"4353723233161159493")
-addappid(250501,0,"6631ca7b61d4b131c4710ddc225b36f5f5b51b759135c5ab0fdb69386861a7d7")
--- setManifestid(250501,"867369907755690044")
+addappid(250501, 1, "6631ca7b61d4b131c4710ddc225b36f5f5b51b759135c5ab0fdb69386861a7d7")

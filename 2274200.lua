@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arken Age
 addappid(2274200)
-addappid(2274201,0,"23fe823eb2d203e3fe4e1aabc4a7e6e449c1422b95bb39a3b6b117970cc45ba3")
---setManifestid(2274201,"7013472862428807935")
+addappid(2274201, 1, "23fe823eb2d203e3fe4e1aabc4a7e6e449c1422b95bb39a3b6b117970cc45ba3")

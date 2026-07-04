@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Subluminal
 addappid(1594110)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(1594111,0,"02426ca97f44273c567537a06bd397ce9c9ebb453d9b9cf924a7defece4d0300")
--- setManifestid(1594111,"4752391422389136791")
+addappid(1594111, 1, "02426ca97f44273c567537a06bd397ce9c9ebb453d9b9cf924a7defece4d0300")

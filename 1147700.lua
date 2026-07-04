@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forest Adventure
 addappid(1147700)
-addappid(1147701,0,"ddff0f7764ff730e2c207646b049aec933379b08fe0db042d348e51bb389a1a5")
--- setManifestid(1147701,"8679664690567413850")
+addappid(1147701, 1, "ddff0f7764ff730e2c207646b049aec933379b08fe0db042d348e51bb389a1a5")

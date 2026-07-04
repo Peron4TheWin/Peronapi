@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Graze Counter GM
 addappid(1486440)
-addappid(1486441,0,"993326c25114ba124a1655e89e06e7ccacc74135ab72678daa895a1e2d31f7ae")
--- setManifestid(1486441,"1485014887695918026")
+addappid(1486441, 1, "993326c25114ba124a1655e89e06e7ccacc74135ab72678daa895a1e2d31f7ae")

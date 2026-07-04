@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Capcom Fighting Collection 2 - Vol.1［Original Soundtrack］
 addappid(3795080)
-addappid(3795081,0,"3d338f7f776fd05927c24291fab5d26a1efeefb363201e395b14f1990a38b9ca")
--- setManifestid(3795081,"3112972445747161607")
+addappid(3795081, 1, "3d338f7f776fd05927c24291fab5d26a1efeefb363201e395b14f1990a38b9ca")

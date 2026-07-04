@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Maria the Witch
 addappid(447860)
-addappid(447861,0,"d77c72a56dd01b390e27dbf537e16d72eaf2d0d99d85cf158ed0ebbc1bb45001")
--- setManifestid(447861,"2141794440351000557")
+addappid(447861, 1, "d77c72a56dd01b390e27dbf537e16d72eaf2d0d99d85cf158ed0ebbc1bb45001")

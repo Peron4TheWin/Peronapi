@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shank Demo
 addappid(6130)
-addappid(6131,0,"fce74ad15d99e0cf29dff80aef32916f2376f871c2acc59709666608c4e06c98")
--- setManifestid(6131,"1966035237381471267")
+addappid(6131, 1, "fce74ad15d99e0cf29dff80aef32916f2376f871c2acc59709666608c4e06c98")

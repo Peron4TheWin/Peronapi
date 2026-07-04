@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ale Abbey - Monastery Brewery Tycoon
 addappid(2789460)
-addappid(2789461,0,"266dc778b045f2700546991ea108ed40f7292d2220571673bb625e677c80bac9")
--- setManifestid(2789461,"3251740050099004098")
+addappid(2789461, 1, "266dc778b045f2700546991ea108ed40f7292d2220571673bb625e677c80bac9")

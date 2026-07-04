@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Runewards: Strategy Card Game
 addappid(636560)
-addappid(636561,0,"205ad8d3d8658838efa7666efab1c541a55bb0d24321ae88e1f95d1ad9d3c770")
--- setManifestid(636561,"7915157120996836931")
+addappid(636561, 1, "205ad8d3d8658838efa7666efab1c541a55bb0d24321ae88e1f95d1ad9d3c770")

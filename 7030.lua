@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tomb Raider: Legend Demo
 addappid(7030)
-addappid(7031,0,"b5f7509f888471a7948b8f71c4c027372db6af2dcd454118c6c57e11cde5babc")
--- setManifestid(7031,"7337312282164968794")
+addappid(7031, 1, "b5f7509f888471a7948b8f71c4c027372db6af2dcd454118c6c57e11cde5babc")

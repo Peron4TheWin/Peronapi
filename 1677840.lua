@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Color Your World
 addappid(1677840)
-addappid(1677841,0,"a874d21caa476b626ed89cb8fa4677ff824b5d978648417afd0de7b5eb9c0b18")
--- setManifestid(1677841,"9121637956203484923")
+addappid(1677841, 1, "a874d21caa476b626ed89cb8fa4677ff824b5d978648417afd0de7b5eb9c0b18")

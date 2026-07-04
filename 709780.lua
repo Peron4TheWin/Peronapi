@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crazy Scientist
 addappid(709780)
-addappid(709781,0,"9ffe36cbb9340bf876de6d9a51c493f61fadf7063e7fc7da138254ba5111cc2e")
--- setManifestid(709781,"5702103116986424820")
+addappid(709781, 1, "9ffe36cbb9340bf876de6d9a51c493f61fadf7063e7fc7da138254ba5111cc2e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beyond Hope
 addappid(1305640)
-addappid(1305641,0,"437e122583ab354fd7d227fbbaafc384210b8ce1f6cac0298e35f8af938e4417")
--- setManifestid(1305641,"535878390796331426")
+addappid(1305641, 1, "437e122583ab354fd7d227fbbaafc384210b8ce1f6cac0298e35f8af938e4417")

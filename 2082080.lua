@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 东方冰之勇者记 Playtest
 addappid(2082080)
-addappid(2082081,0,"82c25251e9e2c3fa4cd3b13c9f9a4852b06b39f58aea870a2dfbd6e93e22f406")
--- setManifestid(2082081,"1641775647883065123")
+addappid(2082081, 1, "82c25251e9e2c3fa4cd3b13c9f9a4852b06b39f58aea870a2dfbd6e93e22f406")

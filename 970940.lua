@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Unicorn Princess
 addappid(970940)
--- setManifestid(228990,"1829726630299308803")
-addappid(970941,0,"bb586ef038507bcd9e357f157ebcaa3b5107bbc92b86a7ede129e5b93c947ead")
--- setManifestid(970941,"6450811088609212967")
+addappid(970941, 1, "bb586ef038507bcd9e357f157ebcaa3b5107bbc92b86a7ede129e5b93c947ead")

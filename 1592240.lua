@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zoelie - SCAD Games Studio
 addappid(1592240)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1592241,0,"a301738c65aea05aed06a2477cf68910d81728217c15f2bd8aaa8fbef5da136d")
--- setManifestid(1592241,"6212667557112851814")
+addappid(1592241, 1, "a301738c65aea05aed06a2477cf68910d81728217c15f2bd8aaa8fbef5da136d")

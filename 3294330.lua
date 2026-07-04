@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 201 - The Bad Number
 addappid(3294330)
-addappid(3294331,0,"1b983c5ce93d648ccd4c0c18e42f4d0439f27007ac16e9c5af4f5ae48d9d3e5a")
--- setManifestid(3294331,"3688196525567831121")
+addappid(3294331, 1, "1b983c5ce93d648ccd4c0c18e42f4d0439f27007ac16e9c5af4f5ae48d9d3e5a")

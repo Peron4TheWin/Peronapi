@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Secret Of Magia
 addappid(396160)
--- setManifestid(228982,"6413394087650432851")
--- setManifestid(228990,"1829726630299308803")
-addappid(396161,0,"d96b1ec77c062e1cd4774ef40a9662f199dba5b835ca0efeee866c79c6bb64f8")
--- setManifestid(396161,"8896401862033629424")
+addappid(396161, 1, "d96b1ec77c062e1cd4774ef40a9662f199dba5b835ca0efeee866c79c6bb64f8")

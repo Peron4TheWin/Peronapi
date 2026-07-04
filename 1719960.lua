@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ada And Cal
 addappid(1719960)
-addappid(1719961,0,"0168da6d60c8c04e54f868d4ab101ecc65e43754969970fc8830c578b48be07a")
--- setManifestid(1719961,"6358482230462683734")
+addappid(1719961, 1, "0168da6d60c8c04e54f868d4ab101ecc65e43754969970fc8830c578b48be07a")

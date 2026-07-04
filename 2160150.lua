@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AmongUs Challenger
 addappid(2160150)
-addappid(2160151,0,"06c891628523e5f39a6fed3c1bd0f042a479530da18b0a3fc3146be8502e78e0")
--- setManifestid(2160151,"2024145271108617126")
+addappid(2160151, 1, "06c891628523e5f39a6fed3c1bd0f042a479530da18b0a3fc3146be8502e78e0")

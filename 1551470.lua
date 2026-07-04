@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Voidwalkers: The Gates Of Hell
 addappid(1551470)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1551471,0,"2a2a65f2f62f5a53e3b22058553526ffcc765f1fe25ef16f6119e6b230d73af6")
--- setManifestid(1551471,"7494071240767351124")
+addappid(1551471, 1, "2a2a65f2f62f5a53e3b22058553526ffcc765f1fe25ef16f6119e6b230d73af6")

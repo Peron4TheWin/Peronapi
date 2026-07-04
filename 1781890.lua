@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Coma 2B: Catacomb
 addappid(1781890)
--- setManifestid(229000,"4622705914179893434")
-addappid(1781891,0,"7695a89bfd4e0d3f27fb4028c30100e4cfda9fdd21241199a99b368961309df1")
--- setManifestid(1781891,"1431304341364264280")
+addappid(1781891, 1, "7695a89bfd4e0d3f27fb4028c30100e4cfda9fdd21241199a99b368961309df1")

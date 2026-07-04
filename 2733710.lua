@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tralalero Tralala : Survive the night
 addappid(2733710)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2733711,0,"26a6c7841a243d9826993fd23c05d7e02c3b5b9b7a9fbdd81957226c3915967b")
--- setManifestid(2733711,"812820326704886703")
+addappid(2733711, 1, "26a6c7841a243d9826993fd23c05d7e02c3b5b9b7a9fbdd81957226c3915967b")

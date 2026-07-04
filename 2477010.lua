@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ticket to Ride®
 addappid(2477010)
-addappid(2477011,0,"3615b8a0e6ab3df569fe773332ea74f8ce43b1467cc2a0c1cb310980d24fb274")
--- setManifestid(2477011,"1591847605403087734")
+addappid(2477011, 1, "3615b8a0e6ab3df569fe773332ea74f8ce43b1467cc2a0c1cb310980d24fb274")

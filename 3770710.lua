@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magic Weapon
 addappid(3770710)
-addappid(3770711,0,"3ec861661a2b50f86a504ab59d85f760e069a1380ce461df9472bad8b50e62c3")
+addappid(3770711, 1, "3ec861661a2b50f86a504ab59d85f760e069a1380ce461df9472bad8b50e62c3")

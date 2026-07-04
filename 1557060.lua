@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wonhon: Prologue
 addappid(1557060)
-addappid(1557061,0,"2b4b05f81818d66cc1b471da21bb48d3555f144ba5413344b43c82f23160f220")
--- setManifestid(1557061,"580088304210921020")
+addappid(1557061, 1, "2b4b05f81818d66cc1b471da21bb48d3555f144ba5413344b43c82f23160f220")

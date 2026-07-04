@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Graveyard Gunslingers
 addappid(2462060)
-addappid(2462061,0,"e63dbdfbdf3072159788b8a50467771e5f72e8447d73185a29169f3c1c68445d")
--- setManifestid(2462061,"6460942968488063543")
+addappid(2462061, 1, "e63dbdfbdf3072159788b8a50467771e5f72e8447d73185a29169f3c1c68445d")

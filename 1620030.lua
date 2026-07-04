@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Avatar: The Last Airbender - Quest for Balance
 addappid(1620030)
-addappid(1620031,0,"9c1d3f0a7a18e863e5f56723937176c79fbfd6b2caf67a16d06c94db2678705b")
--- setManifestid(1620031,"773137660092715490")
+addappid(1620031, 1, "9c1d3f0a7a18e863e5f56723937176c79fbfd6b2caf67a16d06c94db2678705b")
+addappid(1923750)

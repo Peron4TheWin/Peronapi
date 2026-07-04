@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 幻想症 Fantasy illness
 addappid(3460020)
-addappid(3460021,0,"fc7e9bc3ef80d60cd84a286a296f5fa85ee90d7051c87581efa30bf4cefdecbb")
--- setManifestid(3460021,"1122890870308288554")
+addappid(3460021, 1, "fc7e9bc3ef80d60cd84a286a296f5fa85ee90d7051c87581efa30bf4cefdecbb")

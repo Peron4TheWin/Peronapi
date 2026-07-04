@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bananner Nababber
 addappid(2099440)
-addappid(2099441,0,"c4128792f1ab22221225a0d851b0cc3cc49a361707a0c3795c1cbad8fb70eea6")
--- setManifestid(2099441,"3554097115806466844")
+addappid(2099441, 1, "c4128792f1ab22221225a0d851b0cc3cc49a361707a0c3795c1cbad8fb70eea6")

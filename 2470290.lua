@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brick Exorcist
 addappid(2470290)
-addappid(2470291,0,"aa02d6c1411537615dee0ce923ceb3486ea067b418c17ed317a386ab18506d3d")
--- setManifestid(2470291,"2932321604777490064")
+addappid(2470291, 1, "aa02d6c1411537615dee0ce923ceb3486ea067b418c17ed317a386ab18506d3d")

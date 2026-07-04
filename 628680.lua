@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hellpoint Demo
 addappid(628680)
-addappid(628681,0,"f03da2102cee60cb95c9a2a543826ffdf75b40fa7eeffef7e4a25b19a46a158f")
--- setManifestid(628681,"9032797919070601939")
+addappid(628681, 1, "f03da2102cee60cb95c9a2a543826ffdf75b40fa7eeffef7e4a25b19a46a158f")

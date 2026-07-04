@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 无用之人：登神长阶 Playtest
 addappid(3388970)
-addtoken(3388970,"6518316214831233212")
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3388971,0,"eae6ec86ed23e515cfae197332f0ceaea6283fe337479c1e17b0cac23a76408b")
+addappid(3388971, 1, "eae6ec86ed23e515cfae197332f0ceaea6283fe337479c1e17b0cac23a76408b")

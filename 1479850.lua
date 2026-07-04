@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Chompy Chomp Chomp Party
 addappid(1479850)
-addappid(1479851,0,"90c5671dc3089bab20cf660e3a0a4853767d736253c0240fb960c12b3bac4318")
--- setManifestid(1479851,"7991970031981022808")
+addappid(1479851, 1, "90c5671dc3089bab20cf660e3a0a4853767d736253c0240fb960c12b3bac4318")
+addappid(2109490)

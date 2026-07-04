@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Two Bad Fellas
 addappid(2938550)
-addappid(2938551,0,"54f72dba735487b011ec52ab0d068de2020fec4832b1fe4a52ed6015796b708d")
--- setManifestid(2938551,"3005712147627958747")
-addappid(2938552)
+addappid(2938551, 1, "54f72dba735487b011ec52ab0d068de2020fec4832b1fe4a52ed6015796b708d")

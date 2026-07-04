@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SokoWinter
 addappid(1867610)
-addappid(1867611,0,"4d243c5f2915171c302ef04bc8ed362c54f3ae5983577fa5e809f92d9ba2952d")
--- setManifestid(1867611,"1984239880256462229")
+addappid(1867611, 1, "4d243c5f2915171c302ef04bc8ed362c54f3ae5983577fa5e809f92d9ba2952d")

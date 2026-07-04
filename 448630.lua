@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rabiez: Epidemic
 addappid(448630)
-addappid(448631,0,"ec1ab7eca5d492492124e645ca839f6afb2137703e02b51e765b62e461306c10")
--- setManifestid(448631,"3704930602603829596")
+addappid(448631, 1, "ec1ab7eca5d492492124e645ca839f6afb2137703e02b51e765b62e461306c10")

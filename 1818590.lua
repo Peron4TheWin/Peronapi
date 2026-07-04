@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: You Are A Pilot
 addappid(1818590)
-addappid(1818591,0,"e27feed702bdd5348d3a9683e3c9131a90b780d3c072db75602addb8bada284c")
--- setManifestid(1818591,"7438689641898993773")
+addappid(1818591, 1, "e27feed702bdd5348d3a9683e3c9131a90b780d3c072db75602addb8bada284c")

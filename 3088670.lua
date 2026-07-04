@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fragile Reflection
 addappid(3088670)
-addappid(3088671,0,"eec248d3e1e8362024f59a247390562b7c88cd60bd336d541af7cef263e1ed54")
+addappid(3088671, 1, "eec248d3e1e8362024f59a247390562b7c88cd60bd336d541af7cef263e1ed54")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starlights / 별빛 아래
 addappid(2425420)
-addappid(2425421,0,"8414c404d761eed9a69b184626504958c39879857ee1e8527d7faffa445375fc")
--- setManifestid(2425421,"355771205244692269")
+addappid(2425421, 1, "8414c404d761eed9a69b184626504958c39879857ee1e8527d7faffa445375fc")

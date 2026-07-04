@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tomb of Mask
 addappid(2073710)
-addappid(2073711,0,"23e650f7539a66efb4576e915f266e41690cdd3f2126b7dba0bd702c4f842ad7")
--- setManifestid(2073711,"2422084254090339160")
+addappid(2073711, 1, "23e650f7539a66efb4576e915f266e41690cdd3f2126b7dba0bd702c4f842ad7")

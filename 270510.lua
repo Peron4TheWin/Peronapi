@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EPOCH
+addappid(270510)
+addappid(270511, 1, "09b08136bb6e71a3f6fff4712a8cc7c06a625bf2f4892ebe0bf8522a3cc41cc5")

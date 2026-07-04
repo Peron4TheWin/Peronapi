@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escort's Secrets 18+
 addappid(2668160)
-addappid(2668161,0,"74693a5d4069437d5cd203a258383afcfa43ca3572d4d72e48632a1b0bbeed1e")
--- setManifestid(2668161,"6212451813444724720")
+addappid(2668161, 1, "74693a5d4069437d5cd203a258383afcfa43ca3572d4d72e48632a1b0bbeed1e")

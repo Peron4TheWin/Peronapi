@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Walkabout
 addappid(898460)
-addappid(898461,0,"09326bcf85250dec828fed5f8bd3f2eb2903aaeb28856b51854a6e66bc5e3232")
--- setManifestid(898461,"5988436365740355806")
+addappid(898461, 1, "09326bcf85250dec828fed5f8bd3f2eb2903aaeb28856b51854a6e66bc5e3232")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gatling Gears
 addappid(102810)
-addappid(102811,0,"8fa3beae0a6c6f6426ff464926c547c0afa75f73517515651ef51fbfddd46d90")
--- setManifestid(102811,"2868688157241579944")
+addappid(102811, 1, "8fa3beae0a6c6f6426ff464926c547c0afa75f73517515651ef51fbfddd46d90")

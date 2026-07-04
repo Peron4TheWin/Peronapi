@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Countless Rooms of Death
 addappid(341380)
-addappid(341381,0,"3cd2f451adb9880ad8b4a525780d2c3f9396080b6cf1b76858d3941529e51e85")
--- setManifestid(341381,"3585467515758409132")
+addappid(341381, 1, "3cd2f451adb9880ad8b4a525780d2c3f9396080b6cf1b76858d3941529e51e85")

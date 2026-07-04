@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flora's Fruit Farm
 addappid(35070)
-addappid(35071,0,"9669e146ab16ef9e0c2bfe6e240c52af83cf4556267d910d54c37fbfad53d4a4")
--- setManifestid(35071,"8439943526849690332")
+addappid(35071, 1, "9669e146ab16ef9e0c2bfe6e240c52af83cf4556267d910d54c37fbfad53d4a4")

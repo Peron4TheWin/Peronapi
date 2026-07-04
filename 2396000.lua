@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Poly Jigsaw: Dinosaurs
 addappid(2396000)
-addappid(2396001,0,"e38b1de502edd23907b389128e3c591fe227270d6088a3825318c98a038b49c6")
--- setManifestid(2396001,"3587560072116519633")
+addappid(2396001, 1, "e38b1de502edd23907b389128e3c591fe227270d6088a3825318c98a038b49c6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Rampage VR
 addappid(2445540)
-addappid(2445541,0,"9fe3da701e6e86f4895ada5a6fa0774a204cc419be3dd280e6a1d6afb935c543")
--- setManifestid(2445541,"5124231856825505825")
+addappid(2445541, 1, "9fe3da701e6e86f4895ada5a6fa0774a204cc419be3dd280e6a1d6afb935c543")

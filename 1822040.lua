@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fuzoku Frame [18+]
 addappid(1822040)
-addappid(1822041,0,"74c0ab48e0d448c1be9f7e5ed1b8d679c66d09a1230b8abfd4429f8bcc938197")
--- setManifestid(1822041,"5515833214739342887")
+addappid(1822041, 1, "74c0ab48e0d448c1be9f7e5ed1b8d679c66d09a1230b8abfd4429f8bcc938197")

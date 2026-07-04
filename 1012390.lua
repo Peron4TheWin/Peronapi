@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fruitlockers Reborn! 2
 addappid(1012390)
-addappid(1012391,0,"8db582b712eee67c9dbdd9f7be0887e6e21e55353af1d99d5d69a039eb93f09c")
+addappid(1012391, 1, "8db582b712eee67c9dbdd9f7be0887e6e21e55353af1d99d5d69a039eb93f09c")

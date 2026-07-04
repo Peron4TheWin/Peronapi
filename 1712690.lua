@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SourceWorlds
 addappid(1712690)
-addappid(1712691,0,"f53f03c95938893752977bbe2e0a3fe50dc0ca9931efe5a8ea4afd8045d57313")
--- setManifestid(1712691,"2621128277419800852")
+addappid(1712691, 1, "f53f03c95938893752977bbe2e0a3fe50dc0ca9931efe5a8ea4afd8045d57313")

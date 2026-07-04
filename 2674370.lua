@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sugar Lust Harem
 addappid(2674370)
-addappid(2674371,0,"9f4bdb4cf3e34e4a051188fd133dd0ac46ce675caf8eeeafce782c3205d5589d")
--- setManifestid(2674371,"4413757450169619772")
+addappid(2674371, 1, "9f4bdb4cf3e34e4a051188fd133dd0ac46ce675caf8eeeafce782c3205d5589d")

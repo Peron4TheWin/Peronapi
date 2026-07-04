@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dangerous Bullets
 addappid(575770)
-addappid(575771,0,"c5599d5da7a120e1bab4321b65f04e49ddcd2f0b3c1c16f5795c52229d4b0bba")
--- setManifestid(575771,"8812919393026492427")
+addappid(575771, 1, "c5599d5da7a120e1bab4321b65f04e49ddcd2f0b3c1c16f5795c52229d4b0bba")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tower Walker: MMO Grind Simulator
 addappid(2130060)
-addappid(2130061,0,"fd6dc5d7aabac85d428b2993221bd54a6573139b86110f0493d0e215b9f35491")
--- setManifestid(2130061,"6528764113865708117")
+addappid(2130061, 1, "fd6dc5d7aabac85d428b2993221bd54a6573139b86110f0493d0e215b9f35491")

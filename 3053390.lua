@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 家屋探索 -Japanese House Exploration-
 addappid(3053390)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3053391,0,"2bc9a8015a4854e6ed289e46a698ef96a3e54c2ea5f7601399e932278e881f43")
--- setManifestid(3053391,"1404824965900756826")
+addappid(3053391, 1, "2bc9a8015a4854e6ed289e46a698ef96a3e54c2ea5f7601399e932278e881f43")

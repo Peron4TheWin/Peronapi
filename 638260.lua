@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Myths of the World: Stolen Spring Collector's Edition
 addappid(638260)
-addappid(638261,0,"8e0eea2ac2636e015462dfe1a25ca777b831ad4056275ae9120975bd7e20580c")
--- setManifestid(638261,"3669810948907070033")
+addappid(638261, 1, "8e0eea2ac2636e015462dfe1a25ca777b831ad4056275ae9120975bd7e20580c")

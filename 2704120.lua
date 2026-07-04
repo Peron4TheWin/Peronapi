@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 256vs256
 addappid(2704120)
-addappid(2704121,0,"57aea684de5ffb3ae516b820dbc1fd3cd243396921c51e69dcde70fff7bada4c")
--- setManifestid(2704121,"3500548531966708667")
+addappid(2704121, 1, "57aea684de5ffb3ae516b820dbc1fd3cd243396921c51e69dcde70fff7bada4c")

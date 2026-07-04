@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Safari Cannon
 addappid(1787030)
-addappid(1787031,0,"19d6f02eedd5d061e41f31d0fa01b24d9961254b1ec7f2daa63db498629a9184")
--- setManifestid(1787031,"8994485076278715009")
+addappid(1787031, 1, "19d6f02eedd5d061e41f31d0fa01b24d9961254b1ec7f2daa63db498629a9184")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don't FOOL ME, Beauties!
 addappid(3516180)
-addappid(3516181,0,"dc747063c492b3c7c598538d95e4a8f61cb724864be1a6eb46e07103bce91942")
--- setManifestid(3516181,"4445228082601084974")
+addappid(3516181, 1, "dc747063c492b3c7c598538d95e4a8f61cb724864be1a6eb46e07103bce91942")

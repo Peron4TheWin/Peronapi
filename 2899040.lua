@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Lane
 addappid(2899040)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2899041,0,"bf09fa8a6e67aa0dca60f6fe2ff06c35d817f2af1d185644e5e32587fa79190b")
--- setManifestid(2899041,"6942715070166336554")
+addappid(2899041, 1, "bf09fa8a6e67aa0dca60f6fe2ff06c35d817f2af1d185644e5e32587fa79190b")

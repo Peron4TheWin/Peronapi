@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EMPTY SHELL
 addappid(2243110)
-addappid(2243111,0,"aad786dc745df38b6d2bacc92cb92b1cecf32be45eaffe3682bc8c786041aa7d")
--- setManifestid(2243111,"5116057172438680442")
+addappid(2243111, 1, "aad786dc745df38b6d2bacc92cb92b1cecf32be45eaffe3682bc8c786041aa7d")

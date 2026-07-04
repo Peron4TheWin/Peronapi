@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HoneySelect2Libido DX
 addappid(1631080)
-addappid(1631081,0,"01c82c96527d7e375cfdbfea412814279f1d24510b9e34e863c0ec1225da59f7")
+addappid(1631081, 1, "01c82c96527d7e375cfdbfea412814279f1d24510b9e34e863c0ec1225da59f7")

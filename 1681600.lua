@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cornucopia®
 addappid(1681600)
-addappid(1681601,0,"0fd2b2d8c6d548e6c89b84ff4fd4f5c6fc3110cd87d474828920e93ee662cb3f")
--- setManifestid(1681601,"672568082798973076")
+addappid(1681601, 1, "0fd2b2d8c6d548e6c89b84ff4fd4f5c6fc3110cd87d474828920e93ee662cb3f")

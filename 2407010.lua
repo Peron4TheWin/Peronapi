@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 木夕镇的午夜轮回 Midnight cycle in Muxi Town
 addappid(2407010)
-addappid(2407011,0,"a9b61b5a6f8e5c016c250c15f194da4b8fee546a8cc938e1cae30e9b67c22153")
--- setManifestid(2407011,"3695661142287516558")
+addappid(2407011, 1, "a9b61b5a6f8e5c016c250c15f194da4b8fee546a8cc938e1cae30e9b67c22153")

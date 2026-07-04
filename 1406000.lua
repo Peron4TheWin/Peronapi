@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BigChick
 addappid(1406000)
-addappid(1406001,0,"6c11fd5ea1666ddbf5a8222aac7df8d36a52ece24b909bd70ee25c43f3bc992f")
--- setManifestid(1406001,"7633619889405213320")
+addappid(1406001, 1, "6c11fd5ea1666ddbf5a8222aac7df8d36a52ece24b909bd70ee25c43f3bc992f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rurizakura
 addappid(1562470)
-addappid(1562471,0,"407c27ef28d3e4aa594fce438363bd46724ec1a7bf3242111aa47998ebe5927b")
--- setManifestid(1562471,"1234899800756966909")
+addappid(1562471, 1, "407c27ef28d3e4aa594fce438363bd46724ec1a7bf3242111aa47998ebe5927b")

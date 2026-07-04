@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skattered Dream
 addappid(1745410)
-addappid(1745411,0,"001bb93f5b62a156c87f17342cf90f7ac1b6c4ac4277cb25578f2b26534693de")
--- setManifestid(1745411,"3302110027146316792")
+addappid(1745411, 1, "001bb93f5b62a156c87f17342cf90f7ac1b6c4ac4277cb25578f2b26534693de")

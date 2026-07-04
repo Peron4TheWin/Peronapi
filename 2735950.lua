@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Necro Rumble
 addappid(2735950)
-addappid(2735951,0,"b26b3feac5136674294bbd7e499fc18278d5a3198cdbd6c960b8f83751331f01")
--- setManifestid(2735951,"8406270038939674449")
+addappid(2735951, 1, "b26b3feac5136674294bbd7e499fc18278d5a3198cdbd6c960b8f83751331f01")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SILENT BREATH
 addappid(2796180)
-addappid(2796181,0,"0bc95c642ade277747008c7f43a7903ef23726feaa4dce9411f15cf287aebd16")
--- setManifestid(2796181,"8008426595655309722")
+addappid(2796181, 1, "0bc95c642ade277747008c7f43a7903ef23726feaa4dce9411f15cf287aebd16")

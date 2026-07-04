@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Honey Bee With Guns
 addappid(2927910)
-addappid(2927911,0,"bf86ffd9575bf4244b990af6eb12704014d0ae2c755fd7b36f383cde4a8f8d19")
--- setManifestid(2927911,"5082798867816053148")
+addappid(2927911, 1, "bf86ffd9575bf4244b990af6eb12704014d0ae2c755fd7b36f383cde4a8f8d19")

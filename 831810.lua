@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bane of Asphodel
 addappid(831810)
-addappid(831811,0,"6af8cdf6a04313766f4b9ae54f0d6c08be5906cf2506b851816c3bd607204ecc")
--- setManifestid(831811,"6794301032411535931")
+addappid(831811, 1, "6af8cdf6a04313766f4b9ae54f0d6c08be5906cf2506b851816c3bd607204ecc")

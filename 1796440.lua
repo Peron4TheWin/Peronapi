@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elimination Games
 addappid(1796440)
-addappid(1796441,0,"77abe0696a96236f28b135462c01a2655cacb46631ffe5106dccdc9ec899f60e")
--- setManifestid(1796441,"7860957035655515159")
+addappid(1796441, 1, "77abe0696a96236f28b135462c01a2655cacb46631ffe5106dccdc9ec899f60e")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Music Visualizer Engine PC Live Wallpaper
 addappid(1204920)
--- setManifestid(229006,"1784011429307107530")
-addappid(1204921,0,"fa56dd08a2baa87a52132f10d6a6f93cf84f3532de39b58690697568b828586e")
--- setManifestid(1204921,"1321068510063958503")
+addappid(1204921, 1, "fa56dd08a2baa87a52132f10d6a6f93cf84f3532de39b58690697568b828586e")

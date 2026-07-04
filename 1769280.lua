@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: LTO Arcade
 addappid(1769280)
-addappid(1769281,0,"e2b2849dbd67502ba7f8ae33b989684e30634b53ed3c9b79dc00f6cae06385f3")
--- setManifestid(1769281,"8713423015305687805")
+addappid(1769281, 1, "e2b2849dbd67502ba7f8ae33b989684e30634b53ed3c9b79dc00f6cae06385f3")
+addappid(1779420)

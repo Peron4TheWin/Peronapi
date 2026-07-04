@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magicraft
 addappid(2103140)
-addappid(2103141,0,"f0ba119c48fc700dae769f7087e735d40dc7f3a1f379c01ff163a8386ae1b3ce")
---setManifestid(2103141,"142245188621826107")
+addappid(2103141, 1, "f0ba119c48fc700dae769f7087e735d40dc7f3a1f379c01ff163a8386ae1b3ce")

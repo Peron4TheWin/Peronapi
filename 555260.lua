@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Butterfly Sign: Human Error
+addappid(555260)
+addappid(555261, 1, "69d7c458196b6267f68b921077211e2d86f293e9002b235b6d03d4e3e3b4ebba")

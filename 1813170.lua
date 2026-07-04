@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Surrounded
 addappid(1813170)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229003,"8740933542064151477")
-addappid(1813171,0,"e87cdb750b28cde795daa55a163e11d8db0eea895982a49209837aaa65f4d6cc")
--- setManifestid(1813171,"5072285233998231879")
+addappid(1813171, 1, "e87cdb750b28cde795daa55a163e11d8db0eea895982a49209837aaa65f4d6cc")

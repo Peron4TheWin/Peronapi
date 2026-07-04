@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Academy's Special Place
 addappid(2002010)
-addappid(2002011,0,"8ca3ed3ee5ebe8067b062df976407eccac47d03f943b0efa25af4e58da270cce")
--- setManifestid(2002011,"5000017382027241245")
+addappid(2002011, 1, "8ca3ed3ee5ebe8067b062df976407eccac47d03f943b0efa25af4e58da270cce")

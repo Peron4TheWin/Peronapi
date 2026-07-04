@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eternal Edge +
 addappid(896440)
-addappid(896441,0,"11e0aae44dcf338283a530a05af164937cf7ccab736cf492de6892f0f1a5776e")
--- setManifestid(896441,"6329792633093451212")
+addappid(896441, 1, "11e0aae44dcf338283a530a05af164937cf7ccab736cf492de6892f0f1a5776e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Small Town Detective
 addappid(2243050)
-addappid(2243051,0,"03dcb3685dbe41aa7436fb57edcf3131bc5dfe8c5ead885d0a60b8f9cd859d9e")
--- setManifestid(2243051,"6169386193363135945")
+addappid(2243051, 1, "03dcb3685dbe41aa7436fb57edcf3131bc5dfe8c5ead885d0a60b8f9cd859d9e")

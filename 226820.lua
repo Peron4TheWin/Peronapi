@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nancy Drew®: Ghost of Thornton Hall
 addappid(226820)
-addappid(226821,0,"c5a3f704a479259c9bf95fd0d32457cc30b226cda7c1bf06a791311838146c0f")
--- setManifestid(226821,"5365295953418599168")
+addappid(226821, 1, "c5a3f704a479259c9bf95fd0d32457cc30b226cda7c1bf06a791311838146c0f")

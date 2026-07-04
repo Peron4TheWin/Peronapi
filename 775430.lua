@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Discovery Tour by Assassin’s Creed®: Ancient Egypt
 addappid(775430)
-addtoken(775430,"663209022953232280")
-addappid(775431,0,"6b2badd0c90b2228c6615b5f7998cf9acfac86fac2c96dfbd8a08a828aa13e80")
--- setManifestid(775431,"4557030578701363613")
+addappid(775431, 1, "6b2badd0c90b2228c6615b5f7998cf9acfac86fac2c96dfbd8a08a828aa13e80")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summer For You
 addappid(2066980)
-addappid(2066981,0,"6b86aaa3c0186b88938b716851a58479cf34d43be6b5c769da79de2d446d686a")
--- setManifestid(2066981,"4512392452562993280")
+addappid(2066981, 1, "6b86aaa3c0186b88938b716851a58479cf34d43be6b5c769da79de2d446d686a")

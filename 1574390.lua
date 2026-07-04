@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Converter
+addappid(1574390)
+addappid(1574391, 1, "70d4839582391e9a1100a752fc4bac020321ae9833c4127d020277215ca0a473")

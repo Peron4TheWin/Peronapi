@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prison Tycoon 4: SuperMax
 addappid(33750)
-addappid(33751,0,"b9cca92a0a0a3c4360d30cb79440bc99650f05c0ab25138e7e5d267b0541ff8e")
--- setManifestid(33751,"1796005413134980881")
+addappid(33751, 1, "b9cca92a0a0a3c4360d30cb79440bc99650f05c0ab25138e7e5d267b0541ff8e")

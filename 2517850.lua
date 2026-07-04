@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Toy Shire: Room One
 addappid(2517850)
-addappid(2517851,0,"abd91ac83643b858a63475f650b24d5afea36ce8da6f540cf29abcd6b1730d12")
--- setManifestid(2517851,"8134115209513057185")
+addappid(2517851, 1, "abd91ac83643b858a63475f650b24d5afea36ce8da6f540cf29abcd6b1730d12")

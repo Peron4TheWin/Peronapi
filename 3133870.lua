@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Retro Rally
 addappid(3133870)
-addappid(3133871,0,"9971d00314da71182aa150b81f2c7584d34c7212d5c58358c8faa14faac3c4b0")
--- setManifestid(3133871,"9044461741336049819")
+addappid(3133871, 1, "9971d00314da71182aa150b81f2c7584d34c7212d5c58358c8faa14faac3c4b0")

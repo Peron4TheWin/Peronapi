@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Path to purge
 addappid(2144460)
-addappid(2144461,0,"b76b3af256063129fb75f81b091292f04eff369ef88db1c9871d3f283bb49e7f")
--- setManifestid(2144461,"5141298948886157734")
+addappid(2144461, 1, "b76b3af256063129fb75f81b091292f04eff369ef88db1c9871d3f283bb49e7f")

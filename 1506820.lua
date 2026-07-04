@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kiki & Ana - The Child
 addappid(1506820)
-addappid(1506821,0,"3841e7403e1e4e06fb0c28b1a46e4cdcc829e0801726a788bf30e28ca2efe1cc")
--- setManifestid(1506821,"1127919862364379524")
+addappid(1506821, 1, "3841e7403e1e4e06fb0c28b1a46e4cdcc829e0801726a788bf30e28ca2efe1cc")

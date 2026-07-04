@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Good Luck My Lord
 addappid(2476020)
-addappid(2476021,0,"5c80c5ad9abd99fb26e9e7f03ae5d5aa80bf6fba999b69e4b480a0414b05c112")
--- setManifestid(2476021,"5847908872457776068")
+addappid(2476021, 1, "5c80c5ad9abd99fb26e9e7f03ae5d5aa80bf6fba999b69e4b480a0414b05c112")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Curse of Zigoris
 addappid(1249290)
--- setManifestid(228990,"1829726630299308803")
-addappid(1249291,0,"4f98d9082bdbccda8513dba36bc5f07374073448f031b437d3821f9faae77a39")
--- setManifestid(1249291,"2234191297039507380")
+addappid(1249291, 1, "4f98d9082bdbccda8513dba36bc5f07374073448f031b437d3821f9faae77a39")

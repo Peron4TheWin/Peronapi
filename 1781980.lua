@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Island: Winter
 addappid(1781980)
-addappid(1781981,0,"4d221ac0a91f76c2d0f699ebe48ab34255a4fa599caed48043d00e63149d9e1a")
--- setManifestid(1781981,"5968160563176614921")
+addappid(1781981, 1, "4d221ac0a91f76c2d0f699ebe48ab34255a4fa599caed48043d00e63149d9e1a")

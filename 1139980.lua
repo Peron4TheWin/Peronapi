@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Travellers Rest
 addappid(1139980)
-addappid(1139981,0,"5000690224c07f71fdad3bea4c6307e8e6ed6b0d61c71179f169ff6dc1f90b61")
---setManifestid(1139981,"5278138321008651392")
+addappid(1139981, 1, "5000690224c07f71fdad3bea4c6307e8e6ed6b0d61c71179f169ff6dc1f90b61")

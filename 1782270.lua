@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Farm and Girls
 addappid(1782270)
-addappid(1782271,0,"f852edad85280fdc301f2316909477b05ceea44f136ffc85637c3c58a58ce13d")
--- setManifestid(1782271,"4356210036237868768")
+addappid(1782271, 1, "f852edad85280fdc301f2316909477b05ceea44f136ffc85637c3c58a58ce13d")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Cat Quest III
 addappid(2305840)
-addappid(2305841,0,"7bf9c3f47228c505c20c83dc23a54cbbca66b316a368aab8094deac72c8f4149")
--- setManifestid(2305841,"8687677420425750878")
+addappid(2305841, 1, "7bf9c3f47228c505c20c83dc23a54cbbca66b316a368aab8094deac72c8f4149")
+addappid(3126830)

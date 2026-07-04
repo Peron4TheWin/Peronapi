@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Path of Ra
 addappid(1766000)
-addappid(1766001,0,"d0ce52096116b27b23ebc352a0fffb5c54bffed023c30bfc73792f793f5a4777")
+addappid(1766001, 1, "d0ce52096116b27b23ebc352a0fffb5c54bffed023c30bfc73792f793f5a4777")

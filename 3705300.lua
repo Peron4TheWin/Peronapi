@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Between Her Toes
 addappid(3705300)
-addappid(3705301,0,"01a5150ade5c1aaad2d55718fe66cb065462ce41e480e25131067a42b2403ede")
--- setManifestid(3705301,"363497936914433671")
+addappid(3705301, 1, "01a5150ade5c1aaad2d55718fe66cb065462ce41e480e25131067a42b2403ede")

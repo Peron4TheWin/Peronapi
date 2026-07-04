@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Paper Beast - Folded Edition
 addappid(1403830)
-addappid(1403831,0,"6ee8d8bb4460e8ca916fae2c3a6372db24820971ab4014eaefdd6f120f40da05")
--- setManifestid(1403831,"9075275151731127823")
+addappid(1403831, 1, "6ee8d8bb4460e8ca916fae2c3a6372db24820971ab4014eaefdd6f120f40da05")
+addappid(1529050)

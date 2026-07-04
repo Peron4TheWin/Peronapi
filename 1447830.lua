@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: battleMETAL
 addappid(1447830)
-addappid(1447831,0,"cb4fe7cbf01b5b645cb943257a1028836f8de0dafc5552033e78710af5002bbb")
--- setManifestid(1447831,"4438472605360940627")
+addappid(1447831, 1, "cb4fe7cbf01b5b645cb943257a1028836f8de0dafc5552033e78710af5002bbb")

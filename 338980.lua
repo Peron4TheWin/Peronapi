@@ -1,2 +1,17 @@
+-- Lua provided by SkyAPI 
+-- Game: MOAI: Build Your Dream
 addappid(338980)
-addappid(338981,0,"1c43a9438ece662abf58480275e912c74694e4ce805ba73c65dac6c1d26a8beb")
+addappid(338981, 1, "1c43a9438ece662abf58480275e912c74694e4ce805ba73c65dac6c1d26a8beb")
+addappid(360900)
+addappid(360901)
+addappid(360902)
+addappid(360903)
+addappid(360904)
+addappid(360905)
+addappid(360906)
+addappid(360907)
+addappid(360908)
+addappid(360909)
+addappid(360910)
+addappid(360911)
+addappid(360912)

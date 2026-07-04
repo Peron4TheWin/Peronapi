@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Kamikaze Cube 2
 addappid(906190)
-addappid(906191,0,"400bf63e56b2497e457f67a28f7d7eb4d4ee7c6ff467909bd1e57e75de6bbf21")
--- setManifestid(906191,"4933380206844321979")
+addappid(906191, 1, "400bf63e56b2497e457f67a28f7d7eb4d4ee7c6ff467909bd1e57e75de6bbf21")
 addappid(909140)

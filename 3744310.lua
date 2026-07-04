@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Physics Puzzle Ball
 addappid(3744310)
-addappid(3744311,0,"4a924dbfbe8ba6d990a7d2e71b06315ee6a10d8cd552f5e52d1e20fd6a399c72")
--- setManifestid(3744311,"4567925943764889888")
+addappid(3744311, 1, "4a924dbfbe8ba6d990a7d2e71b06315ee6a10d8cd552f5e52d1e20fd6a399c72")

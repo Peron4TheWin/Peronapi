@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suvi The Blossoming Lust
 addappid(2307500)
-addappid(2307501,0,"3b4b843f2d0e529768cad737c5445e838de3adf8d75284e341a70c3dbde9250b")
--- setManifestid(2307501,"5424722366830823712")
+addappid(2307501, 1, "3b4b843f2d0e529768cad737c5445e838de3adf8d75284e341a70c3dbde9250b")

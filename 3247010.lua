@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Broken Alliance Demo
 addappid(3247010)
-addappid(3247011,0,"ad0b4339734e0a806841f9ffcf8ef8392610b5044e243accd70d1aef56ad3fc6")
+addappid(3247011, 1, "ad0b4339734e0a806841f9ffcf8ef8392610b5044e243accd70d1aef56ad3fc6")

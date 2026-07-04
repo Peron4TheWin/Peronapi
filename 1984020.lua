@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Everhood 2
 addappid(1984020)
-addappid(1984021,0,"08f1a3d67b607bd3ee2f42873e693d99e99ed8ef0f93389a91debed6bb422dee")
--- setManifestid(1984021,"191026868081725961")
+addappid(1984021, 1, "08f1a3d67b607bd3ee2f42873e693d99e99ed8ef0f93389a91debed6bb422dee")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trivia Vault: 1980's Trivia
 addappid(689180)
-addappid(689181,0,"2cf9d51df2e15791bf68fd7fb64c6c9cdaedddbbb766dcc01676a44a53c35776")
--- setManifestid(689181,"8637849774949956302")
+addappid(689181, 1, "2cf9d51df2e15791bf68fd7fb64c6c9cdaedddbbb766dcc01676a44a53c35776")

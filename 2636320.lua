@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Methods: The Illusion Murders
 addappid(2636320)
-addappid(2636321,0,"964a09038ac96cb8ce59e00b75f79e53ed25a334f80692a8cef76d4c0e915a85")
+addappid(2636321, 1, "964a09038ac96cb8ce59e00b75f79e53ed25a334f80692a8cef76d4c0e915a85")

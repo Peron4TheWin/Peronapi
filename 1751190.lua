@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MOVERS IN THE WAREHOUSE
 addappid(1751190)
-addappid(1751191,0,"f7f8d896cb51eb9a6716d9df0e23d37bdbc59a0eacaec109f866bc066d00dad3")
--- setManifestid(1751191,"4912097533834983857")
+addappid(1751191, 1, "f7f8d896cb51eb9a6716d9df0e23d37bdbc59a0eacaec109f866bc066d00dad3")

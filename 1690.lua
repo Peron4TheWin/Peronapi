@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Empires V
 addappid(1690)
-addappid(1691,0,"903130c9981909cd6656d6c96cbff706ae2b474563a62096016aa56f93e2402b")
--- setManifestid(1691,"2223049058388972190")
+addappid(1691, 1, "903130c9981909cd6656d6c96cbff706ae2b474563a62096016aa56f93e2402b")

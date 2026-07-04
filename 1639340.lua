@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waifu vs Evil
 addappid(1639340)
-addappid(1639341,0,"8d634c9edc63a135743ccfc1ea510d2c0c20c1f487c32c79c7098477e2f269f3")
--- setManifestid(1639341,"7847405262717818497")
+addappid(1639341, 1, "8d634c9edc63a135743ccfc1ea510d2c0c20c1f487c32c79c7098477e2f269f3")

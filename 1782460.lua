@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hell Clock
 addappid(1782460)
-addappid(1782461,0,"b87981e090ab2ad89c7a18d14898061157db6a1ed5fb03d5e9f0546d734399ce")
--- setManifestid(1782461,"625761210092077895")
+addappid(1782461, 1, "b87981e090ab2ad89c7a18d14898061157db6a1ed5fb03d5e9f0546d734399ce")

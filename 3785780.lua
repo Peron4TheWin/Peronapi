@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Honey Glade
 addappid(3785780)
-addappid(3785781,0,"6d1e13dd0e7842a056e4eb893474fd7691b9ee048b8fd502731c100a4f8d970c")
--- setManifestid(3785781,"5784962674669413128")
+addappid(3785781, 1, "6d1e13dd0e7842a056e4eb893474fd7691b9ee048b8fd502731c100a4f8d970c")

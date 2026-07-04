@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Antro
 addappid(1861250)
-addappid(1861251,0,"955411502bc9f8ee8efbaee25320bb0fdc420d9dc7d7d13394f4c0a96c5a2a49")
--- setManifestid(1861251,"7588426017751665959")
+addappid(1861251, 1, "955411502bc9f8ee8efbaee25320bb0fdc420d9dc7d7d13394f4c0a96c5a2a49")

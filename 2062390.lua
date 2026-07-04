@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clockwork Survivors
 addappid(2062390)
-addappid(2062391,0,"ae509b6b54c3cc4ca49d46baa2f4ce12ecac905548c56a27fe77da6b25a3d633")
--- setManifestid(2062391,"7688114095302510503")
+addappid(2062391, 1, "ae509b6b54c3cc4ca49d46baa2f4ce12ecac905548c56a27fe77da6b25a3d633")

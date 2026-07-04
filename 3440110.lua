@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: 挺进吧！毛茸茸勇者！ Demo
 addappid(3440110)
-addappid(3440111,0,"36a6822da1973cae2af31e4d6e4a87a79c8c35d47b7601e3421fe10332235a61")
--- setManifestid(3440111,"9114976813296014572")
+addappid(3440111, 1, "36a6822da1973cae2af31e4d6e4a87a79c8c35d47b7601e3421fe10332235a61")

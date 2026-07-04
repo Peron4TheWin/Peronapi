@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Resoraki Demo
 addappid(2303190)
-addappid(2303191,0,"d206c24c95d9a61ec9af1efe5a474035bd579fea859e933585e3676a94d264ba")
--- setManifestid(2303191,"1668654538751132056")
+addappid(2303191, 1, "d206c24c95d9a61ec9af1efe5a474035bd579fea859e933585e3676a94d264ba")

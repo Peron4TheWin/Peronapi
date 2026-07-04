@@ -1,3 +1,4 @@
-addappid(2536120) -- Mousey
-addappid(2536121, 1, "9d2e0e266b16e7ee74c8219c409c2a0d4a8e9fcf57551bacba0366c6d7d24a3a") -- Depot 2536121
--- setManifestid(2536121, "6206425262023194594", 572267168)
+-- Lua provided by SkyAPI 
+-- Game: Mousey
+addappid(2536120)
+addappid(2536121, 1, "9d2e0e266b16e7ee74c8219c409c2a0d4a8e9fcf57551bacba0366c6d7d24a3a")

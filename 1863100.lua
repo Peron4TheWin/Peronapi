@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spooky Shooter 3D
 addappid(1863100)
-addappid(1863101,0,"80b87aa17abccfc5312d76bf1999a4098882e1606b5499b90ecb08910fc6d46c")
--- setManifestid(1863101,"5629669524065625045")
+addappid(1863101, 1, "80b87aa17abccfc5312d76bf1999a4098882e1606b5499b90ecb08910fc6d46c")

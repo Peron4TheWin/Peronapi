@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geometric Sniper - Z
 addappid(1683000)
-addappid(1683001,0,"b9247a7a153cad9c368a4b0ebf16f77a030b6db1e11d83dc6e30a20747a3044b")
--- setManifestid(1683001,"4120300541135515235")
+addappid(1683001, 1, "b9247a7a153cad9c368a4b0ebf16f77a030b6db1e11d83dc6e30a20747a3044b")

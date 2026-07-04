@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Final Factory Demo
 addappid(2387320)
-addappid(2387321,0,"b9e6f26cdb01db6aedf3bf5c55eb061a0199289dcafe88c0e31a11a3f3a8dae8")
--- setManifestid(2387321,"6371785776015418117")
+addappid(2387321, 1, "b9e6f26cdb01db6aedf3bf5c55eb061a0199289dcafe88c0e31a11a3f3a8dae8")

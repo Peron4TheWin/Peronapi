@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rampage Agents
 addappid(2492600)
-addappid(2492601,0,"99e464b03588520e1d0bbf789c1e97b77e440b402f2e6e89aa9540d5a556ef65")
--- setManifestid(2492601,"8782889969828984996")
+addappid(2492601, 1, "99e464b03588520e1d0bbf789c1e97b77e440b402f2e6e89aa9540d5a556ef65")

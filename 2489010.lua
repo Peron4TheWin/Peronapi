@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geometry Survivor
 addappid(2489010)
-addappid(2489011,0,"ed40469477a840b6008e2eb78b43f05b71a158521ead4236d33befb956b05185")
--- setManifestid(2489011,"447551906552757759")
+addappid(2489011, 1, "ed40469477a840b6008e2eb78b43f05b71a158521ead4236d33befb956b05185")

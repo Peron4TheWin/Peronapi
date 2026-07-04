@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Poop Clicker
 addappid(351160)
-addappid(351161,0,"bddc3393ed9335c1e7319cdc4810c42075d5ff127486c053d9fd5e3da36b69dd")
--- setManifestid(351161,"4350973661562354514")
+addappid(351161, 1, "bddc3393ed9335c1e7319cdc4810c42075d5ff127486c053d9fd5e3da36b69dd")

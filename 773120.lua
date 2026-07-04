@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Christmas Santa Troubles
 addappid(773120)
-addappid(773121,0,"f44de46cc0b67fc111bee0a894478efcac5eac0c0dc54ee95393a83790fbfae0")
--- setManifestid(773121,"8554055536614421786")
+addappid(773121, 1, "f44de46cc0b67fc111bee0a894478efcac5eac0c0dc54ee95393a83790fbfae0")

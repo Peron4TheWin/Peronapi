@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Terrors to Unveil - Intrusion
 addappid(3716700)
-addappid(3716701,0,"3b87a69d59f2f7cbd33fe3bccda10b551242b33f6ba46f41e6a55023c6ba59ee")
--- setManifestid(3716701,"7727247370683042986")
+addappid(3716701, 1, "3b87a69d59f2f7cbd33fe3bccda10b551242b33f6ba46f41e6a55023c6ba59ee")

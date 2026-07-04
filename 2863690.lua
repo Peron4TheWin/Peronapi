@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twilight Manor: Roguelite FPS
 addappid(2863690)
-addappid(2863691,0,"730c186a0a4c36a6333a26488e19a8b8b62db71d225f90444f45c44bbc80e817")
--- setManifestid(2863691,"6517347380514994949")
+addappid(2863691, 1, "730c186a0a4c36a6333a26488e19a8b8b62db71d225f90444f45c44bbc80e817")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Another Otter
 addappid(886470)
-addappid(886471,0,"72e3123637113b446c3f792483798c441f5c7d2c5257f1a06b561c91ca60cefd")
--- setManifestid(886471,"5043671027705978084")
+addappid(886471, 1, "72e3123637113b446c3f792483798c441f5c7d2c5257f1a06b561c91ca60cefd")

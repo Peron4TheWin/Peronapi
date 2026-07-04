@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Report
 addappid(3209480)
-addappid(3209481,0,"cd783437d27e2a39f961592e9b07cea05662d93e0799c248158afdbd8b1fb1d8")
--- setManifestid(3209481,"481701106359383106")
+addappid(3209481, 1, "cd783437d27e2a39f961592e9b07cea05662d93e0799c248158afdbd8b1fb1d8")

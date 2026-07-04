@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pru the Pigeon
 addappid(2701410)
-addappid(2701411,0,"903f919e781e45b81d474207e68f0aac3e071f746e7b8b2bf0ef607a7879ca22")
--- setManifestid(2701411,"7738569896700851144")
+addappid(2701411, 1, "903f919e781e45b81d474207e68f0aac3e071f746e7b8b2bf0ef607a7879ca22")

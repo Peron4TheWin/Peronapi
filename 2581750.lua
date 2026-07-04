@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: W.A.N.D. Project
 addappid(2581750)
-addappid(2581751,0,"ec32c1ab232c61df7243eec2b0b7515b81df3955cb8d0a68eaf8c5fc5cf74d75")
--- setManifestid(2581751,"247219911274269838")
+addappid(2581751, 1, "ec32c1ab232c61df7243eec2b0b7515b81df3955cb8d0a68eaf8c5fc5cf74d75")

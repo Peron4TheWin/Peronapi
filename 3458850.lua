@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Puppycraft: Maze
 addappid(3458850)
-addappid(3458851,0,"da2a94394d603697383486df7e6258e5c141165b5e4bca78b17acda2807bc7d7")
--- setManifestid(3458851,"6807398808864229065")
+addappid(3458851, 1, "da2a94394d603697383486df7e6258e5c141165b5e4bca78b17acda2807bc7d7")

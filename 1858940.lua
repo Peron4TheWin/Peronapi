@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bridge to Another World: Christmas Flight Collector's Edition
 addappid(1858940)
-addappid(1858941,0,"5969400c19442864a630c407a5e62ff68ac131d66c2ba9bed91946ed52f089c2")
--- setManifestid(1858941,"7876214668798119517")
+addappid(1858941, 1, "5969400c19442864a630c407a5e62ff68ac131d66c2ba9bed91946ed52f089c2")

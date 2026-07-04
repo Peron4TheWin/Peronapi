@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 江华号 Demo
 addappid(2592640)
-addappid(2592641,0,"a021b70e74c30bd5ebb7a213004014cfba73d57016bad0aa2c094174fadbbb48")
--- setManifestid(2592641,"2150506889738280040")
+addappid(2592641, 1, "a021b70e74c30bd5ebb7a213004014cfba73d57016bad0aa2c094174fadbbb48")

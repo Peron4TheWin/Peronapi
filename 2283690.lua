@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Adventures of LinShanHai
 addappid(2283690)
-addappid(2283691,0,"fd85fa804491ed44b1436397fc721ed6683ad1569f427beb03e6a3c76491ad91")
--- setManifestid(2283691,"3976564579447834757")
+addappid(2283691, 1, "fd85fa804491ed44b1436397fc721ed6683ad1569f427beb03e6a3c76491ad91")

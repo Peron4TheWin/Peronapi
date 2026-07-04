@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape: Forced Overtime
 addappid(1656680)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1656681,0,"11156b99486f799da4d9bf7b6b59628b2e829d7fb0b2ef60bbab83d4203ef0b0")
--- setManifestid(1656681,"7568843135042139379")
+addappid(1656681, 1, "11156b99486f799da4d9bf7b6b59628b2e829d7fb0b2ef60bbab83d4203ef0b0")

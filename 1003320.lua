@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Nya Nya Nya Girls 2 (ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ)
 addappid(1003320)
-addappid(1003321,0,"5455b24251c0eac89fee5aa7a68c2a036fd0422a55eab4260e596f99b74930b6")
--- setManifestid(1003321,"1396688949257678758")
+addappid(1003321, 1, "5455b24251c0eac89fee5aa7a68c2a036fd0422a55eab4260e596f99b74930b6")
+addappid(1082050)

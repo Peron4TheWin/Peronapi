@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Femida
 addappid(1167640)
-addappid(1167641,0,"633f6cd24e4fbc604989adcc6d03c715b2e87d756949ad8329e491201694d0ca")
--- setManifestid(1167641,"4975488362667859898")
+addappid(1167641, 1, "633f6cd24e4fbc604989adcc6d03c715b2e87d756949ad8329e491201694d0ca")

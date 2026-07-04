@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tormenture
 addappid(2545220)
-addappid(2545221,0,"2866d00eebe1decf4aee05e78150b88d0c6c72b8457157f35865e1a844e100c4")
--- setManifestid(2545221,"5633223989955079876")
+addappid(2545221, 1, "2866d00eebe1decf4aee05e78150b88d0c6c72b8457157f35865e1a844e100c4")

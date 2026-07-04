@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ForeVR Bowl VR
 addappid(2341530)
-addappid(2341531,0,"6fbfc7d49c46282475628873f4a839c23f6de01e5fcc6c43f3163d14a146f719")
--- setManifestid(2341531,"5161574214818196005")
+addappid(2341531, 1, "6fbfc7d49c46282475628873f4a839c23f6de01e5fcc6c43f3163d14a146f719")

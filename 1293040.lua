@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: candle flame in the wind
 addappid(1293040)
-addappid(1293041,0,"f6ee40a0c8ecdb5e7114972a77cb53b73f23da1cfc5fa3436ba031c35d4bdb9a")
--- setManifestid(1293041,"8007136317023120708")
+addappid(1293041, 1, "f6ee40a0c8ecdb5e7114972a77cb53b73f23da1cfc5fa3436ba031c35d4bdb9a")
+addappid(1307420)

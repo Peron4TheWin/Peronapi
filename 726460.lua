@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Choice of Broadsides
 addappid(726460)
-addappid(726461,0,"1bdcfa6fe62a2582057924002da3f36323d618e3a2654261b127c359e2a212b7")
--- setManifestid(726461,"544837881841609581")
+addappid(726461, 1, "1bdcfa6fe62a2582057924002da3f36323d618e3a2654261b127c359e2a212b7")

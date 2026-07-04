@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Globesweeper: Hex Puzzler
 addappid(1121530)
--- setManifestid(228986,"8782296191957114623")
-addappid(1121531,0,"77355f4de21d4df1f27606cd6162b2efd3abe1622dc08af3fb3f5d8384ec55fc")
--- setManifestid(1121531,"5944775775285586467")
+addappid(1121531, 1, "77355f4de21d4df1f27606cd6162b2efd3abe1622dc08af3fb3f5d8384ec55fc")

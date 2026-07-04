@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Adventures - Futanari BDSM
 addappid(1943930)
-addappid(1943931,0,"08ae70ab8997bfb180152011ce9cf3b5d29353962c3554a3ce0d183712dfbeb9")
--- setManifestid(1943931,"2747688975386229168")
+addappid(1943931, 1, "08ae70ab8997bfb180152011ce9cf3b5d29353962c3554a3ce0d183712dfbeb9")

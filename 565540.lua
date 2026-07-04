@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Turkey of Christmas Past
 addappid(565540)
-addappid(565541,0,"d869272a8a7f84582010c1a2124c3a853a0b413ee11e3ff69550713f1da5c28b")
--- setManifestid(565541,"1886997508998927429")
+addappid(565541, 1, "d869272a8a7f84582010c1a2124c3a853a0b413ee11e3ff69550713f1da5c28b")

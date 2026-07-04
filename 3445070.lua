@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Headshot Roulette
 addappid(3445070)
-addappid(3445071,0,"d588c0a044f51222fd4a4a82dc411903ca884797ef088f2e738e3769f25593e4")
--- setManifestid(3445071,"172920879737812673")
+addappid(3445071, 1, "d588c0a044f51222fd4a4a82dc411903ca884797ef088f2e738e3769f25593e4")

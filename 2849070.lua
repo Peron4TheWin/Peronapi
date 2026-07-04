@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soulkin
 addappid(2849070)
-addappid(2849071,0,"0531a680c23ad7bfa7df859129dcf85d223f7867d3acb417561aab63a38ba576")
--- setManifestid(2849071,"5994279345794557392")
+addappid(2849071, 1, "0531a680c23ad7bfa7df859129dcf85d223f7867d3acb417561aab63a38ba576")

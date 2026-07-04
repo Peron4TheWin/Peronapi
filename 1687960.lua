@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Wreck
 addappid(1687960)
-addappid(1687961,0,"7a626ccc50acc56dae200f5706d9b949b462fa95ef48f1657faf2763de7fd674")
--- setManifestid(1687961,"2106192884253085960")
-addappid(1687962)
+addappid(1687961, 1, "7a626ccc50acc56dae200f5706d9b949b462fa95ef48f1657faf2763de7fd674")
 addappid(2342790)

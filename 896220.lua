@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dangerous Skies 80's edition
 addappid(896220)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(896221,0,"2336e2df7527006faa49d65185c3867b26e0e45b472384a5e8600b01c50ceee4")
--- setManifestid(896221,"6215610139045827996")
+addappid(896221, 1, "2336e2df7527006faa49d65185c3867b26e0e45b472384a5e8600b01c50ceee4")

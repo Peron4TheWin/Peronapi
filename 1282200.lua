@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Test: Hypothesis Rising
 addappid(1282200)
-addappid(1282201,0,"966764ff6a277719faf61655ab8071838dedcd31058fd72d748a6460a667e1d3")
--- setManifestid(1282201,"8236298634400212972")
+addappid(1282201, 1, "966764ff6a277719faf61655ab8071838dedcd31058fd72d748a6460a667e1d3")

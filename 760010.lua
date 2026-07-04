@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flying Turkey
 addappid(760010)
-addappid(760011,0,"c2418b672ea01a7dfc4a28cd8c9559c84bcd532c74dbd8de12772ed836c34a6b")
+addappid(760011, 1, "c2418b672ea01a7dfc4a28cd8c9559c84bcd532c74dbd8de12772ed836c34a6b")

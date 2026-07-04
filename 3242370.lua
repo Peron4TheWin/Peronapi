@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Australia
 addappid(3242370)
-addappid(3242371,0,"5adb903076f0a4e3e0f62d1e6e48ee4fa34789b353ed7ea4a52e7cd99a9355eb")
--- setManifestid(3242371,"1710020921401867211")
+addappid(3242371, 1, "5adb903076f0a4e3e0f62d1e6e48ee4fa34789b353ed7ea4a52e7cd99a9355eb")

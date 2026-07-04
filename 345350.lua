@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LIGHTNING RETURNS™: FINAL FANTASY® XIII
 addappid(345350)
-addappid(228983)
-addappid(228985)
-addappid(345351,0,"14849fffc81ea2d3839584d6689572ae90ab5650af482c7a28dad7faccde61e7")
-addappid(345352,0,"4fbdec13288eafd5f6f3eac4a1969f985c702b6042345c408b0c9e65f65d9603")
+addappid(345351, 1, "14849fffc81ea2d3839584d6689572ae90ab5650af482c7a28dad7faccde61e7")

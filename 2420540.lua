@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Peraglees - The Ooloufian Resistance
 addappid(2420540)
-addappid(2420541,0,"3d4e899ecc761048fe275cb6ed6864ad8a88d31206b370344eb52e0b3d2effe5")
--- setManifestid(2420541,"206088106646909281")
+addappid(2420541, 1, "3d4e899ecc761048fe275cb6ed6864ad8a88d31206b370344eb52e0b3d2effe5")

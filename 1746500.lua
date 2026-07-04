@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AsMagnet
 addappid(1746500)
-addappid(1746501,0,"a362be0db7f78b396567104dd8bceb907302b07b3ae31ad827de79d2df99ded5")
+addappid(1746501, 1, "a362be0db7f78b396567104dd8bceb907302b07b3ae31ad827de79d2df99ded5")

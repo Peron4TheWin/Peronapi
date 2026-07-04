@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Medieval - Embers of War
 addappid(1171070)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1171071,0,"3124b2d3171417e91affc159f7849567fcc97c03adb6fee473b1201e1b9b3822")
--- setManifestid(1171071,"4612557663506752067")
+addappid(1171071, 1, "3124b2d3171417e91affc159f7849567fcc97c03adb6fee473b1201e1b9b3822")

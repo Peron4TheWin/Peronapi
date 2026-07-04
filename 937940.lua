@@ -1,9 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sea Dogs: City of Abandoned Ships
 addappid(937940)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(937941,0,"03ecd98126fc8911dced33a8a6964bd770bf74824ac07077a79e07afd987f4de")
--- setManifestid(937941,"5483832072617492264")
-addappid(937942)
-addappid(937943)
-addappid(937944)
-addappid(937945)
+addappid(937941, 1, "03ecd98126fc8911dced33a8a6964bd770bf74824ac07077a79e07afd987f4de")

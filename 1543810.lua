@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Darker : Episode I
 addappid(1543810)
-addappid(1543811,0,"eed48d5bafb66d383e63e1c9320952f21e326327977e60f566122c17d3ac4783")
--- setManifestid(1543811,"8773608793508089576")
+addappid(1543811, 1, "eed48d5bafb66d383e63e1c9320952f21e326327977e60f566122c17d3ac4783")

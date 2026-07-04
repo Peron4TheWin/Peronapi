@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gobby McGobblenutz Presents: The Art of the Dad Joke: Chapter 1
 addappid(1749350)
--- setManifestid(228990,"1829726630299308803")
-addappid(1749351,0,"034556653a37b1288271658d7678e1b2861bd63eda7381fdc6824d34292ee6bb")
--- setManifestid(1749351,"4144355404772779674")
+addappid(1749351, 1, "034556653a37b1288271658d7678e1b2861bd63eda7381fdc6824d34292ee6bb")

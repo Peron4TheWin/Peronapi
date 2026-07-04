@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Julian & Friends
 addappid(3147190)
-addappid(3147191,0,"0b13661beafd7ba0dd3178076e0622f12f0a7e98f7d0618059e4e7661bf042f1")
--- setManifestid(3147191,"7062497276695755984")
+addappid(3147191, 1, "0b13661beafd7ba0dd3178076e0622f12f0a7e98f7d0618059e4e7661bf042f1")

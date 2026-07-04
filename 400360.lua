@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Adam's Venture: Origins
+addappid(400360)
+addappid(400361, 1, "0c86945ae6f397a4ebccbaa47d4b3554e4830d0292319114071228e776a80790")
+addappid(455250, 0, "34746858c587b084f7cde9c57a66c6a72159dae065fab622f1c9d56027d14f67")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Artifact Hunter
 addappid(1440020)
-addappid(1440021,0,"420ec1af2c6fe845a3ab714f4fc5b5f589b03700fb07154e0eaf835481e364a8")
--- setManifestid(1440021,"4039757089370211599")
+addappid(1440021, 1, "420ec1af2c6fe845a3ab714f4fc5b5f589b03700fb07154e0eaf835481e364a8")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Major Stryker
+addappid(358300)
+addappid(358301, 1, "1bbb7824fa227b3fcd6d2c39df1cd1e493c7365d5cc0486a56120bf15761aaf9")

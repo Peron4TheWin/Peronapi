@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sandwalkers: The Fourteenth Caravan
 addappid(1966290)
-addappid(1966291,0,"c36cbfc926f2032aeab9b9b267e2155faf7b66d85794ca01903e4e2b108f2a65")
--- setManifestid(1966291,"4604863882590495018")
-addappid(1966292)
-addappid(1966293)
+addappid(1966291, 1, "c36cbfc926f2032aeab9b9b267e2155faf7b66d85794ca01903e4e2b108f2a65")

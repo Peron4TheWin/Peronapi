@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Candy Smash VR
 addappid(503900)
-addappid(503901,0,"cd1f96eff659c4697cb1f64a59de554c51eb31844d964d5a2bef0a37dc7b932a")
--- setManifestid(503901,"337607224308804462")
+addappid(503901, 1, "cd1f96eff659c4697cb1f64a59de554c51eb31844d964d5a2bef0a37dc7b932a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Short Life
 addappid(893570)
-addappid(893571,0,"df7b8115f25c59b7d9f7c67481a42cb78ba745a67a04c0a6df6edee036c34a89")
--- setManifestid(893571,"6081897151021124494")
+addappid(893571, 1, "df7b8115f25c59b7d9f7c67481a42cb78ba745a67a04c0a6df6edee036c34a89")

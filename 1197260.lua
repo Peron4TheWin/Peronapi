@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Perfect Tower II
 addappid(1197260)
-addappid(1197261,0,"ce2181b314dc999cf93dd9ca8565fc5488cd604b1f45d0fd6c1401574e0f8802")
--- setManifestid(1197261,"4612449285534253225")
+addappid(1197261, 1, "ce2181b314dc999cf93dd9ca8565fc5488cd604b1f45d0fd6c1401574e0f8802")
+addappid(2347140)

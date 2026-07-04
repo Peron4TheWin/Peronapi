@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elysian Inferno
 addappid(3738260)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3738261,0,"637a768a147e06d31c276fedc48d21709221da41ecb47ae190dae16d409bdd30")
--- setManifestid(3738261,"6114667523278981198")
+addappid(3738261, 1, "637a768a147e06d31c276fedc48d21709221da41ecb47ae190dae16d409bdd30")

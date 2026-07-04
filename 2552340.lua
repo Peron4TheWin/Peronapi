@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TEMPEST : Tower of Probatio
 addappid(2552340)
-addappid(2552341,0,"6c9aae9a0990c20e21970a476f2abd90a392595616989e0686defa65249ebe9c")
--- setManifestid(2552341,"9157270186400995192")
+addappid(2552341, 1, "6c9aae9a0990c20e21970a476f2abd90a392595616989e0686defa65249ebe9c")

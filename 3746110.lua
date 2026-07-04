@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Sexy Tour With : Xiang
 addappid(3746110)
-addappid(3746111,0,"46b8fe9a2a433a60656b111ea938d0d517e45ea7cbb7bf7d73012c55090f7e8d")
+addappid(3746111, 1, "46b8fe9a2a433a60656b111ea938d0d517e45ea7cbb7bf7d73012c55090f7e8d")

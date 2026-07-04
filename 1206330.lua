@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Florence - Original Soundtrack
 addappid(1206330)
-addappid(1206331,0,"7420c8706e64e6f7ff67033f44216ed49c3e07ebdccab4d7cd44e7014affcfdb")
-addappid(1206332,0,"d384eff8368c5ef42bd85684145070160aee8ddfd99c68d2b7e7308f4470e9de")
+addappid(1206331, 1, "7420c8706e64e6f7ff67033f44216ed49c3e07ebdccab4d7cd44e7014affcfdb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UFO: Unidentified Falling Objects
 addappid(2087610)
-addappid(2087611,0,"7d01c8c3020af1f78a9c0b2ed6a0f354cdfcbd930edf339edd9fe55d3e91ff50")
--- setManifestid(2087611,"4172981784828201479")
+addappid(2087611, 1, "7d01c8c3020af1f78a9c0b2ed6a0f354cdfcbd930edf339edd9fe55d3e91ff50")

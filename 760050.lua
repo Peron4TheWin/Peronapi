@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nightwolf: Survive the Megadome
 addappid(760050)
-addappid(760051,0,"80167e7f94b5e10c62b6fd2fddcb4742220a0ba71dae98c977b0b1da43d54ccf")
--- setManifestid(760051,"1326317300197461979")
+addappid(760051, 1, "80167e7f94b5e10c62b6fd2fddcb4742220a0ba71dae98c977b0b1da43d54ccf")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pomodoro Train in Japan
 addappid(3595900)
-addappid(3595901,0,"317db518fe9c791f520500ff80a594bd5c5ae74c9cd31a30002c6a081360ed45")
--- setManifestid(3595901,"4439402879447501010")
+addappid(3595901, 1, "317db518fe9c791f520500ff80a594bd5c5ae74c9cd31a30002c6a081360ed45")

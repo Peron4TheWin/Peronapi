@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Daigaku Gurashi
 addappid(2118850)
-addappid(2118851,0,"56c31950d10d0b80c83f026ae4915e170bff57cd143644aed9f7d77f3e870b3a")
--- setManifestid(2118851,"4347199167612972271")
+addappid(2118851, 1, "56c31950d10d0b80c83f026ae4915e170bff57cd143644aed9f7d77f3e870b3a")

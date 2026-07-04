@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Man I Just Wanna Go Home
 addappid(3010070)
-addappid(3010071,0,"202d6832e83f15d9adfec7af17c2555e873bdeda6f5923d649f57a2fa290a7d5")
--- setManifestid(3010071,"6736072080311698621")
+addappid(3010071, 1, "202d6832e83f15d9adfec7af17c2555e873bdeda6f5923d649f57a2fa290a7d5")

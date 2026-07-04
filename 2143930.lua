@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirits of Baciu - Prologue
 addappid(2143930)
-addappid(2143931,0,"e66043a65a601fec062ed3a25466dcaf55e591ee5a63f73e207f17b11c8a5ada")
--- setManifestid(2143931,"2632058159042318015")
+addappid(2143931, 1, "e66043a65a601fec062ed3a25466dcaf55e591ee5a63f73e207f17b11c8a5ada")

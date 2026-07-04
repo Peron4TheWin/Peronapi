@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero of Fate
 addappid(2332410)
-addappid(2332411,0,"2d2194993a80d7430f43158ae4c4b5ceb8b426a5d6765e4c905617eff71d0903")
--- setManifestid(2332411,"8132839914049527778")
+addappid(2332411, 1, "2d2194993a80d7430f43158ae4c4b5ceb8b426a5d6765e4c905617eff71d0903")

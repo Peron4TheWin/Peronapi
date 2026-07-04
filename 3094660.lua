@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Climb and Cry
 addappid(3094660)
-addappid(3094661,0,"c47665c8085701b63fa4908c6b6c63a65ed8b96b208f090ba9aa52934bc4210a")
--- setManifestid(3094661,"713753448771224307")
+addappid(3094661, 1, "c47665c8085701b63fa4908c6b6c63a65ed8b96b208f090ba9aa52934bc4210a")

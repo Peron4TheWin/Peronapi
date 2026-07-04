@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Construct
 addappid(525190)
-addappid(525191,0,"b1a08d62c5cbcea9d3c93ed657d7ecc9302a9be1bb962f440101a2658a2adf1b")
--- setManifestid(525191,"1698812429867781529")
+addappid(525191, 1, "b1a08d62c5cbcea9d3c93ed657d7ecc9302a9be1bb962f440101a2658a2adf1b")

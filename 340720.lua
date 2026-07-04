@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Tiny Tale 2
 addappid(340720)
-addappid(340721,0,"90d5004c2f7a78968341bc4d8db97c2307e3354e18c021bad642f93aa11a5d7e")
--- setManifestid(340721,"1175385024372772508")
+addappid(340721, 1, "90d5004c2f7a78968341bc4d8db97c2307e3354e18c021bad642f93aa11a5d7e")

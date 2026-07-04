@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Time Survivors
 addappid(2211390)
-addappid(2211391,0,"534648749f9fc0b9cab2bd2589d21f50e686281409de9d22a587254fc60db0de")
+addappid(2211391, 1, "534648749f9fc0b9cab2bd2589d21f50e686281409de9d22a587254fc60db0de")

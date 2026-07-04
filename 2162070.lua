@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ooglians
 addappid(2162070)
-addappid(2162071,0,"9741a6f5e0272af38e705adddcd622593b7489a7a51c0f9b137fb38cbb111625")
--- setManifestid(2162071,"6101386879891651488")
+addappid(2162071, 1, "9741a6f5e0272af38e705adddcd622593b7489a7a51c0f9b137fb38cbb111625")

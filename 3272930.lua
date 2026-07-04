@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Few Days With : Amber
 addappid(3272930)
-addappid(3272931,0,"5497435ad57d66e673db7a1a652c86d0b5db54ad2071010d21805bbb7fe186b5")
--- setManifestid(3272931,"6408498618097772822")
+addappid(3272931, 1, "5497435ad57d66e673db7a1a652c86d0b5db54ad2071010d21805bbb7fe186b5")

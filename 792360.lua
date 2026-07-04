@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fairy of the treasures - Soundtrack
 addappid(792360)
-addappid(792361,0,"b158531a4498dc92bc3dff5a74339c9939b10c603a296823292f38bbe58ecd69")
+addappid(792361, 1, "b158531a4498dc92bc3dff5a74339c9939b10c603a296823292f38bbe58ecd69")

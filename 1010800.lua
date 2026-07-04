@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wallpaper Maker （造物主视频桌面）
 addappid(1010800)
--- setManifestid(229004,"5220958916987797232")
-addappid(1010801,0,"0db2fbe8820e5e607759b4b89fd60ad57486231bf88e4d7782557aff037fafc4")
--- setManifestid(1010801,"4244151322939768084")
+addappid(1010801, 1, "0db2fbe8820e5e607759b4b89fd60ad57486231bf88e4d7782557aff037fafc4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: It Lurks! A Noir Horror RPG.
 addappid(963730)
-addappid(963731,0,"fffd52eb4ad02e26d6d8ff6be842b71c1482de455bf68a927aae7b158bc80d07")
--- setManifestid(963731,"5072218828600642579")
+addappid(963731, 1, "fffd52eb4ad02e26d6d8ff6be842b71c1482de455bf68a927aae7b158bc80d07")

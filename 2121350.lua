@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ALPHA BOX
 addappid(2121350)
-addappid(2121351,0,"d8ba13a9a26d23b4cc55836335d7fecb74e2a3fb1779e34b1326617efee1eeb0")
--- setManifestid(2121351,"4083712245365881927")
+addappid(2121351, 1, "d8ba13a9a26d23b4cc55836335d7fecb74e2a3fb1779e34b1326617efee1eeb0")

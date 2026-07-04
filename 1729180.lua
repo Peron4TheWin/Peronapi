@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Vanguard
 addappid(1729180)
-addappid(1729181,0,"784d51b5ccd0cc968dcde09b31486c10ca786afc85cf0669305f4ebaf1360abe")
--- setManifestid(1729181,"8485326502253326668")
+addappid(1729181, 1, "784d51b5ccd0cc968dcde09b31486c10ca786afc85cf0669305f4ebaf1360abe")

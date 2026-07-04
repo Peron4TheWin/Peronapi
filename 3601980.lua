@@ -1,14 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Manivore
 addappid(3601980)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3601981,0,"3333ec8a55d5acab0b8821debe46173b6259b44522d3a00f3d111fe290f5176b")
--- setManifestid(3601981,"1070871900455457478")
-
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]
+addappid(3601981, 1, "3333ec8a55d5acab0b8821debe46173b6259b44522d3a00f3d111fe290f5176b")

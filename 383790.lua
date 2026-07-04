@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Ship: Remasted
 addappid(383790)
-addappid(383791,0,"78521ccab8542d74a63c09e0e89b6d0fe8f9ce5709d5dcc65f9b5dc2352a7600")
--- setManifestid(383791,"9169904365091347821")
+addappid(383791, 1, "78521ccab8542d74a63c09e0e89b6d0fe8f9ce5709d5dcc65f9b5dc2352a7600")

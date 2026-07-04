@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TouHou Music Recording
 addappid(1744750)
-addappid(1744751,0,"cbd32ec185da85b5284c98364e69a6038896d80e6694080d647ff33e49d8eb99")
+addappid(1744751, 1, "cbd32ec185da85b5284c98364e69a6038896d80e6694080d647ff33e49d8eb99")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tasty Planet Forever
 addappid(946010)
-addappid(946011,1,"01997972b560f96f0cd014e8fced2439a2cf9f4f6d3fbae5e7b17b439631700c")
--- setManifestid(946011,"6852284573597630885",78137937)
+addappid(946011, 1, "01997972b560f96f0cd014e8fced2439a2cf9f4f6d3fbae5e7b17b439631700c")

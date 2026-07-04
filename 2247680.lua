@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Read Clock Time
 addappid(2247680)
-addappid(2247681,0,"df0b07b0cb7293a3992a61de9f384f53610da740932658f5944d8701a10de2dc")
--- setManifestid(2247681,"2136733350404899352")
+addappid(2247681, 1, "df0b07b0cb7293a3992a61de9f384f53610da740932658f5944d8701a10de2dc")

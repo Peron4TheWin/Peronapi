@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Piece Burning Blood
 addappid(425220)
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(425221,0,"67498d5ca47e8d438e47b160b8c99fff1ffe41ee1ff73fbfe13f157be02d16f3")
--- setManifestid(425221,"7998882205957016948")
+addappid(425221, 1, "67498d5ca47e8d438e47b160b8c99fff1ffe41ee1ff73fbfe13f157be02d16f3")

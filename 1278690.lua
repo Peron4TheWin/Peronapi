@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firefighters - Airport Heroes
 addappid(1278690)
-addappid(1278691,0,"e8198ddbff22d0795ef8ddd297c88e89667a8eb768e28cbad6f22b9483d73fc4")
--- setManifestid(1278691,"4681461065433243058")
+addappid(1278691, 1, "e8198ddbff22d0795ef8ddd297c88e89667a8eb768e28cbad6f22b9483d73fc4")

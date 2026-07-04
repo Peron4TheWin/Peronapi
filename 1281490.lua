@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Night is Grey
 addappid(1281490)
-addappid(1281491,0,"365882e880bf72882d38c5cfe7196d4dc23254db55a2d75eff0ed57ad078ecb2")
--- setManifestid(1281491,"3104163460787268655")
+addappid(1281491, 1, "365882e880bf72882d38c5cfe7196d4dc23254db55a2d75eff0ed57ad078ecb2")

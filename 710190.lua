@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: 谜题姐妹 Puzzle Sisters
 addappid(710190)
-addappid(710191,0,"3fe63bc3feb6f981dbf4d6c1574ff569b94c6cd0827cf95b420dc18d62896d9e")
--- setManifestid(710191,"4930288100093344744")
+addappid(710191, 1, "3fe63bc3feb6f981dbf4d6c1574ff569b94c6cd0827cf95b420dc18d62896d9e")
+addappid(749790)

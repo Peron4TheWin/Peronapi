@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Land Above Sea Below
 addappid(1922020)
-addappid(1922021,0,"46dd8bd17921bdf3df34cd432186352f36560baa776cc7ad96f4b834a5ed3987")
--- setManifestid(1922021,"6353291533197545283")
+addappid(1922021, 1, "46dd8bd17921bdf3df34cd432186352f36560baa776cc7ad96f4b834a5ed3987")

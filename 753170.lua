@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blood Harvest 2
 addappid(753170)
-addappid(753171,0,"a16de667b99cef13a418a595bac584f89f61e8b8311f89dcbb0e35fb08e071ef")
+addappid(753171, 1, "a16de667b99cef13a418a595bac584f89f61e8b8311f89dcbb0e35fb08e071ef")

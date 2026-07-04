@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fix My Hand Doc
 addappid(2148740)
-addappid(2148741,0,"871029f86f106fd36ccb4ce2631067636d3f428ed20e34840fd2a279ba1d1c43")
--- setManifestid(2148741,"7185284854529642836")
+addappid(2148741, 1, "871029f86f106fd36ccb4ce2631067636d3f428ed20e34840fd2a279ba1d1c43")

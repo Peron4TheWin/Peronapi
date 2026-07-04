@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Immortal Hunters
 addappid(2336760)
-addappid(229007)
--- setManifestid(229007,"4477590687906973371")
-addappid(2336761,0,"f12cdd3b0632534870272d3050cd48f2305fd57adb3875cad06d29eaed9f723a")
--- setManifestid(2336761,"8186123509526155724")
+addappid(2336761, 1, "f12cdd3b0632534870272d3050cd48f2305fd57adb3875cad06d29eaed9f723a")

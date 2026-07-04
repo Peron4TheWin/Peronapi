@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: SUPER RECOILFIGHT
 addappid(1063950)
-addappid(1063951,0,"25e3264cea2e6a75d33ec36dacd1c88b276493d7f44be984453e90bf8eff5f75")
--- setManifestid(1063951,"330924788154418291")
+addappid(1063951, 1, "25e3264cea2e6a75d33ec36dacd1c88b276493d7f44be984453e90bf8eff5f75")
+addappid(1066340)

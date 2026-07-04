@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEX, BEACH & GIRLS ⛱ 💦
 addappid(3009830)
-addappid(3009831,0,"4770699eae7f130a5c448e2ea27808af98b4dd3fa8be37d60d8cc824cba95ba4")
--- setManifestid(3009831,"1143679341391420553")
+addappid(3009831, 1, "4770699eae7f130a5c448e2ea27808af98b4dd3fa8be37d60d8cc824cba95ba4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Romance of the Three Kingdoms II
 addappid(521690)
-addappid(521691,0,"6f0756f717008df4ae638db414e7ffb06f0b2dca06c67d0fbacaaa954c840624")
--- setManifestid(521691,"285711096196313878")
+addappid(521691, 1, "6f0756f717008df4ae638db414e7ffb06f0b2dca06c67d0fbacaaa954c840624")

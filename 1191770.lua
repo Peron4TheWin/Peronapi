@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 混世萌王喵霸霸 Cute Chaos Demon Nyanbaba
 addappid(1191770)
-addappid(1191771,0,"86086cf2867409e1f3ded93ab33728ecf4e1f18eee39818830aa88dd6875a59d")
--- setManifestid(1191771,"3629207301926292008")
+addappid(1191771, 1, "86086cf2867409e1f3ded93ab33728ecf4e1f18eee39818830aa88dd6875a59d")

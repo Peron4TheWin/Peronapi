@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MIMIC
 addappid(759980)
-addappid(759981,0,"c9c84ecb7b9437bb2e690915e2d2152b3a1bd5527145933e7e9e5d92fdda65e0")
--- setManifestid(759981,"1032793672937258446")
+addappid(759981, 1, "c9c84ecb7b9437bb2e690915e2d2152b3a1bd5527145933e7e9e5d92fdda65e0")

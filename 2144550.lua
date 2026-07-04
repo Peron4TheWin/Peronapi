@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 苍白花树繁茂之时Blood Flowers Demo
 addappid(2144550)
-addappid(2144551,0,"a19c89ee6a8faf629e42e6d440cf8fd4a215ea9115c88881848baa7dfaf2f0e1")
--- setManifestid(2144551,"1578128375899378844")
+addappid(2144551, 1, "a19c89ee6a8faf629e42e6d440cf8fd4a215ea9115c88881848baa7dfaf2f0e1")

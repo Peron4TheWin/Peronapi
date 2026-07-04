@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Otherlights
 addappid(2666000)
-addappid(2666001,0,"d98a52e69bb15795e054c7183d0cdadc0282abec1fd5295d68f4445be39aec0f")
--- setManifestid(2666001,"7757690823509168056")
+addappid(2666001, 1, "d98a52e69bb15795e054c7183d0cdadc0282abec1fd5295d68f4445be39aec0f")

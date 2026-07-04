@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drift Streets Japan
 addappid(412880)
-addappid(229033)
--- setManifestid(229033,"2059065101492814639")
-addappid(412881,0,"841c6cd29ebe9e17cfada18202eb28697ad14468c19dd48bd4fc9237b3949d49")
--- setManifestid(412881,"1100829729415422598")
+addappid(412881, 1, "841c6cd29ebe9e17cfada18202eb28697ad14468c19dd48bd4fc9237b3949d49")

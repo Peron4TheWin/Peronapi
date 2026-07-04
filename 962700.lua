@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chronicle of Innsmouth: Mountains of Madness
 addappid(962700)
--- setManifestid(228990,"1829726630299308803")
-addappid(962701,0,"da9c964766c78b206bbbc31acafe0eae34a03bd9c1a5e8c72753d98099b0e2b4")
--- setManifestid(962701,"8460103868213137744")
+addappid(962701, 1, "da9c964766c78b206bbbc31acafe0eae34a03bd9c1a5e8c72753d98099b0e2b4")

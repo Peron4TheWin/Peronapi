@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fable Hospital
 addappid(2726060)
-addappid(2726061,0,"5a144eca3affc9116b1e27db386aa0d17a8d441e825950084b8862a33cc122f8")
--- setManifestid(2726061,"3606728855626514067")
+addappid(2726061, 1, "5a144eca3affc9116b1e27db386aa0d17a8d441e825950084b8862a33cc122f8")

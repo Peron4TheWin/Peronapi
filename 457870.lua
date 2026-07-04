@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Minigame Party VR
 addappid(457870)
-addappid(457871,0,"1769085bc0b7c88aa6d6e0adc630a659564e6d405c8e71d5c83733bb4793b819")
--- setManifestid(457871,"5518062937856014504")
+addappid(457871, 1, "1769085bc0b7c88aa6d6e0adc630a659564e6d405c8e71d5c83733bb4793b819")

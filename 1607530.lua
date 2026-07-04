@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Treasures of the Aegean
 addappid(1607530)
-addappid(1607531,0,"06befcc0bdb679407f7a511e06b002d57e5e65f5c4ec8535456c06760d1a9026")
--- setManifestid(1607531,"6477967937181563348")
+addappid(1607531, 1, "06befcc0bdb679407f7a511e06b002d57e5e65f5c4ec8535456c06760d1a9026")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Gravity
 addappid(3482490)
-addappid(3482491,0,"7aa033033d9d377c0517c2cf5fc8b347889d833d5eeaffbf11be37862ab15271")
--- setManifestid(3482491,"2259845286598303470")
+addappid(3482491, 1, "7aa033033d9d377c0517c2cf5fc8b347889d833d5eeaffbf11be37862ab15271")

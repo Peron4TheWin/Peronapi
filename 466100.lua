@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Witches' Legacy: The Ties That Bind Collector's Edition
 addappid(466100)
-addappid(466101,0,"0ac2ddd5c68f63c31a1e2d8910192ac5a39dd8bb73444ca530c67c27c4aa6f11")
--- setManifestid(466101,"8617049038347065940")
+addappid(466101, 1, "0ac2ddd5c68f63c31a1e2d8910192ac5a39dd8bb73444ca530c67c27c4aa6f11")

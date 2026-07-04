@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Composer
 addappid(2299510)
-addappid(2299511,0,"780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397")
--- setManifestid(2299511,"6169720101972092170")
+addappid(2299511, 1, "780887386de4e3ffa401f46b7a4c5b477a07e48ec2ec3db4f965648a24015397")

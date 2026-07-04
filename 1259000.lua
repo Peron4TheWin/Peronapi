@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Damascus
 addappid(1259000)
-addappid(1259001,0,"eafe60ef1aad564c830abf85eab20a572eb213138f1c07cec43b1d43308b9965")
--- setManifestid(1259001,"2022699688440344970")
+addappid(1259001, 1, "eafe60ef1aad564c830abf85eab20a572eb213138f1c07cec43b1d43308b9965")

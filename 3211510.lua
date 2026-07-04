@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Falling Cube
 addappid(3211510)
-addappid(3211511,0,"10b3e18ba6c44b7628c4b3f02afefa315a059a0d4d494abc132d440eb770ea01")
--- setManifestid(3211511,"401988923505004021")
+addappid(3211511, 1, "10b3e18ba6c44b7628c4b3f02afefa315a059a0d4d494abc132d440eb770ea01")

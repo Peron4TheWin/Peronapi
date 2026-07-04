@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: - R E F L E C T E D -
 addappid(1692280)
-addappid(1692281,0,"ffc2736625ff653f617837451506bdfdeacd0ca903db0f188bc81d78636d8533")
--- setManifestid(1692281,"824764071154623536")
+addappid(1692281, 1, "ffc2736625ff653f617837451506bdfdeacd0ca903db0f188bc81d78636d8533")

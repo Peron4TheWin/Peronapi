@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tokyo Re:Connect Prologue
 addappid(1381590)
-addappid(1381591,0,"1edb60081d8de25a3cbc58286cbf8c2f15d92674435058f842f61660ba84c950")
--- setManifestid(1381591,"5048242018395801577")
+addappid(1381591, 1, "1edb60081d8de25a3cbc58286cbf8c2f15d92674435058f842f61660ba84c950")

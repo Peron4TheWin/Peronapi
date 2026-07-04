@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Samurai Revenge
 addappid(1482710)
-addappid(1482711,0,"b79da20827b904f85096b07f22646d9648bcc89f4bd3b33377b214a8071f9fb9")
+addappid(1482711, 1, "b79da20827b904f85096b07f22646d9648bcc89f4bd3b33377b214a8071f9fb9")

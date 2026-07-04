@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Eleven
 addappid(2074000)
-addappid(2074001,0,"d349eff4d60e0f5c037833f5ba3547fc7ed74f890ddf53ea531d495b2aad7695")
--- setManifestid(2074001,"508059381009271825")
+addappid(2074001, 1, "d349eff4d60e0f5c037833f5ba3547fc7ed74f890ddf53ea531d495b2aad7695")

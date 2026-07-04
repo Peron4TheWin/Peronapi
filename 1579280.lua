@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Worker
+addappid(1579280)
+addappid(1579281, 1, "1e1a629bbfdbedd1c00323d80ca93043e86b901e1e3af8b961163abc4dfa8175")

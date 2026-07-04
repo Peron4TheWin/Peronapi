@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sephiria Demo
 addappid(2686970)
-addappid(2686971,0,"d6ffba56fa0225beb010bf8d8db79d22df6a558b1e2796ef5e5d636dd4e040c0")
--- setManifestid(2686971,"4350951721820724844")
+addappid(2686971, 1, "d6ffba56fa0225beb010bf8d8db79d22df6a558b1e2796ef5e5d636dd4e040c0")

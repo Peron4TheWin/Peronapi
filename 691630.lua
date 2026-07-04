@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: STELLATUM
 addappid(691630)
-addappid(691631,0,"5ca38a03e534ddac709d0e4865cbd7db08531e098349fb1f1f68c68fe9e9f92d")
--- setManifestid(691631,"4803859139771005894")
+addappid(691631, 1, "5ca38a03e534ddac709d0e4865cbd7db08531e098349fb1f1f68c68fe9e9f92d")

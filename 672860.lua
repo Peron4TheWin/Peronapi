@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: StellarHub
 addappid(672860)
-addappid(228981)
-addappid(228982)
-addappid(228983)
-addappid(228985)
-addappid(228987)
-addappid(672861,0,"c09d8a8b180dc4f9f681b5d6a98f36ac4d7ae0a14e7c2b47487c764da2097dd3")
+addappid(672861, 1, "c09d8a8b180dc4f9f681b5d6a98f36ac4d7ae0a14e7c2b47487c764da2097dd3")

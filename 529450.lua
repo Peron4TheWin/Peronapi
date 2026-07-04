@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I Know a Tale
 addappid(529450)
-addappid(529451,0,"b22e4d5159c0b044e8b271d9a0f479d8a2776c9223670cd45bf0a7c50a895451")
--- setManifestid(529451,"7084173635712082971")
+addappid(529451, 1, "b22e4d5159c0b044e8b271d9a0f479d8a2776c9223670cd45bf0a7c50a895451")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Insurgence - Chains of Renegade
 addappid(912930)
-addappid(912931,0,"ea1810476b2526cadabb35c37da586e524aad0452893830feccf42fa82a84ae1")
--- setManifestid(912931,"4469558863250846032")
+addappid(912931, 1, "ea1810476b2526cadabb35c37da586e524aad0452893830feccf42fa82a84ae1")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chessplosion
+addappid(1571220)
+addappid(1571221, 1, "29829824b211c320f4514103e164cedbdae7cea5ceddf86328da22acfe55d011")

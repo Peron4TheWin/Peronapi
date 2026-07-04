@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Amora
 addappid(816280)
--- setManifestid(228990,"1829726630299308803")
-addappid(816281,0,"3dc0faecfb2532abc744b1495f6e75264e37f633bda11fe75e08a6c158bc223f")
--- setManifestid(816281,"433969862070728535")
+addappid(816281, 1, "3dc0faecfb2532abc744b1495f6e75264e37f633bda11fe75e08a6c158bc223f")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MOOD
 addappid(2566880)
-addappid(2566881,0,"f9dfa593ff18e41b74e0a6d249476c53e87f19ace72190d265cadef19b08ff31")
+addappid(2566881, 1, "f9dfa593ff18e41b74e0a6d249476c53e87f19ace72190d265cadef19b08ff31")

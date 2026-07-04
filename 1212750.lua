@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Undead zombies
 addappid(1212750)
-addappid(1212751,0,"f9f2e1afafc72b480542a5fd6ffce86f741da367e042ebdad6639073a01dd8c0")
--- setManifestid(1212751,"2687744289927686978")
+addappid(1212751, 1, "f9f2e1afafc72b480542a5fd6ffce86f741da367e042ebdad6639073a01dd8c0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Angels of Fasaria: Version 2.0
 addappid(335900)
-addappid(335901,0,"b38b7e1ced2fa2bf62ad4a60eccf52b3cf82e1bcdde92c741ca393b204d63612")
--- setManifestid(335901,"7559023920116420421")
+addappid(335901, 1, "b38b7e1ced2fa2bf62ad4a60eccf52b3cf82e1bcdde92c741ca393b204d63612")

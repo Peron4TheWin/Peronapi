@@ -1,3 +1,4 @@
--- killer Bean
+-- Lua provided by SkyAPI 
+-- Game: Killer Bean
 addappid(1597080)
-addappid(1597081,1,"cb2b9d73732faa89a876112cece3ee2200b2dc0c9db34b1d79c294def039f7fe")
+addappid(1597081, 1, "cb2b9d73732faa89a876112cece3ee2200b2dc0c9db34b1d79c294def039f7fe")

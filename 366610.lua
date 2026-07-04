@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Not without my donuts
+addappid(366610)
+addappid(366611, 1, "0bbadfb59f09c3f4116b6092a2590087e5cdf078d63c55ad4cc072a0e9276064")

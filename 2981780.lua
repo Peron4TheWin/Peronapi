@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 病娇X契约 Demo
 addappid(2981780)
-addappid(2981781,0,"c781e6fdc848527d39cb39df36b671f50f3660bf89164e0d3ec50d2dc64c21e0")
--- setManifestid(2981781,"6302939940573758533")
+addappid(2981781, 1, "c781e6fdc848527d39cb39df36b671f50f3660bf89164e0d3ec50d2dc64c21e0")

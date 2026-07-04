@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Adventures On The Polluted Islands
 addappid(496690)
-addappid(496691,0,"7b4be6b17b9e699866e02c84ef387615d1973ac52b74b78c60f75df0b205de36")
--- setManifestid(496691,"8620081873998933067")
+addappid(496691, 1, "7b4be6b17b9e699866e02c84ef387615d1973ac52b74b78c60f75df0b205de36")

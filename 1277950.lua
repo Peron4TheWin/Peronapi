@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heart's Medicine - Season One
 addappid(1277950)
-addappid(1277951,0,"78d9a06b328c3591759325838b0c6d7d6f0a6ad97dbb21a69363bc844867ba7c")
+addappid(1277951, 1, "78d9a06b328c3591759325838b0c6d7d6f0a6ad97dbb21a69363bc844867ba7c")

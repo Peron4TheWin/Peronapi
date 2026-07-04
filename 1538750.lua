@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Master of Pieces © Jigsaw Puzzle
 addappid(1538750)
-addappid(1538751,0,"df53e0bfd8a107051574ea1060308db39a9062036297f83301b498618b6067f6")
--- setManifestid(1538751,"1996975336201304885")
+addappid(1538751, 1, "df53e0bfd8a107051574ea1060308db39a9062036297f83301b498618b6067f6")

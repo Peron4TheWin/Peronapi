@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 4 Seasons Girls
 addappid(1914020)
-addappid(1914021,0,"eb019238bc186760bf4ba021b2862ce5446fd948f5c7dd8e1ccd779fe5745eea")
--- setManifestid(1914021,"8198224121525159532")
+addappid(1914021, 1, "eb019238bc186760bf4ba021b2862ce5446fd948f5c7dd8e1ccd779fe5745eea")

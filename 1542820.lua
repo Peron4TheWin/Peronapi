@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roguely
 addappid(1542820)
-addappid(1542821,0,"d2662ee4ee1381211568ce0749f4c86217962f0cf5f19ab21afb3a2e830470a1")
--- setManifestid(1542821,"2365919948889142164")
+addappid(1542821, 1, "d2662ee4ee1381211568ce0749f4c86217962f0cf5f19ab21afb3a2e830470a1")

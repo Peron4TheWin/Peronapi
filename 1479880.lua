@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Role of Hex
 addappid(1479880)
-addappid(1479881,0,"e2077f2b16104650f15461d4cda2dc38cbf041dc4bbfdd48e7eb37a597fc50cc")
--- setManifestid(1479881,"4738482937036066687")
+addappid(1479881, 1, "e2077f2b16104650f15461d4cda2dc38cbf041dc4bbfdd48e7eb37a597fc50cc")

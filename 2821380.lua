@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Daydam Knight
 addappid(2821380)
-addappid(2821381,0,"9ad44ccd432ca2d805c4aca7b47b624c8c548771a042e5396f83833b246e0038")
--- setManifestid(2821381,"5073488523337678330")
+addappid(2821381, 1, "9ad44ccd432ca2d805c4aca7b47b624c8c548771a042e5396f83833b246e0038")

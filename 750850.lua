@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Dream Collector
 addappid(750850)
-addappid(750851,0,"a46ad887fd73861728564d512d102d8cde232409a98daa5a92d0a7875aa36fcd")
--- setManifestid(750851,"8495208703754298062")
+addappid(750851, 1, "a46ad887fd73861728564d512d102d8cde232409a98daa5a92d0a7875aa36fcd")

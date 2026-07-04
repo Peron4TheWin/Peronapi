@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Queenchantment
 addappid(1693480)
-addappid(1693481,0,"7381efcb0021340459ca1db1a8dd3ee369cf660c73f67abe9c4e2995dc14f78e")
+addappid(1693481, 1, "7381efcb0021340459ca1db1a8dd3ee369cf660c73f67abe9c4e2995dc14f78e")

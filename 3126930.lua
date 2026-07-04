@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Level Zero: Extraction Soundtrack
 addappid(3126930)
-addappid(3126931,0,"a43129a396c8ee820e6d80f9fec7f72062b77d21ff7ed0a40fb251d476ce6f59")
--- setManifestid(3126931,"6805140426405389048")
+addappid(3126931, 1, "a43129a396c8ee820e6d80f9fec7f72062b77d21ff7ed0a40fb251d476ce6f59")

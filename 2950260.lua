@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sun City - Episode 1
 addappid(2950260)
-addappid(2950261,0,"8fd8183b15f6752bcd8279145ccf164d70fae34d3d542a6a77c1d2846fcc09dd")
--- setManifestid(2950261,"8448567030044932597")
+addappid(2950261, 1, "8fd8183b15f6752bcd8279145ccf164d70fae34d3d542a6a77c1d2846fcc09dd")

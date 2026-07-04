@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drive Beyond Horizons
 addappid(2625420)
-addappid(2625421,0,"e6632a8ac0813239fe1784858878c1dc48c48075d55d2b4045f529ba7ba3a01c")
--- setManifestid(2625421,"3446209424478392059")
+addappid(2625421, 1, "e6632a8ac0813239fe1784858878c1dc48c48075d55d2b4045f529ba7ba3a01c")

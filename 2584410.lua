@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Souls Demo
 addappid(2584410)
-addappid(2584411,0,"e2a4b766034861fb36f72d60d4b4b951ca31f150a405e67884d4aa0dfcf89281")
--- setManifestid(2584411,"553124008850532169")
+addappid(2584411, 1, "e2a4b766034861fb36f72d60d4b4b951ca31f150a405e67884d4aa0dfcf89281")

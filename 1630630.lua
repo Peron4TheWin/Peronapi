@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Run, Kitty! - A Furry Gay Visual Novel
 addappid(1630630)
-addappid(1630631,0,"2f8bf10ed567591948872f36e2d01db80412d7f458b6a9e654da07746d309cc7")
+addappid(1630631, 1, "2f8bf10ed567591948872f36e2d01db80412d7f458b6a9e654da07746d309cc7")

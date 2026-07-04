@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ark of Charon Demo
 addappid(2996270)
-addappid(2996271,0,"12815dc074d13ccd472d81e5be4337a923d5c53f99f2e1945f7a51e4f874a87c")
--- setManifestid(2996271,"7361840400236711842")
+addappid(2996271, 1, "12815dc074d13ccd472d81e5be4337a923d5c53f99f2e1945f7a51e4f874a87c")

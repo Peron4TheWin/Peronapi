@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hardspace: Shipbreaker
 addappid(1161580)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(1161581,0,"2d753dcdc7e9077164ce6c33c4a9c29694b86e69e0069398a1a35ca6ddaed884")
---setManifestid(1161581,"4273269388672364966")
+addappid(1161581, 1, "2d753dcdc7e9077164ce6c33c4a9c29694b86e69e0069398a1a35ca6ddaed884")
+addappid(2237360, 0, "24f7ab0d9de7a637b04c76ac2336e27c243588cf0fd54eeff134292e430e06e7")

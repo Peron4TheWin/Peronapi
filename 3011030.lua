@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NO-SKIN
 addappid(3011030)
-addappid(3011031,0,"2cdd4aa4bbc72f79697ab80f6979ed6927919eac0cad4748b2cc09d2d8d77724")
--- setManifestid(3011031,"5585832786809469486")
+addappid(3011031, 1, "2cdd4aa4bbc72f79697ab80f6979ed6927919eac0cad4748b2cc09d2d8d77724")

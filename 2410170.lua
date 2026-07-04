@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Nameless: Slay Dragon
 addappid(2410170)
-addappid(2410171,0,"b2c348c79213cb3f8a467a50b3d2df85044ce7c7fd532c4d28c99ab68de446ef")
--- setManifestid(2410171,"6118873173390456240")
+addappid(2410171, 1, "b2c348c79213cb3f8a467a50b3d2df85044ce7c7fd532c4d28c99ab68de446ef")

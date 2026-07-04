@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eldervale
 addappid(1032830)
-addappid(1032831,0,"dbe4321e9c581aabca5db17048a86d620ecb495562154f41206fb9aaa48c7f21")
--- setManifestid(1032831,"5980566926383733703")
+addappid(1032831, 1, "dbe4321e9c581aabca5db17048a86d620ecb495562154f41206fb9aaa48c7f21")

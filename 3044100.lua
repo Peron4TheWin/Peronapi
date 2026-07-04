@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bat to the Heavens
 addappid(3044100)
-addappid(3044101,0,"4e0fed514d6d3e80ca95cd0eb7fe9bc6c0b49b2c5f08691ae866045800a37299")
--- setManifestid(3044101,"3855296712658190591")
+addappid(3044101, 1, "4e0fed514d6d3e80ca95cd0eb7fe9bc6c0b49b2c5f08691ae866045800a37299")

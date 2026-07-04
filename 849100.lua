@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alaskan Road Truckers
 addappid(849100)
-addappid(849101,0,"18d06e538da60410ecea175ee8198f8239f0de8d7fa253863ce308029d9135ae")
--- setManifestid(849101,"6803391940210210370")
+addappid(849101, 1, "18d06e538da60410ecea175ee8198f8239f0de8d7fa253863ce308029d9135ae")

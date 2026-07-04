@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shields of Loyalty
 addappid(1318240)
-addappid(1318241,0,"9bffba70c1389e777dd2661c3f3fb6a24a786c551bee5ad51331cb5487ba5397")
--- setManifestid(1318241,"3734139833513136509")
+addappid(1318241, 1, "9bffba70c1389e777dd2661c3f3fb6a24a786c551bee5ad51331cb5487ba5397")

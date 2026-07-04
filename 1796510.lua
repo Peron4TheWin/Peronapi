@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: AppID 1796510
 addappid(1796510)
-addappid(1796511,0,"b881321c9598a19bbfe7947e053067197e5e11fe7f56cc5af9c43742dc1ca090")
--- setManifestid(1796511,"6668772763128461361")
+addappid(1796511, 1, "b881321c9598a19bbfe7947e053067197e5e11fe7f56cc5af9c43742dc1ca090")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Melody's Escape
+addappid(270210)
+addappid(270211, 1, "0c14ff0f7ba1bb141663da7be79e051d67dd85b4829f36415dbef6b9129a25b7")

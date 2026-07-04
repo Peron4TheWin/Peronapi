@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: u evade
 addappid(1558180)
-addappid(1558181,0,"20b2188cf3f81fce1a8f30683afd70526f879753ef901fc52bf60f46b1bd1c1f")
--- setManifestid(1558181,"7429972969884763378")
+addappid(1558181, 1, "20b2188cf3f81fce1a8f30683afd70526f879753ef901fc52bf60f46b1bd1c1f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nine Lives Ninja: Explore!
 addappid(2848390)
-addappid(2848391,0,"c6885eb0c85fe0003e550845066627b675760aa0b679cd2b42f96529349e1d8e")
--- setManifestid(2848391,"3992493699113933572")
+addappid(2848391, 1, "c6885eb0c85fe0003e550845066627b675760aa0b679cd2b42f96529349e1d8e")

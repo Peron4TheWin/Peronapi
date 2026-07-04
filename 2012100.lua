@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WHAT THE BAT?
 addappid(2012100)
-addappid(2012101,0,"6dfa9fefe1db86d58d02fda1874aa913c5d2017769c11f3d511647dc3984df3e")
--- setManifestid(2012101,"5344014625749698350")
+addappid(2012101, 1, "6dfa9fefe1db86d58d02fda1874aa913c5d2017769c11f3d511647dc3984df3e")

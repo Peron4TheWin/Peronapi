@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trickery&Strategy
 addappid(1544250)
-addappid(1544251,0,"73dbe3724d1b2abe39bf9a046416c0894e24d64bf84624fc7bf04e69ad6ef08d")
--- setManifestid(1544251,"1728252536502668711")
+addappid(1544251, 1, "73dbe3724d1b2abe39bf9a046416c0894e24d64bf84624fc7bf04e69ad6ef08d")

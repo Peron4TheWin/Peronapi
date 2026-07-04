@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Gary Grigsby's War in the West
 addappid(644710)
--- setManifestid(228990,"1829726630299308803")
-addappid(644711,0,"8b8c6a1d9a8eec1ff6d249f16cc5188a2a1a00ffd611009fcd20bab8f6c60b37")
--- setManifestid(644711,"5209791562153409593")
+addappid(644711, 1, "8b8c6a1d9a8eec1ff6d249f16cc5188a2a1a00ffd611009fcd20bab8f6c60b37")
+addappid(644780)

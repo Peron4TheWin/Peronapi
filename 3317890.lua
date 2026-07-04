@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Search
 addappid(3317890)
-addappid(3317891,0,"94cf1f2a5ffcbeeca7987d53672ba0d250711d1b7938dc4de5df9b4294bc26ec")
--- setManifestid(3317891,"3507225722388170927")
+addappid(3317891, 1, "94cf1f2a5ffcbeeca7987d53672ba0d250711d1b7938dc4de5df9b4294bc26ec")

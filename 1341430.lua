@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Inexplicable Deaths In Damipolis: Inner Thoughts
 addappid(1341430)
-addappid(1341431,0,"418cebad944528f8cb84395757ed9e14f89fc67cfdd7960273aefadc2c42f3cc")
--- setManifestid(1341431,"6685972733005830042")
+addappid(1341431, 1, "418cebad944528f8cb84395757ed9e14f89fc67cfdd7960273aefadc2c42f3cc")

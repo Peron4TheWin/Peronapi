@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Omelet You Cook
 addappid(3205380)
-addappid(3205381,0,"9a32ab58b063f1ce04e0ba099d336a8ba9a61c15434859ef88ef8ba33a959bff")
--- setManifestid(3205381,"5441832472610804837")
+addappid(3205381, 1, "9a32ab58b063f1ce04e0ba099d336a8ba9a61c15434859ef88ef8ba33a959bff")

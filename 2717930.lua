@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BOTSU Demo
 addappid(2717930)
-addappid(2717931,0,"5574b799e1d8b41acbdc35b11ab788fdc6032a54005307a818d4fb0232af7a0d")
+addappid(2717931, 1, "5574b799e1d8b41acbdc35b11ab788fdc6032a54005307a818d4fb0232af7a0d")

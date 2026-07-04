@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dorpie Demo
 addappid(3239490)
-addappid(3239491,0,"d8b393674ddd036aafaaeb989ec1c57c3813189d65b2334971a66e596b4dc3e7")
--- setManifestid(3239491,"2308763903340709169")
+addappid(3239491, 1, "d8b393674ddd036aafaaeb989ec1c57c3813189d65b2334971a66e596b4dc3e7")

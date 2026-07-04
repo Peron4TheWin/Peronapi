@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Lust Academy - Season 3
 addappid(2655960)
-addappid(2655961,0,"d015c7fda9f4a2068e6b4d60ba78eb95f3aeed5aa390460cda602c7295b695a6")
--- setManifestid(2655961,"7452734716297936056")
+addappid(2655961, 1, "d015c7fda9f4a2068e6b4d60ba78eb95f3aeed5aa390460cda602c7295b695a6")
+addappid(2914180)

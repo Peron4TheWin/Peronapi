@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Seek Girl Ⅷ
 addappid(1509090)
--- setManifestid(228990,"1829726630299308803")
-addappid(1509091,0,"1da379b649f60b094d55e5f9ce415ce29e772a70cc3dbb8cfcdd9184cb46d6eb")
--- setManifestid(1509091,"8243262077220633801")
+addappid(1509091, 1, "1da379b649f60b094d55e5f9ce415ce29e772a70cc3dbb8cfcdd9184cb46d6eb")

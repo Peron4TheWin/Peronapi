@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DAY OF DRIFT
 addappid(3650050)
-addappid(3650051,0,"14848553b163be31bd759eb125ada8e1e6ce1351dade3e1c9a08d723434e826d")
--- setManifestid(3650051,"3171240423850817888")
+addappid(3650051, 1, "14848553b163be31bd759eb125ada8e1e6ce1351dade3e1c9a08d723434e826d")

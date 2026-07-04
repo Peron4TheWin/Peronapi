@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Military Crusaders
 addappid(1459170)
-addappid(1459171,0,"557f9c2074e29dda730436be4a2bbeebd83d61d0e9943f0cabd47f01a3e8db23")
--- setManifestid(1459171,"5522338075781812173")
+addappid(1459171, 1, "557f9c2074e29dda730436be4a2bbeebd83d61d0e9943f0cabd47f01a3e8db23")

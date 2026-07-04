@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EDMtv VR
 addappid(513200)
-addappid(513201,0,"9fab3b04d399c0b13f383725795ce5f53b9001e26df0747dedcc27867ffb60a8")
--- setManifestid(513201,"3451295605005018922")
+addappid(513201, 1, "9fab3b04d399c0b13f383725795ce5f53b9001e26df0747dedcc27867ffb60a8")

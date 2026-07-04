@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Medium Original Soundtrack - Free Tracks
 addappid(1409690)
-addappid(1409691,0,"2dc3f3d2878d43ed96f7b596e7bb50e28188a58eaac842867fff000cc2ea2182")
--- setManifestid(1409691,"6266638326178877257")
+addappid(1409691, 1, "2dc3f3d2878d43ed96f7b596e7bb50e28188a58eaac842867fff000cc2ea2182")

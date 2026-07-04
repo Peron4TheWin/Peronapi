@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SHIRIME: The Curse of Butt-Eye
 addappid(2334850)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2334851,0,"4ee548339f52bc82a1d84c9ba6d5026eb396aa4418e7453503f87dbf8b59567d")
--- setManifestid(2334851,"4177321602100222047")
+addappid(2334851, 1, "4ee548339f52bc82a1d84c9ba6d5026eb396aa4418e7453503f87dbf8b59567d")

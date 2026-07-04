@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Private Property
 addappid(1481700)
-addappid(1481701,0,"ea9ec34cea45a55eafcff4b14200ff1698c9945f9d6e468a2f27464e98950c11")
--- setManifestid(1481701,"4391411280389265110")
+addappid(1481701, 1, "ea9ec34cea45a55eafcff4b14200ff1698c9945f9d6e468a2f27464e98950c11")

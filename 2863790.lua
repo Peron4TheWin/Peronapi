@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FolkOrigin
 addappid(2863790)
-addappid(2863791,0,"6d000bedd4f206edb293ff57784aa2f5980ed0849d49520fd3c5ca6b1b9935b2")
--- setManifestid(2863791,"5545947204228945107")
+addappid(2863791, 1, "6d000bedd4f206edb293ff57784aa2f5980ed0849d49520fd3c5ca6b1b9935b2")

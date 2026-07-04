@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Tales: Uninhabited Island
 addappid(3046270)
-addappid(3046271,0,"47df627a767746da36863684df2066740b6cc59361efdd82fab913d7cefbd204")
--- setManifestid(3046271,"5402265632124959757")
+addappid(3046271, 1, "47df627a767746da36863684df2066740b6cc59361efdd82fab913d7cefbd204")

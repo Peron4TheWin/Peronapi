@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sir Whoopass™: Immortal Death
 addappid(1240590)
-addappid(1240591,0,"81a27b9cc381a91b16ba3419786c73517a68eafb06e1084a391d78b92f03f5c8")
---setManifestid(1240591,"394781008259556141")
+addappid(1240591, 1, "81a27b9cc381a91b16ba3419786c73517a68eafb06e1084a391d78b92f03f5c8")

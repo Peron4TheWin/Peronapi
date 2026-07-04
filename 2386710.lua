@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Everlasting Abundance
 addappid(2386710)
-addappid(2386711,0,"0caf9fe0167d3bf5588802732a8008e4643b9496f74e23539fcb6ffecaea98a9")
--- setManifestid(2386711,"7647234317638971118")
+addappid(2386711, 1, "0caf9fe0167d3bf5588802732a8008e4643b9496f74e23539fcb6ffecaea98a9")

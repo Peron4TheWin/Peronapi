@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BURNER
 addappid(1926820)
-addappid(1926821,0,"6962ce183bea930d636c02daf9ccd8bbb43e11c11a96c8d88adea23f6a87ff35")
--- setManifestid(1926821,"3422355799213335382")
+addappid(1926821, 1, "6962ce183bea930d636c02daf9ccd8bbb43e11c11a96c8d88adea23f6a87ff35")

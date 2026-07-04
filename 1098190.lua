@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VersaillesVR | the Palace is yours
 addappid(1098190)
-addappid(1098191,0,"a3178e492a474ab4a5ba26c767eaf2c3a212de84034bf090f4ba4d4d8266502d")
--- setManifestid(1098191,"3112240758177643045")
+addappid(1098191, 1, "a3178e492a474ab4a5ba26c767eaf2c3a212de84034bf090f4ba4d4d8266502d")

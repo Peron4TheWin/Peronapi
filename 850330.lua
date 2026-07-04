@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: best game eu
 addappid(850330)
-addappid(850331,0,"be542b2489f063977fdd577abc977e663b13349e92c4d5a4098a818d884f430a")
--- setManifestid(850331,"5150032306090226613")
+addappid(850331, 1, "be542b2489f063977fdd577abc977e663b13349e92c4d5a4098a818d884f430a")

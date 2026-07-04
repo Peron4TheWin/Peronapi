@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEEP 8
 addappid(1037460)
-addappid(1037461,0,"2fc90804f272c4e00666eed718a2b0379ae35f08981661dbba06ce25ee9d2cc3")
--- setManifestid(1037461,"9178725085426533391")
+addappid(1037461, 1, "2fc90804f272c4e00666eed718a2b0379ae35f08981661dbba06ce25ee9d2cc3")

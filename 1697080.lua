@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pill Puzzle: One Move
 addappid(1697080)
-addappid(1697081,0,"9913d71ad0c0502ccc1b005909344232ebf655e57bf487f42dab3ec4bf4ab3aa")
--- setManifestid(1697081,"7101331390361470210")
+addappid(1697081, 1, "9913d71ad0c0502ccc1b005909344232ebf655e57bf487f42dab3ec4bf4ab3aa")

@@ -1,2 +1,4 @@
-addappid(2742280, 1, "a71981c931c78cb78b5b9d39a5a62378da9706b1fa740c6e865c7f61f000edb2") -- Fantasista Asuka
-addappid(2742281, 1, "119e74230884862ea503bfc0d472854424990a8e167cfde48536a8724ec1eee9") -- Depot 2742281
+-- Lua provided by SkyAPI 
+-- Game: Fantasista Asuka
+addappid(2742280)
+addappid(2742281, 1, "119e74230884862ea503bfc0d472854424990a8e167cfde48536a8724ec1eee9")

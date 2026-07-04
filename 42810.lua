@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: For The Glory: A Europa Universalis Game
 addappid(42810)
-addappid(42811,0,"c624ca5f2d8e7814a427471e93715296b308ad878d2cb7f3bf0182de5657aaa2")
--- setManifestid(42811,"3974577350943539209")
+addappid(42811, 1, "c624ca5f2d8e7814a427471e93715296b308ad878d2cb7f3bf0182de5657aaa2")

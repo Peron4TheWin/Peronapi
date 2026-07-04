@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RedRaptor
 addappid(2404210)
-addappid(2404211,0,"59d02f48911a6ef05482ea3f4ebbef39897acb53ee808067605cc8f4d614ca8f")
--- setManifestid(2404211,"5788381405293143297")
+addappid(2404211, 1, "59d02f48911a6ef05482ea3f4ebbef39897acb53ee808067605cc8f4d614ca8f")

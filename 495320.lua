@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ancient VR coaster
 addappid(495320)
-addappid(495321,0,"7efd5b343daa23bbf0af122975ce43bc49f0f3a0c04a25f992fa3d609fa3535d")
--- setManifestid(495321,"5644136499352578408")
+addappid(495321, 1, "7efd5b343daa23bbf0af122975ce43bc49f0f3a0c04a25f992fa3d609fa3535d")

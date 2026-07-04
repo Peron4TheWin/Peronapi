@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Situation TARFU
 addappid(2374210)
-addappid(2374211,0,"3e56b48035072cec7b5c7cd90cd2df32beaa2a7a019d85afb480c1059825d086")
--- setManifestid(2374211,"4037109638802979477")
+addappid(2374211, 1, "3e56b48035072cec7b5c7cd90cd2df32beaa2a7a019d85afb480c1059825d086")

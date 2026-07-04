@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Undead Shadows
 addappid(346920)
-addappid(346921,0,"42bfc2d88203f30871ea3deea03c911508edbf0997a33f4cd1e14e45203366df")
--- setManifestid(346921,"743960124920637272")
+addappid(346921, 1, "42bfc2d88203f30871ea3deea03c911508edbf0997a33f4cd1e14e45203366df")

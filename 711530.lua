@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Butterfly Moment
 addappid(711530)
-addappid(711531,0,"18c2931f7c17f261dc2ec47f12926c42843caeef04f6e1a09ef5372bfc06be93")
--- setManifestid(711531,"3583562156800223293")
+addappid(711531, 1, "18c2931f7c17f261dc2ec47f12926c42843caeef04f6e1a09ef5372bfc06be93")

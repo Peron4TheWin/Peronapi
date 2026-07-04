@@ -1,5 +1,4 @@
--- manifest made and bought by Ryuu
--- discord.gg/manifests
+-- Lua provided by SkyAPI 
+-- Game: R.E.P.O.
 addappid(3241660)
 addappid(3241661, 1, "0a0fcffb2de6fb0fa6caff076a5a8cb960903d17320968d5c042fd5a4f9ad2ad")
--- setManifestid(3241661, "895298583562046141", 0)

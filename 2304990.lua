@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crypto Miner Tycoon Simulator Starter Edition
 addappid(2304990)
-addappid(2304991,0,"1a2217218286954447e9e7cd133aa65229f3d2aed769fb4d3c903fc613ae16d5")
--- setManifestid(2304991,"6983986282984415180")
+addappid(2304991, 1, "1a2217218286954447e9e7cd133aa65229f3d2aed769fb4d3c903fc613ae16d5")

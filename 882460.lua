@@ -1,7 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Warrior War
 addappid(882460)
-addappid(228984)
--- setManifestid(228984,"2547553897526095397")
-addappid(229004)
--- setManifestid(229004,"5220958916987797232")
-addappid(882461,0,"384f60c0a2cb4406b79cba86ab1ae2c1f8f5180bbdbd87b3138aaa331964f71d")
--- setManifestid(882461,"3920588244721400468")
+addappid(882461, 1, "384f60c0a2cb4406b79cba86ab1ae2c1f8f5180bbdbd87b3138aaa331964f71d")
+addappid(891540)

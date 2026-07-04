@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cy: Cyberpunk Survivors
 addappid(2364720)
-addappid(2364721,0,"f4dd7f4705e6ef98db3f55f2001e1f60c7080f9269b474d3484b50693ac649c8")
--- setManifestid(2364721,"1075679046229639792")
+addappid(2364721, 1, "f4dd7f4705e6ef98db3f55f2001e1f60c7080f9269b474d3484b50693ac649c8")

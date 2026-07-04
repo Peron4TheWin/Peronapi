@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ruza
 addappid(2177620)
-addappid(2177621,0,"5e1eb2bcce4469d2e88adda39eb1a3a5f256c6e152217c89b005f762f9bd8375")
--- setManifestid(2177621,"1593418450516770165")
+addappid(2177621, 1, "5e1eb2bcce4469d2e88adda39eb1a3a5f256c6e152217c89b005f762f9bd8375")

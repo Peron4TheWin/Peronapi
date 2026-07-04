@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ani Idle
 addappid(3795920)
-addappid(3795921,0,"4f85960eeeb92dd26a1b77de63d435c5608f3e6faaba8a0de90abfd8b0026236")
+addappid(3795921, 1, "4f85960eeeb92dd26a1b77de63d435c5608f3e6faaba8a0de90abfd8b0026236")

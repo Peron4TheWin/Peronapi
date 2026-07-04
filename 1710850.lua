@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fall of Porcupine Demo
 addappid(1710850)
-addappid(1710851,0,"191edd37d404b38bad38da02b640c7540e3018d2862d4ffc1b87db8eb1d13a5d")
--- setManifestid(1710851,"4102702190716704671")
+addappid(1710851, 1, "191edd37d404b38bad38da02b640c7540e3018d2862d4ffc1b87db8eb1d13a5d")

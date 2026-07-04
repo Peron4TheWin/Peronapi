@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Circle Rally Party
 addappid(992950)
-addappid(992951,0,"e8fcf172b178e5b228fc760051ca7302920bfd3284e681fe12b8ae21306f56c6")
--- setManifestid(992951,"423936347937883502")
+addappid(992951, 1, "e8fcf172b178e5b228fc760051ca7302920bfd3284e681fe12b8ae21306f56c6")

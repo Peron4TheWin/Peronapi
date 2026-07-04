@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Golden Mine Pickaxe 2: Mummy Tombs
 addappid(1941130)
-addappid(1941131,0,"3fc55576444f8d168cd51dadb10411c50708637e98d33d0e6d180f085256d478")
--- setManifestid(1941131,"6699813019150226473")
+addappid(1941131, 1, "3fc55576444f8d168cd51dadb10411c50708637e98d33d0e6d180f085256d478")

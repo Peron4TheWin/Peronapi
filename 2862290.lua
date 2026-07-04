@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gunswitch
 addappid(2862290)
-addappid(2862291,0,"623fc81224a53a39e7af842b852c2594673ae45e8d8d4c4c947cbd9f035ff193")
--- setManifestid(2862291,"9211577019014643907")
+addappid(2862291, 1, "623fc81224a53a39e7af842b852c2594673ae45e8d8d4c4c947cbd9f035ff193")

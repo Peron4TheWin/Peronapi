@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Base Defense
 addappid(632730)
-addappid(632731,0,"5716240db7325cc8e77dd4bd89b742f3ff69c2132ae3c13dd27a0381e1cbcb75")
--- setManifestid(632731,"5663636144444181763")
+addappid(632731, 1, "5716240db7325cc8e77dd4bd89b742f3ff69c2132ae3c13dd27a0381e1cbcb75")

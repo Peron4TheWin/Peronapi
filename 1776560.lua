@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dune Girls Attack!
 addappid(1776560)
-addappid(1776561,0,"6e5d78ec725edd3dfe14b04be79b1364bf640af20cd15eca6ea735c72a6c13cf")
--- setManifestid(1776561,"4397405830762675828")
+addappid(1776561, 1, "6e5d78ec725edd3dfe14b04be79b1364bf640af20cd15eca6ea735c72a6c13cf")

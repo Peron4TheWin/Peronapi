@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hope Trigger
 addappid(1727910)
-addappid(1727911,0,"d8cfcc26802afdb5b68287a1ccd622179063595cc285431dbe5f970c4beda5d0")
--- setManifestid(1727911,"262469354328857804")
+addappid(1727911, 1, "d8cfcc26802afdb5b68287a1ccd622179063595cc285431dbe5f970c4beda5d0")

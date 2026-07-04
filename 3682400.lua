@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Parabellum: Siege Of Legends
 addappid(3682400)
-addappid(3682401,0,"bc421966ca385ab98c8ce4ca4026bec7e2a9a01ba0bcf5f9c11911a560f777a4")
--- setManifestid(3682401,"3281603500456000228")
+addappid(3682401, 1, "bc421966ca385ab98c8ce4ca4026bec7e2a9a01ba0bcf5f9c11911a560f777a4")

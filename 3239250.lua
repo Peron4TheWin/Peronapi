@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clover Reset
 addappid(3239250)
-addappid(3239251,0,"05d0bb6a3326ce8a6fd1decafdace1dfc4ae5ab8555020c3762a3d4d379b6d61")
--- setManifestid(3239251,"7941035139150098097")
+addappid(3239251, 1, "05d0bb6a3326ce8a6fd1decafdace1dfc4ae5ab8555020c3762a3d4d379b6d61")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 姬恋~缚羽的欠片 纯净中文版
 addappid(2172470)
-addappid(2172471,0,"5c3072797a2fca27dff37e915e134142ea11a5c3b6538d31db8e644e8a91c96a")
--- setManifestid(2172471,"5694068172815050128")
+addappid(2172471, 1, "5c3072797a2fca27dff37e915e134142ea11a5c3b6538d31db8e644e8a91c96a")

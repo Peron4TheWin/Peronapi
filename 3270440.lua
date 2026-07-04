@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lewd Family
 addappid(3270440)
-addappid(3270441,0,"9921080bafa23f9f94567aeab8e08ddbf30745fac27a0177a7988298a8398eab")
--- setManifestid(3270441,"7046087764235305634")
+addappid(3270441, 1, "9921080bafa23f9f94567aeab8e08ddbf30745fac27a0177a7988298a8398eab")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cargo Cult: Shoot'n'Loot VR
 addappid(565380)
-addappid(565381,0,"75cc0258e77e793a8c0ae1cfd00625da528157992039b0eb0c5be4466b260d01")
--- setManifestid(565381,"349823855751602710")
+addappid(565381, 1, "75cc0258e77e793a8c0ae1cfd00625da528157992039b0eb0c5be4466b260d01")

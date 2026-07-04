@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Battle of Sol
 addappid(282620)
-addappid(282621,0,"78525d9d0ba3ba5ba2b759217a6006f412f3f9aa285fdec30e77e71b2c6c3b46")
--- setManifestid(282621,"8827673734423181579")
+addappid(282621, 1, "78525d9d0ba3ba5ba2b759217a6006f412f3f9aa285fdec30e77e71b2c6c3b46")

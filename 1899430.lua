@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VEREDA - Mystery Escape Room Adventure
 addappid(1899430)
-addappid(1899431,0,"1704c78185aee118fb35649f54c552f9bc660e0b2aefe35c3a508ee442b97f13")
--- setManifestid(1899431,"3716191389785223158")
+addappid(1899431, 1, "1704c78185aee118fb35649f54c552f9bc660e0b2aefe35c3a508ee442b97f13")

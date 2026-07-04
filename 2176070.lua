@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Transliminal: Beyond The Backrooms
 addappid(2176070)
-addappid(2176071,0,"7105bcc02d5c97c50d6f9a81889421e8651154676eb79f8e1c6f4760ab45b952")
--- setManifestid(2176071,"6548644619024726988")
+addappid(2176071, 1, "7105bcc02d5c97c50d6f9a81889421e8651154676eb79f8e1c6f4760ab45b952")

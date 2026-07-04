@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Need For Drink
 addappid(613730)
-addappid(613731,0,"142a025e7162352d987dd1e02314ccb36d75ff6ea7a463673c604789a6d4b54f")
--- setManifestid(613731,"2173795179220777283")
+addappid(613731, 1, "142a025e7162352d987dd1e02314ccb36d75ff6ea7a463673c604789a6d4b54f")

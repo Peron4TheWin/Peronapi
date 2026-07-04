@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery of Island
 addappid(1845840)
-addappid(1845841,0,"480d1b7ccdbf7ac3b3e7a7fab2fc71f38ff9f7b56853a9483e7aed157666f4fa")
--- setManifestid(1845841,"4767427025943765933")
+addappid(1845841, 1, "480d1b7ccdbf7ac3b3e7a7fab2fc71f38ff9f7b56853a9483e7aed157666f4fa")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eden Crafters Demo
 addappid(2973900)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(2973901,0,"e8827a4e97b347bb459b2395dbd012f6b1125ed279f1b52a08e71bc065a2a1c1")
+addappid(2973901, 1, "e8827a4e97b347bb459b2395dbd012f6b1125ed279f1b52a08e71bc065a2a1c1")

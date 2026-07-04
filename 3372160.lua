@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY XIII-2 Original Soundtrack
 addappid(3372160)
-addappid(3372161,0,"ce7f75463fc61ff1b62e91ebd65887ba19960d31700db62e995c8d180d591a2d")
--- setManifestid(3372161,"3411467436205421056")
+addappid(3372161, 1, "ce7f75463fc61ff1b62e91ebd65887ba19960d31700db62e995c8d180d591a2d")

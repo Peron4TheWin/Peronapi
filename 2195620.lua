@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 她毕业了 Demo
 addappid(2195620)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229020,"5799761707845834510")
-addappid(2195621,0,"7912c91d15dccd6baec087a7134a46baeb11dbd8798854ee4f117cfa23b1dcd4")
+addappid(2195621, 1, "7912c91d15dccd6baec087a7134a46baeb11dbd8798854ee4f117cfa23b1dcd4")

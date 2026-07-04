@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BoxesWithGuns
 addappid(342520)
--- setManifestid(229003,"8740933542064151477")
-addappid(342521,0,"4d26c0e86cbaa37428403679618fecd2eac1e127ee81f9fb57866c372482d646")
--- setManifestid(342521,"7619853728907172102")
+addappid(342521, 1, "4d26c0e86cbaa37428403679618fecd2eac1e127ee81f9fb57866c372482d646")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Layover Lovers
 addappid(2618830)
-addappid(2618831,0,"e175cea0e4ff3b7bcf11dd9ac3b487706e8e475e6a1017e18d495d4b1055ff5f")
--- setManifestid(2618831,"1798381144552213168")
+addappid(2618831, 1, "e175cea0e4ff3b7bcf11dd9ac3b487706e8e475e6a1017e18d495d4b1055ff5f")
+addappid(2631280)

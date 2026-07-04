@@ -1,3 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Highrise City
 addappid(1489970)
-addappid(2024160,0,"23ebabdd6d0b2bf5f89cfab951b3abc5a77e40632b394b0839706ecbdbcc39b9")
---setManifestid(2024160,"2239569285451384404")
+addappid(1489971, 1, "01e0546f27bc8559b856a6303275d010f3c94a584c6af6a892e0b703a3c538dc")
+addappid(2024160, 0, "23ebabdd6d0b2bf5f89cfab951b3abc5a77e40632b394b0839706ecbdbcc39b9")
+addappid(3079070, 0, "3a2bafcd849ca08624030ac27d301b08f859e428b29610a7318a0f6eb697205a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Girlfriend is... Centaur
 addappid(2981350)
-addappid(2981351,0,"46f21bdb495ebb6c4f89aeb868a1c2f71cf60a7d7d7d6762106d5a989a754117")
--- setManifestid(2981351,"4810778240199461843")
+addappid(2981351, 1, "46f21bdb495ebb6c4f89aeb868a1c2f71cf60a7d7d7d6762106d5a989a754117")

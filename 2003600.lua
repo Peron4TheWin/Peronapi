@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don't Stop the Camera! ~Hidden Desires of a Young Wife~
 addappid(2003600)
-addappid(2003601,0,"4fc28cea0bf63c286fa58ebbe3394ffcf86016d958d8b9a08b25a62e2987127f")
--- setManifestid(2003601,"1566861612541657718")
+addappid(2003601, 1, "4fc28cea0bf63c286fa58ebbe3394ffcf86016d958d8b9a08b25a62e2987127f")

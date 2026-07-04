@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mage Noir - Infinity
 addappid(1542140)
-addappid(1542141,0,"8e84b60fb3ee1a64e5a93e49e50cfc8664e659cbce9f6bd5c878863f16692f43")
--- setManifestid(1542141,"4310587888455358587")
+addappid(1542141, 1, "8e84b60fb3ee1a64e5a93e49e50cfc8664e659cbce9f6bd5c878863f16692f43")

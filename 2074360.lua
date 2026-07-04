@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Obsessive Shadow
 addappid(2074360)
-addappid(2074361,0,"5b9bca0340c3e74e9b93a7206024ac65690e66c0748dc9b0fd04ca265d2e8b2d")
--- setManifestid(2074361,"7605142851005361251")
+addappid(2074361, 1, "5b9bca0340c3e74e9b93a7206024ac65690e66c0748dc9b0fd04ca265d2e8b2d")
+addappid(3970390)

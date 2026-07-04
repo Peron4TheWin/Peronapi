@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Japanese School Life
+addappid(555640)
+addappid(555641, 1, "7432b47d01674e922a1e2b53914b417ac636b07539602d1e5f0f95fd809e1c60")

@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Frontiers.io
 addappid(721670)
-addappid(721671,0,"164832b1c23c4282e2b09a8d8c094beb4ab74a6192b377099e926d446e7146ba")
--- setManifestid(721671,"2875194027235008903")
+addappid(721671, 1, "164832b1c23c4282e2b09a8d8c094beb4ab74a6192b377099e926d446e7146ba")
 addappid(756690)
 addappid(757410)
 addappid(757800)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: C.A.P.S. - Cyber Animal Planet Survival
 addappid(1755650)
-addappid(1755651,0,"6801686d3450d7d90c71d4f2d5ccb650c8f11c34ce0f2569f94bba7a9ffd9209")
--- setManifestid(1755651,"8603086732419426796")
+addappid(1755651, 1, "6801686d3450d7d90c71d4f2d5ccb650c8f11c34ce0f2569f94bba7a9ffd9209")

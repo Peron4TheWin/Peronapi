@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEDAP! A Culinary Adventure Demo
 addappid(3328780)
-addappid(3328781,0,"de68bc5d083e1389d555baf43f7b25519bbd8b8735ec574aaebe014c4c0d449f")
--- setManifestid(3328781,"6761406852463359615")
+addappid(3328781, 1, "de68bc5d083e1389d555baf43f7b25519bbd8b8735ec574aaebe014c4c0d449f")

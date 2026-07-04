@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Door To Door
 addappid(416200)
-addappid(416201,0,"0d4bef2a4a7a962f53f600ad5f8b6c9364b02c5436e06165ddf30625f328c793")
--- setManifestid(416201,"1997858980801486795")
+addappid(416201, 1, "0d4bef2a4a7a962f53f600ad5f8b6c9364b02c5436e06165ddf30625f328c793")

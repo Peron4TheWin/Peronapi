@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Melo's nightmare Demo
 addappid(2952220)
-addappid(2952221,0,"725fd66f20000573ac0a5cb46ce4438e8f603273b4c9e0f9fa2d4efdd0435b63")
--- setManifestid(2952221,"2840065365987468660")
+addappid(2952221, 1, "725fd66f20000573ac0a5cb46ce4438e8f603273b4c9e0f9fa2d4efdd0435b63")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rune Gate
 addappid(2522270)
-addappid(2522271,0,"3de346ab8e63e268d1f299f9406e791562f22438fd29ac06843a906455ca1a53")
+addappid(2522271, 1, "3de346ab8e63e268d1f299f9406e791562f22438fd29ac06843a906455ca1a53")

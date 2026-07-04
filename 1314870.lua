@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KITT.IO
 addappid(1314870)
-addappid(1314871,0,"1c581fd2dcc68626b9cc7d783fdbed4c8cb4aa02f61992a9e82dd9449c9efb5f")
--- setManifestid(1314871,"7484802330061891677")
+addappid(1314871, 1, "1c581fd2dcc68626b9cc7d783fdbed4c8cb4aa02f61992a9e82dd9449c9efb5f")

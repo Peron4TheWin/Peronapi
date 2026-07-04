@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Exit: Left or Right
 addappid(2874660)
-addappid(2874661,0,"26d2065a11d9b030fa78a872fcb26b427bfe281a8c7276906535aee3b219d68c")
--- setManifestid(2874661,"1813705312555003740")
+addappid(2874661, 1, "26d2065a11d9b030fa78a872fcb26b427bfe281a8c7276906535aee3b219d68c")

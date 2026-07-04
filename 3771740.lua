@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: IQ Under Construction
 addappid(3771740)
-addappid(3771741,0,"0dc56ff28822de5860dd6b016bd42c25b472689847cad8baf0b4ed7e8e51ddaf")
--- setManifestid(3771741,"6364202548434025359")
+addappid(3771741, 1, "0dc56ff28822de5860dd6b016bd42c25b472689847cad8baf0b4ed7e8e51ddaf")

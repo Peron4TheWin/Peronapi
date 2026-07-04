@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Meals
 addappid(3021850)
-addappid(3021851,0,"4381ec1bbcf41ccb88191c420b9459300fa48fb86fcc0ce8f97828e336fd3d9e")
--- setManifestid(3021851,"8289255035881659002")
+addappid(3021851, 1, "4381ec1bbcf41ccb88191c420b9459300fa48fb86fcc0ce8f97828e336fd3d9e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: REANIMAL Demo
 addappid(4019420)
-addappid(4019421,0,"6cb3d156b7966276988b1955c675ff435579b6ba510deb11a0d01c46dcd6edb3")
--- setManifestid(4019421,"1958804276415017771")
+addappid(4019421, 1, "6cb3d156b7966276988b1955c675ff435579b6ba510deb11a0d01c46dcd6edb3")

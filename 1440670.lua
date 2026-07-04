@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zeepkist
 addappid(1440670)
-addappid(1440671,0,"155b8265af52ed31033c00e1caa583211219df22e5cddbe58ec6f271865349df")
---setManifestid(1440671,"3041619648535760369")
+addappid(1440671, 1, "155b8265af52ed31033c00e1caa583211219df22e5cddbe58ec6f271865349df")

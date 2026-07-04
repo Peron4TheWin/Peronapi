@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Attack Of UNDO Zai
 addappid(1569720)
-addappid(1569721,0,"e79f5980721dc3ec6a26c55318226dc3d047ce317ceab425f418a63ec3c0511d")
--- setManifestid(1569721,"6078921408585087923")
+addappid(1569721, 1, "e79f5980721dc3ec6a26c55318226dc3d047ce317ceab425f418a63ec3c0511d")

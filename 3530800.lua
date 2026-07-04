@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Antalya
 addappid(3530800)
-addappid(3530801,0,"d28bbcb0d7587fff6d8eb6b794508665cd6ebbbbb70a27dd3c7d02d1520c3da2")
--- setManifestid(3530801,"7559524407098185781")
+addappid(3530801, 1, "d28bbcb0d7587fff6d8eb6b794508665cd6ebbbbb70a27dd3c7d02d1520c3da2")

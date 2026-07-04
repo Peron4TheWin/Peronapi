@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Just Power: The Papal States
 addappid(1909370)
-addappid(1909371,0,"c5dacd9a416674f87ef335cb50501cfa7a588f0422915a198586e00fa1a15e7b")
--- setManifestid(1909371,"1942937369014958725")
+addappid(1909371, 1, "c5dacd9a416674f87ef335cb50501cfa7a588f0422915a198586e00fa1a15e7b")

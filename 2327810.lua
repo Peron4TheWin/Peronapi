@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Girls Love Toys
 addappid(2327810)
-addappid(2327811,0,"2bdfc738b4b6c1a9a14436b895f476fa5454ff739993cb5ea5be474b902b680d")
--- setManifestid(2327811,"8836608358703762829")
+addappid(2327811, 1, "2bdfc738b4b6c1a9a14436b895f476fa5454ff739993cb5ea5be474b902b680d")

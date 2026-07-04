@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Underspace
 addappid(1111930)
-addappid(1111931,0,"706597de7cd9dd2b7c65b15cc6c365e43553ecebda513be74f31eac28600f624")
--- setManifestid(1111931,"7503194303086536619")
+addappid(1111931, 1, "706597de7cd9dd2b7c65b15cc6c365e43553ecebda513be74f31eac28600f624")

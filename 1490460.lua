@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Exorcist Fairy
 addappid(1490460)
-addappid(1490461,0,"38e7e8ec5d0adf8c67fa976da95e989317e09c9b8146b692050122ff1f1917ef")
--- setManifestid(1490461,"6417981144590832828")
+addappid(1490461, 1, "38e7e8ec5d0adf8c67fa976da95e989317e09c9b8146b692050122ff1f1917ef")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elven Love
 addappid(798590)
-addappid(798591,0,"f0126a29562efe8189985abfc5be231aa37e5bcb4dc41b1fc3d15ab0386f6361")
--- setManifestid(798591,"504882541990554912")
+addappid(798591, 1, "f0126a29562efe8189985abfc5be231aa37e5bcb4dc41b1fc3d15ab0386f6361")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World War: Rome - Free Strategy Game
 addappid(2685070)
-addappid(2685071,0,"9fdef893e81bae96bd36cf413d5a2e9fffc315f066adf0512e10f1fb42826df1")
--- setManifestid(2685071,"8263938355556717303")
+addappid(2685071, 1, "9fdef893e81bae96bd36cf413d5a2e9fffc315f066adf0512e10f1fb42826df1")

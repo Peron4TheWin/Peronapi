@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Box Nation [] Lets Go Build and Fight
 addappid(1270420)
-addappid(1270421,0,"60944a850e3c9ba917cb5a89eb93c6a7f9eae31e5fb4e58aa04c6f2f8bd589fc")
--- setManifestid(1270421,"630354385602895634")
+addappid(1270421, 1, "60944a850e3c9ba917cb5a89eb93c6a7f9eae31e5fb4e58aa04c6f2f8bd589fc")

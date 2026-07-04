@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Bowling
 addappid(2193760)
-addappid(2193761,0,"0f5e6da2f3d2bcf70b097d72833d0bf00997e7137a2279be93aa51cb77fcf154")
--- setManifestid(2193761,"9214402122128965115")
+addappid(2193761, 1, "0f5e6da2f3d2bcf70b097d72833d0bf00997e7137a2279be93aa51cb77fcf154")

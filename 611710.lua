@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kaiju Big Battel: Fighto Fantasy
 addappid(611710)
-addappid(611711,0,"820d7f57527b07f6dd97402ff0e99bd190186a5ae13532fae20ab047f3e3a34b")
--- setManifestid(611711,"4765506569570647")
+addappid(611711, 1, "820d7f57527b07f6dd97402ff0e99bd190186a5ae13532fae20ab047f3e3a34b")

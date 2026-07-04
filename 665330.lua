@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wrestling Revolution 3D
 addappid(665330)
-addappid(665331,0,"982d822012616b6d0b4d6a9b00d80cde5d4bcd241a24609093c23930755c20ff")
--- setManifestid(665331,"2390091897431297094")
-addappid(665332)
+addappid(665331, 1, "982d822012616b6d0b4d6a9b00d80cde5d4bcd241a24609093c23930755c20ff")

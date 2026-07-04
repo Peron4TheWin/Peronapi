@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Split Personality Doctor: Prologue
 addappid(2858930)
-addappid(2858931,0,"1d5b72ff499626ed2165758bd9c634f42684c5b58427736828e0fa0fc1941b26")
--- setManifestid(2858931,"5264307599921625920")
+addappid(2858931, 1, "1d5b72ff499626ed2165758bd9c634f42684c5b58427736828e0fa0fc1941b26")

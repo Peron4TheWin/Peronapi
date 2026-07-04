@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Double Stretch
 addappid(916630)
-addappid(916631,0,"7030d377bef5d6825b3f90ce07f9fcb9f35bad5c60101f8708ffa7751f9b17ac")
--- setManifestid(916631,"559926653045748418")
+addappid(916631, 1, "7030d377bef5d6825b3f90ce07f9fcb9f35bad5c60101f8708ffa7751f9b17ac")

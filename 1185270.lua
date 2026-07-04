@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 经典扫雷
 addappid(1185270)
-addappid(1185271,0,"eef35f836f36b2330ac07d2e30a0aaf309ebb1aeb3ace6127806899c62c729bf")
--- setManifestid(1185271,"5571599925480278168")
+addappid(1185271, 1, "eef35f836f36b2330ac07d2e30a0aaf309ebb1aeb3ace6127806899c62c729bf")

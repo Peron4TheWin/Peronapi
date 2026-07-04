@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elisa: Seduce the Innkeeper
 addappid(704690)
-addappid(704691,0,"c2ac6d03707ca19fb4820fa394d351c093b5ade1ab67b85cf219565943e47c89")
--- setManifestid(704691,"1382096788036843460")
+addappid(704691, 1, "c2ac6d03707ca19fb4820fa394d351c093b5ade1ab67b85cf219565943e47c89")

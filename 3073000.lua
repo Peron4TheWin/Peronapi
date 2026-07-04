@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deep Fringe Playtest
 addappid(3073000)
-addappid(3073001,0,"6b3321e11a6d8283e8116414adccd9da0fe1e2603e4441fbd790a59af4149818")
--- setManifestid(3073001,"7849295368598644798")
+addappid(3073001, 1, "6b3321e11a6d8283e8116414adccd9da0fe1e2603e4441fbd790a59af4149818")

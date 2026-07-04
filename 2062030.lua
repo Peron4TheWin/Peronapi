@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Code Alkonost: Awakening of Evil
 addappid(2062030)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2062031,0,"0c0806a489d78cefb17f41cb3490f59f62750efd6b37ab1113e691181459d638")
--- setManifestid(2062031,"8756823746954127278")
+addappid(2062031, 1, "0c0806a489d78cefb17f41cb3490f59f62750efd6b37ab1113e691181459d638")

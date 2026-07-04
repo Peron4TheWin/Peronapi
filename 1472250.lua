@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: ROG CITADEL XV
 addappid(1472250)
-addappid(1472251,0,"9571ada78f950ec450993e541648bc0c8a4740aee84e35726f7003dd43b4cc0c")
--- setManifestid(1472251,"6470278596563001932")
+addappid(1472251, 1, "9571ada78f950ec450993e541648bc0c8a4740aee84e35726f7003dd43b4cc0c")
+addappid(1938470)

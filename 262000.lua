@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Gabriel Knight: Sins of the Fathers 20th Anniversary Edition
 addappid(262000)
-addappid(322090)
-addappid(262001,0,"9fa652e00dfac45baad0f955eb4da4a3ea87d1bf12f0fd362dee30d27ada4f2e")
-addappid(262002,0,"81305D068EE5FF8CA7D3E4C95DD673D0239E24BEC44EB8398B953ED54FAE3263")
-addappid(322090,0,"bea0ae7217fcbc2843d219d1a03fa7ae2b2c37b1910f5b9bfc30423f87138ae7")
+addappid(262001, 1, "9fa652e00dfac45baad0f955eb4da4a3ea87d1bf12f0fd362dee30d27ada4f2e")
+addappid(322090, 0, "bea0ae7217fcbc2843d219d1a03fa7ae2b2c37b1910f5b9bfc30423f87138ae7")

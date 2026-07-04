@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nandeyanen!? - The 1st Sûtra
 addappid(386090)
-addappid(386091,0,"690155a7a7293f2ff957df77ad8c8d7768fb9ce38b1a73e872345db2ae59c1c9")
--- setManifestid(386091,"5174716477194880965")
+addappid(386091, 1, "690155a7a7293f2ff957df77ad8c8d7768fb9ce38b1a73e872345db2ae59c1c9")

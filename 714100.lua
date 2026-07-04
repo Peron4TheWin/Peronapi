@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Live2D VR Girls
 addappid(714100)
-addappid(714101,0,"cf30bf8dd436d29f1d226602a92a6ec85652630c2eb01c642b1e76e33b1b857a")
--- setManifestid(714101,"5814344066328339535")
+addappid(714101, 1, "cf30bf8dd436d29f1d226602a92a6ec85652630c2eb01c642b1e76e33b1b857a")

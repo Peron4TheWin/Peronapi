@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Just Another Night Shift
 addappid(2331130)
-addappid(2331131,0,"0c9747763a3a096f6bb8efe4f2bb686027090839ddcd8f1e41fa0a02b38a2661")
+addappid(2331131, 1, "0c9747763a3a096f6bb8efe4f2bb686027090839ddcd8f1e41fa0a02b38a2661")

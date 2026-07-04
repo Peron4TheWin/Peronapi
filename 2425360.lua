@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Datura Time
 addappid(2425360)
-addappid(2425361,0,"ec1b52ceb74bea2d41ddd356ca4c31dd7416f3abbdab6f4060624fde063f283a")
--- setManifestid(2425361,"3037778161418324866")
+addappid(2425361, 1, "ec1b52ceb74bea2d41ddd356ca4c31dd7416f3abbdab6f4060624fde063f283a")

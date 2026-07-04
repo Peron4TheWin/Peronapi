@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jade's Dungeon Descent
 addappid(864600)
-addappid(864601,0,"88f82b5e25ce335a04483dfec1aeb0e0a2de2e4e117e4b2943b0597e19aad39d")
--- setManifestid(864601,"2442770526721511999")
+addappid(864601, 1, "88f82b5e25ce335a04483dfec1aeb0e0a2de2e4e117e4b2943b0597e19aad39d")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cricket Captain 2023
 addappid(2333390)
--- setManifestid(228988,"6645201662696499616")
-addappid(2333391,0,"b305bdf400938d33384d8d116ea027b6c4880e697ff3c366aef07a702d01ca7a")
--- setManifestid(2333391,"3364043487998500248")
+addappid(2333391, 1, "b305bdf400938d33384d8d116ea027b6c4880e697ff3c366aef07a702d01ca7a")

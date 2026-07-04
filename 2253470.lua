@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Capoo Pals
 addappid(2253470)
-addappid(2253471,0,"e251d11f9ec5bf0a276fd832d20b2c7540e04845e91b2884f5ed4b0e3b3bdb0c")
--- setManifestid(2253471,"6523561016855856496")
+addappid(2253471, 1, "e251d11f9ec5bf0a276fd832d20b2c7540e04845e91b2884f5ed4b0e3b3bdb0c")
 addappid(2282660)
-addappid(2253472)

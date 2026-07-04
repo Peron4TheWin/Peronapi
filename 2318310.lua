@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Class of '09: The Re-Up
 addappid(2318310)
-addappid(2318311,0,"e66e5394c607068e30ae879f37749246d2f8c1c56ef69abe96347284dbcdb519")
--- setManifestid(2318311,"8926651450589153057")
-addappid(2318312)
+addappid(2318311, 1, "e66e5394c607068e30ae879f37749246d2f8c1c56ef69abe96347284dbcdb519")

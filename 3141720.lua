@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Battles
 addappid(3141720)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(229033,"2059065101492814639")
-addappid(3141721,0,"faabc616950c55e2cd75e14bcf6f1dd39adfdfec8590082a77aeb3e9487c52ef")
--- setManifestid(3141721,"518594709124257748")
+addappid(3141721, 1, "faabc616950c55e2cd75e14bcf6f1dd39adfdfec8590082a77aeb3e9487c52ef")

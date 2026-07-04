@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Conductor: Creative Joy Engine
 addappid(1518940)
-addappid(1518941,0,"c87105ae560e12ca52d3ce6589498f78c4314d2ba12ed4d5a47ebf02e2b2481e")
--- setManifestid(1518941,"4485879428314748026")
+addappid(1518941, 1, "c87105ae560e12ca52d3ce6589498f78c4314d2ba12ed4d5a47ebf02e2b2481e")
+addappid(1575490)

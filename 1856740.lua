@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arkheim - Realms at War
 addappid(1856740)
-addappid(1856741,0,"dd76ea1be992c5a7bd055a2d9e998c0b4b742098d400df1c08ac5e3f7e826721")
--- setManifestid(1856741,"1895964395153688856")
+addappid(1856741, 1, "dd76ea1be992c5a7bd055a2d9e998c0b4b742098d400df1c08ac5e3f7e826721")

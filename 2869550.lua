@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Criminal Attraction Demo
 addappid(2869550)
-addappid(2869551,0,"860df8c6367704f62ae0d2ffdf1e782b29eec8d614226970000a2756b5c7d1f2")
--- setManifestid(2869551,"3828843101515205573")
+addappid(2869551, 1, "860df8c6367704f62ae0d2ffdf1e782b29eec8d614226970000a2756b5c7d1f2")

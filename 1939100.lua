@@ -1,8 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Go Home Annie: An SCP Game
 addappid(1939100)
-addappid(1939101,0,"c01ecdeeb5905836fd332ec325fd4068016b5fb685d1d9f96f385aa7b7f1504d")
--- setManifestid(1939101,"6532431574072216074")
-
---[[
-This file Generated using fares.top Website 
------> join discord Server : https://discord.gg/steamgames 
-]]
+addappid(1939101, 1, "c01ecdeeb5905836fd332ec325fd4068016b5fb685d1d9f96f385aa7b7f1504d")

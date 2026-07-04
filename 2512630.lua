@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Life To Alice
 addappid(2512630)
-addappid(2512631,0,"d1ab8babc89fa48cad461d1aa9c822a6116c4865077ec833da8462732179674a")
--- setManifestid(2512631,"6874925588721767484")
+addappid(2512631, 1, "d1ab8babc89fa48cad461d1aa9c822a6116c4865077ec833da8462732179674a")

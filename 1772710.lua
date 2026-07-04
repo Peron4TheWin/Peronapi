@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aeroplane Blaster
 addappid(1772710)
-addappid(1772711,0,"2c5b9b05036b5312d5e0e9f1ae8e1e206807dd7d507eddca14eaba9fb627acdc")
--- setManifestid(1772711,"5122230487477929414")
+addappid(1772711, 1, "2c5b9b05036b5312d5e0e9f1ae8e1e206807dd7d507eddca14eaba9fb627acdc")

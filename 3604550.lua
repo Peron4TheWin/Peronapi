@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ball Scooping Friends
 addappid(3604550)
-addappid(3604551,0,"2aed629ae7a6d7654de2a32984ec292f74b1fd741e29faf3e1bbc607b4e4ac93")
+addappid(3604551, 1, "2aed629ae7a6d7654de2a32984ec292f74b1fd741e29faf3e1bbc607b4e4ac93")

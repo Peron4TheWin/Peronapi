@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RUSH: Only Up Multiplayer
 addappid(2497520)
-addappid(2497521,0,"34df4557ec2dd51d6f0e6e0b348f31fb895cc4f0cf2c3c9513209ecab452b4b3")
--- setManifestid(2497521,"1566029143984852172")
+addappid(2497521, 1, "34df4557ec2dd51d6f0e6e0b348f31fb895cc4f0cf2c3c9513209ecab452b4b3")

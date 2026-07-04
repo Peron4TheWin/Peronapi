@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game Master Engine
 addappid(1451680)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1451681,0,"cfe6da64413518338e760a8cdfde322bdbf1e7b2423a04029067f21ca1dcb3df")
--- setManifestid(1451681,"1151590233601268086")
+addappid(1451681, 1, "cfe6da64413518338e760a8cdfde322bdbf1e7b2423a04029067f21ca1dcb3df")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ink Paper Minesweeper
 addappid(1614740)
-addappid(1614741,0,"35f041c0ad0c6ea4f25e5a8801be6b7697e5e5a283b732330350b1554260d2a8")
--- setManifestid(1614741,"1831633048041229671")
+addappid(1614741, 1, "35f041c0ad0c6ea4f25e5a8801be6b7697e5e5a283b732330350b1554260d2a8")
+addappid(1639820)

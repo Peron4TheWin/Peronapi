@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Manifest Destiny
 addappid(2611410)
-addappid(2611411,0,"4800ce631e2ac62d1b40c657123263a512dd031e29c3fa5fa951ba5f14f06d43")
--- setManifestid(2611411,"6349650967456623337")
+addappid(2611411, 1, "4800ce631e2ac62d1b40c657123263a512dd031e29c3fa5fa951ba5f14f06d43")

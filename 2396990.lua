@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fate/hollow ataraxia REMASTERED
 addappid(2396990)
-addappid(2396991,0,"5100b046f94ce318bd23122f91c9d90b4a0e8c0e873bee7bde1cea354300cc52")
--- setManifestid(2396991,"8641599061578730866")
+addappid(2396991, 1, "5100b046f94ce318bd23122f91c9d90b4a0e8c0e873bee7bde1cea354300cc52")

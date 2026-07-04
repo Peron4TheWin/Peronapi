@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bing in Wonderland
 addappid(1710100)
-addappid(1710101,0,"696a45c513e6fe62f82449905bfb2b7684e227eec359f11993833a62390b0a4e")
+addappid(1710101, 1, "696a45c513e6fe62f82449905bfb2b7684e227eec359f11993833a62390b0a4e")

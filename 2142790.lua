@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fields of Mistria
 addappid(2142790)
-addappid(2142791,0,"b0773c2441743d1c8975c20922ec8e1bfc9122d75cff9bb8cdb6e99ba5c0d030")
--- setManifestid(2142791,"401744780796893209")
+addappid(2142791, 1, "b0773c2441743d1c8975c20922ec8e1bfc9122d75cff9bb8cdb6e99ba5c0d030")

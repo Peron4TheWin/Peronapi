@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 欢迎加入奇趣社
 addappid(1689010)
-addappid(1689011,0,"772c22d527e9aa67b00872d2df5c900712d6fcdda7524e53377aabe04f0674ae")
--- setManifestid(1689011,"3721055624659868041")
+addappid(1689011, 1, "772c22d527e9aa67b00872d2df5c900712d6fcdda7524e53377aabe04f0674ae")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wall Town Wonders
 addappid(3570400)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3570401,0,"dc1362968e848bb2f099b2ba9bcd8cb100874db868ab0e552e769a06f7ca6b24")
--- setManifestid(3570401,"1936137995234663235")
+addappid(3570401, 1, "dc1362968e848bb2f099b2ba9bcd8cb100874db868ab0e552e769a06f7ca6b24")

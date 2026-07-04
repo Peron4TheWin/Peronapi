@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Swimming Club
 addappid(1361500)
-addappid(1361501,0,"ebffcf6ad1ee2fcdab938eab8cb4b9c8952e2194391b5e33d38ace444918b602")
--- setManifestid(1361501,"2162556642169985960")
+addappid(1361501, 1, "ebffcf6ad1ee2fcdab938eab8cb4b9c8952e2194391b5e33d38ace444918b602")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Futanari girlfriends ⚧👧🍆
 addappid(2579470)
-addappid(2579471,0,"c1ebde62c8426536108bc09fcd954d334070caedddd0389d771df07e926c0864")
--- setManifestid(2579471,"3025539038549291424")
+addappid(2579471, 1, "c1ebde62c8426536108bc09fcd954d334070caedddd0389d771df07e926c0864")

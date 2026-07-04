@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World of Goo Demo
 addappid(22010)
-addappid(22011,0,"d5d72b008050a2e8e93079efa72a3f0e5038a9b6fdf83a17e707c658cd4ab475")
--- setManifestid(22011,"749112230312534736")
+addappid(22011, 1, "d5d72b008050a2e8e93079efa72a3f0e5038a9b6fdf83a17e707c658cd4ab475")

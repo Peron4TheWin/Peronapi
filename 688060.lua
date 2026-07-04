@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Odd Realm
 addappid(688060)
-addappid(688061,0,"17113a3ff27562d68ceec2376e075ef106ff7e1227eb87560f6156b9fa493aaa")
--- setManifestid(688061,"4441872404754789252")
+addappid(688061, 1, "17113a3ff27562d68ceec2376e075ef106ff7e1227eb87560f6156b9fa493aaa")

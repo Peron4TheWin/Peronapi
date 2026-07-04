@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Happy Girls
 addappid(1103810)
-addappid(1103811,0,"b0f806a0209f4f5d8ba4f90af8181d5509aaf128a57a956749bcf88a890f8cad")
--- setManifestid(1103811,"9045938386054913020")
+addappid(1103811, 1, "b0f806a0209f4f5d8ba4f90af8181d5509aaf128a57a956749bcf88a890f8cad")

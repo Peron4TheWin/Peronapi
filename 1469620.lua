@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epic Battle Fantasy Collection
 addappid(1469620)
-addappid(1469621,0,"dcfe77533bfd79030422a00f95dc80e47b90b105cee8b9933c27a321a2d5d683")
+addappid(1469621, 1, "dcfe77533bfd79030422a00f95dc80e47b90b105cee8b9933c27a321a2d5d683")

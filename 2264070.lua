@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 无梦少女 DreamlessGirl Demo
 addappid(2264070)
-addappid(2264071,0,"dd3bd7c5439317b447c8c10816541b269ddb4dd5fd98e9a9fbe2c67e97792eab")
--- setManifestid(2264071,"1758160613328110803")
+addappid(2264071, 1, "dd3bd7c5439317b447c8c10816541b269ddb4dd5fd98e9a9fbe2c67e97792eab")

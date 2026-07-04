@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PataNoir
 addappid(449150)
-addappid(449151,0,"ae9a80354b3826927f2d1172c9f1a82e5c2b6ca7028f3e7b0db218f303ca647b")
--- setManifestid(449151,"7526439631920982241")
+addappid(449151, 1, "ae9a80354b3826927f2d1172c9f1a82e5c2b6ca7028f3e7b0db218f303ca647b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Next Hand Master
 addappid(1138360)
-addappid(1138361,0,"7c81ca38cdf597cf1418c9c49dfc1b4f5946b3b0bb80e7def598bfa5aa315444")
--- setManifestid(1138361,"4147381370034959878")
+addappid(1138361, 1, "7c81ca38cdf597cf1418c9c49dfc1b4f5946b3b0bb80e7def598bfa5aa315444")

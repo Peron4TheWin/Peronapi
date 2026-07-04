@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crowalt: Traces of the Lost Colony - Prologue
 addappid(1567260)
-addappid(1567261,0,"0bd7de980f9c1d5f23c391565fac69d78a69c878803721e037516aa62fd1d5b8")
--- setManifestid(1567261,"7470890030678976682")
+addappid(1567261, 1, "0bd7de980f9c1d5f23c391565fac69d78a69c878803721e037516aa62fd1d5b8")

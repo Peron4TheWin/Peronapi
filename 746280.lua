@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alpha Locus VR
 addappid(746280)
-addappid(746281,0,"4a8c606d185e63b8b7f4cf94a400dd8b2ac57aad47b8fcd614a25af929c52790")
--- setManifestid(746281,"5455847930508011009")
+addappid(746281, 1, "4a8c606d185e63b8b7f4cf94a400dd8b2ac57aad47b8fcd614a25af929c52790")

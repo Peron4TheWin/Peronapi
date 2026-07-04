@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CDB6: A Maldição dos Zumbis
 addappid(3248320)
-addappid(3248321,0,"99e42ced7a38eacfd7954574ee4ec6cb55ed302dae6af633c0178899c3fc141f")
--- setManifestid(3248321,"844835161239622307")
+addappid(3248321, 1, "99e42ced7a38eacfd7954574ee4ec6cb55ed302dae6af633c0178899c3fc141f")

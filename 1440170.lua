@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: House Builder Demo
 addappid(1440170)
-addappid(1440171,0,"d15824f5d78f8bc22aa8cf656822400d5cb8a4ee35d3925b23ec5c7ec9469f9c")
--- setManifestid(1440171,"4856916577807210809")
+addappid(1440171, 1, "d15824f5d78f8bc22aa8cf656822400d5cb8a4ee35d3925b23ec5c7ec9469f9c")

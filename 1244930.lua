@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mask of the Plague Doctor
 addappid(1244930)
-addappid(1244931,0,"3299f553032fad7d89dc668d6e7c574d6a8207c5497ebd4b9c663b447ca3d12b")
--- setManifestid(1244931,"7689170234231340777")
+addappid(1244931, 1, "3299f553032fad7d89dc668d6e7c574d6a8207c5497ebd4b9c663b447ca3d12b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 神树残响 Soundtrack
 addappid(3610020)
-addappid(3610021,0,"cce13dfe6413104534b5ed5fe171ec61e83c3d507b6d4820c932e5147a2d873c")
--- setManifestid(3610021,"796589200218047486")
+addappid(3610021, 1, "cce13dfe6413104534b5ed5fe171ec61e83c3d507b6d4820c932e5147a2d873c")

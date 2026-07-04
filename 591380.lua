@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bomb Squad Academy
 addappid(591380)
-addappid(591381,0,"ac21a251cf35d73c0f14a382dcc69f7d46abdd408674751fbe00f66c5d22a2d1")
--- setManifestid(591381,"8819920470145590863")
-addappid(591382)
-addappid(591383)
+addappid(591381, 1, "ac21a251cf35d73c0f14a382dcc69f7d46abdd408674751fbe00f66c5d22a2d1")

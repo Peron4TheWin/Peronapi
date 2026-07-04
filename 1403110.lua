@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Primeval
 addappid(1403110)
-addappid(1403111,0,"34b6d448bfb8d8f729ed928d9642a2d256b5a4ef720b9090ee9e6ceb81ef458d")
--- setManifestid(1403111,"1528015299654534710")
+addappid(1403111, 1, "34b6d448bfb8d8f729ed928d9642a2d256b5a4ef720b9090ee9e6ceb81ef458d")

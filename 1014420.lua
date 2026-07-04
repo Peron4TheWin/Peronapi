@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blind Date
 addappid(1014420)
-addappid(1014421,0,"c4c284b235e508c20a2b80ca2ec5d9074b090c36d8cebf298279f04a766a4f78")
--- setManifestid(1014421,"1937004470549706799")
+addappid(1014421, 1, "c4c284b235e508c20a2b80ca2ec5d9074b090c36d8cebf298279f04a766a4f78")

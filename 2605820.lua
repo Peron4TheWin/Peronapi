@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AppID 2605820
 addappid(2605820)
-addappid(2605821,0,"ef7306ad72499fc570e00b6d2a562d918a40e923e2bbfa6d24f412fe5586c8c1")
--- setManifestid(2605821,"5709074661838061490")
+addappid(2605821, 1, "ef7306ad72499fc570e00b6d2a562d918a40e923e2bbfa6d24f412fe5586c8c1")

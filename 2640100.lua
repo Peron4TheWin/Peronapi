@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grandma's House: College Days
 addappid(2640100)
-addappid(2640101,0,"9d4ab7349eac11f807e8b34b147c1510feb5f8f63d712c309478d6fcfbe50727")
+addappid(2640101, 1, "9d4ab7349eac11f807e8b34b147c1510feb5f8f63d712c309478d6fcfbe50727")

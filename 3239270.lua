@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Night Shift Nurses
 addappid(3239270)
-addappid(3239271,0,"94c30ac47ad9c694a516a45cbc89f73e179cf4456d6aec9a1c0c95b1378084b3")
--- setManifestid(3239271,"229176277399209504")
+addappid(3239271, 1, "94c30ac47ad9c694a516a45cbc89f73e179cf4456d6aec9a1c0c95b1378084b3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 幻刃录
 addappid(1413310)
-addappid(1413311,0,"1e1c01f66230b7f14ea8d8ac96eeee46aa59465677e9368be5392d88b2b25418")
--- setManifestid(1413311,"2959034855860617975")
+addappid(1413311, 1, "1e1c01f66230b7f14ea8d8ac96eeee46aa59465677e9368be5392d88b2b25418")

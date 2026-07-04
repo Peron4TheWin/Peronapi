@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ProTubeVR Companion-App
 addappid(2649770)
-addappid(2649771,0,"d23ef8f51235759a2743f06df00f8db0c7d95200bc1e78063c88edcf0885553d")
--- setManifestid(2649771,"6159929065291125233")
+addappid(2649771, 1, "d23ef8f51235759a2743f06df00f8db0c7d95200bc1e78063c88edcf0885553d")

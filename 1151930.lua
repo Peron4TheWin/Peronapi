@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Buissons
 addappid(1151930)
-addappid(1151931,0,"812f1a485bd24855baa9de169916b561dafd22c6a65f24d13ad6df2eb0bd8805")
--- setManifestid(1151931,"5295298754219249578")
-addappid(1151932)
+addappid(1151931, 1, "812f1a485bd24855baa9de169916b561dafd22c6a65f24d13ad6df2eb0bd8805")

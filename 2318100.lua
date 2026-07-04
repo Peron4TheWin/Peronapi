@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tales of the Magic Ball: The Lost Sorcerer
 addappid(2318100)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2318101,0,"a73a405a446c792d3f43d000aa232b4001075cba89292ec0d06d07176c86ffd6")
--- setManifestid(2318101,"3029587329844505801")
+addappid(2318101, 1, "a73a405a446c792d3f43d000aa232b4001075cba89292ec0d06d07176c86ffd6")

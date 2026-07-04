@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beyond the Mountains
 addappid(2107170)
--- setManifestid(228990,"1829726630299308803")
-addappid(2107171,0,"6f3e72f8440a38934a6ad244792225f61acf72e83e8ae921089cc0d2761dccc1")
--- setManifestid(2107171,"2598495460121786727")
+addappid(2107171, 1, "6f3e72f8440a38934a6ad244792225f61acf72e83e8ae921089cc0d2761dccc1")

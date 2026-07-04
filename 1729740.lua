@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Luto
 addappid(1729740)
-addappid(1729741,0,"ae083aff6754925333f345c885acd58509a103503fd7ce6de8abe8b03e9fe4d2")
--- setManifestid(1729741,"2975965042191885637")
+addappid(1729741, 1, "ae083aff6754925333f345c885acd58509a103503fd7ce6de8abe8b03e9fe4d2")

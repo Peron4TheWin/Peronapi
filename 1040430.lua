@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Adventure Climb VR
 addappid(1040430)
-addappid(1040431,0,"56b10c2d3675d0893fcebbb7ae1116e9123f2c3de984b0eafbe3e77f6ef939f4")
--- setManifestid(1040431,"5117254156932997739")
+addappid(1040431, 1, "56b10c2d3675d0893fcebbb7ae1116e9123f2c3de984b0eafbe3e77f6ef939f4")
+addappid(2071880)

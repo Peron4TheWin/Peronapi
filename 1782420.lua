@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tales from The Dancing Moon
 addappid(1782420)
-addappid(1782421,0,"f15ddfbdcc5ae7259e05262e1e33f20c14eee0114e095ee775ed833977a89f06")
--- setManifestid(1782421,"7643339858085340093")
+addappid(1782421, 1, "f15ddfbdcc5ae7259e05262e1e33f20c14eee0114e095ee775ed833977a89f06")

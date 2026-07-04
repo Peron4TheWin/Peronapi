@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heaven Dust
 addappid(1032590)
-addappid(1032591,0,"c8ecfe8285acbb771ce44d5a73771c541f30fcb084d5cd0fde0d34f8f4f80a83")
---setManifestid(1032591,"421057523090211130")
+addappid(1032591, 1, "c8ecfe8285acbb771ce44d5a73771c541f30fcb084d5cd0fde0d34f8f4f80a83")

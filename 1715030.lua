@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Godstone
 addappid(1715030)
-addappid(1715031,0,"d56b94fdf0aee88da1c34da598e96c56dc6c68144014fd78bc8af85b082a2bd2")
--- setManifestid(1715031,"8620441444855228055")
+addappid(1715031, 1, "d56b94fdf0aee88da1c34da598e96c56dc6c68144014fd78bc8af85b082a2bd2")

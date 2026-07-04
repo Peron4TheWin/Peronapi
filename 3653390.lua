@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Final Echo
 addappid(3653390)
-addappid(3653391,0,"4127dc2325c5bc587806a8c99c3f2fee34c79ad9c8a15550d382926aff172974")
--- setManifestid(3653391,"4171418082431253011")
+addappid(3653391, 1, "4127dc2325c5bc587806a8c99c3f2fee34c79ad9c8a15550d382926aff172974")

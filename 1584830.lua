@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Duck Creator
 addappid(1584830)
-addappid(1584831,0,"866bceeec216b37287f30c61e60350bb721677610a79f28a2faa7065303515fe")
--- setManifestid(1584831,"2407940599085858978")
+addappid(1584831, 1, "866bceeec216b37287f30c61e60350bb721677610a79f28a2faa7065303515fe")

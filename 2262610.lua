@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Endless Monday: Dreams and Deadlines
 addappid(2262610)
-addappid(2262611,0,"6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363")
--- setManifestid(2262611,"3683967345396199204")
+addappid(2262611, 1, "6dcaffbc78aa5951f599de7972be0348674e2da77ea436e94ba4ca74d492f363")

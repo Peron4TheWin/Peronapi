@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Still Light
 addappid(1452180)
-addappid(1452181,0,"606aa169a45092eba28c2010d093e3ab264292110dc2dc58beec222be94c659f")
--- setManifestid(1452181,"2956740502331419214")
+addappid(1452181, 1, "606aa169a45092eba28c2010d093e3ab264292110dc2dc58beec222be94c659f")

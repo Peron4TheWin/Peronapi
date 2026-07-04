@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 回生九命 The Nine Rebirths
 addappid(3108050)
-addappid(3108051,0,"436c26c6ba34b688c92639cdbfb8eb939aa5ce09ea9b978c9d4fadc638ca1e85")
--- setManifestid(3108051,"5713402196017194080")
+addappid(3108051, 1, "436c26c6ba34b688c92639cdbfb8eb939aa5ce09ea9b978c9d4fadc638ca1e85")

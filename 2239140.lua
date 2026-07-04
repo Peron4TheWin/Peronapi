@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grapples Galore
 addappid(2239140)
-addappid(2239141,0,"ce7a2abe51105acda36d9f11d13c06a7cbfc2cbf96367d9d552bfcf179c49732")
--- setManifestid(2239141,"6525493318290501093")
+addappid(2239141, 1, "ce7a2abe51105acda36d9f11d13c06a7cbfc2cbf96367d9d552bfcf179c49732")

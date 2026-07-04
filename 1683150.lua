@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Railroader
 addappid(1683150)
-addappid(1683151,0,"a6213f68b5dd47f4f8e9e0252dfc6ff390dea9931c891b01fca20408efae3bb9")
---setManifestid(1683151,"380914064683205385")
+addappid(1683151, 1, "a6213f68b5dd47f4f8e9e0252dfc6ff390dea9931c891b01fca20408efae3bb9")

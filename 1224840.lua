@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frozen Memories
 addappid(1224840)
-addappid(1224841,0,"623637b11df4777e7bdbe2d33000af213b6b4c3e80d8122a17538d37068d7fae")
--- setManifestid(1224841,"7523099591382606970")
+addappid(1224841, 1, "623637b11df4777e7bdbe2d33000af213b6b4c3e80d8122a17538d37068d7fae")

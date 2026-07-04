@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Theater of Death
 addappid(3181150)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3181151,0,"85361eea0a2d82f9653c3b4a00c365429ece20fb82da8ec1098f30168f3c54c6")
--- setManifestid(3181151,"7411720813659644937")
+addappid(3181151, 1, "85361eea0a2d82f9653c3b4a00c365429ece20fb82da8ec1098f30168f3c54c6")

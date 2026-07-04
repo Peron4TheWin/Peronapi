@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The secret of the stone
 addappid(1424700)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1424701,0,"4b433a953ce8d8c6173922a969461dff2b5fe08a7bea73337992eaff25f14fd6")
--- setManifestid(1424701,"3127570307330806868")
+addappid(1424701, 1, "4b433a953ce8d8c6173922a969461dff2b5fe08a7bea73337992eaff25f14fd6")

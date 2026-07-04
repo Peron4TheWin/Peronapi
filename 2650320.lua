@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: POWERNAUT DECAY
 addappid(2650320)
-addappid(2650321,0,"0a0649712ac08796a6f28dee43215f22f17a688861b164cd7317dd825eefbde6")
--- setManifestid(2650321,"7952177826530941556")
+addappid(2650321, 1, "0a0649712ac08796a6f28dee43215f22f17a688861b164cd7317dd825eefbde6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Klutzy Cupid
 addappid(2370540)
-addappid(2370541,0,"d577b2bfeb5d72840d58ea4132e5f025519f2c28547943aacc159093cd09eb3e")
--- setManifestid(2370541,"1532141494689572646")
+addappid(2370541, 1, "d577b2bfeb5d72840d58ea4132e5f025519f2c28547943aacc159093cd09eb3e")

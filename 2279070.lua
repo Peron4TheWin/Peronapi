@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Riot Operator Demo
 addappid(2279070)
-addappid(2279071,0,"45bf7965f01a4f66cfa397b03d667c70725a4f433f176b17c76d435007dbd4c8")
--- setManifestid(2279071,"3163923479454937667")
+addappid(2279071, 1, "45bf7965f01a4f66cfa397b03d667c70725a4f433f176b17c76d435007dbd4c8")

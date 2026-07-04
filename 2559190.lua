@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Greyskin Demo
 addappid(2559190)
-addappid(2559191,0,"89f8ec6d3a06c0b94d7139b4a3c2357c10a3bf37d405833d4c1757bcb42c4d94")
+addappid(2559191, 1, "89f8ec6d3a06c0b94d7139b4a3c2357c10a3bf37d405833d4c1757bcb42c4d94")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 阴桃花 (The Flowers of Yin)
 addappid(2116000)
--- setManifestid(229005,"7992454656023763365")
-addappid(2116001,0,"d119204c2f50cadb39401ff8e374236758a0de15800bbdf4eab916767422f081")
--- setManifestid(2116001,"8742068693154035970")
+addappid(2116001, 1, "d119204c2f50cadb39401ff8e374236758a0de15800bbdf4eab916767422f081")

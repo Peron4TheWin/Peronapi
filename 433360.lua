@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drawn™: Dark Flight
 addappid(433360)
-addappid(433361,0,"7d51d761b3b9ad53b73d408f492cbc34020d639f611870766e67251fd3013a91")
--- setManifestid(433361,"118912897120306621")
+addappid(433361, 1, "7d51d761b3b9ad53b73d408f492cbc34020d639f611870766e67251fd3013a91")

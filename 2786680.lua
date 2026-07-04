@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knowledge, or know Lady
 addappid(2786680)
-addappid(2786681,0,"ba93faedc0bc173e603c50c2a54859361aef98782e177bcbaf501dbfc4671f79")
--- setManifestid(2786681,"6432693176925973402")
+addappid(2786681, 1, "ba93faedc0bc173e603c50c2a54859361aef98782e177bcbaf501dbfc4671f79")

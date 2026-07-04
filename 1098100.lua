@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: OhShape
 addappid(1098100)
-addappid(1098101,0,"6da9536130756e4e4a34ee6a0858c0ed7c9fcb27b136bf504ca99ebaed3405d5")
--- setManifestid(1098101,"4861662129592252441")
+addappid(1098101, 1, "6da9536130756e4e4a34ee6a0858c0ed7c9fcb27b136bf504ca99ebaed3405d5")
+addappid(1675930)

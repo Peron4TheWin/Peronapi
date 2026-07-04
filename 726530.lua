@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Operation Warcade VR Demo
 addappid(726530)
-addappid(726531,0,"ffd6e7a2cb34c903fdd67ca453139daa7ebb36bc925455e22f3bc39116d5f25d")
--- setManifestid(726531,"5705377686812285558")
+addappid(726531, 1, "ffd6e7a2cb34c903fdd67ca453139daa7ebb36bc925455e22f3bc39116d5f25d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arthurian Legends
 addappid(658890)
-addappid(658891,0,"45b7a4ec6e3f5f1c29ef2df53c8a237bf82936c27be11fbbb6077df69afed97b")
--- setManifestid(658891,"3372058215646104815")
+addappid(658891, 1, "45b7a4ec6e3f5f1c29ef2df53c8a237bf82936c27be11fbbb6077df69afed97b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Box Survivors World in Deathrun Guys
 addappid(1752840)
-addappid(1752841,0,"de41af8126040860022ed9229548e2143bb2f55b8e947b2c2ee2c6cb8205c70e")
--- setManifestid(1752841,"8294855009133161568")
+addappid(1752841, 1, "de41af8126040860022ed9229548e2143bb2f55b8e947b2c2ee2c6cb8205c70e")

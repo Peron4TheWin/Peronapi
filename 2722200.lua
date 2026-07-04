@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sugar,sugar,sugarcoat
 addappid(2722200)
-addappid(2722201,0,"00c2336df2e74ad4c182c26c9e06b21b78da067926324f76ce2ac5814426287f")
--- setManifestid(2722201,"6746157779892849591")
+addappid(2722201, 1, "00c2336df2e74ad4c182c26c9e06b21b78da067926324f76ce2ac5814426287f")

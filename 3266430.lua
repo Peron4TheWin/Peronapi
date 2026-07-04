@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Collapsed Galaxy 2 Demo
 addappid(3266430)
-addappid(3266431,0,"7c18bc21f6ac0c1683aacddb9ed1892e951b7af7534da34e373813e806df3cba")
--- setManifestid(3266431,"3580974214797242118")
+addappid(3266431, 1, "7c18bc21f6ac0c1683aacddb9ed1892e951b7af7534da34e373813e806df3cba")

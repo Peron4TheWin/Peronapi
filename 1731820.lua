@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEBIE ZONE
 addappid(1731820)
-addappid(1731821,0,"39e53d44d9422eda00237ae774ba8ff754356b6ad3d4ca8eb82e82a1610c6bae")
--- setManifestid(1731821,"3935621102280395262")
+addappid(1731821, 1, "39e53d44d9422eda00237ae774ba8ff754356b6ad3d4ca8eb82e82a1610c6bae")

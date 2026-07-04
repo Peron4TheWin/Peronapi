@@ -1,7 +1,4 @@
-addappid(13510, 1, "None")
+-- Lua provided by SkyAPI 
+-- Game: Tom Clancy's Ghost Recon Advanced Warfighter® 2
+addappid(13510)
 addappid(13511, 1, "585a08ac104dcf68f36fa9b1d7d12a639a2cbc009fa2a86fb4d2b8e966a6d777")
-addappid(13512, 1, "046a24c31b6e7e287e8b6e7e0d99cfe65605b5014184d5f5d533eb01fb028a1e")
-addappid(13513, 1, "802fddfbbe4e32e14331a5ebf428516b54341679a390c8a853427e20471dfdc6")
-addappid(13514, 1, "42722784f9de78ea97ccb4d0681f70a8779f8f33ee3552b8fab129105245a801")
-addappid(13515, 1, "c8dee9165b601b8e5b8556ee814790052db8fff5acf5d1b83e41b49fb4df9941")
-addappid(13516, 1, "b17c184d7c9f7360e3c8f48ccac21c219862f72acd9b6e89b0847d087886378f")

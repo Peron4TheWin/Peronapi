@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Laundromat Manager Simulator Demo
 addappid(3507790)
-addappid(3507791,0,"ccc5f37eb12b9bc62f40e3cceca2905e386b4c3e824046a91f420c60c7015535")
+addappid(3507791, 1, "ccc5f37eb12b9bc62f40e3cceca2905e386b4c3e824046a91f420c60c7015535")

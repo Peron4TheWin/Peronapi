@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dragon Chronicles: Black Tears
 addappid(2701350)
-addappid(2701351,0,"c519152f7cb9a109cc7ad8b1929c306f0a18d43506ba52ea602c36bc81724ed2")
--- setManifestid(2701351,"5458787378701309590")
+addappid(2701351, 1, "c519152f7cb9a109cc7ad8b1929c306f0a18d43506ba52ea602c36bc81724ed2")

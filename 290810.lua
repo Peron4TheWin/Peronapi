@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Colossal Kaiju Combat™: Kaijuland Battles
 addappid(290810)
--- setManifestid(228990,"1829726630299308803")
-addappid(290811,0,"14815ddc03305aa4a470fc103f6f3f9120736196043b7f6c367e8d87c316aca3")
--- setManifestid(290811,"4234075103727436132")
+addappid(290811, 1, "14815ddc03305aa4a470fc103f6f3f9120736196043b7f6c367e8d87c316aca3")

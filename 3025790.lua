@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FURRY Sex Resort 🏝🔞
 addappid(3025790)
-addappid(3025791,0,"524590f3344c11fedc7ca4feff1c397cc5b7f28780eafa6c0c370f655579affa")
--- setManifestid(3025791,"2077259794183817717")
+addappid(3025791, 1, "524590f3344c11fedc7ca4feff1c397cc5b7f28780eafa6c0c370f655579affa")

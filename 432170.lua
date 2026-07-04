@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silver Knight
 addappid(432170)
-addappid(432171,0,"10ec6ed434433b9c768fdc447061bd84f96906f482c19df8466e4733383e73c0")
--- setManifestid(432171,"262315425835569185")
+addappid(432171, 1, "10ec6ed434433b9c768fdc447061bd84f96906f482c19df8466e4733383e73c0")

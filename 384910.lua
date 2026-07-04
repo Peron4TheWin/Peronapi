@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Half of Darkness - Society of the Serpent Moon
 addappid(384910)
--- setManifestid(228990,"1829726630299308803")
-addappid(384911,0,"454883ac8b24a138c73f0302ddc7bf54e74193f162f97c440060c103a3240fb4")
--- setManifestid(384911,"4303162062582157860")
+addappid(384911, 1, "454883ac8b24a138c73f0302ddc7bf54e74193f162f97c440060c103a3240fb4")

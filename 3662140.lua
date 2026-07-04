@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Firestorm is Coming
 addappid(3662140)
-addappid(3662141,0,"580a91536b359b40f6f01c51c50bf8f3d2b5ea730bfc982be4c48f3b243eb210")
--- setManifestid(3662141,"8928596733909671679")
+addappid(3662141, 1, "580a91536b359b40f6f01c51c50bf8f3d2b5ea730bfc982be4c48f3b243eb210")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OVERLORD: ESCAPE FROM NAZARICK
 addappid(1782150)
-addappid(229007)
--- setManifestid(229007,"4477590687906973371")
-addappid(1782151,0,"40fa3dbb5b2fd06ae51cd2f81b245f06c2a6b84715fd973c7c5297c588d72801")
--- setManifestid(1782151,"5728802247512949073")
+addappid(1782151, 1, "40fa3dbb5b2fd06ae51cd2f81b245f06c2a6b84715fd973c7c5297c588d72801")

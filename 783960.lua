@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forgotten Sound 2: Destiny
 addappid(783960)
-addappid(783961,0,"87e3ab312072c432296fade4fc8cf8ee067ba614075749e603bcdc2773dc1546")
--- setManifestid(783961,"4777895608480109676")
+addappid(783961, 1, "87e3ab312072c432296fade4fc8cf8ee067ba614075749e603bcdc2773dc1546")

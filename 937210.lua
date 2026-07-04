@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: МЫЛО УРОНИЛ
 addappid(937210)
-addappid(937211,0,"d2d93f2f2d393b81d1792fd93c7767065e6ab7ade3cce70592b9706a4e3afda6")
--- setManifestid(937211,"8095165241650010229")
+addappid(937211, 1, "d2d93f2f2d393b81d1792fd93c7767065e6ab7ade3cce70592b9706a4e3afda6")

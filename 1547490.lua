@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Black Cat
 addappid(1547490)
-addappid(1547491,0,"46eed010f9d4afdb3cf836b2c3328bbab7fc89cc8393b429667638ca76080cad")
--- setManifestid(1547491,"11166045600063846")
+addappid(1547491, 1, "46eed010f9d4afdb3cf836b2c3328bbab7fc89cc8393b429667638ca76080cad")

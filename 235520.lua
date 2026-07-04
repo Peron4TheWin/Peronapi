@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The White Laboratory
 addappid(235520)
-addappid(235521,0,"28e6876ca5679df8679bf1e92952638c43f60c3c512363f62a2baba60e71aeeb")
--- setManifestid(235521,"3003986124804449861")
+addappid(235521, 1, "28e6876ca5679df8679bf1e92952638c43f60c3c512363f62a2baba60e71aeeb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aarik And The Ruined Kingdom Demo
 addappid(2791990)
-addappid(2791991,0,"e4a7faa52e175af2fa592ab95bf48e7776cd978ba9e030d47d48458d9ff29b6c")
--- setManifestid(2791991,"5915108085943221285")
+addappid(2791991, 1, "e4a7faa52e175af2fa592ab95bf48e7776cd978ba9e030d47d48458d9ff29b6c")

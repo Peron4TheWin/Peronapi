@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gothic Girls
 addappid(1406270)
-addappid(1406271,0,"8e38c04f0d3fcc0f4d2118e105230d0ff34069d19fe4375c629073c18f461c70")
+addappid(1406271, 1, "8e38c04f0d3fcc0f4d2118e105230d0ff34069d19fe4375c629073c18f461c70")

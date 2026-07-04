@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: OCTOPATH TRAVELER 0
+addappid(3014320)
+addappid(3014321, 1, "376135a423323c017c43031fbf0c4048cf6ea9a6ca94311cd04879ad9a043491")
+addappid(3825480)

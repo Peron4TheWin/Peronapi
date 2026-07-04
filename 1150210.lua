@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blind Spot / 盲点 Demo
 addappid(1150210)
-addappid(1150211,0,"416eb9328992c295dd4f40f0478d9c450b067c09649a5a67f51cd6afc3509546")
--- setManifestid(1150211,"5537514214934985362")
+addappid(1150211, 1, "416eb9328992c295dd4f40f0478d9c450b067c09649a5a67f51cd6afc3509546")

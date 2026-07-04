@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battle Grid
 addappid(2281480)
-addappid(2281481,0,"31de3d902f0c66ed8844ae62b4448ca1e061b3e047dc7518fc5f44bcc0a5044c")
--- setManifestid(2281481,"4618571889471935077")
+addappid(2281481, 1, "31de3d902f0c66ed8844ae62b4448ca1e061b3e047dc7518fc5f44bcc0a5044c")

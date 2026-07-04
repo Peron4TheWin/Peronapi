@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ocean Cat
 addappid(2377700)
-addappid(2377701,0,"8102a09b0391b6ec1476ae545673d8ddc634ebc116be919088f400f74fc074c7")
--- setManifestid(2377701,"7096442592422209152")
+addappid(2377701, 1, "8102a09b0391b6ec1476ae545673d8ddc634ebc116be919088f400f74fc074c7")

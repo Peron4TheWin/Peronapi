@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Werelderfgoed: Romeins Aquaduct van Nijmegen en Berg en Dal
 addappid(2521190)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2521191,0,"4a50bef67ef212fc1d413c755141e6073683c99745550ee118a6165eb2f7a6b4")
--- setManifestid(2521191,"4819549361475523836")
+addappid(2521191, 1, "4a50bef67ef212fc1d413c755141e6073683c99745550ee118a6165eb2f7a6b4")

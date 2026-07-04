@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arali
 addappid(2016410)
--- setManifestid(228989,"3514306556860204959")
-addappid(2016411,0,"1dc12cebde0a633fd1649fe1244242ec690e8906adb72a35fdb2798d1382531c")
--- setManifestid(2016411,"473884223047311451")
+addappid(2016411, 1, "1dc12cebde0a633fd1649fe1244242ec690e8906adb72a35fdb2798d1382531c")

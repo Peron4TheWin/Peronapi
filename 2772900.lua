@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cipher Monk
 addappid(2772900)
-addappid(2772901,0,"bbcefbb856081d437a739c01b8bcad1f18c00b3eebcc31e937109775f81b46d0")
--- setManifestid(2772901,"4691722255742280267")
+addappid(2772901, 1, "bbcefbb856081d437a739c01b8bcad1f18c00b3eebcc31e937109775f81b46d0")

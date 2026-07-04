@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Anx Defense Demo
 addappid(2602850)
-addappid(2602851,0,"a59897768683f6caecb6df116b586e4a133332cc44f5a243f80586caf19ba67a")
--- setManifestid(2602851,"7457721302192688219")
+addappid(2602851, 1, "a59897768683f6caecb6df116b586e4a133332cc44f5a243f80586caf19ba67a")

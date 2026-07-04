@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hookah Haze Demo
 addappid(2507920)
-addappid(2507921,0,"147e98b97a7d742112d40084c119f3ab30cfddc4a2e008a671e871ca0fcb307b")
--- setManifestid(2507921,"8488555883764992145")
+addappid(2507921, 1, "147e98b97a7d742112d40084c119f3ab30cfddc4a2e008a671e871ca0fcb307b")

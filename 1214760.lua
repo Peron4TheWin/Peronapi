@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shine's Adventures 4 (Nightmare)
 addappid(1214760)
-addappid(1214761,0,"5fdc74ee4e45616a9f677bdf135527227288011d22ef7b38c7ba2617da8b7af1")
--- setManifestid(1214761,"3671711265266742902")
+addappid(1214761, 1, "5fdc74ee4e45616a9f677bdf135527227288011d22ef7b38c7ba2617da8b7af1")

@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Chronos Event Demo
 addappid(2832480)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2832481,0,"7ed6823038e36996b9237cfb37e6f74926dae515930a64aa8e9fbd613cf92e5d")
+addappid(2832481, 1, "7ed6823038e36996b9237cfb37e6f74926dae515930a64aa8e9fbd613cf92e5d")

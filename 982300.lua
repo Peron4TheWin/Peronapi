@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shop Legends
 addappid(982300)
-addappid(982301,0,"4efbeb6052df73d522338f2693d9575408d60f9cd9aef8eeb5d9ca1fe78a66e8")
--- setManifestid(982301,"8416688581809917746")
+addappid(982301, 1, "4efbeb6052df73d522338f2693d9575408d60f9cd9aef8eeb5d9ca1fe78a66e8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hungry Adventurer
 addappid(2081830)
-addappid(2081831,0,"c5bc065ce9e08593c306744ceb22084e47529375de5c266901252cd19af58a71")
--- setManifestid(2081831,"8083324626711549504")
+addappid(2081831, 1, "c5bc065ce9e08593c306744ceb22084e47529375de5c266901252cd19af58a71")

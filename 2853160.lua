@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SHOOPER NOVA
 addappid(2853160)
-addappid(2853161,0,"8847ddb773742ba493c003dd4aa1c2e51b561cc2dfe206eda8cd1fff17132b4f")
--- setManifestid(2853161,"2468650040234871627")
+addappid(2853161, 1, "8847ddb773742ba493c003dd4aa1c2e51b561cc2dfe206eda8cd1fff17132b4f")

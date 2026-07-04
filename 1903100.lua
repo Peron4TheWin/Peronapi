@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Slinger
 addappid(1903100)
-addappid(1903101,0,"016e6be054d35bd9b1c2e8312d38acc42d776d50588f13accd24c9b761da9dbf")
--- setManifestid(1903101,"1850573236715684505")
+addappid(1903101, 1, "016e6be054d35bd9b1c2e8312d38acc42d776d50588f13accd24c9b761da9dbf")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SWIFT STRIDERS PARKOUR
 addappid(3341100)
-addappid(3341101,0,"b9f1a89759d83c362b2a32c021eca9a9dbcb5c91ecebde59acfba17c94d89c6a")
+addappid(3341101, 1, "b9f1a89759d83c362b2a32c021eca9a9dbcb5c91ecebde59acfba17c94d89c6a")

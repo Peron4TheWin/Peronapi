@@ -1,14 +1,11 @@
-
-addappid(1627720, 1, "3b74c91ab7657b50731863962dcf8d62ba04f0c9c5990cdaaeb7e7ae45c91dcd") -- Lies of P
-addtoken(1627720, "16027423782916783116")
-addappid(1627721, 1, "d847ff3494ad5b72d69b7b38c52474fdb22d437421b569013dd1508d8879f7c1") -- Depot 1627721
--- setManifestid(1627721, "8016983253808484576", 63615838723)
-addappid(1627722, 1, "b2550c254da0b229ff5f5bb765b809d2fac5bd74a98ff3611b8cb8870e02aa6a") -- Depot 1627722
--- setManifestid(1627722, "1523068324930851272", 64633420055)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
--- setManifestid(228989, "3514306556860204959", 39590283)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
--- setManifestid(228990, "1829726630299308803", 102931551)
-addappid(2325280) -- Lies of P  Pre-Order Bonus
-addappid(2325281) -- Lies of P Prince of Krat Cosmetics Pack
-addappid(2848330) -- Lies of P Overture
+-- Lua provided by SkyAPI 
+-- Game: Lies of P
+addappid(1627720)
+addappid(1627721, 1, "d847ff3494ad5b72d69b7b38c52474fdb22d437421b569013dd1508d8879f7c1")
+addappid(1938421, 0, "3a598dabbe2783774bd506a68f7da2189eabe7234c03bdfce88cefed14bab3d8")
+addappid(1938422, 0, "ababb5e54025724a4a56f8f0f08d33282cd3ef1296cb746627419bf317d9baa4")
+addappid(1938423, 0, "f1a270c1b76e7723c154a571d3d0e70521e697e67dd1e75fab4d6de0e1199a5d")
+addappid(1938424, 0, "27a7a3f53278e69bd81334632b6db38ed9d5b16f4865d48e46bbe78e45543ee0")
+addappid(2325280)
+addappid(2325281)
+addappid(2848330)

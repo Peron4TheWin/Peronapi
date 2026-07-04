@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EmyLiveShow: Hentai Puzzle Game
 addappid(2558750)
-addappid(2558751,0,"f12ef3cdbab07ba3cae7790104c5de62bfde055f596b993a592764b51801792f")
--- setManifestid(2558751,"7555283558994801288")
+addappid(2558751, 1, "f12ef3cdbab07ba3cae7790104c5de62bfde055f596b993a592764b51801792f")

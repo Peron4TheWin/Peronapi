@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PhobLack
 addappid(3057350)
-addappid(3057351,0,"ba718ea0694d9adcf7253aa5c558de5431b7d8b203145dfd27de69fdd477395c")
+addappid(3057351, 1, "ba718ea0694d9adcf7253aa5c558de5431b7d8b203145dfd27de69fdd477395c")

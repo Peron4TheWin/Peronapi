@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE
 addappid(2280000)
-addappid(2280001,0,"9dc7d341caca533f52e45b8e33249b270dbb7f926718c2e1a0a2a3cf5551a801")
--- setManifestid(2280001,"337899192042157171")
+addappid(2280001, 1, "9dc7d341caca533f52e45b8e33249b270dbb7f926718c2e1a0a2a3cf5551a801")

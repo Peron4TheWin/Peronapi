@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirit Whisperer Conversation With Kamiko
 addappid(3828350)
-addappid(3828351,0,"fb12225f069cd1b0aeb0152a4d8a94ad51ed0e6c8d09159cb14ee1bab3777d2c")
--- setManifestid(3828351,"5864222927121928632")
+addappid(3828351, 1, "fb12225f069cd1b0aeb0152a4d8a94ad51ed0e6c8d09159cb14ee1bab3777d2c")

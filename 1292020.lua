@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Armoured Commander II
 addappid(1292020)
--- setManifestid(228988,"6645201662696499616")
-addappid(1292021,0,"cf2ef861e600d5792765e63e9aa54305f6478b59f10acaf7087bd4d191e026f5")
--- setManifestid(1292021,"612218800596783342")
+addappid(1292021, 1, "cf2ef861e600d5792765e63e9aa54305f6478b59f10acaf7087bd4d191e026f5")

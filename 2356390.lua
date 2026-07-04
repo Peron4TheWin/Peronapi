@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chaos Coming
 addappid(2356390)
-addappid(2356391,0,"03a5e2f08aafffa436b1292aec96f886e17470233bfaaa336ab2ec6bfdfb8551")
--- setManifestid(2356391,"6880961192317520015")
+addappid(2356391, 1, "03a5e2f08aafffa436b1292aec96f886e17470233bfaaa336ab2ec6bfdfb8551")

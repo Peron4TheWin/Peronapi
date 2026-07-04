@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cactus Jumper
 addappid(791960)
-addappid(791961,0,"9a28908972e8a3747a276691af262205e6be3f25e6566cb2fe87b6f5f8ec907e")
--- setManifestid(791961,"1484198718163680863")
+addappid(791961, 1, "9a28908972e8a3747a276691af262205e6be3f25e6566cb2fe87b6f5f8ec907e")

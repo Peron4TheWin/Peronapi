@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Saiku's Endless Labyrinth
 addappid(1302470)
-addappid(1302471,0,"014a09b8bb282d0e6bd3b1b0e85d22453e1d3019ae14d1ae1c2226efdf9156cc")
+addappid(1302471, 1, "014a09b8bb282d0e6bd3b1b0e85d22453e1d3019ae14d1ae1c2226efdf9156cc")

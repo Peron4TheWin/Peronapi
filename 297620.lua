@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rocko's Quest
 addappid(297620)
-addappid(297621,0,"ce6b13f27a08c8257cf5223ed5a0049c1172bb860e984bb7c553a92dac0913a9")
--- setManifestid(297621,"2834623916084661911")
+addappid(297621, 1, "ce6b13f27a08c8257cf5223ed5a0049c1172bb860e984bb7c553a92dac0913a9")

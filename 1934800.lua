@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: a pet shop after dark
 addappid(1934800)
-addappid(1934801,0,"5f8ddce20d4b3de0fa140b93fe677fbaf8eac7302f5a818494e1a94581f9b588")
--- setManifestid(1934801,"5342691404935647476")
+addappid(1934801, 1, "5f8ddce20d4b3de0fa140b93fe677fbaf8eac7302f5a818494e1a94581f9b588")

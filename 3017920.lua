@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jumpers' mountain Demo
 addappid(3017920)
-addappid(3017921,0,"50f874ef4bf6008f29ae28ef6d715badd6f3f867acece592e751794039bc7715")
--- setManifestid(3017921,"1192405919050708180")
+addappid(3017921, 1, "50f874ef4bf6008f29ae28ef6d715badd6f3f867acece592e751794039bc7715")

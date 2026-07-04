@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GOLF MONSTER
 addappid(1438260)
-addappid(1438261,0,"a3039eae8e5718de6b3b46e242889f6272e48df12ca02eca2e0ca86247fd34d9")
+addappid(1438261, 1, "a3039eae8e5718de6b3b46e242889f6272e48df12ca02eca2e0ca86247fd34d9")

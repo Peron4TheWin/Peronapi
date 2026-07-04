@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Thunder
 addappid(3091340)
-addappid(3091341,0,"c611035f5f9ae37d5fc0cf5fc96599068c1c30273c3483cdfa9f31c59f30991b")
--- setManifestid(3091341,"3085783779113055929")
+addappid(3091341, 1, "c611035f5f9ae37d5fc0cf5fc96599068c1c30273c3483cdfa9f31c59f30991b")

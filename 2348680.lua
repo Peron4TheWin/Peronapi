@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Lust City
 addappid(2348680)
-addappid(2348681,0,"84681af374b6fb235e30b6d62e2c9b0b8d39b147d1198bc84380a467793ace9e")
--- setManifestid(2348681,"3831844247067099246")
+addappid(2348681, 1, "84681af374b6fb235e30b6d62e2c9b0b8d39b147d1198bc84380a467793ace9e")

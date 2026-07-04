@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Madness
 addappid(2384940)
-addappid(2384941,0,"43e031d3e796eae84500e85e16ee7e822b72fca7410b1d97960a239138e96ae5")
--- setManifestid(2384941,"351468989604689775")
+addappid(2384941, 1, "43e031d3e796eae84500e85e16ee7e822b72fca7410b1d97960a239138e96ae5")

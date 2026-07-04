@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Artifact Adventure
+addappid(359440)
+addappid(359441, 1, "0181985b6c8d6dbc283b4622e8cea395160e5e89fff42e0a53ab00b6674dacb5")

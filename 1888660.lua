@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Pipes - A Logic Puzzle Pipes Game
 addappid(1888660)
-addappid(1888661,0,"c40cb2eaf188247b027c42a6dcca44aead6c3f42a39e425662a58507b31c9ad6")
--- setManifestid(1888661,"5893875383570764094")
-addappid(1888662)
+addappid(1888661, 1, "c40cb2eaf188247b027c42a6dcca44aead6c3f42a39e425662a58507b31c9ad6")

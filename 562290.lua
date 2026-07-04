@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zahalia: The Knights of Galiveth
 addappid(562290)
--- setManifestid(228990,"1829726630299308803")
-addappid(562291,0,"6dc9769f379f3a1a1759922a6b0cb88d38dd836cd9f1e53330013d47081b2115")
--- setManifestid(562291,"9145517671268086667")
+addappid(562291, 1, "6dc9769f379f3a1a1759922a6b0cb88d38dd836cd9f1e53330013d47081b2115")

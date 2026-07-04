@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Treasures Editor
 addappid(1863450)
-addappid(1863451,0,"63d1b2554dfb211ce943a07761bccb8efcea133c619daef71f686900ff6270d1")
--- setManifestid(1863451,"7118239781807457815")
+addappid(1863451, 1, "63d1b2554dfb211ce943a07761bccb8efcea133c619daef71f686900ff6270d1")

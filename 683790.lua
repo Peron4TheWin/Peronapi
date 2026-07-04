@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tractorball
 addappid(683790)
-addappid(683791,0,"99d0bc6d39c2daf0f12808e006af820fd1d0a5cca218b89d0e86713545b17961")
+addappid(683791, 1, "99d0bc6d39c2daf0f12808e006af820fd1d0a5cca218b89d0e86713545b17961")

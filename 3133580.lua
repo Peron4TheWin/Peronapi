@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cheese Co-op Clicker Simulator
 addappid(3133580)
-addappid(3133581,0,"8cf8c040700ad496075342bc5acb5a159640ca7d4bf4d083c876e3b6206e3b99")
--- setManifestid(3133581,"6210631857110556999")
+addappid(3133581, 1, "8cf8c040700ad496075342bc5acb5a159640ca7d4bf4d083c876e3b6206e3b99")

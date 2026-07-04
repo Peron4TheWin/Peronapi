@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ridge Racer™ Unbounded
 addappid(202310)
-addappid(202311,0,"3db4398bef927b476744cecb16888a22adf3a07244d0193df95dda99ab1e7fdd")
---setManifestid(202311,"5618349260938795626")
+addappid(202311, 1, "3db4398bef927b476744cecb16888a22adf3a07244d0193df95dda99ab1e7fdd")

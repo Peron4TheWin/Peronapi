@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Solenars Edge II: Champions
 addappid(1371350)
-addappid(1371351,0,"6c7a4b272c8fba7c5cbe4b7407d02d38e2473c7ade63cbcfae3d382da7b2418b")
--- setManifestid(1371351,"1933264289735804264")
+addappid(1371351, 1, "6c7a4b272c8fba7c5cbe4b7407d02d38e2473c7ade63cbcfae3d382da7b2418b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Angry Penguin
 addappid(2538390)
-addappid(2538391,0,"28089ed9015a216d46da92b6ed8b64ddc185d4db9eb78027612ec227b522b6fe")
--- setManifestid(2538391,"2722749941605525149")
+addappid(2538391, 1, "28089ed9015a216d46da92b6ed8b64ddc185d4db9eb78027612ec227b522b6fe")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 Tsundere ~Prideful and Competitive~ GP-03
 addappid(3578650)
-addappid(3578651,0,"66f3d816585e6fddd5360429d58f0e70d8fd364556450bf7c386af00203000af")
--- setManifestid(3578651,"7691310243248397972")
+addappid(3578651, 1, "66f3d816585e6fddd5360429d58f0e70d8fd364556450bf7c386af00203000af")

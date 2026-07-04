@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Idle Hero Siege
 addappid(3343330)
-addappid(3343331,0,"ec9b6a5f6dcf99594f2d218f51cf254b9aa8ce50517b230381687c56b7cd4a43")
--- setManifestid(3343331,"2750400507507734623")
+addappid(3343331, 1, "ec9b6a5f6dcf99594f2d218f51cf254b9aa8ce50517b230381687c56b7cd4a43")

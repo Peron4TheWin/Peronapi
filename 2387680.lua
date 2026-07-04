@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arcana of Paradise —The Tower— Original Soundtrack
 addappid(2387680)
-addappid(2387681,0,"5dcf8a4d404c3e893977a9a563840d8767a047b61250b38a1600d49f437012a5")
--- setManifestid(2387681,"3058227002042905597")
+addappid(2387681, 1, "5dcf8a4d404c3e893977a9a563840d8767a047b61250b38a1600d49f437012a5")

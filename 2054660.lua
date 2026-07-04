@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disney Illusion Island Starring Mickey and Friends
 addappid(2054660)
-addappid(2054661,0,"ab4e2da3364ed5edd189355519a244cf4f7630469abeb2ede70a411d2eeb5382")
--- setManifestid(2054661,"6939096338627956475")
+addappid(2054661, 1, "ab4e2da3364ed5edd189355519a244cf4f7630469abeb2ede70a411d2eeb5382")

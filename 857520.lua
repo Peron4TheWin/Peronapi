@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Degrees
 addappid(857520)
-addappid(857521,0,"71fe7a6cd12cd80aea2eb24664ec18d6b9c7e225a08640af1009864bda792de4")
--- setManifestid(857521,"3675784114770889246")
+addappid(857521, 1, "71fe7a6cd12cd80aea2eb24664ec18d6b9c7e225a08640af1009864bda792de4")

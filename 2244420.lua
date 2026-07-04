@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 情人泪
 addappid(2244420)
-addappid(2244421,0,"bf5f37d7004da1f54cfb8ba3ca4e070246884252defa0fb77a5b2c6c0919db53")
--- setManifestid(2244421,"1441342060486502881")
+addappid(2244421, 1, "bf5f37d7004da1f54cfb8ba3ca4e070246884252defa0fb77a5b2c6c0919db53")

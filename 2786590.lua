@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 女武神小隊：突破重圍 Demo
 addappid(2786590)
-addappid(2786591,0,"b02a0d75b83a1e75abf7b19716c44433c6ed53728b0bf2b9790c526d17432c4f")
+addappid(2786591, 1, "b02a0d75b83a1e75abf7b19716c44433c6ed53728b0bf2b9790c526d17432c4f")

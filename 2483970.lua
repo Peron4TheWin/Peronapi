@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Honeymoon : Mystery Journey
 addappid(2483970)
-addappid(2483971,0,"0af1d0e6af8b9ecf05e4f121de89766e9049749043a7f0bf2b3037dc47c06de1")
+addappid(2483971, 1, "0af1d0e6af8b9ecf05e4f121de89766e9049749043a7f0bf2b3037dc47c06de1")

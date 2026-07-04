@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Plastic Soul
 addappid(2310870)
-addappid(2310871,0,"5b914bd592dc68cc50c7744231508ab0f28a4db8b25538d86d2b5db65da4a45a")
--- setManifestid(2310871,"8365486773621373184")
+addappid(2310871, 1, "5b914bd592dc68cc50c7744231508ab0f28a4db8b25538d86d2b5db65da4a45a")

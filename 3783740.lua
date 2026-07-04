@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NITRO GEN OMEGA - Original Soundtrack
 addappid(3783740)
-addappid(3783741,0,"ae3ac3dd4af1b8e2e626f6b375b08ce62f6ff477567d6636b34124561d5032fb")
--- setManifestid(3783741,"2226127603767384705")
+addappid(3783741, 1, "ae3ac3dd4af1b8e2e626f6b375b08ce62f6ff477567d6636b34124561d5032fb")

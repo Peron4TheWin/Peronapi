@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epic Food Fight
 addappid(991510)
-addappid(991511,0,"827424167231461402e3bafc042fc38d6ca91651febd49bc40940182ffc62484")
--- setManifestid(991511,"4184315438737886738")
+addappid(991511, 1, "827424167231461402e3bafc042fc38d6ca91651febd49bc40940182ffc62484")

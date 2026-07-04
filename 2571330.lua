@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Celbugs
 addappid(2571330)
-addappid(2571331,0,"913a084eba6ef7660090779258c5f7eea6d217400efdb0f2a61cff08b6e1b9bb")
--- setManifestid(2571331,"5382357728398911608")
+addappid(2571331, 1, "913a084eba6ef7660090779258c5f7eea6d217400efdb0f2a61cff08b6e1b9bb")

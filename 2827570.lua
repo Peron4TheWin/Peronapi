@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ronny's Climb
 addappid(2827570)
-addappid(2827571,0,"f3567d2663acbfab8ceb3b975c2197c847fdaf0b367e0f5e0dc648625fd08546")
--- setManifestid(2827571,"5103999842992583570")
+addappid(2827571, 1, "f3567d2663acbfab8ceb3b975c2197c847fdaf0b367e0f5e0dc648625fd08546")

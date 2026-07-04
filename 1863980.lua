@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tor-tor cubes
 addappid(1863980)
-addappid(1863981,0,"f9e178fbc314496a3cf5155f58ad30fe2d95ffbcfd3b4ac922195ae4f0c25490")
--- setManifestid(1863981,"7775855882736616050")
+addappid(1863981, 1, "f9e178fbc314496a3cf5155f58ad30fe2d95ffbcfd3b4ac922195ae4f0c25490")

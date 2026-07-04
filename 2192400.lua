@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aunewyth
 addappid(2192400)
-addappid(2192401,0,"e31f343a40b6f4304a101b23aa486d86ae397e3aab869aed0fbc9e0d4b125f34")
--- setManifestid(2192401,"8847675029662217279")
+addappid(2192401, 1, "e31f343a40b6f4304a101b23aa486d86ae397e3aab869aed0fbc9e0d4b125f34")

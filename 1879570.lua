@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Insipid
 addappid(1879570)
-addappid(1879571,0,"726c57c096c470c9ca670085967e51701b5afd6de76e9ffdf6b1bc33660920bc")
--- setManifestid(1879571,"6957692722679107065")
+addappid(1879571, 1, "726c57c096c470c9ca670085967e51701b5afd6de76e9ffdf6b1bc33660920bc")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Train Operator 377 Free Version
 addappid(2458800)
-addappid(2458801,0,"9afc7fbadfdd462889770ec13660838f2eb8570d7bcfdb26162d178648c6ee47")
--- setManifestid(2458801,"865696681801667232")
+addappid(2458801, 1, "9afc7fbadfdd462889770ec13660838f2eb8570d7bcfdb26162d178648c6ee47")

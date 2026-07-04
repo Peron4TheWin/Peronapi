@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Devil Ball
 addappid(3521390)
-addappid(3521391,0,"c3c254f3e9253efb53986b8043cfb169f8bd5f30e505afcbeb05d49d29d43edd")
--- setManifestid(3521391,"7322054652673215841")
+addappid(3521391, 1, "c3c254f3e9253efb53986b8043cfb169f8bd5f30e505afcbeb05d49d29d43edd")

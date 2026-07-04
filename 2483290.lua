@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Bella
 addappid(2483290)
-addappid(2483291,0,"eff00f2aa497647e8715ee02252ec945cfb3f55e1c678d9ff24f78a3189e6e76")
+addappid(2483291, 1, "eff00f2aa497647e8715ee02252ec945cfb3f55e1c678d9ff24f78a3189e6e76")

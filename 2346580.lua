@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sentimental Death Loop
 addappid(2346580)
-addappid(2346581,0,"91a834a1bee8ab58752bf5ae20a433df48024d1eae96f3b746cd40e2d34a168d")
--- setManifestid(2346581,"2397914675898240678")
+addappid(2346581, 1, "91a834a1bee8ab58752bf5ae20a433df48024d1eae96f3b746cd40e2d34a168d")

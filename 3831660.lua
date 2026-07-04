@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Obsessed : Night Shift
 addappid(3831660)
-addappid(3831661,0,"0f8cfa6fe6e6a0b869fcbcfb10734b15a73d4775be453c922a307ce3f9d42623")
--- setManifestid(3831661,"1657263175945454610")
+addappid(3831661, 1, "0f8cfa6fe6e6a0b869fcbcfb10734b15a73d4775be453c922a307ce3f9d42623")

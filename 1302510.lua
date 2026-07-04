@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vaporwave Road VR
 addappid(1302510)
-addappid(1302511,0,"23b8aeed9271df322d0f6334481ea52a76bab3d954cb6958b22ff6ebdde875b8")
--- setManifestid(1302511,"8463337484726950761")
+addappid(1302511, 1, "23b8aeed9271df322d0f6334481ea52a76bab3d954cb6958b22ff6ebdde875b8")

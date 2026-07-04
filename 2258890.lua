@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Xanadu Land
 addappid(2258890)
-addappid(2258891,0,"b72d8df425afc5778a560cf250457c52b1123ce358a058ae05538cea39f9be4d")
--- setManifestid(2258891,"554695069636229756")
+addappid(2258891, 1, "b72d8df425afc5778a560cf250457c52b1123ce358a058ae05538cea39f9be4d")
+addappid(2991780)

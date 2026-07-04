@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hatch
 addappid(871190)
-addappid(871191,0,"bfa187ab182ab4a6ee3df4586a52eacbf9b2455fa02f5551d9fbbbc903ff9c5c")
--- setManifestid(871191,"6929822206659806672")
+addappid(871191, 1, "bfa187ab182ab4a6ee3df4586a52eacbf9b2455fa02f5551d9fbbbc903ff9c5c")

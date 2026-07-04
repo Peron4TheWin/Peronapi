@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot Heat Reset
 addappid(2197360)
-addappid(2197361,0,"0599f9eb5c57180f930a5818d18b59d6cf726179dbf047f8c1a351bcca5da810")
--- setManifestid(2197361,"6350848774460832425")
+addappid(2197361, 1, "0599f9eb5c57180f930a5818d18b59d6cf726179dbf047f8c1a351bcca5da810")

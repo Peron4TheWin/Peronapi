@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Street Fighter™ 6
 addappid(1364780)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1364781,0,"cfec39716b5a5cae49b52b5c0e01e6db93356ee3df5a0d87590fd811ab6d06e1")
--- setManifestid(1364781,"6477872815369595092")
+addappid(1364781, 1, "cfec39716b5a5cae49b52b5c0e01e6db93356ee3df5a0d87590fd811ab6d06e1")

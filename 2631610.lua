@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Pocket Mini Golf
 addappid(2631610)
-addappid(2631611,0,"53864406cd892210a85246a9b7f4d76b24da9388c552b7dd3ac11eaf8c7b2207")
--- setManifestid(2631611,"3602050252410718286")
+addappid(2631611, 1, "53864406cd892210a85246a9b7f4d76b24da9388c552b7dd3ac11eaf8c7b2207")
+addappid(2850710)

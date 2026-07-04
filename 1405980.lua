@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Astronomy Lab on PC: Relativity, Lunar Landing, Space Flight, and Interstellar Travelling
 addappid(1405980)
-addappid(1405981,0,"0f5904a7284cf92ead43a62cce11bb6717205c3e5e8108b81803279a9cda844b")
--- setManifestid(1405981,"5877795176833328781")
+addappid(1405981, 1, "0f5904a7284cf92ead43a62cce11bb6717205c3e5e8108b81803279a9cda844b")

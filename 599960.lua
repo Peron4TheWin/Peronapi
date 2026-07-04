@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dogolrax
 addappid(599960)
-addappid(599961,0,"98e8d7c118d096fa652220324adc9a1dd43e9495c74ab6621affe2fcf9b42c58")
--- setManifestid(599961,"393499624921211331")
+addappid(599961, 1, "98e8d7c118d096fa652220324adc9a1dd43e9495c74ab6621affe2fcf9b42c58")

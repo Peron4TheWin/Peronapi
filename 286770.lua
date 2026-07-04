@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shadow Ops: Red Mercury
 addappid(286770)
-addappid(286771,0,"07432f6c8e308901b09769882c1acaf2cd423cd9e329472297143844e28a2899")
+addappid(286771, 1, "07432f6c8e308901b09769882c1acaf2cd423cd9e329472297143844e28a2899")

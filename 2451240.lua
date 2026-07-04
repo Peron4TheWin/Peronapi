@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Handmancers Demo
 addappid(2451240)
-addappid(2451241,0,"717c36b878cb7a175d1173ac5652ccda0b966333197d827154fa6f0121dbac0a")
--- setManifestid(2451241,"4839224618157514746")
+addappid(2451241, 1, "717c36b878cb7a175d1173ac5652ccda0b966333197d827154fa6f0121dbac0a")

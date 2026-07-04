@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flora & Fang: Guardians of the vampire garden
 addappid(2751060)
-addappid(2751061,0,"dba0d000531a51aa5e5bb3f060af82404825dee35cc87e76403b92b46f2c4eef")
--- setManifestid(2751061,"8274332948330497667")
+addappid(2751061, 1, "dba0d000531a51aa5e5bb3f060af82404825dee35cc87e76403b92b46f2c4eef")

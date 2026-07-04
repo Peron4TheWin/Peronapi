@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VEGAS Pro 14 Edit Steam Edition
 addappid(528200)
-addappid(228982)
-addappid(228983)
-addappid(228985)
-addappid(229002)
-addappid(528201,0,"7428fbdd96248703aa381fcf98b621194e8e2948d9454164f300346c9f3df67d")
+addappid(528201, 1, "7428fbdd96248703aa381fcf98b621194e8e2948d9454164f300346c9f3df67d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SERK: Chaos City Delivery
 addappid(3154910)
-addappid(3154911,0,"85fd9ba6d139ae7fe4b94c7945f3cfa546eb5a27e5c92eb9f5e626497abb78fb")
--- setManifestid(3154911,"5661691838319994244")
+addappid(3154911, 1, "85fd9ba6d139ae7fe4b94c7945f3cfa546eb5a27e5c92eb9f5e626497abb78fb")

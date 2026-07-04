@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tongue of Dog Demo
 addappid(2259960)
-addappid(2259961,0,"32e58060a8233053c6ad1e9f896cbd21dec048ac781ceaaaccc3dc5758bcef5c")
--- setManifestid(2259961,"2487731663315092324")
+addappid(2259961, 1, "32e58060a8233053c6ad1e9f896cbd21dec048ac781ceaaaccc3dc5758bcef5c")

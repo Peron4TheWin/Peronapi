@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Real Pharmacy Simulator
 addappid(3167960)
-addappid(3167961,0,"2f1b67cfd9c3e1072ae10ffb6738ba570b9fdea59f31dc8f2e151378db85d9c5")
--- setManifestid(3167961,"9005057751998168319")
+addappid(3167961, 1, "2f1b67cfd9c3e1072ae10ffb6738ba570b9fdea59f31dc8f2e151378db85d9c5")

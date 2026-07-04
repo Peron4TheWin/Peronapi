@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Duty in the Forest
 addappid(1561480)
--- setManifestid(228984,"2547553897526095397")
--- setManifestid(229004,"5220958916987797232")
-addappid(1561481,0,"f0edddcdfbb41306483ff3f73d6d7c26d5b4495477b393f636dad1bae4cc5b91")
--- setManifestid(1561481,"4633173231041944350")
+addappid(1561481, 1, "f0edddcdfbb41306483ff3f73d6d7c26d5b4495477b393f636dad1bae4cc5b91")

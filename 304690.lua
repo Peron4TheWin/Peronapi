@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Sonata 2
 addappid(304690)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(228990,"1829726630299308803")
-addappid(304691,0,"ea68267cca23d0e0b2c47fbdec796dbf86973d91f5fb04681f2705593b6fd584")
--- setManifestid(304691,"6226905513333063642")
+addappid(304691, 1, "ea68267cca23d0e0b2c47fbdec796dbf86973d91f5fb04681f2705593b6fd584")
+addappid(356410)

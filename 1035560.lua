@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Struggling
 addappid(1035560)
-addappid(1035561,0,"c3e3de7fb0133459978503ac002be02473fc482845b20a26f5f63c5be06cb64f")
--- setManifestid(1035561,"8529940055789852812")
+addappid(1035561, 1, "c3e3de7fb0133459978503ac002be02473fc482845b20a26f5f63c5be06cb64f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Folkloric Excursion
 addappid(1389130)
-addappid(1389131,0,"f3f240f53ce8a6fc2732d1a5488df1fceb0e90796ef364cc481023b54cb4c4ca")
--- setManifestid(1389131,"8086163123976150427")
+addappid(1389131, 1, "f3f240f53ce8a6fc2732d1a5488df1fceb0e90796ef364cc481023b54cb4c4ca")

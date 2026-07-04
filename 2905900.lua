@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PIRORO
 addappid(2905900)
-addappid(2905901,0,"00502810bbbe5e981961335042aba95ffd17a8fcbc46c9ebe816b66c9be048da")
+addappid(2905901, 1, "00502810bbbe5e981961335042aba95ffd17a8fcbc46c9ebe816b66c9be048da")

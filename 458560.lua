@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Plastic Playground
 addappid(458560)
-addappid(458561,0,"37ed01c298cee9dbb9a965291e98c20205c349993da8d8bb951b77b4613c7a22")
--- setManifestid(458561,"2967444971562970863")
+addappid(458561, 1, "37ed01c298cee9dbb9a965291e98c20205c349993da8d8bb951b77b4613c7a22")

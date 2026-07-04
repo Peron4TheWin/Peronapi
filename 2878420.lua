@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Old Market Simulator
 addappid(2878420)
-addappid(2878421,0,"4576f91c200141b0609fc6250aec2ddf4604ec5031f650f201d4b8114744ef0b")
---setManifestid(2878421,"3047266405508378072")
+addappid(2878421, 1, "4576f91c200141b0609fc6250aec2ddf4604ec5031f650f201d4b8114744ef0b")

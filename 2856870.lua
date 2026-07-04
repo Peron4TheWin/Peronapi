@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GOT Simulator
 addappid(2856870)
-addappid(2856871,0,"f58fc3f060cd9b6d6fc52b6e16c5a1e7c2ce6ba4113c4baf222c90bbe1b2190f")
--- setManifestid(2856871,"2183786853387141785")
+addappid(2856871, 1, "f58fc3f060cd9b6d6fc52b6e16c5a1e7c2ce6ba4113c4baf222c90bbe1b2190f")

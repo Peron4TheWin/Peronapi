@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sultan Of Egypt Trailer Demo
 addappid(1911210)
-addappid(1911211,0,"c0fc2fd8fa6f3942ed077637986ba4d9624b561f9c26766d37925c8f8d80c1a5")
--- setManifestid(1911211,"3819547800859469119")
+addappid(1911211, 1, "c0fc2fd8fa6f3942ed077637986ba4d9624b561f9c26766d37925c8f8d80c1a5")

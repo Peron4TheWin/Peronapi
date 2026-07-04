@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beers and Boomerangs
 addappid(1588610)
-addappid(1588611,0,"4e26131bdf5914cfb33850f62b683d335f413c7e9589fa3bcc1b95837c620d7d")
--- setManifestid(1588611,"430205341621852987")
+addappid(1588611, 1, "4e26131bdf5914cfb33850f62b683d335f413c7e9589fa3bcc1b95837c620d7d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Robin
 addappid(1288110)
-addappid(1288111,0,"af0499ca178d1f27c91089d2d5f012df31c2818c6a63b2af62fbbf879ebc42a2")
--- setManifestid(1288111,"3793164008114824075")
+addappid(1288111, 1, "af0499ca178d1f27c91089d2d5f012df31c2818c6a63b2af62fbbf879ebc42a2")

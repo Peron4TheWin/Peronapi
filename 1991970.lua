@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 雀姬的異想世界【音樂與美術集】
 addappid(1991970)
-addappid(1991971,0,"de4f590f1b0d8e6b8b0e35927a221e0d9e54b3821d9e975230a1035f2e39eaa1")
--- setManifestid(1991971,"1763372270707534416")
+addappid(1991971, 1, "de4f590f1b0d8e6b8b0e35927a221e0d9e54b3821d9e975230a1035f2e39eaa1")

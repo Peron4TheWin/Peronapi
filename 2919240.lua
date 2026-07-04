@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super adventure
 addappid(2919240)
-addappid(2919241,0,"eb93616372928274033eb51fb9137ffdab394821c6d6499a998ecd6cd8788fbe")
--- setManifestid(2919241,"3236089374747464784")
+addappid(2919241, 1, "eb93616372928274033eb51fb9137ffdab394821c6d6499a998ecd6cd8788fbe")

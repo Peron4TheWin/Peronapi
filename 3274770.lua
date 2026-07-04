@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Gleaming Grill
 addappid(3274770)
-addappid(3274771,0,"596e3df10e00aca0df1d5ba896951b9a724e0217bfbf1199a5afe832f66f3b49")
+addappid(3274771, 1, "596e3df10e00aca0df1d5ba896951b9a724e0217bfbf1199a5afe832f66f3b49")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deathless Demo
 addappid(2631750)
-addappid(2631751,0,"fbef009a9a881231b5c7b9946300c04e68cf18f4b2fe86440cd6a27bbfa09105")
--- setManifestid(2631751,"5694029863975960919")
+addappid(2631751, 1, "fbef009a9a881231b5c7b9946300c04e68cf18f4b2fe86440cd6a27bbfa09105")

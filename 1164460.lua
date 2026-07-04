@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monospaced Lovers
 addappid(1164460)
-addappid(1164461,0,"5976e5100687ece68fbf04e72718f40a652659e7d2984fa76773fd538d9a7e0f")
--- setManifestid(1164461,"2044772981924141900")
+addappid(1164461, 1, "5976e5100687ece68fbf04e72718f40a652659e7d2984fa76773fd538d9a7e0f")

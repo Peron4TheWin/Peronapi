@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DRAW CHILLY
 addappid(839080)
--- setManifestid(228990,"1829726630299308803")
-addappid(839081,0,"66cc2da6a55615512023c4611242292baea0aa4c07c7e8e38091f6f429fd05c5")
--- setManifestid(839081,"4601621975174853794")
+addappid(839081, 1, "66cc2da6a55615512023c4611242292baea0aa4c07c7e8e38091f6f429fd05c5")

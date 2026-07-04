@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: This Means Warp
 addappid(1269300)
-addappid(1269301,0,"5e4bbcb49cf3f095330495ea6d5d5223fef38a5d63473e3901fce58be03ea2a0")
--- setManifestid(1269301,"5243266742436094057")
+addappid(1269301, 1, "5e4bbcb49cf3f095330495ea6d5d5223fef38a5d63473e3901fce58be03ea2a0")

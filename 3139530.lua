@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 中年失业模拟器2-When a man lose his job 2
 addappid(3139530)
-addappid(3139531,0,"a4a09da5e54bb25c4c2d9952fe2119edb4c12bb1e720a6da8436afccef67ac32")
--- setManifestid(3139531,"2754978926337825169")
+addappid(3139531, 1, "a4a09da5e54bb25c4c2d9952fe2119edb4c12bb1e720a6da8436afccef67ac32")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zquirrels Jump
 addappid(966580)
-addappid(966581,0,"741f8195a29dd3ccddd299e94bac5a0a0811f08ceb2981be9e497c6a991b57fd")
--- setManifestid(966581,"7933839841732116099")
+addappid(966581, 1, "741f8195a29dd3ccddd299e94bac5a0a0811f08ceb2981be9e497c6a991b57fd")

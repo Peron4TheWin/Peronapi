@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Maintenance Safety (Pipes and Acids) VR Training
 addappid(2196930)
-addappid(2196931,0,"a504ae0ba73f1e69f56de395afa0ee963a68a3a7e4a7bae2829d77fc6a504712")
+addappid(2196931, 1, "a504ae0ba73f1e69f56de395afa0ee963a68a3a7e4a7bae2829d77fc6a504712")

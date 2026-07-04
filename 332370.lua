@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Miko Gakkou Monogatari: Kaede Episode
 addappid(332370)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229002,"7260605429366465749")
-addappid(332371,0,"a840a3bf4b97d31567fb1ce996f082ba645aa67b009dd012d5a8a87a977e6d4f")
--- setManifestid(332371,"1850630138508765635")
+addappid(332371, 1, "a840a3bf4b97d31567fb1ce996f082ba645aa67b009dd012d5a8a87a977e6d4f")

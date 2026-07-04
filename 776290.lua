@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kamikazo VR
 addappid(776290)
-addappid(776291,0,"4b4db9e498504d1b84a9eb3be66a6122a63a312b68e8f41472530bf87f29c92f")
--- setManifestid(776291,"1450117525629072822")
+addappid(776291, 1, "4b4db9e498504d1b84a9eb3be66a6122a63a312b68e8f41472530bf87f29c92f")

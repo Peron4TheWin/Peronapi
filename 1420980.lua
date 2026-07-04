@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epidemic
 addappid(1420980)
-addappid(1420981,0,"bc22aa502ee973554e267949231620c4eff141425dad62ef18ccd14011cca086")
--- setManifestid(1420981,"6237943361507652063")
+addappid(1420981, 1, "bc22aa502ee973554e267949231620c4eff141425dad62ef18ccd14011cca086")

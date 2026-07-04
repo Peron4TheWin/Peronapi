@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Отделение 38
 addappid(3061580)
-addappid(3061581,0,"e6e3f9356c163360bf9d08b351816ab0aa0564e6f2cc2bc411466235e783abea")
--- setManifestid(3061581,"5898627915980049893")
+addappid(3061581, 1, "e6e3f9356c163360bf9d08b351816ab0aa0564e6f2cc2bc411466235e783abea")

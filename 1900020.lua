@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PunjiVR: The Vietnam War
 addappid(1900020)
-addappid(1900021,0,"9dea3ca9c33f13c7b61ef8b4e2a06ffb51f55e580488bf8ec7318a628afaa4da")
--- setManifestid(1900021,"7545423002901091707")
+addappid(1900021, 1, "9dea3ca9c33f13c7b61ef8b4e2a06ffb51f55e580488bf8ec7318a628afaa4da")

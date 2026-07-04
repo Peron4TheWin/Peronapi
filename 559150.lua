@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Royal Detective: The Lord of Statues Collector's Edition
 addappid(559150)
-addappid(559151,0,"acc9d267f682c83a681985a9638bee6b13353c292426158654ea6b88ce9982aa")
--- setManifestid(559151,"3268389955670941450")
+addappid(559151, 1, "acc9d267f682c83a681985a9638bee6b13353c292426158654ea6b88ce9982aa")

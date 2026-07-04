@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fuzz Dungeon
 addappid(1506080)
-addappid(1506081,0,"554aeb079341ffc10ddb3f55246531a2965b6a11db79ed38fd097ff4f604dd7b")
--- setManifestid(1506081,"3476055588186426270")
+addappid(1506081, 1, "554aeb079341ffc10ddb3f55246531a2965b6a11db79ed38fd097ff4f604dd7b")

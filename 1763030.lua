@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Master Key
 addappid(1763030)
-addappid(1763031,0,"f8ba34dea2ca4cb65c6a6f52131ed7f233cc1a5ef8f88ca3a572cafbcf164695")
--- setManifestid(1763031,"6934799557102217589")
+addappid(1763031, 1, "f8ba34dea2ca4cb65c6a6f52131ed7f233cc1a5ef8f88ca3a572cafbcf164695")

@@ -1,4 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Marvel vs. Capcom: Infinite
 addappid(493840)
+addappid(493841, 1, "377c6811b90f0807dd4ab4c98f0b46f3ca19ff8b2a974286018d41c8f89589ca")
 addappid(622990)
 addappid(622991)
 addappid(623000)
@@ -40,5 +43,3 @@ addappid(721148)
 addappid(721149)
 addappid(721150)
 addappid(721151)
-addappid(493841,0,"377c6811b90f0807dd4ab4c98f0b46f3ca19ff8b2a974286018d41c8f89589ca")
--- setManifestid(493841,"7735204537352731644")

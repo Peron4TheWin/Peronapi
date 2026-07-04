@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LUMbA: REDUX
 addappid(2090450)
-addappid(2090451,0,"44209693204ddce3ac71b9dffbbcf660d712b0080ec6a644f00cf1c10c29d164")
--- setManifestid(2090451,"4364395020114578901")
+addappid(2090451, 1, "44209693204ddce3ac71b9dffbbcf660d712b0080ec6a644f00cf1c10c29d164")

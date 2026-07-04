@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BustaShip
 addappid(1222020)
-addappid(1222021,0,"4f0ca116d053a4295604a9149aabdfe4d2f4a9abb0844e15f36110f4ba5c09af")
--- setManifestid(1222021,"6492072206243331834")
+addappid(1222021, 1, "4f0ca116d053a4295604a9149aabdfe4d2f4a9abb0844e15f36110f4ba5c09af")

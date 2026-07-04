@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Multi Turret Academy: Prologue
 addappid(2577640)
-addappid(2577641,0,"62f12036a0bf4011695860ee8c3ea6b1cd479fb2df352360ce3309e2bd203a8f")
--- setManifestid(2577641,"6043078180198550679")
+addappid(2577641, 1, "62f12036a0bf4011695860ee8c3ea6b1cd479fb2df352360ce3309e2bd203a8f")

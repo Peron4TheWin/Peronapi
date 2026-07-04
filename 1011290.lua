@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hotel R'n'R
 addappid(1011290)
-addappid(1011291,0,"8318d1a044abfc1b8d9784ae66d50ac0c3f57ac1ae4f5d3c04dba2b0f90215d6")
+addappid(1011291, 1, "8318d1a044abfc1b8d9784ae66d50ac0c3f57ac1ae4f5d3c04dba2b0f90215d6")

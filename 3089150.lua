@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Retail Company Simulator: Prologue
 addappid(3089150)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3089151,0,"a88a5dd8a76100cfb50fd8e403abd25298872362850f49e1e3b05e070179d2db")
--- setManifestid(3089151,"5537997030451034469")
+addappid(3089151, 1, "a88a5dd8a76100cfb50fd8e403abd25298872362850f49e1e3b05e070179d2db")

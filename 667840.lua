@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Builder S
 addappid(667840)
-addappid(667841,0,"cc5e54ff969379523ab8017038687740826446e74ef7aaa0d603f7640565bbd0")
--- setManifestid(667841,"615456786473436774")
+addappid(667841, 1, "cc5e54ff969379523ab8017038687740826446e74ef7aaa0d603f7640565bbd0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Broken Veil Demo
 addappid(1860100)
-addappid(1860101,0,"1c446fd89d9c0af593605e4dca5ecc77a918f97c4328678d07fe8603d1775106")
--- setManifestid(1860101,"2289836502858274188")
+addappid(1860101, 1, "1c446fd89d9c0af593605e4dca5ecc77a918f97c4328678d07fe8603d1775106")

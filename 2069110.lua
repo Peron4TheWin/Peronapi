@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I commissioned some bees 3
 addappid(2069110)
-addappid(2069111,0,"da7b5db65c83898b9a171005d0e6ab24d33e697724e7adbdbbdf642a28f7631d")
--- setManifestid(2069111,"1245827736901465828")
+addappid(2069111, 1, "da7b5db65c83898b9a171005d0e6ab24d33e697724e7adbdbbdf642a28f7631d")

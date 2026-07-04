@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rental Store Simulator
 addappid(3217050)
-addappid(3217051,0,"7980d5f4c4363212621aabb7b379c7dfb2b7ea05933b5eecdf5a7fa6d4f779aa")
--- setManifestid(3217051,"1609644489316861991")
+addappid(3217051, 1, "7980d5f4c4363212621aabb7b379c7dfb2b7ea05933b5eecdf5a7fa6d4f779aa")

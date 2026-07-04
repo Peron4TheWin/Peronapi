@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Foundation Demo
 addappid(3256650)
--- setManifestid(228988,"6645201662696499616")
-addappid(3256651,0,"9c0d0efd5d0f33cecd3a1564d2fd1c5d549e60e078e5d4b231cd6a5c8245e58e")
+addappid(3256651, 1, "9c0d0efd5d0f33cecd3a1564d2fd1c5d549e60e078e5d4b231cd6a5c8245e58e")

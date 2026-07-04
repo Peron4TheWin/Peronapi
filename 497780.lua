@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Recursed
 addappid(497780)
-addappid(228985)
-addappid(497782,0,"b81932ca69f2f09ac2223c8ebe1d2054fffae5cc3301730cbcb67e83af687aa0")
+addappid(497781, 1, "697dc8b8a0790dd1726ac841f71f4c895dee1aba74a349a5d994f87c6d46f2e9")

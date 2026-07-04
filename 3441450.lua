@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 叛逆の守護者
 addappid(3441450)
-addappid(3441451,0,"c2d5f3ab2133d0a3c60445feeac7ffa7fd9034e44e88579c3a8c847d6a7503e2")
--- setManifestid(3441451,"1651315500454650712")
+addappid(3441451, 1, "c2d5f3ab2133d0a3c60445feeac7ffa7fd9034e44e88579c3a8c847d6a7503e2")

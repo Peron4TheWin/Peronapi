@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 无限骰子
 addappid(3317650)
-addappid(3317651,0,"2497de01f4215d3394b160ee67243c190dac46bf5b638d4b65118d3a1fbc1a43")
--- setManifestid(3317651,"1186326651917452329")
+addappid(3317651, 1, "2497de01f4215d3394b160ee67243c190dac46bf5b638d4b65118d3a1fbc1a43")

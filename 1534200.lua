@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nothing
 addappid(1534200)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1534201,0,"b2ffc12fa111fc293ac5c9c22ae8ac3566a38fcbd12e05147ea1084fe6e96bce")
--- setManifestid(1534201,"2721646081125082358")
+addappid(1534201, 1, "b2ffc12fa111fc293ac5c9c22ae8ac3566a38fcbd12e05147ea1084fe6e96bce")

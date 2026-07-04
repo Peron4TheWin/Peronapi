@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PRO ERA
 addappid(2165690)
-addappid(2165691,0,"37af4b718feb9b6c16d91a8beff07f345598a1429ef2fc9e65072e66b2dd1f60")
--- setManifestid(2165691,"8449700249518998037")
+addappid(2165691, 1, "37af4b718feb9b6c16d91a8beff07f345598a1429ef2fc9e65072e66b2dd1f60")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nevermind This
 addappid(2181100)
-addappid(2181101,0,"9ca081abd1105121b7d2732b7428d09abbae4034761a8f9f6eb457ce5944399a")
--- setManifestid(2181101,"1062808012709800009")
+addappid(2181101, 1, "9ca081abd1105121b7d2732b7428d09abbae4034761a8f9f6eb457ce5944399a")

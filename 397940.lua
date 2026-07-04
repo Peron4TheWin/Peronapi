@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Time To Live
+addappid(397940)
+addappid(397941, 1, "aa484188511121d2823736256ab1214bbda86606058b28bba21c1e3a82714338")

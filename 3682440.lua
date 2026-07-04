@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Othello: Battle Royale
 addappid(3682440)
-addappid(3682441,0,"68b6a60d7485a9f74eb749b9a74ba5c572f122b8521c1e59bc199ff8bc14efbf")
--- setManifestid(3682441,"4586404963607496199")
+addappid(3682441, 1, "68b6a60d7485a9f74eb749b9a74ba5c572f122b8521c1e59bc199ff8bc14efbf")

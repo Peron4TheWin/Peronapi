@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VFurrika!
 addappid(2720270)
-addappid(2720271,0,"4764ea6ac75438e2559847b38bcf52db2b9b8ee2dc5fa3f4e7b2ffb669e7aa9a")
--- setManifestid(2720271,"6475260083614122827")
+addappid(2720271, 1, "4764ea6ac75438e2559847b38bcf52db2b9b8ee2dc5fa3f4e7b2ffb669e7aa9a")

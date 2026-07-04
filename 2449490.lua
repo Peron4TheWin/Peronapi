@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Plasmatic
 addappid(2449490)
-addappid(2449491,0,"7d454454ce0d0b1ea7538a43f8cebbe2988dea4defe275fe2fe63ec7e152657e")
--- setManifestid(2449491,"5205555090391333848")
+addappid(2449491, 1, "7d454454ce0d0b1ea7538a43f8cebbe2988dea4defe275fe2fe63ec7e152657e")

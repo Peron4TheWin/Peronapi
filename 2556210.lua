@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Home trip
 addappid(2556210)
-addappid(2556211,0,"1248aad22f69142b891aea376242a8aed46db407103be6eca325853aa4fabebe")
--- setManifestid(2556211,"1363171640370593431")
+addappid(2556211, 1, "1248aad22f69142b891aea376242a8aed46db407103be6eca325853aa4fabebe")

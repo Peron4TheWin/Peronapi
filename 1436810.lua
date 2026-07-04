@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Door in the Basement
 addappid(1436810)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1436811,0,"cf7fe73d20165e0a4b9f523448972b7e0bd399d2171c52b5f7b5ca509b305dad")
--- setManifestid(1436811,"4627645552831624201")
+addappid(1436811, 1, "cf7fe73d20165e0a4b9f523448972b7e0bd399d2171c52b5f7b5ca509b305dad")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nightmare Shift Demo
 addappid(3222620)
-addappid(3222621,0,"b2434c8bbf5dc8187af9de70d6bf500fdf02b2106676fb02ff321f9f0a7cf9a9")
--- setManifestid(3222621,"5418103618534742629")
+addappid(3222621, 1, "b2434c8bbf5dc8187af9de70d6bf500fdf02b2106676fb02ff321f9f0a7cf9a9")

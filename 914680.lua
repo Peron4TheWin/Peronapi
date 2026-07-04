@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crazy Alchemist
 addappid(914680)
-addappid(914681,0,"8f42efe555cff6be285a72ce68175f6b35059402d26dc997a6298900926e7314")
--- setManifestid(914681,"8540942831278472563")
+addappid(914681, 1, "8f42efe555cff6be285a72ce68175f6b35059402d26dc997a6298900926e7314")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: How a Retired Strategist Saved the Country
 addappid(2169830)
-addappid(2169831,0,"50729f57297b7958292cbe0f33ce70aa83e010759ed60e6eb411604df8b407d9")
--- setManifestid(2169831,"694670078632029806")
+addappid(2169831, 1, "50729f57297b7958292cbe0f33ce70aa83e010759ed60e6eb411604df8b407d9")

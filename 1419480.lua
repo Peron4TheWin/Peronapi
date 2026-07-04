@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love's Sweet Garnish 2
 addappid(1419480)
-addappid(1419481,0,"44236353eb5c99ccaf194171339257cba18c3ccdfe434d649089ffc7d526093c")
--- setManifestid(1419481,"27830272641338995")
+addappid(1419481, 1, "44236353eb5c99ccaf194171339257cba18c3ccdfe434d649089ffc7d526093c")

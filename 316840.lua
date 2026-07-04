@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Sacred Tears TRUE
 addappid(316840)
-addappid(316841,0,"f6ff2e71401e88473d62a7580cf9467fb04fe335198c2bb1aa9535ec8adcc1cd")
--- setManifestid(316841,"5239397451428632292")
+addappid(316841, 1, "f6ff2e71401e88473d62a7580cf9467fb04fe335198c2bb1aa9535ec8adcc1cd")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Medal of Honor™: Above and Beyond
 addappid(1402320)
-addappid(229005)
--- setManifestid(229005,"7992454656023763365")
-addappid(1402321,0,"59551c0e72daf61029457f14cdfddda74bdf53df1b099d0356bbd79bb7c511ed")
--- setManifestid(1402321,"9154068945774264997")
+addappid(1402321, 1, "59551c0e72daf61029457f14cdfddda74bdf53df1b099d0356bbd79bb7c511ed")

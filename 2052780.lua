@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Painter Simulator
 addappid(2052780)
-addappid(2052781,0,"e572acd9804a4e9ab68bfa20b790a52a61d02ecbcb1f10418f1455f71d9c6f5f")
--- setManifestid(2052781,"7666885675859369377")
+addappid(2052781, 1, "e572acd9804a4e9ab68bfa20b790a52a61d02ecbcb1f10418f1455f71d9c6f5f")

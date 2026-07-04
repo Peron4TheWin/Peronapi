@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Load Slinging VR Training
 addappid(2196950)
-addappid(2196951,0,"e8002ca0ef94d90a2825399f2a956e9919e5a65310665c26c2ee7c1d554b5e94")
--- setManifestid(2196951,"147183442712114283")
+addappid(2196951, 1, "e8002ca0ef94d90a2825399f2a956e9919e5a65310665c26c2ee7c1d554b5e94")

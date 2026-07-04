@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KOLOBOK
 addappid(757170)
-addappid(757171,0,"839d650282af84f45b547098ae5e9ab9337b703fd76b88b54e6b043a1d216b14")
--- setManifestid(757171,"1775954348765143852")
+addappid(757171, 1, "839d650282af84f45b547098ae5e9ab9337b703fd76b88b54e6b043a1d216b14")

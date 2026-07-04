@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: ∀kashicforce
 addappid(857460)
-addappid(857461,0,"1e981f20c047047f29c3a0993de6ab1e7a50909fcfa05b8f4646f6b7426f222a")
--- setManifestid(857461,"1280007887829439604")
+addappid(857461, 1, "1e981f20c047047f29c3a0993de6ab1e7a50909fcfa05b8f4646f6b7426f222a")
+addappid(1067340)

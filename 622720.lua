@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Weedcraft Inc
 addappid(622720)
-addappid(622721,0,"1b85d3b57a20a052d422070351602ca3767244f06d3fbbc8221b9a6a40dd90aa")
--- setManifestid(622721,"1380421788866208655")
-addappid(622722)
+addappid(622721, 1, "1b85d3b57a20a052d422070351602ca3767244f06d3fbbc8221b9a6a40dd90aa")

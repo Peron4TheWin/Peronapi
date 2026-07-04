@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero Realms
 addappid(1569700)
-addappid(1569701,0,"028ae3240e2ecfd3261dcc70029c8164c6e6611973aea6aa0b93b6b10f94f8f6")
--- setManifestid(1569701,"8417925184320974477")
+addappid(1569701, 1, "028ae3240e2ecfd3261dcc70029c8164c6e6611973aea6aa0b93b6b10f94f8f6")

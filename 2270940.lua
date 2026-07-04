@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Builder Simulator VR
 addappid(2270940)
-addappid(2270941,0,"eea0405fc660f9da32e526ac2c39719a5457cfdb7faa55f18e5347f5280baccf")
--- setManifestid(2270941,"32428677296860603")
+addappid(2270941, 1, "eea0405fc660f9da32e526ac2c39719a5457cfdb7faa55f18e5347f5280baccf")

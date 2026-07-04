@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pile Up!
 addappid(2094910)
-addappid(2094911,0,"db4c431edb8fa95a158d32effe156aa64371d4ccfca562cca284100fd157f6eb")
--- setManifestid(2094911,"2982284966060915378")
+addappid(2094911, 1, "db4c431edb8fa95a158d32effe156aa64371d4ccfca562cca284100fd157f6eb")

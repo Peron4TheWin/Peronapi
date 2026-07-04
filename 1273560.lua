@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DeathSprint 66
 addappid(1273560)
-addappid(228989)
---setManifestid(228989,"1332597174812030948")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(1273561,0,"d7e5cc6f932b2f521fdfaf7ca8e32ff330ee6bc88e4392a4c7063ea50380ec5f")
---setManifestid(1273561,"3495332294290585088")
+addappid(1273561, 1, "d7e5cc6f932b2f521fdfaf7ca8e32ff330ee6bc88e4392a4c7063ea50380ec5f")

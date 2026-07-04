@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Triteckka: The pure shooter
 addappid(915430)
-addappid(915431,0,"2235d483373eeb6611d89f5ab31188397400379e7266ee0a27a8e6aea5977ebb")
--- setManifestid(915431,"2225040774211789491")
+addappid(915431, 1, "2235d483373eeb6611d89f5ab31188397400379e7266ee0a27a8e6aea5977ebb")

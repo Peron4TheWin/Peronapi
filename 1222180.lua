@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Retro Drift
 addappid(1222180)
-addappid(1222181,0,"4c1326fa0d64d1ca313b012a8e47ec9f12e80c0436d42fe891c778435b32598b")
--- setManifestid(1222181,"6601662779577229776")
+addappid(1222181, 1, "4c1326fa0d64d1ca313b012a8e47ec9f12e80c0436d42fe891c778435b32598b")

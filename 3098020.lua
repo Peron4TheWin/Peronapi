@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Few Days With : Samantha
 addappid(3098020)
-addappid(3098021,0,"9a26e3d006d56770715fe91a3f946f0897474dca87ad54f74bf7833f00db18f2")
--- setManifestid(3098021,"3118059234838408901")
+addappid(3098021, 1, "9a26e3d006d56770715fe91a3f946f0897474dca87ad54f74bf7833f00db18f2")

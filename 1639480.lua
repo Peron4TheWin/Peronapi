@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bodies of Water VR
 addappid(1639480)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1639481,0,"2b6cd3a39656359cebabba4f1dc92e26e68b7f5fa75abd695a1fc5dd3a0f7602")
--- setManifestid(1639481,"7232029975912280592")
+addappid(1639481, 1, "2b6cd3a39656359cebabba4f1dc92e26e68b7f5fa75abd695a1fc5dd3a0f7602")

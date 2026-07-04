@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: City Tales - Medieval Era Demo
 addappid(3494510)
-addappid(3494511,0,"cb029148e105c55984019f75755f9ebfcbe61b86efb7824227cb4721154b1c91")
--- setManifestid(3494511,"405735287048889863")
+addappid(3494511, 1, "cb029148e105c55984019f75755f9ebfcbe61b86efb7824227cb4721154b1c91")

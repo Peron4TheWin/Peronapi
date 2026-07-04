@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Caesar™ 3
 addappid(517790)
-addappid(517791,0,"c9aab3317d0bfd856c63b770a78890744d1fe10e169f001992974eb277ac3744")
--- setManifestid(517791,"97981709051325")
+addappid(517791, 1, "c9aab3317d0bfd856c63b770a78890744d1fe10e169f001992974eb277ac3744")

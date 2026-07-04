@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Isekai Hero
 addappid(2587950)
-addappid(2587951,0,"9cb3a0bba649f614883e6d9c67d6da6199bd69e5e4329addb3306b84b65e4242")
--- setManifestid(2587951,"3096791063223294971")
+addappid(2587951, 1, "9cb3a0bba649f614883e6d9c67d6da6199bd69e5e4329addb3306b84b65e4242")

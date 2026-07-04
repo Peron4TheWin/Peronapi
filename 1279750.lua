@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BIOMUTANT - Soundtrack
 addappid(1279750)
-addappid(1279751,0,"5bfc45b171c5fe1da3b11cc79fb50ee19d3c0e1960502623696facdee78eebad")
-addappid(1279752,0,"6c4aac77522fe384a38ab732f9c2a231cd7ebca13be36dc7221aadd88da58a7b")
+addappid(1279751, 1, "5bfc45b171c5fe1da3b11cc79fb50ee19d3c0e1960502623696facdee78eebad")

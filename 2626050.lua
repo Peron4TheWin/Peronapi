@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sausage vs. Vegetable
 addappid(2626050)
-addappid(2626051,0,"5ee90a457766b3df6d9bf3056844c90fa482648212c541bc05ac327580d3df22")
--- setManifestid(2626051,"3829467717777716396")
+addappid(2626051, 1, "5ee90a457766b3df6d9bf3056844c90fa482648212c541bc05ac327580d3df22")

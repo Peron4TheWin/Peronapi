@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Before the Fall: FINAL FANTASY XIV Original Soundtrack
 addappid(3372250)
-addappid(3372251,0,"32b6fe84c9cc1b0f68156bd4c955afc916ff3a5eaef623fa80c70a5ae8808b84")
--- setManifestid(3372251,"6685731106221800785")
+addappid(3372251, 1, "32b6fe84c9cc1b0f68156bd4c955afc916ff3a5eaef623fa80c70a5ae8808b84")

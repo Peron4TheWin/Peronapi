@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultimagus
 addappid(575360)
-addappid(575361,0,"11388f54e587073401d77ced74e2626386052ecae8371cb8cb75f9dbbf93b1d2")
--- setManifestid(575361,"8195892132018777106")
+addappid(575361, 1, "11388f54e587073401d77ced74e2626386052ecae8371cb8cb75f9dbbf93b1d2")

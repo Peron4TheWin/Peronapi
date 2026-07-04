@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fey
 addappid(3441160)
-addappid(3441161,0,"56fdcac536f3023bc9b365ee6908978ef63162dab9fd5c0735ea7c4124a82288")
--- setManifestid(3441161,"9173417797723823434")
+addappid(3441161, 1, "56fdcac536f3023bc9b365ee6908978ef63162dab9fd5c0735ea7c4124a82288")

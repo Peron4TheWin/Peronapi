@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Russian Fishing 4
 addappid(766570)
-addappid(766571,0,"d7dba035e1a1f07015025cf2749727599df4262383e44f58bb210d3c7f33655e")
+addappid(766571, 1, "d7dba035e1a1f07015025cf2749727599df4262383e44f58bb210d3c7f33655e")

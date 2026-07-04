@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Social Clicker : Persona
 addappid(3180510)
-addappid(3180511,0,"1c4106a4b588ad71a7af7206ce632621ff9d0234c9b6f0ed19fecd84bdb60285")
--- setManifestid(3180511,"1186239264943313211")
+addappid(3180511, 1, "1c4106a4b588ad71a7af7206ce632621ff9d0234c9b6f0ed19fecd84bdb60285")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ‎My Suika – Kyo’s Fruit Merge
 addappid(2671970)
-addappid(2671971,0,"4a2d6eae75f3630e64ea029ff723551be16501da2bce818fd59889152d024246")
--- setManifestid(2671971,"8073571676148123918")
+addappid(2671971, 1, "4a2d6eae75f3630e64ea029ff723551be16501da2bce818fd59889152d024246")

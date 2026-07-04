@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stunts Contest Monster Car
 addappid(2157450)
-addappid(2157451,0,"a55bff0c778e28b5ad7ed198baa07905620eb5a57025d19b803666ea0d5f3c7e")
--- setManifestid(2157451,"3709311030007556931")
+addappid(2157451, 1, "a55bff0c778e28b5ad7ed198baa07905620eb5a57025d19b803666ea0d5f3c7e")

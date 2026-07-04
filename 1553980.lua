@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GEAR TuNNEL
 addappid(1553980)
-addappid(1553981,0,"f120579ae0b32916a72407e8fb2a27d0d93be94329105c99bfd00707bb2cf4b9")
--- setManifestid(1553981,"8200981935327834507")
+addappid(1553981, 1, "f120579ae0b32916a72407e8fb2a27d0d93be94329105c99bfd00707bb2cf4b9")

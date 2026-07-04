@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wicked Games
 addappid(1346720)
-addappid(1346721,0,"555feb7de22d5658d2d6d7ac88e7dc79529d55e919327c7224d6866ccc047c39")
--- setManifestid(1346721,"3207919906382708534")
+addappid(1346721, 1, "555feb7de22d5658d2d6d7ac88e7dc79529d55e919327c7224d6866ccc047c39")

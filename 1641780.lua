@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Armored
 addappid(1641780)
-addappid(1641781,0,"60e4ad6ad047ffbdf7f42bf91154299fa85445e86bb2ca101e295f8bbb78f93d")
--- setManifestid(1641781,"7728517655955188134")
+addappid(1641781, 1, "60e4ad6ad047ffbdf7f42bf91154299fa85445e86bb2ca101e295f8bbb78f93d")

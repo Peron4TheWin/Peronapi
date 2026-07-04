@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ENIGMA:
 addappid(494100)
-addappid(494101,0,"48d9d9c137d14a95f1f206a1208d9df454d4ddca071f2193ca2bacb1a97b80db")
--- setManifestid(494101,"7348559161340780767")
+addappid(494101, 1, "48d9d9c137d14a95f1f206a1208d9df454d4ddca071f2193ca2bacb1a97b80db")

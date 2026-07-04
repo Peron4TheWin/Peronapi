@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Mare of Jonah
 addappid(2921360)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2921361,0,"b469983be9a29fff72aad6db057eed2755735546d86f4cc4fcf82460408228fd")
--- setManifestid(2921361,"3708331340061817927")
+addappid(2921361, 1, "b469983be9a29fff72aad6db057eed2755735546d86f4cc4fcf82460408228fd")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Mindvasion
 addappid(3498680)
-addappid(3498681,0,"768bb9f07ba36f109bd971094cd0f6d8dfecd632fa1584a9e2f4776e108ab187")
--- setManifestid(3498681,"5356420537079077930")
+addappid(3498681, 1, "768bb9f07ba36f109bd971094cd0f6d8dfecd632fa1584a9e2f4776e108ab187")

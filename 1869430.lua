@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gunslinger Valley
 addappid(1869430)
-addappid(1869431,0,"3dec4ffce2dab14b991a895b5a52936aed82d7f9ec9512e0945090fa1ba12953")
--- setManifestid(1869431,"3371506255280070621")
+addappid(1869431, 1, "3dec4ffce2dab14b991a895b5a52936aed82d7f9ec9512e0945090fa1ba12953")

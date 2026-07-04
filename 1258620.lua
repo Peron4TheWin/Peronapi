@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little machines world
 addappid(1258620)
-addappid(1258621,0,"6f83cf035b7fee725502d90b53fec1d49d9dc311fa3d48df1e3c41b4d48b1114")
--- setManifestid(1258621,"6495059049738202887")
+addappid(1258621, 1, "6f83cf035b7fee725502d90b53fec1d49d9dc311fa3d48df1e3c41b4d48b1114")

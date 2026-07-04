@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Faint Call
 addappid(2958780)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(2958781,0,"832b56db1f44f8cce816ab2cfd2f9d0ad3fffdb68a73de04a095e6345b7849aa")
--- setManifestid(2958781,"2144260464189619452")
+addappid(2958781, 1, "832b56db1f44f8cce816ab2cfd2f9d0ad3fffdb68a73de04a095e6345b7849aa")

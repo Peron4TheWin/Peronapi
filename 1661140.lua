@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Game Maker MV - STAR CAPTOR - Isometric Shooter Sample Project
 addappid(1661140)
-addappid(1661141,0,"23875210d6e31a1ed0ee76765bdc74d29120d532abc0602b8e53d46cf6febe89")
--- setManifestid(1661141,"1153670614270256787")
+addappid(1661141, 1, "23875210d6e31a1ed0ee76765bdc74d29120d532abc0602b8e53d46cf6febe89")

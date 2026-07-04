@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Empress Of The Deep
 addappid(299150)
-addappid(299151,0,"0f13f50d00189a1ee58abad838f8ec01bd4e244de72684d0794803321ae17fe2")
--- setManifestid(299151,"1209379413440700954")
+addappid(299151, 1, "0f13f50d00189a1ee58abad838f8ec01bd4e244de72684d0794803321ae17fe2")

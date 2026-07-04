@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dominated by: Yandere Goth Cop
 addappid(3832790)
-addappid(3832791,0,"d4290667829fb83509fed39bbca65b10c7575a84270ec27bba5666c699ceedb7")
--- setManifestid(3832791,"7308506162130112809")
+addappid(3832791, 1, "d4290667829fb83509fed39bbca65b10c7575a84270ec27bba5666c699ceedb7")

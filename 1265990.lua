@@ -1,2 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: QUIZ PRO! - General Knowledge
 addappid(1265990)
-addappid(1265991,0,"e425088b81875fa01b76f005eb3660802d23995a9f844bdced26f026f72dd320")
+addappid(1265991, 1, "e425088b81875fa01b76f005eb3660802d23995a9f844bdced26f026f72dd320")
+addappid(1268620)
+addappid(1270040)

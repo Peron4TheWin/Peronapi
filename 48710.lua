@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mount & Blade: Warband Demo
 addappid(48710)
-addappid(48711,0,"111b99b97c72acccd0f2d2e38723ce6f2eb4b08637d3f41c52ea8b4a74ed5c05")
--- setManifestid(48711,"4062296051986177922")
+addappid(48711, 1, "111b99b97c72acccd0f2d2e38723ce6f2eb4b08637d3f41c52ea8b4a74ed5c05")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ALL Chess
 addappid(2472140)
-addappid(2472141,0,"8ce49a3a97608217533a6c1cf0527a6a56a9f6a312158474feab5f548d171c3b")
+addappid(2472141, 1, "8ce49a3a97608217533a6c1cf0527a6a56a9f6a312158474feab5f548d171c3b")

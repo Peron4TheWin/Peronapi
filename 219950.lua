@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NiGHTS Into Dreams
 addappid(219950)
-addappid(219951,0,"c0fd424e8a1a95a16118e829b811263cb79a8f66510826fedba3eadab9cf6daa")
--- setManifestid(219951,"4807263958282085802")
+addappid(219951, 1, "c0fd424e8a1a95a16118e829b811263cb79a8f66510826fedba3eadab9cf6daa")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OnlyFap Simulator 💦
 addappid(1886630)
-addappid(1886631,0,"c549d805cb78d2d26cfab890cd5c37a2ddb28c340821c9d9d45d4306d18f2c9a")
--- setManifestid(1886631,"5059621021515295967")
+addappid(1886631, 1, "c549d805cb78d2d26cfab890cd5c37a2ddb28c340821c9d9d45d4306d18f2c9a")

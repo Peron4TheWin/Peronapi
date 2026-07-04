@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stickman Jetpack
 addappid(764490)
-addappid(764491,0,"4adaaea9e58c0ea6137f744f0898da13544bf76016a83b96447e73e0c2f62a45")
--- setManifestid(764491,"9118740214137976452")
+addappid(764491, 1, "4adaaea9e58c0ea6137f744f0898da13544bf76016a83b96447e73e0c2f62a45")

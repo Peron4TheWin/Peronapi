@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lif Demo
 addappid(379250)
-addappid(379251,0,"3066cfbe9a840c1ced933d0ea32477d53ebc12c404b8b5bed89862c077ad6181")
--- setManifestid(379251,"5791866396249144452")
+addappid(379251, 1, "3066cfbe9a840c1ced933d0ea32477d53ebc12c404b8b5bed89862c077ad6181")

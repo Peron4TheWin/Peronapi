@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The First Odyssey
 addappid(1846510)
-addappid(1846511,0,"cfb1899aa5e1036f4cbfc0ee70ff437361cabb4fe6010640ed1039f82b614c4b")
--- setManifestid(1846511,"4184183606921946775")
+addappid(1846511, 1, "cfb1899aa5e1036f4cbfc0ee70ff437361cabb4fe6010640ed1039f82b614c4b")

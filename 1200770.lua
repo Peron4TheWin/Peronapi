@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deathground
 addappid(1200770)
-addappid(1200771,0,"e5765b9e9753b6845acf30d81995371d101ac52f412ad63148fbce1a52057fa2")
---setManifestid(1200771,"3182497870687183157")
+addappid(1200771, 1, "e5765b9e9753b6845acf30d81995371d101ac52f412ad63148fbce1a52057fa2")

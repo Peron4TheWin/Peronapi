@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Mortem
 addappid(1387510)
-addappid(1387511,0,"e608bf59f7cc2dc52833ed48833bc2eec9f77848d5aad715f324ee610692ae25")
--- setManifestid(1387511,"8412328107132206092")
+addappid(1387511, 1, "e608bf59f7cc2dc52833ed48833bc2eec9f77848d5aad715f324ee610692ae25")

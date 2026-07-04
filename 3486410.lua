@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Threefold Recital Soundtrack
 addappid(3486410)
-addappid(3486411,0,"2e76a4c2e623c95f411d7444c0f873f53a21835b24d9733b94de649414e6315b")
--- setManifestid(3486411,"9024515880274672779")
+addappid(3486411, 1, "2e76a4c2e623c95f411d7444c0f873f53a21835b24d9733b94de649414e6315b")

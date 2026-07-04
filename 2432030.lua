@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: City Legends: The Ghost of Misty Hill Collector's Edition
 addappid(2432030)
-addappid(2432031,0,"44a0fbf5b51f0290159b18fdacba994b2860e01fde83fd94c0e629b26ce0eae3")
--- setManifestid(2432031,"4794577621080238991")
+addappid(2432031, 1, "44a0fbf5b51f0290159b18fdacba994b2860e01fde83fd94c0e629b26ce0eae3")
+addappid(2433660)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hand Simulator: Survival
 addappid(924140)
-addappid(924141,0,"a0aeeafe518dfd9fe18266a852b86ae153f0d19d5f2f9ab1a9081583dca01907")
---setManifestid(924141,"1991469651435132001")
+addappid(924141, 1, "a0aeeafe518dfd9fe18266a852b86ae153f0d19d5f2f9ab1a9081583dca01907")

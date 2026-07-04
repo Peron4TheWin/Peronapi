@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: River City Melee Mach!!
 addappid(763710)
-addappid(763711,0,"b7bd531f1ff6eb95b105a83f29816d9386113ab6bd40061bfa106712e1adbbb7")
--- setManifestid(763711,"4010176972258079217")
+addappid(763711, 1, "b7bd531f1ff6eb95b105a83f29816d9386113ab6bd40061bfa106712e1adbbb7")

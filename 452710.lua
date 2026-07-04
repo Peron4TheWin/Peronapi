@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Realities
 addappid(452710)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(452711,0,"acf6afac156d3db002db86600335de9c058bf7957b8878788ea41af813cdbe5c")
--- setManifestid(452711,"5077795373769322806")
+addappid(452711, 1, "acf6afac156d3db002db86600335de9c058bf7957b8878788ea41af813cdbe5c")

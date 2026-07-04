@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PewPew Live
 addappid(2074980)
--- setManifestid(228989,"3514306556860204959")
-addappid(2074981,0,"cc3b6640147f562ad3d2b896ed055d20386bd23a8651ceb0cdb4c1d7dabd1a7a")
--- setManifestid(2074981,"7619045539967382400")
+addappid(2074981, 1, "cc3b6640147f562ad3d2b896ed055d20386bd23a8651ceb0cdb4c1d7dabd1a7a")

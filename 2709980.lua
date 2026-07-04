@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: WhiteTrick
 addappid(2709980)
-addappid(2709981,0,"231b4ee2665444e9a40bb6e93e5ffb2dbf03f366a0fc10ef1373a25a152498e6")
--- setManifestid(2709981,"3618388400251316554")
+addappid(2709981, 1, "231b4ee2665444e9a40bb6e93e5ffb2dbf03f366a0fc10ef1373a25a152498e6")
+addappid(2801740)

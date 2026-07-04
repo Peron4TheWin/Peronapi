@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Apocalypse Survivor
 addappid(1282040)
-addappid(1282041,0,"181c4039154b3c33244f0501d0e1c8173c0ab35fdf2450c56198d9f9aaff8ed3")
--- setManifestid(1282041,"6851313410489488057")
+addappid(1282041, 1, "181c4039154b3c33244f0501d0e1c8173c0ab35fdf2450c56198d9f9aaff8ed3")

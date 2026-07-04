@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Satan Moans
 addappid(3000520)
-addappid(3000521,0,"b1f57229d85ff05cce80b3e7080afa3931c1e851be1467fed2d0aefdc8e8c66d")
--- setManifestid(3000521,"4607998256811456948")
+addappid(3000521, 1, "b1f57229d85ff05cce80b3e7080afa3931c1e851be1467fed2d0aefdc8e8c66d")

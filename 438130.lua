@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Root Double -Before Crime * After Days- Xtend Edition
 addappid(438130)
-addappid(438131,0,"3304386f7570ef151ef646097a2832b749704c6a7c9a9c051304d9dea51db781")
+addappid(438131, 1, "3304386f7570ef151ef646097a2832b749704c6a7c9a9c051304d9dea51db781")

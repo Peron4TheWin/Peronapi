@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Secret Agent
+addappid(358350)
+addappid(358351, 1, "994c494affdbe2ec87ba1ae4dc5d9dbd4e95f156c7c58140b41d0f632524233e")

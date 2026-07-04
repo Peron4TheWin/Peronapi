@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Dust of the Violet Crystals
 addappid(2843830)
-addappid(2843831,0,"945b550252b36db48380b1700af5b56f3ca9332432369264ae3771c428caa33c")
--- setManifestid(2843831,"1713857994621956403")
+addappid(2843831, 1, "945b550252b36db48380b1700af5b56f3ca9332432369264ae3771c428caa33c")

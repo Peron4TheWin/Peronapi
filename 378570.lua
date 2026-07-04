@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Robo Miner
 addappid(378570)
-addappid(378571,0,"93fada97d75eb87e39af8262a370699073c641e5bf16194d26df504b66f2f0a9")
--- setManifestid(378571,"4338345052124165017")
+addappid(378571, 1, "93fada97d75eb87e39af8262a370699073c641e5bf16194d26df504b66f2f0a9")

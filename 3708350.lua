@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WTF: Waifu Tactical Force Playtest
 addappid(3708350)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3708351,0,"5cc36640450303e9ced3962f2da16d024eaf2b259b196c068218ff01aba4568e")
+addappid(3708351, 1, "5cc36640450303e9ced3962f2da16d024eaf2b259b196c068218ff01aba4568e")

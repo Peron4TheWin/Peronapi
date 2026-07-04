@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Maids
 addappid(2883050)
-addappid(2883051,0,"e69c81fe5b131555a4ebb0d721327eac68256a6688bc62057a970b04cda98f33")
--- setManifestid(2883051,"5335513672914613553")
+addappid(2883051, 1, "e69c81fe5b131555a4ebb0d721327eac68256a6688bc62057a970b04cda98f33")

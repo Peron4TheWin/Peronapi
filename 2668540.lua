@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Targeosity Horror
 addappid(2668540)
-addappid(2668541,0,"3ef7dfdd127d7c182267ce02774de9a1486ce406f6deb76399d362f3b612304b")
--- setManifestid(2668541,"6509017266445566458")
+addappid(2668541, 1, "3ef7dfdd127d7c182267ce02774de9a1486ce406f6deb76399d362f3b612304b")

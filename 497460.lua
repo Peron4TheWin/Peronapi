@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mervils: A VR Adventure
 addappid(497460)
-addappid(497461,0,"c9299f256fbd9e4dea7c8b00e00065ff3329ab617ed28d7c213b864a4f4c6496")
--- setManifestid(497461,"2519647463857256456")
+addappid(497461, 1, "c9299f256fbd9e4dea7c8b00e00065ff3329ab617ed28d7c213b864a4f4c6496")

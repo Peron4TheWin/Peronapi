@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Power Driver
 addappid(2207110)
-addappid(2207111,0,"ae40f3bf718148604a237cf890c7eee73844c6cf00cbf59cd89095b70454db76")
--- setManifestid(2207111,"6154345600590800863")
+addappid(2207111, 1, "ae40f3bf718148604a237cf890c7eee73844c6cf00cbf59cd89095b70454db76")

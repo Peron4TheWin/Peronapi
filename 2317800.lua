@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Voltage Demo
 addappid(2317800)
-addappid(2317801,0,"30e7189f5b1c25036eb1907be1590a4be5fecfc5b1108d3ee4017203a7f2d809")
--- setManifestid(2317801,"3714500167060293262")
+addappid(2317801, 1, "30e7189f5b1c25036eb1907be1590a4be5fecfc5b1108d3ee4017203a7f2d809")

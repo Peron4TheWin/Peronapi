@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guns N Stuff
 addappid(1406350)
-addappid(1406351,0,"e9708f5dc757deaf34c4b6c15c0b0234f1c5fe5a8e01a307505c57722a0f18a7")
--- setManifestid(1406351,"5843588107229042250")
+addappid(1406351, 1, "e9708f5dc757deaf34c4b6c15c0b0234f1c5fe5a8e01a307505c57722a0f18a7")

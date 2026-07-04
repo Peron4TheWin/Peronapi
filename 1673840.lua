@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Absolutely Hilarious Cat Game
 addappid(1673840)
-addappid(1673841,0,"b03db898f1ca223d58b70a8032d8b45624a5873909c5e7d46767bf290818d2fa")
--- setManifestid(1673841,"7032923041473848150")
+addappid(1673841, 1, "b03db898f1ca223d58b70a8032d8b45624a5873909c5e7d46767bf290818d2fa")
+addappid(1773270)

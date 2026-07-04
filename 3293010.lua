@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Easy Delivery Co.
 addappid(3293010)
-addappid(3293011,0,"8e652df7f7f499154c4db62e26560d348c9528c9a516d8095f23c33eaf858b27")
--- setManifestid(3293011,"5503336591841691876")
+addappid(3293011, 1, "8e652df7f7f499154c4db62e26560d348c9528c9a516d8095f23c33eaf858b27")

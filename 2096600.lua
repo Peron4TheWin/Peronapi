@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crysis 2 Remastered
 addappid(2096600)
-addappid(2096601,0,"1d418f319c368a25582ede887aacde5011e6b3489aa80c893346692a67c1e625")
--- setManifestid(2096601,"2149007021608283017")
+addappid(2096601, 1, "1d418f319c368a25582ede887aacde5011e6b3489aa80c893346692a67c1e625")

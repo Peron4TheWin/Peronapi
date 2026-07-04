@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: myPOPGOES
 addappid(2429350)
-addappid(2429351,0,"36ca36a4f7102608dcd7229f9f6def32f0f5cea5a3c0e5f301714add254905af")
--- setManifestid(2429351,"3378183093156856649")
+addappid(2429351, 1, "36ca36a4f7102608dcd7229f9f6def32f0f5cea5a3c0e5f301714add254905af")

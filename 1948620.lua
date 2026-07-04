@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Albert Innovation
 addappid(1948620)
-addappid(1948621,0,"6883d7e9e0065d0922525ddfc55211ca13d0e4ea6da6192038ef4c38a9f237a5")
--- setManifestid(1948621,"4706201177505889859")
+addappid(1948621, 1, "6883d7e9e0065d0922525ddfc55211ca13d0e4ea6da6192038ef4c38a9f237a5")

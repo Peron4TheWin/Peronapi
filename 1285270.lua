@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Farm Your Friends
 addappid(1285270)
-addappid(1285271,0,"755629771cf385c8fa39403ae70461e33837f90b5a9fa2c86f2d39e12e303650")
--- setManifestid(1285271,"8868711900319626801")
+addappid(1285271, 1, "755629771cf385c8fa39403ae70461e33837f90b5a9fa2c86f2d39e12e303650")
+addappid(3254980)

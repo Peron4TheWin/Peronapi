@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Downslope
 addappid(1491090)
-addappid(1491091,0,"ff20f2aeaa4457485562aa4d7ccb23ef6ef1fab11fc2ce88184d7243a061d0bb")
--- setManifestid(1491091,"4999364258933717622")
+addappid(1491091, 1, "ff20f2aeaa4457485562aa4d7ccb23ef6ef1fab11fc2ce88184d7243a061d0bb")

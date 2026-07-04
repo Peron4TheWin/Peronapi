@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dice Dice Dice Demo
 addappid(3098560)
-addappid(3098561,0,"f0ca750b2c7b20cd70ae9573014b7abd2cccc7743d9f6ca6b243c03b8b37b418")
--- setManifestid(3098561,"1249606823491845127")
+addappid(3098561, 1, "f0ca750b2c7b20cd70ae9573014b7abd2cccc7743d9f6ca6b243c03b8b37b418")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ash & Rust
 addappid(1358490)
-addappid(1358491,0,"de2cabde0fe6170e69964f24e78c316237a7c820236ee558c69eb700a5c1268d")
--- setManifestid(1358491,"9127711921074420031")
+addappid(1358491, 1, "de2cabde0fe6170e69964f24e78c316237a7c820236ee558c69eb700a5c1268d")

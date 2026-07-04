@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ZombieWave-UnlimitedChallenges
 addappid(1491850)
-addappid(1491851,0,"f1ae0ff558253e507ca8afecf9ef55788384fd57ca107fb60b1109f2f6b11a97")
--- setManifestid(1491851,"8772372972725308779")
+addappid(1491851, 1, "f1ae0ff558253e507ca8afecf9ef55788384fd57ca107fb60b1109f2f6b11a97")

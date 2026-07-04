@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Color of My Sound - Volume 1
 addappid(2546110)
-addappid(2546111,0,"c5c7fc7d85e7c33d1f85a8baab271a0250cb611f63ef824cd9497e229d66ccfa")
--- setManifestid(2546111,"2766875840610448586")
+addappid(2546111, 1, "c5c7fc7d85e7c33d1f85a8baab271a0250cb611f63ef824cd9497e229d66ccfa")

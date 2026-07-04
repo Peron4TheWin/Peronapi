@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geolosys
 addappid(2206570)
-addappid(2206571,0,"33ab659fec5155c4d624d037fcaecc18915ddc3d44ce27a1bdf12925fbb71adf")
--- setManifestid(2206571,"9143574499037177395")
+addappid(2206571, 1, "33ab659fec5155c4d624d037fcaecc18915ddc3d44ce27a1bdf12925fbb71adf")

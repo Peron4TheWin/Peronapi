@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deck of Souls
 addappid(2088770)
-addappid(2088771,0,"1b98a46447bba27b446810848e389e88f6c19b604705abcf08f624b4688edf34")
--- setManifestid(2088771,"2364985299674202522")
+addappid(2088771, 1, "1b98a46447bba27b446810848e389e88f6c19b604705abcf08f624b4688edf34")

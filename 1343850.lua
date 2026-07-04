@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DR MILOS REVENGE
 addappid(1343850)
-addappid(1343851,0,"d29c899d82dd45ab23130efca8518bc26981103169a0868782d8c26e6eff6be7")
--- setManifestid(1343851,"7039460603432317412")
+addappid(1343851, 1, "d29c899d82dd45ab23130efca8518bc26981103169a0868782d8c26e6eff6be7")

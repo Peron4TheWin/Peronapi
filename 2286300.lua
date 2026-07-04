@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Casual Slider 2
 addappid(2286300)
-addappid(2286301,0,"c5e3b1909ee082252d107feda03492cf4350285d1c6f56c250d0ab13a7070dfb")
--- setManifestid(2286301,"653462742070566036")
+addappid(2286301, 1, "c5e3b1909ee082252d107feda03492cf4350285d1c6f56c250d0ab13a7070dfb")

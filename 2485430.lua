@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bullets & Brains
 addappid(2485430)
-addappid(2485431,0,"f7ab3dac04877e10e656b6e5114a7dce37213f95ad80741f46d2b10513e0b74b")
--- setManifestid(2485431,"6308065405373378076")
+addappid(2485431, 1, "f7ab3dac04877e10e656b6e5114a7dce37213f95ad80741f46d2b10513e0b74b")

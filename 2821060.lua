@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 什么鸟都 Playtest
 addappid(2821060)
-addappid(2821061,0,"465e485132015b42ba12d841dd7117c6b4ad679a12d4b4213dc0d177f228a3b3")
--- setManifestid(2821061,"3383573541084440034")
+addappid(2821061, 1, "465e485132015b42ba12d841dd7117c6b4ad679a12d4b4213dc0d177f228a3b3")

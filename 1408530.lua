@@ -1,5 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Sudoku Starry Sky
 addappid(1408530)
-addappid(1408531,0,"74615e9df80fa0ae55c659c7dbea216f03fa88ac2e789d0569ac6747e18b9a69")
--- setManifestid(1408531,"4550667024529662930")
+addappid(1408531, 1, "74615e9df80fa0ae55c659c7dbea216f03fa88ac2e789d0569ac6747e18b9a69")
 addappid(1421920)
 addappid(1429720)

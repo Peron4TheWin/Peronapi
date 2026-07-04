@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KUNKUNKUN
 addappid(2791570)
-addappid(2791571,0,"895abd54517ece0fea57aed7d07b3bdc4611d2eed7a99b78727c1cdad4866a78")
--- setManifestid(2791571,"2245820465186092296")
+addappid(2791571, 1, "895abd54517ece0fea57aed7d07b3bdc4611d2eed7a99b78727c1cdad4866a78")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dreambound Demo
 addappid(2077510)
-addappid(2077511,0,"3710471ae450b2c141096248789eec40af255470a7213aa72355aa9675eebdad")
--- setManifestid(2077511,"287704173489336981")
+addappid(2077511, 1, "3710471ae450b2c141096248789eec40af255470a7213aa72355aa9675eebdad")

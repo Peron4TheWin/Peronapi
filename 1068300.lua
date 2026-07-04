@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Logitech VR Ink Driver
 addappid(1068300)
--- setManifestid(228986,"8782296191957114623")
-addappid(1068301,0,"d9345d21f68b7bd598d9d38190977f040e799da6cc11a1298df4ef823660bf40")
--- setManifestid(1068301,"1467570131148581574")
+addappid(1068301, 1, "d9345d21f68b7bd598d9d38190977f040e799da6cc11a1298df4ef823660bf40")

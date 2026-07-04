@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Champy the Useless Vampire
 addappid(2426350)
-addappid(2426351,0,"b7e0bc9d1e199e36a168f2ca64c741bae9747c45bb7cb4ed8b75d279ce9b5533")
--- setManifestid(2426351,"7019246162541361903")
+addappid(2426351, 1, "b7e0bc9d1e199e36a168f2ca64c741bae9747c45bb7cb4ed8b75d279ce9b5533")

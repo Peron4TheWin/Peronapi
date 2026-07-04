@@ -1,8 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Stormworks: Build and Rescue
 addappid(573090)
+addappid(573091, 1, "49f609573f8fc3923ec4eab2ba459bdea77b7a906e9054549c102e4659fcfff7")
 addappid(1542360)
 addappid(2124750)
 addappid(2383250)
-addappid(573091,0,"49f609573f8fc3923ec4eab2ba459bdea77b7a906e9054549c102e4659fcfff7")
--- setManifestid(573091,"4984588469366235379")
-addappid(573092,0,"871725b4b4314590b50465afe4c8ebd3cea63a704afce1ae1f369edecb0be7f5")
--- setManifestid(573092,"3570255211402427047")

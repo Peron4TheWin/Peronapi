@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: eSports Legend / 电竞传奇 Demo
 addappid(939010)
-addappid(939011,0,"072f4cf39f9841484b880139b5825b18f4c2acf9eb43df6e2a8d345b53351a28")
--- setManifestid(939011,"7425663394063708994")
+addappid(939011, 1, "072f4cf39f9841484b880139b5825b18f4c2acf9eb43df6e2a8d345b53351a28")

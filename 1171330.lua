@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reviser
 addappid(1171330)
-addappid(1171331,0,"7e95c4a85be9009b0b60c4279b2cc0f9787ae81ae19116aefa9e934cdd92098a")
--- setManifestid(1171331,"7284394258463886501")
+addappid(1171331, 1, "7e95c4a85be9009b0b60c4279b2cc0f9787ae81ae19116aefa9e934cdd92098a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alpha Shark
 addappid(1806400)
-addappid(1806401,0,"ddf5e1384b1ec06dbbe4f7eadc57deda91a464f1500fdc89bebba9f2d272cc8f")
--- setManifestid(1806401,"5610936206457429418")
+addappid(1806401, 1, "ddf5e1384b1ec06dbbe4f7eadc57deda91a464f1500fdc89bebba9f2d272cc8f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escaping maze
 addappid(1415300)
-addappid(1415301,0,"d96c1f0fa1ac1f32a62a4ddf250d37357bafb3f189a9fc97ec26e5b8dcbd5918")
--- setManifestid(1415301,"4910489701605801066")
+addappid(1415301, 1, "d96c1f0fa1ac1f32a62a4ddf250d37357bafb3f189a9fc97ec26e5b8dcbd5918")

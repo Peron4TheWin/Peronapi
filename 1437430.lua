@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mixx Island
 addappid(1437430)
-addappid(1437431,0,"72fd10f1b1f17b3746b7da101039e6e697c8dd55d40d9914e34b639a842f2dee")
--- setManifestid(1437431,"1454379248004502787")
+addappid(1437431, 1, "72fd10f1b1f17b3746b7da101039e6e697c8dd55d40d9914e34b639a842f2dee")

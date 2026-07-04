@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chrono Crystal
 addappid(2367500)
-addappid(2367501,0,"9a67f88a48504e6c2e85c0ae14625cc53823f2ca01004dafe1e07315c0abd56b")
--- setManifestid(2367501,"5791760124495300583")
+addappid(2367501, 1, "9a67f88a48504e6c2e85c0ae14625cc53823f2ca01004dafe1e07315c0abd56b")

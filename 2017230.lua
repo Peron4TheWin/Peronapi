@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dimensions of Mind
 addappid(2017230)
-addappid(2017231,0,"67bf27aca2e02a6e4d7f1a777bac7fb1862f2323725fafab2d08ce2160ed1124")
--- setManifestid(2017231,"8052377570329506573")
+addappid(2017231, 1, "67bf27aca2e02a6e4d7f1a777bac7fb1862f2323725fafab2d08ce2160ed1124")

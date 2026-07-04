@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Orbcraft Survivors
 addappid(3327240)
-addappid(3327241,0,"07d86a6adf58fa4e9637cbc81ca746a0cbc737ab44483170d8995eceb068e9de")
--- setManifestid(3327241,"764947358014671022")
+addappid(3327241, 1, "07d86a6adf58fa4e9637cbc81ca746a0cbc737ab44483170d8995eceb068e9de")

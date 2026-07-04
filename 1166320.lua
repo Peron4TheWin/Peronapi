@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Shiri
 addappid(1166320)
-addappid(1166321,0,"393fb01407e9e22beea13d2d6db5b0ca52269e05e4c2407b1e81dc46e7e98238")
--- setManifestid(1166321,"3553247212688906170")
-addappid(1166322)
+addappid(1166321, 1, "393fb01407e9e22beea13d2d6db5b0ca52269e05e4c2407b1e81dc46e7e98238")

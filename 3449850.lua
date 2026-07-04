@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Kitten Girl
 addappid(3449850)
-addappid(3449851,0,"3d36eeb9cea7c107304e908d5021dbe98471d6ecadb6972491f3d71b371c79f5")
--- setManifestid(3449851,"706724189177846847")
+addappid(3449851, 1, "3d36eeb9cea7c107304e908d5021dbe98471d6ecadb6972491f3d71b371c79f5")

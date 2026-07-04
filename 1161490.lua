@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: MotoGP™20
 addappid(1161490)
-addappid(228987)
---setManifestid(228987,"4302102680580581867")
-addappid(1161491,0,"4cb6b10470f48d200134fdef9687805d97b7aabdbab2b7a6d3c27c87ab1f3cab")
---setManifestid(1161491,"1259652244580870879")
+addappid(1161491, 1, "4cb6b10470f48d200134fdef9687805d97b7aabdbab2b7a6d3c27c87ab1f3cab")
+addappid(1176700)

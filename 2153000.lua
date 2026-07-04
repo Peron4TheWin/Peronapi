@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeonoid
 addappid(2153000)
-addappid(2153001,0,"2bfb442e38417e4b1d1348b17dae6f419b28abacadf4defa549b0e25e32266a3")
--- setManifestid(2153001,"2466572425214508337")
+addappid(2153001, 1, "2bfb442e38417e4b1d1348b17dae6f419b28abacadf4defa549b0e25e32266a3")

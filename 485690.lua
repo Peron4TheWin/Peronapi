@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hope Lake
 addappid(485690)
-addappid(485691,0,"9adf492831d73fc21239b7dc0644a6623f99740c439afc44a99d51c9d9398d1e")
--- setManifestid(485691,"974712268149941641")
+addappid(485691, 1, "9adf492831d73fc21239b7dc0644a6623f99740c439afc44a99d51c9d9398d1e")

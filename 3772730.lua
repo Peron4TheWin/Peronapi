@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: This sect accepts female disciples only
 addappid(3772730)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(3772731,0,"c7087182cce3103be0d8aac80e4857599dd194f9896d222c71e2a67dd91f6ba8")
--- setManifestid(3772731,"4408214156941285508")
+addappid(3772731, 1, "c7087182cce3103be0d8aac80e4857599dd194f9896d222c71e2a67dd91f6ba8")

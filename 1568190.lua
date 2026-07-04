@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cat's Life Jigsaw Puzzles
 addappid(1568190)
-addappid(1568191,0,"7abe53eb17ba9cfbce2d53a461623b146a23aaf8e482a0923033baccb178ee04")
--- setManifestid(1568191,"6059332224651266780")
+addappid(1568191, 1, "7abe53eb17ba9cfbce2d53a461623b146a23aaf8e482a0923033baccb178ee04")

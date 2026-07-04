@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Interior Designer Demo
 addappid(2928510)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2928511,0,"42d2a1de4c5b175996bfdd24ccb396ea9aab744294ae4715eb09d997b411bc82")
+addappid(2928511, 1, "42d2a1de4c5b175996bfdd24ccb396ea9aab744294ae4715eb09d997b411bc82")

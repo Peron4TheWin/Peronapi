@@ -1,11 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Gas Guzzlers Extreme
 addappid(243800)
-addappid(228985)
---setManifestid(228985,"3966345552745568756")
-addappid(228986)
---setManifestid(228986,"8782296191957114623")
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(243801,0,"cae65bfd3eb6c2c8cdaeb9746efedf2f915b951ac62d2e1f17053126225e6362")
---setManifestid(243801,"8199267746417323187")
+addappid(243801, 1, "cae65bfd3eb6c2c8cdaeb9746efedf2f915b951ac62d2e1f17053126225e6362")
+addappid(277820, 0, "8f62d5c6ac18d71b98858d8a96eea0ad9f3d8e9c59d08157fcba2c1794e8b5e7")
+addappid(277821, 0, "3a0e30e08d85189a92912c33944c1b8f1c96ebb36d324bfde38434c2787601cb")

@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 虚幻大圣 Playtest
 addappid(3102080)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3102081,0,"72b9be2ee5df71059b166e1c7012757db8a07e1e149dee49ca9b1cf9881ce7cf")
+addappid(3102081, 1, "72b9be2ee5df71059b166e1c7012757db8a07e1e149dee49ca9b1cf9881ce7cf")

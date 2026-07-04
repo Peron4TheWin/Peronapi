@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bread around bread around bread around bread
 addappid(2730890)
-addappid(2730891,0,"94eafc3d952e14ab5a08c5a955e3428ad9d3464f78b290ef9c1c72b768ad97de")
--- setManifestid(2730891,"3126886806581303973")
+addappid(2730891, 1, "94eafc3d952e14ab5a08c5a955e3428ad9d3464f78b290ef9c1c72b768ad97de")

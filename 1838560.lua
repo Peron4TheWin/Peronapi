@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Defaloon
 addappid(1838560)
-addappid(1838561,0,"3a4330db3fdd7f6f85aac02388f71c9b4c45bfdb21494bea9a614b3ff1c9cd97")
--- setManifestid(1838561,"4785969398558180155")
+addappid(1838561, 1, "3a4330db3fdd7f6f85aac02388f71c9b4c45bfdb21494bea9a614b3ff1c9cd97")

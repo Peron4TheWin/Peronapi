@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Plan B from Outer Space: A Bavarian Odyssey
 addappid(1683620)
-addappid(1683621,0,"ef2692c5dd6c6ece1be9914c63850f306eba4f7b259d8ad881f0dc2697eca199")
--- setManifestid(1683621,"4015065808856640120")
+addappid(1683621, 1, "ef2692c5dd6c6ece1be9914c63850f306eba4f7b259d8ad881f0dc2697eca199")

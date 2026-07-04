@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost In The Shadows
 addappid(2425090)
-addappid(2425091,0,"cd92ec47c8290f998b3ff13297137f165ba5b570da0b9d12ac4fdaabab49b22f")
--- setManifestid(2425091,"2712112026698416818")
+addappid(2425091, 1, "cd92ec47c8290f998b3ff13297137f165ba5b570da0b9d12ac4fdaabab49b22f")

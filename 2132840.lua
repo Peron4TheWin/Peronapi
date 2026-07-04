@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deliverance & Reign
 addappid(2132840)
-addappid(2132841,0,"46f17dc0c8e9ad1bf990969eb7ebbb8497bab869abf5bc1fd4921718edf6e4c4")
--- setManifestid(2132841,"97198123026472790")
+addappid(2132841, 1, "46f17dc0c8e9ad1bf990969eb7ebbb8497bab869abf5bc1fd4921718edf6e4c4")

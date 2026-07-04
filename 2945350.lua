@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wukong's Pool
 addappid(2945350)
-addappid(2945351,0,"04b2541818d3556dbffa38726e047bb46e8d0c5ee780a3a77a0dacd3e6ac6342")
--- setManifestid(2945351,"6607079930057932479")
+addappid(2945351, 1, "04b2541818d3556dbffa38726e047bb46e8d0c5ee780a3a77a0dacd3e6ac6342")

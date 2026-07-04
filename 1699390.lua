@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roxy Raccoon
 addappid(1699390)
-addappid(1699391,0,"433b9c94024771c8346055dca4089ba46ebcee05c77b90c7ca8c8a71a5dfad4b")
--- setManifestid(1699391,"6622618492323156082")
+addappid(1699391, 1, "433b9c94024771c8346055dca4089ba46ebcee05c77b90c7ca8c8a71a5dfad4b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Third Eye
 addappid(2425290)
-addappid(2425291,0,"0138197066b87287bcfca71065ecdda6e7e6b7363ce918f5aded6560edae37ba")
--- setManifestid(2425291,"8075407696293548156")
+addappid(2425291, 1, "0138197066b87287bcfca71065ecdda6e7e6b7363ce918f5aded6560edae37ba")

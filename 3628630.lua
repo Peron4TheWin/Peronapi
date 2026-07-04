@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Parking Lot Simulator: Car Collector
 addappid(3628630)
-addappid(3628631,0,"4262a12db92bd5ce71c1040d4ef93a0259922aaad29344ca7f301248de7c60a7")
--- setManifestid(3628631,"8594279749867455606")
+addappid(3628631, 1, "4262a12db92bd5ce71c1040d4ef93a0259922aaad29344ca7f301248de7c60a7")

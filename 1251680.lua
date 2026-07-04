@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rescue Elves
 addappid(1251680)
-addappid(1251681,0,"20200de47c79d62f9d9aa870eadf185cb2ed5f8c81e9034bf829fbcca083fa3c")
--- setManifestid(1251681,"5545942949195575459")
+addappid(1251681, 1, "20200de47c79d62f9d9aa870eadf185cb2ed5f8c81e9034bf829fbcca083fa3c")

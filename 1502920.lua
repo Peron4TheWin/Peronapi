@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jack Axe: The Trial
 addappid(1502920)
-addappid(1502921,0,"e34245fa4dcd3be2bea37aaa9d2674e53e3ea05f65e1ca0ce027634b89038c05")
--- setManifestid(1502921,"5643832745604347488")
+addappid(1502921, 1, "e34245fa4dcd3be2bea37aaa9d2674e53e3ea05f65e1ca0ce027634b89038c05")

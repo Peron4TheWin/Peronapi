@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nocturia The Game
 addappid(2355440)
-addappid(2355441,0,"daa8800af416adf66b40a84c031a9727cea7b387eb07a282757efc4710a714dc")
--- setManifestid(2355441,"8032449841191108209")
+addappid(2355441, 1, "daa8800af416adf66b40a84c031a9727cea7b387eb07a282757efc4710a714dc")

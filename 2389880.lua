@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Adventures of LinShanHai - Chapter4:Vanishing Masterpiece
 addappid(2389880)
-addappid(2389881,0,"643dc71106ea1186dab8b8fa55a0b16fbd8463a9cb1978110a8987e7972117c5")
+addappid(2389881, 1, "643dc71106ea1186dab8b8fa55a0b16fbd8463a9cb1978110a8987e7972117c5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Holopoint
 addappid(457960)
-addappid(457961,0,"4e3e6b9972ff255a8d6fa86ee49c4977c126753cb0043a520c52b932c48d05ed")
--- setManifestid(457961,"2976931170404546713")
+addappid(457961, 1, "4e3e6b9972ff255a8d6fa86ee49c4977c126753cb0043a520c52b932c48d05ed")

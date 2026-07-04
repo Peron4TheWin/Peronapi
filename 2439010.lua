@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unibat
 addappid(2439010)
-addappid(2439011,0,"f329e1628542cd7bca945ffb0633bbe01e18de4d8aa93a326112a90339937344")
--- setManifestid(2439011,"785354961945191418")
+addappid(2439011, 1, "f329e1628542cd7bca945ffb0633bbe01e18de4d8aa93a326112a90339937344")

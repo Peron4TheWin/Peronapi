@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neon Warp
 addappid(485920)
-addappid(485921,0,"2a8d47833a412f6a4839865a44266e26bccbd2c837cc79f948a99812c80dc910")
--- setManifestid(485921,"4066236442505550228")
+addappid(485921, 1, "2a8d47833a412f6a4839865a44266e26bccbd2c837cc79f948a99812c80dc910")

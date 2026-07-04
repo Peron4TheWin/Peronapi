@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 佩尔霍宁
 addappid(1988630)
-addappid(1988631,0,"1beccc30d999b671d819a99155d3312045bd93f7141a7da96aec1e58b16161ee")
--- setManifestid(1988631,"5762913849881304152")
+addappid(1988631, 1, "1beccc30d999b671d819a99155d3312045bd93f7141a7da96aec1e58b16161ee")

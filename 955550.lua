@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Root Beer On Tap
 addappid(955550)
-addappid(955551,0,"3b5749ffcbc6fd5f0d757f49ad1be544c5a3c3d4339145e76bff02cb9dae07d1")
--- setManifestid(955551,"1379343765661428120")
+addappid(955551, 1, "3b5749ffcbc6fd5f0d757f49ad1be544c5a3c3d4339145e76bff02cb9dae07d1")

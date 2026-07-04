@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Once upon a Dungeon - Infinity
 addappid(3234380)
-addappid(3234381,0,"ee4561552d3d2bf2b5b65b09c3cd1d767e9e8cc74819b45ec2350df01d6c1c9e")
--- setManifestid(3234381,"8358236638285044656")
+addappid(3234381, 1, "ee4561552d3d2bf2b5b65b09c3cd1d767e9e8cc74819b45ec2350df01d6c1c9e")

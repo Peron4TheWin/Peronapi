@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 能量冲击 Energy Shock
 addappid(965120)
-addappid(965121,0,"ff11c5c3f67cd19f0947a76edcc6d6da2870a85d7d148d9ffbf3e0c66b48bb40")
--- setManifestid(965121,"2464518910789013169")
+addappid(965121, 1, "ff11c5c3f67cd19f0947a76edcc6d6da2870a85d7d148d9ffbf3e0c66b48bb40")

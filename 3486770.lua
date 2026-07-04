@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Red Light
 addappid(3486770)
-addappid(3486771,0,"003ae6b504108e78dd4d55c04a7f114d7c3f586e97e3bbe4daf7b18929bf179f")
--- setManifestid(3486771,"4455662640222961404")
+addappid(3486771, 1, "003ae6b504108e78dd4d55c04a7f114d7c3f586e97e3bbe4daf7b18929bf179f")

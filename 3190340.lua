@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Pass
 addappid(3190340)
-addappid(3190341,0,"bf6f5faf26d968ebd89faca85d675266f8f02f8caa6b9ac4a5b71d6b97f27345")
--- setManifestid(3190341,"6672368386499326528")
+addappid(3190341, 1, "bf6f5faf26d968ebd89faca85d675266f8f02f8caa6b9ac4a5b71d6b97f27345")

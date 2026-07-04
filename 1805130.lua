@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Komorebi
 addappid(1805130)
-addappid(1805131,0,"c9f367ce816c4fd4382918a05a69feeeef5deaa75d03d45a424d05236f64e03d")
--- setManifestid(1805131,"420326747777485379")
+addappid(1805131, 1, "c9f367ce816c4fd4382918a05a69feeeef5deaa75d03d45a424d05236f64e03d")

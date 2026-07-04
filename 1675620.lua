@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Light
 addappid(1675620)
-addappid(1675621,0,"40f120d10c72414b86ad36d95b058c4a99ac02ff9d8f34983b4ebf7941fa2a7f")
--- setManifestid(1675621,"6749468046111849897")
+addappid(1675621, 1, "40f120d10c72414b86ad36d95b058c4a99ac02ff9d8f34983b4ebf7941fa2a7f")

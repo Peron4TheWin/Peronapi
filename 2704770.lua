@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Curse Seal Rotation
 addappid(2704770)
-addappid(2704771,0,"b88762d5ec3b4b3d30af1d282ecb8650644a4fea9be090326c16d67d2d8e1d87")
--- setManifestid(2704771,"4791381270097242107")
+addappid(2704771, 1, "b88762d5ec3b4b3d30af1d282ecb8650644a4fea9be090326c16d67d2d8e1d87")

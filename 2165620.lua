@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pool Cleaning Simulator
 addappid(2165620)
-addappid(2165621,0,"ad8dde03388a6fbaa173e97616fe19a9ca497d6552276fa6a6f2bf4083ce99bf")
--- setManifestid(2165621,"5760776791208214945")
+addappid(2165621, 1, "ad8dde03388a6fbaa173e97616fe19a9ca497d6552276fa6a6f2bf4083ce99bf")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Among Us 3D: VR
 addappid(1849900)
-addappid(1849901,0,"b7688a6f7b2836e62a8b0562dae9ef1094061ae8f67131c49326cbf1819abdd4")
--- setManifestid(1849901,"5238472391845849489")
+addappid(1849901, 1, "b7688a6f7b2836e62a8b0562dae9ef1094061ae8f67131c49326cbf1819abdd4")

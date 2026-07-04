@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forestry 2017 - The Simulation
 addappid(273800)
-addappid(273801,0,"012717ce2eb5af99dff1abc435f336dc1747f70b10f79b1b767f7a62de2b17c4")
--- setManifestid(273801,"716824688378665693")
+addappid(273801, 1, "012717ce2eb5af99dff1abc435f336dc1747f70b10f79b1b767f7a62de2b17c4")

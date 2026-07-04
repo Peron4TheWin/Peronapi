@@ -1,4 +1,4 @@
--- House Flipper Remastered Collection
-addappid(3710840) -- House Flipper Remastered Collection
-addappid(3710841, 1, "488fc8ff042da5fbec1bbf2ace38baed5d94b2ca030a4d5da53c90366e489bc4") -- Depot 3710841
-addappid(3710842, 1, "4ac9eb8ffd1dbaf7f1e0854c65fbee712878183417b817be2a5ddea9133910aa") -- Depot 3710842
+-- Lua provided by SkyAPI 
+-- Game: House Flipper Remastered Collection
+addappid(3710840)
+addappid(3710841, 1, "488fc8ff042da5fbec1bbf2ace38baed5d94b2ca030a4d5da53c90366e489bc4")

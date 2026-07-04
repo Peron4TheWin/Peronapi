@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ALARA Prime Playtest
 addappid(2125710)
-addappid(2125711,0,"41a52dcb452b4daba9d09f728ff3d136f728c114be982b9b01accc44d5196473")
+addappid(2125711, 1, "41a52dcb452b4daba9d09f728ff3d136f728c114be982b9b01accc44d5196473")

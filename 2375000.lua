@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sun Haven Soundtrack Vol. 2
 addappid(2375000)
-addappid(2375001,0,"9e35d8896c45172937a1b2ffe2f95285b7be1a250c0e89ce0d9bdcf4cca754d5")
--- setManifestid(2375001,"7475523022309329780")
+addappid(2375001, 1, "9e35d8896c45172937a1b2ffe2f95285b7be1a250c0e89ce0d9bdcf4cca754d5")

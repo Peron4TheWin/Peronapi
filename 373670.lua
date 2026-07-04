@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arkhelom 3D
 addappid(373670)
-addappid(373671,0,"8e697b01b603b3a7d40218bdd607fe7e6d6fd6a0c9ecfce09e7f20bf649fb0b8")
--- setManifestid(373671,"4722095954174719307")
+addappid(373671, 1, "8e697b01b603b3a7d40218bdd607fe7e6d6fd6a0c9ecfce09e7f20bf649fb0b8")

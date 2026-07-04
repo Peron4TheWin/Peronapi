@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: (The Lingering) Graveyard Visit
 addappid(3731150)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3731151,0,"4ec014a7cde0b185963764ad3e4f9708ef7c4238f994c72ffec86171a6c150f7")
--- setManifestid(3731151,"4959885226225680894")
+addappid(3731151, 1, "4ec014a7cde0b185963764ad3e4f9708ef7c4238f994c72ffec86171a6c150f7")

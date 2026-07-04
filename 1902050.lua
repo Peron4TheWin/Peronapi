@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: the DEEP LOST
 addappid(1902050)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1902051,0,"4ead7f3bd86dd1bfba99df95b0525d0e2846329ca5c15224acdad6b3845db3c2")
--- setManifestid(1902051,"6389794463416653264")
+addappid(1902051, 1, "4ead7f3bd86dd1bfba99df95b0525d0e2846329ca5c15224acdad6b3845db3c2")

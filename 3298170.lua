@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: S.E.X. Z.O.N.E. ☢️
 addappid(3298170)
-addappid(3298171,0,"c97c78d0a28de86914f3a202160326f8af316958da81877faf0c496319be7111")
--- setManifestid(3298171,"7218771208087882472")
+addappid(3298171, 1, "c97c78d0a28de86914f3a202160326f8af316958da81877faf0c496319be7111")

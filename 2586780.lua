@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Evercore Heroes : Ascension
 addappid(2586780)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2586781,0,"aecfcf1cbc65fd9d45b3b2e1d6bdd0e56c5662933d4ed9f703c6b2c5cfab1588")
--- setManifestid(2586781,"3057476814206548471")
+addappid(2586781, 1, "aecfcf1cbc65fd9d45b3b2e1d6bdd0e56c5662933d4ed9f703c6b2c5cfab1588")

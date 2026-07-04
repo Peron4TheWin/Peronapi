@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape to the Italian brainrot
 addappid(2638240)
-addappid(2638241,0,"e4aa64ef2e372a94542df6bfe2ed1e8fa5a9343613c29cdad88380695d63a933")
--- setManifestid(2638241,"2866778294233217787")
+addappid(2638241, 1, "e4aa64ef2e372a94542df6bfe2ed1e8fa5a9343613c29cdad88380695d63a933")

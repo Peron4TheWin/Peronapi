@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sea of Survivors
 addappid(2347940)
-addappid(2347941,0,"e410306c57c6526ec83c792aebf473ad2c7eee992387c41b99d6e511e1cd5ebf")
--- setManifestid(2347941,"5429337503164643509")
+addappid(2347941, 1, "e410306c57c6526ec83c792aebf473ad2c7eee992387c41b99d6e511e1cd5ebf")

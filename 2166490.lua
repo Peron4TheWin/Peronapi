@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stay Out Of The Farm: Prologue
 addappid(2166490)
-addappid(2166491,0,"be4702485c052f73f29eb4800e6960e35437f9eec07bbb121ea5127aef947867")
--- setManifestid(2166491,"2002814493539849924")
+addappid(2166491, 1, "be4702485c052f73f29eb4800e6960e35437f9eec07bbb121ea5127aef947867")

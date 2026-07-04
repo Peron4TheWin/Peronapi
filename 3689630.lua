@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bubble Rage
 addappid(3689630)
-addappid(3689631,0,"e58a9ef4179943c960fdc3150fbb9600f6bb6968edad945419abd8a8f44a5b0f")
--- setManifestid(3689631,"6578899974805583197")
+addappid(3689631, 1, "e58a9ef4179943c960fdc3150fbb9600f6bb6968edad945419abd8a8f44a5b0f")

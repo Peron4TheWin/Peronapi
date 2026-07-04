@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Teleport Master
 addappid(3406610)
-addappid(3406611,0,"2f8ad3405ed9f5d60841fae510b75cd2742368c0a92b5163425585b15b0ce085")
--- setManifestid(3406611,"3747914205364839408")
+addappid(3406611, 1, "2f8ad3405ed9f5d60841fae510b75cd2742368c0a92b5163425585b15b0ce085")

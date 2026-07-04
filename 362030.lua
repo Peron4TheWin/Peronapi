@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mysteries & Nightmares: Morgiana
 addappid(362030)
-addappid(362031,0,"ce67e07137e403ce647ae0f1f45c4c642b61a2dff71c5bb8f2a5ff59f3cde838")
--- setManifestid(362031,"6730824621434871307")
+addappid(362031, 1, "ce67e07137e403ce647ae0f1f45c4c642b61a2dff71c5bb8f2a5ff59f3cde838")

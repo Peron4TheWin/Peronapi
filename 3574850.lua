@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Clicker: Nina is streaming
 addappid(3574850)
-addappid(3574851,0,"b9da4b94bae2c8a80bf03952075940cab48a83f4057a9c373eaf53747c2623e3")
--- setManifestid(3574851,"3307530617375528854")
+addappid(3574851, 1, "b9da4b94bae2c8a80bf03952075940cab48a83f4057a9c373eaf53747c2623e3")

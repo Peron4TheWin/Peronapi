@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dominated by: Yandere Goth Gamer Girl
 addappid(3852410)
-addappid(3852411,0,"e834cc4ae25d4a45f76e26775746ed9a834aad808ed4832e0df6ce603e1913e3")
--- setManifestid(3852411,"7221551735143916834")
+addappid(3852411, 1, "e834cc4ae25d4a45f76e26775746ed9a834aad808ed4832e0df6ce603e1913e3")

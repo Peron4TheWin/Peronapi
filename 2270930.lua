@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: F1 Crazy Stunts
 addappid(2270930)
-addappid(2270931,0,"1c1cadbf302a11858061cc0fb35e5a3ad2bb2e4a713c712da473d10410d03aa3")
--- setManifestid(2270931,"271752582334830829")
+addappid(2270931, 1, "1c1cadbf302a11858061cc0fb35e5a3ad2bb2e4a713c712da473d10410d03aa3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metal Slug Tactics (Original Game Soundtrack)
 addappid(3283800)
-addappid(3283801,0,"590eec6e642f2fc671e08522c19e91b0a319a8b4a2ddcbe398a332d22e2cc144")
--- setManifestid(3283801,"8976512719056988826")
+addappid(3283801, 1, "590eec6e642f2fc671e08522c19e91b0a319a8b4a2ddcbe398a332d22e2cc144")

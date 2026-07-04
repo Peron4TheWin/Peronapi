@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aquilon's Sex Quest
 addappid(3208880)
-addappid(3208881,0,"34dd01ace890a6f94ea75e377325d639a05a11a09ff8deff3a690ef1e5d96225")
--- setManifestid(3208881,"7868982605634033160")
+addappid(3208881, 1, "34dd01ace890a6f94ea75e377325d639a05a11a09ff8deff3a690ef1e5d96225")

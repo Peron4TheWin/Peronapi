@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot Cleopatra
 addappid(2134630)
-addappid(2134631,0,"9a9e80ab458007419a51474d1083f68a1d33fd8a3b59af1b708e6884aa996a0d")
--- setManifestid(2134631,"9027854185474403835")
+addappid(2134631, 1, "9a9e80ab458007419a51474d1083f68a1d33fd8a3b59af1b708e6884aa996a0d")
+addappid(2168910)

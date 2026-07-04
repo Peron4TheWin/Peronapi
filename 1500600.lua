@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Demonpact: Clarice
 addappid(1500600)
-addappid(1500601,0,"3e821f69710312b550ebac3b1777b82ba365e97f65b23f5bed00955179db6d7a")
--- setManifestid(1500601,"6419769314938480571")
+addappid(1500601, 1, "3e821f69710312b550ebac3b1777b82ba365e97f65b23f5bed00955179db6d7a")

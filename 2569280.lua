@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Below Nowhere
 addappid(2569280)
-addappid(2569281,0,"3b8093a94de728a770bdd72d86e994b91bbd18a9abeb9a3e0f45b49fa574ff27")
--- setManifestid(2569281,"8315411133480315530")
+addappid(2569281, 1, "3b8093a94de728a770bdd72d86e994b91bbd18a9abeb9a3e0f45b49fa574ff27")

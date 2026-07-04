@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reignbreaker
 addappid(2129810)
-addappid(2129811,0,"20dba37e5797459ed50a029a5a621d34d7c41415fdd11aaf605cd8d948046b60")
+addappid(2129811, 1, "20dba37e5797459ed50a029a5a621d34d7c41415fdd11aaf605cd8d948046b60")

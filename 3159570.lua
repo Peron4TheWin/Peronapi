@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Lynked: Banner of the Spark
 addappid(3159570)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3159571,0,"8b67b11313f1da51f2ba40bab7831b79558154057a6270e935dfed05d85b9fef")
--- setManifestid(3159571,"1085169731222759957")
+addappid(3159571, 1, "8b67b11313f1da51f2ba40bab7831b79558154057a6270e935dfed05d85b9fef")
+addappid(3269880)

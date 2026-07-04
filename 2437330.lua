@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Novus Orbis
 addappid(2437330)
-addappid(2437331,0,"8a4e2bde9c0ea35fcbc1c9167624855ae1d0b27d26a5270720a67561996bf5b9")
--- setManifestid(2437331,"6392142023164903983")
+addappid(2437331, 1, "8a4e2bde9c0ea35fcbc1c9167624855ae1d0b27d26a5270720a67561996bf5b9")

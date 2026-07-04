@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirit Roots
 addappid(779950)
-addappid(779951,0,"9cd48fdc36d6a4d95f523380302e490dc92f492948980ebfd6d217ea0da585ff")
--- setManifestid(779951,"3669617954420123362")
+addappid(779951, 1, "9cd48fdc36d6a4d95f523380302e490dc92f492948980ebfd6d217ea0da585ff")

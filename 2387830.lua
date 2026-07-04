@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: People Jumping Tower
 addappid(2387830)
-addappid(2387831,0,"da1c7913025e51cda708775fdc5b112a82e5473ae203ae6987ef446b10540d5a")
--- setManifestid(2387831,"6146245567379457257")
+addappid(2387831, 1, "da1c7913025e51cda708775fdc5b112a82e5473ae203ae6987ef446b10540d5a")

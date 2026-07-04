@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Gensokyo Visitor Demo
 addappid(1461250)
-addappid(1461251,0,"6163b117585fe494278406fe27067338030b8739ddf0c15cbaf64ea61ab4c0e3")
+addappid(1461251, 1, "6163b117585fe494278406fe27067338030b8739ddf0c15cbaf64ea61ab4c0e3")

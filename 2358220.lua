@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blade Mistress
 addappid(2358220)
-addappid(2358221,0,"80cd37dd53cac375e6f3d5a45bbbfeeca5f0df0f32b43dc595f78be56239f460")
--- setManifestid(2358221,"4761544115284655836")
+addappid(2358221, 1, "80cd37dd53cac375e6f3d5a45bbbfeeca5f0df0f32b43dc595f78be56239f460")

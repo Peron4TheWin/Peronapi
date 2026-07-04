@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Astral Throne
 addappid(2560500)
-addappid(2560501,0,"d6d0c544797ded0b3f0497070ca7491e079045dfb023da189cd6ce203370016f")
--- setManifestid(2560501,"616796606495192858")
+addappid(2560501, 1, "d6d0c544797ded0b3f0497070ca7491e079045dfb023da189cd6ce203370016f")

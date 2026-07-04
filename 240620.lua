@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wanderlust Adventures
 addappid(240620)
-addappid(240621,0,"9d050aa08c17e25601ec6ce40486edea67d03e325e98c0b99499fb6b24ea1093")
--- setManifestid(240621,"9067882432826075753")
+addappid(240621, 1, "9d050aa08c17e25601ec6ce40486edea67d03e325e98c0b99499fb6b24ea1093")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 人类终结之日——2074
 addappid(3172420)
-addappid(3172421,0,"1d38acc70d51fa8ce7082d5aa9d7d04bd9aab394dce640602c51e5f99faa08bf")
--- setManifestid(3172421,"6092963055053755417")
+addappid(3172421, 1, "1d38acc70d51fa8ce7082d5aa9d7d04bd9aab394dce640602c51e5f99faa08bf")

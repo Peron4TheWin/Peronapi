@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ballad of The Masked Bandits
 addappid(1280070)
-addappid(1280071,0,"db6a2c0888757a923f9651f7c4713565ba672b4ba15f64120f2746b95bcb8251")
--- setManifestid(1280071,"174121770297968324")
+addappid(1280071, 1, "db6a2c0888757a923f9651f7c4713565ba672b4ba15f64120f2746b95bcb8251")

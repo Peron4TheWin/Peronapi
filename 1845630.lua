@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aimlabs VR
 addappid(1845630)
-addappid(1845631,0,"5ecfa892d703ae4355121dcf404239e6737beb157912867fcd7a05703b70fc76")
--- setManifestid(1845631,"1193776921248892009")
+addappid(1845631, 1, "5ecfa892d703ae4355121dcf404239e6737beb157912867fcd7a05703b70fc76")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: GRUEL
 addappid(2882930)
-addappid(2882931,0,"fab78c9499562ddf287a5f7e4d55d2abda90fbaff1236a8052f6f32b323701c6")
--- setManifestid(2882931,"6449436717823344089")
+addappid(2882931, 1, "fab78c9499562ddf287a5f7e4d55d2abda90fbaff1236a8052f6f32b323701c6")
+addappid(3354890)

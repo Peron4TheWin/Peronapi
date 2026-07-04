@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Castle
 addappid(1990310)
-addappid(1990311,0,"ef44e2f2b79051dc4fcd063dd1d9e450605122b407a8f0e8ab3c49336f260290")
--- setManifestid(1990311,"5006386589087247339")
+addappid(1990311, 1, "ef44e2f2b79051dc4fcd063dd1d9e450605122b407a8f0e8ab3c49336f260290")

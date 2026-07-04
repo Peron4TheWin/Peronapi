@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARENIX
 addappid(1501210)
-addappid(1501211,0,"6e9fc843acc225985a9b6da4cd3d02da841d6efdc28d2be87bcf0c288ce37777")
+addappid(1501211, 1, "6e9fc843acc225985a9b6da4cd3d02da841d6efdc28d2be87bcf0c288ce37777")

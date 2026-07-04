@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rooftops & Alleys: The Parkour Game
 addappid(2703850)
-addappid(2703851,0,"e64721646710451cc632805df1472e27540a29c83d26bb7a225f91eb38d8e828")
--- setManifestid(2703851,"7198349437916935173")
+addappid(2703851, 1, "e64721646710451cc632805df1472e27540a29c83d26bb7a225f91eb38d8e828")

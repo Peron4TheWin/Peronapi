@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Ring
 addappid(2098070)
-addappid(2098071,0,"5714cd3cd3cff8ab56f5a1ffc12e42cf59ddf1cd11f37b5aaf888748f86d89ed")
--- setManifestid(2098071,"6677193712467839030")
+addappid(2098071, 1, "5714cd3cd3cff8ab56f5a1ffc12e42cf59ddf1cd11f37b5aaf888748f86d89ed")

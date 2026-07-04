@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEFENDUN : Hero Defense
 addappid(2323810)
-addappid(2323811,0,"7fd10d10433e59b5b267c45c87851ca23b47a12a1608f7729eca224f3cd4e633")
--- setManifestid(2323811,"2952357520764187312")
+addappid(2323811, 1, "7fd10d10433e59b5b267c45c87851ca23b47a12a1608f7729eca224f3cd4e633")

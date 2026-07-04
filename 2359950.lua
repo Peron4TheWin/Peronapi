@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 还有一个小愿望 One More Wish
 addappid(2359950)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2359951,0,"bfee9275d7db8f1d381c555402df4e516a20f9f862c3a5389a5651c195ba770e")
--- setManifestid(2359951,"8953889480956081508")
+addappid(2359951, 1, "bfee9275d7db8f1d381c555402df4e516a20f9f862c3a5389a5651c195ba770e")

@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rescue Party: Live! Demo
 addappid(1707290)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1707291,0,"31a4a03fb8b872e116846eb326470ae4cd2c290c7d9cf27ccd26078e99e3b1d8")
+addappid(1707291, 1, "31a4a03fb8b872e116846eb326470ae4cd2c290c7d9cf27ccd26078e99e3b1d8")

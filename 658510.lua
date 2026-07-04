@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Eden Origin
 addappid(658510)
--- setManifestid(228982,"6413394087650432851")
-addappid(658511,0,"5e487bbf850ae679694ccc92ef32e9d1f4ad72cc647c353634af3906a3b11424")
--- setManifestid(658511,"8099579145723970142")
+addappid(658511, 1, "5e487bbf850ae679694ccc92ef32e9d1f4ad72cc647c353634af3906a3b11424")

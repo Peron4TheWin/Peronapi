@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Driftwood
 addappid(2223700)
-addappid(2223701,0,"7a0a5886a86f1ff0123bc4ac0a8da1c52df0b7b0c9af2d41050d751aed8b383b")
---setManifestid(2223701,"814211077369430052")
+addappid(2223701, 1, "7a0a5886a86f1ff0123bc4ac0a8da1c52df0b7b0c9af2d41050d751aed8b383b")

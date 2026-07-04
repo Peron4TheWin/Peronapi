@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moving Down
 addappid(2488090)
-addappid(2488091,0,"b488c15dbee913d75fe28d78436d0028eb6572dcf3c74335ba66f15f6fc09b6c")
--- setManifestid(2488091,"7520844725719703941")
+addappid(2488091, 1, "b488c15dbee913d75fe28d78436d0028eb6572dcf3c74335ba66f15f6fc09b6c")

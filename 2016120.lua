@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Babushka's Glitch Demo
 addappid(2016120)
-addappid(2016121,0,"3ecfd1130fc888cf5cd7ee13d812fedaa5badf9e610b4c227cf556e6d150f9d9")
--- setManifestid(2016121,"398075271010370277")
+addappid(2016121, 1, "3ecfd1130fc888cf5cd7ee13d812fedaa5badf9e610b4c227cf556e6d150f9d9")

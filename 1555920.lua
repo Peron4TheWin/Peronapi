@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CAN ANDROIDS SURVIVE
 addappid(1555920)
-addappid(1555921,0,"55085287ae27adca5aabddf97649a8575a080c1ba79c2f0fe49d59c2360c902d")
--- setManifestid(1555921,"7844961247863135359")
+addappid(1555921, 1, "55085287ae27adca5aabddf97649a8575a080c1ba79c2f0fe49d59c2360c902d")

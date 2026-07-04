@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiny Tina's Wonderlands
 addappid(1286680)
-addappid(229033)
--- setManifestid(229033,"2059065101492814639")
-addappid(1286681,0,"9fc3a420ac82d1a5db76b0eb7fb49dcb9beddd0843042254f712b3bec3975496")
--- setManifestid(1286681,"1177491222246009560")
-addappid(1286682,0,"e8012a88d38526c88c0319f71dc6361fb9d774bd84985a7f128a2ede140f7bcd")
--- setManifestid(1286682,"7148413644585661403")
+addappid(1286681, 1, "9fc3a420ac82d1a5db76b0eb7fb49dcb9beddd0843042254f712b3bec3975496")

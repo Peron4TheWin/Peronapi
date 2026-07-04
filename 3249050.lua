@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Tap 4 Sex
 addappid(3249050)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3249051,0,"fd15f7e4566aef8ab5ac7b08f42cd6e357cffe18d894de30cdcc800cca25de94")
--- setManifestid(3249051,"3104353432121327083")
+addappid(3249051, 1, "fd15f7e4566aef8ab5ac7b08f42cd6e357cffe18d894de30cdcc800cca25de94")
+addappid(3783140)

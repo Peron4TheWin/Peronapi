@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EggK47
 addappid(533850)
-addappid(533851,0,"c8340fc96e6b6e83d814f28da1df9fd3755ea12dd08d27987db4e4fc0e83d826")
--- setManifestid(533851,"1576718128559790033")
+addappid(533851, 1, "c8340fc96e6b6e83d814f28da1df9fd3755ea12dd08d27987db4e4fc0e83d826")

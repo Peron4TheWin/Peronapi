@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rhythm Defender
 addappid(1064080)
-addappid(1064081,0,"7f20ce434d8d7f2a2f65100d0c3ee7b548558db9b3a468f95f1df3b917bf29eb")
--- setManifestid(1064081,"8790095790491463028")
+addappid(1064081, 1, "7f20ce434d8d7f2a2f65100d0c3ee7b548558db9b3a468f95f1df3b917bf29eb")

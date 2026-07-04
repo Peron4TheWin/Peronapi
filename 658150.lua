@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Skeleton Boomerang
 addappid(658150)
-addappid(658151,0,"d539296e200ee027c90a07c6ede4d63942d69a29ef178177932ca103bd75fad1")
--- setManifestid(658151,"8778084292955737959")
+addappid(658151, 1, "d539296e200ee027c90a07c6ede4d63942d69a29ef178177932ca103bd75fad1")
+addappid(1456460)

@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Transiruby
 addappid(1522930)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1522931,0,"bc9aed9934f7dc276f745ab9a4958c1377648086ac7aa4db652b7875e79dd876")
--- setManifestid(1522931,"6225103732453767828")
+addappid(1522931, 1, "bc9aed9934f7dc276f745ab9a4958c1377648086ac7aa4db652b7875e79dd876")
+addappid(1823420)

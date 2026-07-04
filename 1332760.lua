@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nienix: Cosmic Warfare
 addappid(1332760)
-addappid(1332761,0,"198199653ebe7899a33da1d08fa86370203e77d07f4c89a38d8e4e35c2b1431b")
+addappid(1332761, 1, "198199653ebe7899a33da1d08fa86370203e77d07f4c89a38d8e4e35c2b1431b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love at First Sight
 addappid(353330)
-addappid(353331,0,"aab077dd9b7830fb39e961d16fde345db4167e92ad715ede1f7e22b011a1e853")
--- setManifestid(353331,"7064083642310223966")
+addappid(353331, 1, "aab077dd9b7830fb39e961d16fde345db4167e92ad715ede1f7e22b011a1e853")

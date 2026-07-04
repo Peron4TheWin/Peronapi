@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Solenars Edge Heroes
 addappid(847450)
-addappid(847451,0,"adc4ab6ed2f9dc57bab44365953606983e286620c83fcda395b198a64831f53e")
--- setManifestid(847451,"6568344230576754666")
+addappid(847451, 1, "adc4ab6ed2f9dc57bab44365953606983e286620c83fcda395b198a64831f53e")

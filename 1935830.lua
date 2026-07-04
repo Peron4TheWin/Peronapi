@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stoney's Adventure
 addappid(1935830)
-addappid(1935831,0,"442d50e1e72cc06e3885fdcfe423de703661401ad1fa5402aa878e74bf6d995c")
--- setManifestid(1935831,"6618334687563693302")
+addappid(1935831, 1, "442d50e1e72cc06e3885fdcfe423de703661401ad1fa5402aa878e74bf6d995c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blocky Dungeon
 addappid(1683370)
-addappid(1683371,0,"2bf3d7a9178bb64bb61416dd310eb2580d8b701b66d5b1f4de9e06821f1795f6")
--- setManifestid(1683371,"976421568991832443")
+addappid(1683371, 1, "2bf3d7a9178bb64bb61416dd310eb2580d8b701b66d5b1f4de9e06821f1795f6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gun Wings
 addappid(348240)
-addappid(348241,0,"a86fdea187569752a77f3cf5dc0817bc7868af7e80006a28bb3e1c375dbc8ccb")
--- setManifestid(348241,"8692751430683281966")
+addappid(348241, 1, "a86fdea187569752a77f3cf5dc0817bc7868af7e80006a28bb3e1c375dbc8ccb")

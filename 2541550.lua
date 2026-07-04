@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Box One Goal
 addappid(2541550)
-addappid(2541551,0,"3a4b6ca453abaaaabcfd75b47093e50bab391189ab0f20b10ae659cd6a90619b")
--- setManifestid(2541551,"8877103591617713976")
+addappid(2541551, 1, "3a4b6ca453abaaaabcfd75b47093e50bab391189ab0f20b10ae659cd6a90619b")

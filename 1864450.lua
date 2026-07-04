@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Devil Spire DEMO
 addappid(1864450)
-addappid(1864451,0,"b73e8caceeb5f913a4e82744b15ba68cc278433e4381133f32de25ad2eadba03")
--- setManifestid(1864451,"4199348276413822900")
+addappid(1864451, 1, "b73e8caceeb5f913a4e82744b15ba68cc278433e4381133f32de25ad2eadba03")

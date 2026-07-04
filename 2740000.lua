@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cute Suika: Big Watermelon
 addappid(2740000)
-addappid(2740001,0,"abb5fddae68f6ae4b5e38bd3150323ec0999d0e84e11ffa57a812a5adb48f7b5")
+addappid(2740001, 1, "abb5fddae68f6ae4b5e38bd3150323ec0999d0e84e11ffa57a812a5adb48f7b5")

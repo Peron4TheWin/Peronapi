@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Powder
 addappid(1794970)
-addappid(1794971,0,"4c9ad16b1371ec40d476f266ac7c5978830eb13ca7fbd17a259fe0bd3be34fac")
--- setManifestid(1794971,"9209800112775224402")
+addappid(1794971, 1, "4c9ad16b1371ec40d476f266ac7c5978830eb13ca7fbd17a259fe0bd3be34fac")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Steam Engine Simulator
 addappid(2381620)
-addappid(2381621,0,"7eb495ba37538d095801d63d0c36d139aa9af827c4b5475587787f52c57ab68f")
--- setManifestid(2381621,"1260655752303793660")
+addappid(2381621, 1, "7eb495ba37538d095801d63d0c36d139aa9af827c4b5475587787f52c57ab68f")
+addappid(2601380)

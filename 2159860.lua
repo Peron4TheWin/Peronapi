@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: 魔卡幻想（Heroines Fantasy Inherit）
 addappid(2159860)
-addappid(2159861,0,"15ed5fb420edbb9044e91c216de7191319ee63239a9a7131ae2e815e6b56303a")
--- setManifestid(2159861,"4444262552075364643")
-addappid(2159863,0,"a9173af82b43eb2dacd99d234a58ad34186ccf9b2b9bc453a86ad65d869691ef")
--- setManifestid(2159863,"132840534646657619")
+addappid(2159861, 1, "15ed5fb420edbb9044e91c216de7191319ee63239a9a7131ae2e815e6b56303a")
+addappid(2223390)

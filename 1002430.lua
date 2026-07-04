@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Victory Road
 addappid(1002430)
-addappid(1002431,0,"f3c501ffa3812f25dbe49fae69612e11b06dcf978d094740e5f6452049685327")
--- setManifestid(1002431,"2230983508458688506")
+addappid(1002431, 1, "f3c501ffa3812f25dbe49fae69612e11b06dcf978d094740e5f6452049685327")

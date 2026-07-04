@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Glitter Rush
 addappid(1338020)
-addappid(1338021,0,"ad38aaae449595adec81d569e9bcc4ad40cfb829b0b613835782fee2b5d1f3dd")
--- setManifestid(1338021,"5626133086258991319")
+addappid(1338021, 1, "ad38aaae449595adec81d569e9bcc4ad40cfb829b0b613835782fee2b5d1f3dd")

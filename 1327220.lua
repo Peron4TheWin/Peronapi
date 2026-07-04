@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Derpy Conga Demo
 addappid(1327220)
-addappid(1327221,0,"7630c176bcda175424f534fdac7fd9369c410f3397e4fb86fb42981adeab9b6b")
--- setManifestid(1327221,"5788062454105417547")
+addappid(1327221, 1, "7630c176bcda175424f534fdac7fd9369c410f3397e4fb86fb42981adeab9b6b")

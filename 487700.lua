@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Conan the mighty pig
 addappid(487700)
-addappid(487701,0,"3cca2f0514cbfb6e7fdfccd750116fcf6e57f23ba3a967c93ee257b37871e3ec")
--- setManifestid(487701,"8578654855793221146")
+addappid(487701, 1, "3cca2f0514cbfb6e7fdfccd750116fcf6e57f23ba3a967c93ee257b37871e3ec")

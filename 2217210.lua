@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Nurse
 addappid(2217210)
-addappid(2217211,0,"9bac3164f51d456dc69958a7fe5afd585fab5a2416537fea305472dea29c310a")
--- setManifestid(2217211,"2417354167422762852")
+addappid(2217211, 1, "9bac3164f51d456dc69958a7fe5afd585fab5a2416537fea305472dea29c310a")

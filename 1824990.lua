@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Marmalade box
 addappid(1824990)
-addappid(1824991,0,"d60ee1e3db62e6efb667fffc2f53aaa58a06f9fc25b4aa23c729db5d4e7075d3")
--- setManifestid(1824991,"3971865547302793427")
+addappid(1824991, 1, "d60ee1e3db62e6efb667fffc2f53aaa58a06f9fc25b4aa23c729db5d4e7075d3")

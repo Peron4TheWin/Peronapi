@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Three Kingdoms and Martial Arts and Jianghu
 addappid(2776640)
-addappid(2776641,0,"88a11bdd7aa568f72d1a0571229f88d770db9dd8ce435c0d78e4b27662d4e567")
--- setManifestid(2776641,"4817052986831770769")
+addappid(2776641, 1, "88a11bdd7aa568f72d1a0571229f88d770db9dd8ce435c0d78e4b27662d4e567")

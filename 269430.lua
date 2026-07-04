@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burning Cars
+addappid(269430)
+addappid(269431, 1, "de404468962348a64866105b235340f7bcdcbe23790ff1fec6e7e5441f8c4c40")

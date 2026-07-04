@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Airport Ground Handling Simulator VR
 addappid(2088630)
-addappid(2088631,0,"1f1f311d926d8680974f24bbcc347325cc7f666864d1194534bc83ebae723dc7")
--- setManifestid(2088631,"1084431389565549345")
+addappid(2088631, 1, "1f1f311d926d8680974f24bbcc347325cc7f666864d1194534bc83ebae723dc7")

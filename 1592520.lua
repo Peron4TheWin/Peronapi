@@ -1,3 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: WitchSpring3 Re:Fine - The Story of Eirudy -
 addappid(1592520)
-addappid(1592521,0,"fc0ffe7dae93ed9a8c14a36d67a915b01ff4279f25bb874e351981804fdd8f42")
--- setManifestid(1592521,"7500565253618156565")
+addappid(1592521, 1, "fc0ffe7dae93ed9a8c14a36d67a915b01ff4279f25bb874e351981804fdd8f42")
+addappid(1611450)
+addappid(1612670)

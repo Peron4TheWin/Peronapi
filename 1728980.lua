@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Astro Battlers TD
 addappid(1728980)
-addappid(1728981,0,"a926c641cf257ff4b53a7c959628a61ef8471d064a0ea8c190e58a67d2ea0d6b")
--- setManifestid(1728981,"7983723356439474939")
+addappid(1728981, 1, "a926c641cf257ff4b53a7c959628a61ef8471d064a0ea8c190e58a67d2ea0d6b")

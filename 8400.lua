@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geometry Wars: Retro Evolved
 addappid(8400)
-addappid(8401,0,"a37baf5fc7bd33defcefc9b02bce6207dc96c4d067f14a3f63c86cfd7213f192")
--- setManifestid(8401,"5154248177566411278")
+addappid(8401, 1, "a37baf5fc7bd33defcefc9b02bce6207dc96c4d067f14a3f63c86cfd7213f192")

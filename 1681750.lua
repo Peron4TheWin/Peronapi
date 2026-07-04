@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Stop - Original Soundtrack
 addappid(1681750)
-addappid(1681751,0,"396d52216e8afd9b711547594e03d35239716e24a0d590c27af7aa27bef2ea96")
+addappid(1681751, 1, "396d52216e8afd9b711547594e03d35239716e24a0d590c27af7aa27bef2ea96")

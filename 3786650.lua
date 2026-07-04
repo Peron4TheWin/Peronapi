@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yuika My Bestie
 addappid(3786650)
-addappid(3786651,0,"5406908b88b28b97d0e62b326397b895faf8b410c371b39a7c9d8c6532ecb1e3")
--- setManifestid(3786651,"8247082415310361269")
+addappid(3786651, 1, "5406908b88b28b97d0e62b326397b895faf8b410c371b39a7c9d8c6532ecb1e3")

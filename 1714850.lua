@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twilight Wars: Declassified
 addappid(1714850)
--- setManifestid(228990,"1829726630299308803")
-addappid(1714851,0,"124e0cdd0374096839513ad6cd58b16d74117a335f501cfd9e253f3dac8eadc1")
--- setManifestid(1714851,"6595466829738571447")
+addappid(1714851, 1, "124e0cdd0374096839513ad6cd58b16d74117a335f501cfd9e253f3dac8eadc1")

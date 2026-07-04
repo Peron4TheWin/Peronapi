@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DIG IT! - A Digger Simulator
 addappid(311910)
-addappid(228983)
-addappid(311911,0,"4efa09afd46084d2b09d68a21e8e59af4e1e043b054f1363d5f70faf827b781f")
+addappid(311911, 1, "4efa09afd46084d2b09d68a21e8e59af4e1e043b054f1363d5f70faf827b781f")

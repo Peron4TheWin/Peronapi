@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dogs Organized Neatly
 addappid(1597730)
-addappid(1597731,0,"20088895f412371b53cc964b684a732a6237b911c72a271fa85e81a67af0e1da")
--- setManifestid(1597731,"4833105556614760218")
+addappid(1597731, 1, "20088895f412371b53cc964b684a732a6237b911c72a271fa85e81a67af0e1da")
+addappid(2741100)

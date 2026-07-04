@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Blue Dungeon
 addappid(3119460)
-addappid(3119461,0,"e4f50fa3e340d4d317bfd7745d43c701957e367890cfce6c7796807c1e4236f5")
--- setManifestid(3119461,"5922861951789015830")
+addappid(3119461, 1, "e4f50fa3e340d4d317bfd7745d43c701957e367890cfce6c7796807c1e4236f5")

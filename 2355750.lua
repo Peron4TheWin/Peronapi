@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aker Fern 2 : Demo
 addappid(2355750)
-addappid(2355751,0,"cb80c7813cec0762547301df4803b9e8dd233cbdc404aa0c9d7de599d89acb25")
--- setManifestid(2355751,"3351134305640237655")
+addappid(2355751, 1, "cb80c7813cec0762547301df4803b9e8dd233cbdc404aa0c9d7de599d89acb25")

@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Nymphomaniac - Sex Addict
 addappid(3002570)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229033,"2059065101492814639")
-addappid(3002571,0,"e6978a8a04524482ba060c58ba0f45e185f278af036c31730452acee6a40ccb9")
--- setManifestid(3002571,"1300078660848002874")
+addappid(3002571, 1, "e6978a8a04524482ba060c58ba0f45e185f278af036c31730452acee6a40ccb9")
+addappid(3411040)

@@ -1,2 +1,4 @@
-addappid(2896260) -- ODDCORE
-addappid(2896261, 1, "c82ef318eb2b98fa3a40efed97d8f237b4e34de5005b21e17c5c661bbb4e831a") -- Depot 2896261
+-- Lua provided by SkyAPI 
+-- Game: ODDCORE
+addappid(2896260)
+addappid(2896261, 1, "c82ef318eb2b98fa3a40efed97d8f237b4e34de5005b21e17c5c661bbb4e831a")

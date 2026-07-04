@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery P.I.™ - The Lottery Ticket
 addappid(3500)
-addappid(3501,0,"92e1f7ab7599c77842e2d7a87211386f1425251f24693e1648af4b615ef2b9de")
--- setManifestid(3501,"3879744768482090813")
+addappid(3501, 1, "92e1f7ab7599c77842e2d7a87211386f1425251f24693e1648af4b615ef2b9de")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Divine Combat
 addappid(1916000)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1916001,0,"c1bc9ede93cb024f2d49897f120bc2df132e64d6dfaa2cf6a342ea9a16790214")
--- setManifestid(1916001,"639642224669083893")
+addappid(1916001, 1, "c1bc9ede93cb024f2d49897f120bc2df132e64d6dfaa2cf6a342ea9a16790214")

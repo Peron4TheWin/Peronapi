@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Check Inn Demo
 addappid(2963670)
-addappid(2963671,0,"4ce58314b69234c24b965c64aa1e97a395a5874403af0509dbc2dc58940e391e")
--- setManifestid(2963671,"5219806243412389274")
+addappid(2963671, 1, "4ce58314b69234c24b965c64aa1e97a395a5874403af0509dbc2dc58940e391e")

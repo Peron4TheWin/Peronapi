@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost Watchers
 addappid(1850740)
-addappid(1850741,0,"a830d518fb69395dfac8536575b35f141dc0ccb74f84bb08dad20556b7050c1e")
+addappid(1850741, 1, "a830d518fb69395dfac8536575b35f141dc0ccb74f84bb08dad20556b7050c1e")
+addappid(3876090)

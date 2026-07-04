@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Off the Record: The Linden Shades Collector's Edition
 addappid(466020)
-addappid(466021,0,"b335e38d02936e9b6848345a1293a4c9e43bd283373b633d63970db09d9b6f4b")
--- setManifestid(466021,"7947045307621748521")
+addappid(466021, 1, "b335e38d02936e9b6848345a1293a4c9e43bd283373b633d63970db09d9b6f4b")

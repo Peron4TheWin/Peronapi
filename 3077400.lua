@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WhatRogue：Exile Land
 addappid(3077400)
-addappid(3077401,0,"da77e403122e1d282aa69c5a6e69f5c0d556d1b0b1fd5de5fe2e7feb49b794c2")
--- setManifestid(3077401,"3500851227848222902")
+addappid(3077401, 1, "da77e403122e1d282aa69c5a6e69f5c0d556d1b0b1fd5de5fe2e7feb49b794c2")

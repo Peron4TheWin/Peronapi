@@ -1,0 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Germ Wars
+addappid(557680)
+addappid(557681, 1, "0c73adf044879c486af9af9e21ff2c0673a6bdc41b32913f403c2442e77ff838")
+addappid(561800)

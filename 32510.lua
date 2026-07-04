@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGO® Star Wars™ III - The Clone Wars™
 addappid(32510)
 addappid(32511, 1, "b690fa2a71d9955b8e40f70910eaf0a38a682dfc19ff795bc78ed4ed6414285c")
---setManifestid(32511, "4876141701892249629", 0)

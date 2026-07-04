@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 旅人的紫阳 试玩版
 addappid(3132230)
-addappid(3132231,0,"4a587a5e26cb089a988c742c54f0e3f8e69874cb38bf6329c6a83098aab5e031")
--- setManifestid(3132231,"1050064393606093189")
+addappid(3132231, 1, "4a587a5e26cb089a988c742c54f0e3f8e69874cb38bf6329c6a83098aab5e031")

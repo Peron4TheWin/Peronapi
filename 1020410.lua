@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Narco Strike
 addappid(1020410)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(228990,"1829726630299308803")
-addappid(1020411,0,"3fe5c23947ed8708b6384dd1d698ff5bdf58f80768c9be4fb19c36916ae01c73")
--- setManifestid(1020411,"5500887852277742992")
+addappid(1020411, 1, "3fe5c23947ed8708b6384dd1d698ff5bdf58f80768c9be4fb19c36916ae01c73")

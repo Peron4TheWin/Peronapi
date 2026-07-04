@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Terror in the Kitchen
 addappid(2443790)
-addappid(2443791,0,"7ea86b33456231d7612373a2b5c4cbf6e759532126c624ee4dd480fbdf3b4542")
--- setManifestid(2443791,"6427547701573212478")
+addappid(2443791, 1, "7ea86b33456231d7612373a2b5c4cbf6e759532126c624ee4dd480fbdf3b4542")

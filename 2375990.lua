@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Coralina: a Memory Tale
 addappid(2375990)
-addappid(2375991,0,"72a65ab2d4d0ee0eda0ebb758307c8a520961f54fbda653bf3dbed36a1d89bbe")
--- setManifestid(2375991,"6875281958043245078")
+addappid(2375991, 1, "72a65ab2d4d0ee0eda0ebb758307c8a520961f54fbda653bf3dbed36a1d89bbe")

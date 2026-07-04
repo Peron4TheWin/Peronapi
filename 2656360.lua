@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Small World
 addappid(2656360)
-addappid(2656361,0,"9871549eecc1e9e4fea89ba5928498ee3f81964c9f2336228f8ae41f6745c6ac")
--- setManifestid(2656361,"7056667366094740525")
+addappid(2656361, 1, "9871549eecc1e9e4fea89ba5928498ee3f81964c9f2336228f8ae41f6745c6ac")

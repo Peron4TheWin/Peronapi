@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epic Princess
 addappid(2195670)
-addappid(2195671,0,"88a0194b28a76dda9954122bcdc7cdde125c4bba405712f2ecc54036c7f3538e")
--- setManifestid(2195671,"922897400762677075")
+addappid(2195671, 1, "88a0194b28a76dda9954122bcdc7cdde125c4bba405712f2ecc54036c7f3538e")

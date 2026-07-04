@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Center Station Simulator
 addappid(2823890)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2823891,0,"ddce5c76bbe95ebbf33fa279d0ecbff6bc7dda09d8e6a62e191162606265e694")
--- setManifestid(2823891,"8227007164420452783")
+addappid(2823891, 1, "ddce5c76bbe95ebbf33fa279d0ecbff6bc7dda09d8e6a62e191162606265e694")
+addappid(3233380)

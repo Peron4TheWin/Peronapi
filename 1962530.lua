@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hunsa Magic
 addappid(1962530)
-addappid(1962531,0,"f623d0e0d4e81cbfbd07d907011f1d564d377286948de519c74a250bbccf0c4c")
--- setManifestid(1962531,"4720967649341838498")
+addappid(1962531, 1, "f623d0e0d4e81cbfbd07d907011f1d564d377286948de519c74a250bbccf0c4c")

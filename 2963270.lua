@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kamla Demo [Prologue]
 addappid(2963270)
-addappid(2963271,0,"d80f7e1df5d544e2d3298efb82d06ab249d74c4dcb975195c19abdb35a7d7d49")
--- setManifestid(2963271,"1176301019937848933")
+addappid(2963271, 1, "d80f7e1df5d544e2d3298efb82d06ab249d74c4dcb975195c19abdb35a7d7d49")

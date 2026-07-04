@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: All in Abyss: Judge the Fake Demo
 addappid(3143590)
--- setManifestid(228989,"550968249685141759")
-addappid(3143591,0,"01ef80c81d01f900a8cb8b00518d88e2b67ab8b754d91f931a11eb6a772c1520")
+addappid(3143591, 1, "01ef80c81d01f900a8cb8b00518d88e2b67ab8b754d91f931a11eb6a772c1520")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Shadow Cat
 addappid(2752380)
-addappid(2752381,0,"2e247ae14835bc89ea757aa60050ff6f5b544fa019cfafec5eb927c380d338f8")
--- setManifestid(2752381,"727849695315532320")
+addappid(2752381, 1, "2e247ae14835bc89ea757aa60050ff6f5b544fa019cfafec5eb927c380d338f8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ControlRoom
 addappid(1172290)
-addappid(1172291,0,"520847965a56609c05663278dad4d3431dc4d8076be1a817a5bd0bb91edeb2b0")
--- setManifestid(1172291,"6768482508202370518")
+addappid(1172291, 1, "520847965a56609c05663278dad4d3431dc4d8076be1a817a5bd0bb91edeb2b0")

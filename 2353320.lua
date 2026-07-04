@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: N+1：New life for unemployed youth！
 addappid(2353320)
-addappid(2353321,0,"bf4cdefb70dcb330ca27430f2bd258e405a981941c5751dd5027ca015b0fa3da")
--- setManifestid(2353321,"2401283678904681312")
+addappid(2353321, 1, "bf4cdefb70dcb330ca27430f2bd258e405a981941c5751dd5027ca015b0fa3da")

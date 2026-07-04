@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Screaming Chicken: Ultimate Showdown
 addappid(1194250)
-addappid(1194251,0,"32a8263cdb6376ab7f4bd3958455503a35e0b40d5598867bad12e29f9ec602a9")
--- setManifestid(1194251,"5329065567074764494")
+addappid(1194251, 1, "32a8263cdb6376ab7f4bd3958455503a35e0b40d5598867bad12e29f9ec602a9")

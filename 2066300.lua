@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape: The Endless Dogwatch
 addappid(2066300)
-addappid(2066301,0,"26af57040dccb2cc2b1307c1fed000836662532f8a8514ac3172a88b54dfaaff")
--- setManifestid(2066301,"1583535385367221578")
+addappid(2066301, 1, "26af57040dccb2cc2b1307c1fed000836662532f8a8514ac3172a88b54dfaaff")

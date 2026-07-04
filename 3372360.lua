@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY XVI - Original DLC Soundtrack - From Spire to Sea
 addappid(3372360)
-addappid(3372361,0,"925873942a1404520bdac75d984b41af4be65f647df751cd6c9381c032f347d4")
--- setManifestid(3372361,"4787512207030061586")
+addappid(3372361, 1, "925873942a1404520bdac75d984b41af4be65f647df751cd6c9381c032f347d4")

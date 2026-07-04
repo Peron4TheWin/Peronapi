@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DREAM TIME
 addappid(1360700)
-addappid(1360701,0,"0d7f5f70542490effff22a1fd0ebc9f0da1c80e3b58ecfe7cb0912dff8a7fd17")
--- setManifestid(1360701,"6501529200445547984")
+addappid(1360701, 1, "0d7f5f70542490effff22a1fd0ebc9f0da1c80e3b58ecfe7cb0912dff8a7fd17")

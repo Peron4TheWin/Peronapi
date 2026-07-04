@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bonfire And Tail
 addappid(2249700)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2249701,0,"c84414ed983ce9905cfd0855745d318fb20f207be9bd6e0a9f52b54d73eef131")
--- setManifestid(2249701,"9130336350342335624")
+addappid(2249701, 1, "c84414ed983ce9905cfd0855745d318fb20f207be9bd6e0a9f52b54d73eef131")

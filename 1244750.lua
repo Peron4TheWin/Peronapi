@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SpartrackVR-FirosDemo Demo
 addappid(1244750)
-addappid(1244751,0,"691fcea6eca91a565933a20c07e7c5a3889da1e8893f6a65086342928bea06ad")
--- setManifestid(1244751,"6200458893061566402")
+addappid(1244751, 1, "691fcea6eca91a565933a20c07e7c5a3889da1e8893f6a65086342928bea06ad")

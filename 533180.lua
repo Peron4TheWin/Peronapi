@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Campfire: One of Us Is the Killer
 addappid(533180)
-addappid(533181,0,"fe05c30a48ce26f57a89e7c38a07461b5f2a1e247de35dce353502aa044958a7")
--- setManifestid(533181,"4141776956817252034")
+addappid(533181, 1, "fe05c30a48ce26f57a89e7c38a07461b5f2a1e247de35dce353502aa044958a7")

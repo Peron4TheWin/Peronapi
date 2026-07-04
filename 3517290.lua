@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Archaeology - Grass Farm
 addappid(3517290)
-addappid(3517291,0,"f6ec9f64da4a60e3b4e252b176b10e52a6da13c5bef87d6148c2b9bdb336cdf1")
--- setManifestid(3517291,"1033934570413436551")
+addappid(3517291, 1, "f6ec9f64da4a60e3b4e252b176b10e52a6da13c5bef87d6148c2b9bdb336cdf1")

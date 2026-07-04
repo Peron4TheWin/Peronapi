@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gigantosaurus: Dino Kart
 addappid(1770500)
-addappid(1770501,0,"2b82a0a5c959781ba5af550d57230a731df0d78888e39aa2385585c0de92e042")
--- setManifestid(1770501,"3562892969145370690")
+addappid(1770501, 1, "2b82a0a5c959781ba5af550d57230a731df0d78888e39aa2385585c0de92e042")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Amsterdam
 addappid(3110520)
-addappid(3110521,0,"2cbac464de370b31965a7992f4b252f60af62dc9883c973c685eb34511f52136")
--- setManifestid(3110521,"1164874817447942217")
+addappid(3110521, 1, "2cbac464de370b31965a7992f4b252f60af62dc9883c973c685eb34511f52136")

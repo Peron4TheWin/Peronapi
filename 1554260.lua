@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knightly Passions
 addappid(1554260)
-addappid(1554261,0,"f021768abc75d753fe480052bfb61d9e6cf6274bcab55b34a3ef65802c74e3cb")
--- setManifestid(1554261,"881930456672526135")
+addappid(1554261, 1, "f021768abc75d753fe480052bfb61d9e6cf6274bcab55b34a3ef65802c74e3cb")

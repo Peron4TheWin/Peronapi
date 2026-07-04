@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frog Demon
 addappid(810770)
-addappid(810771,0,"c42ec29f808ea3940a69ea7afab48fbb71b8d0867ef6603f28573d26c4dd38e4")
--- setManifestid(810771,"4725673291072485393")
+addappid(810771, 1, "c42ec29f808ea3940a69ea7afab48fbb71b8d0867ef6603f28573d26c4dd38e4")

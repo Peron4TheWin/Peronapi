@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Bearskull
 addappid(2368130)
-addappid(2368131,0,"4a74d94a33cd49ad5d00b59e0adb3e9e28f8d7bc8f8bb33d5c6747bcab2c39fb")
--- setManifestid(2368131,"8542903506418909356")
+addappid(2368131, 1, "4a74d94a33cd49ad5d00b59e0adb3e9e28f8d7bc8f8bb33d5c6747bcab2c39fb")
+addappid(2410830)

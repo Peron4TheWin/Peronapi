@@ -1,2 +1,4 @@
-addappid(4301100) -- EmoteLab
-addappid(4301101, 1, "105a374546721c601f011470a3d2a6ee8770ae45adacf103ac0013a15bfd95fc") -- Depot 4301101
+-- Lua provided by SkyAPI 
+-- Game: EmoteLab
+addappid(4301100)
+addappid(4301101, 1, "105a374546721c601f011470a3d2a6ee8770ae45adacf103ac0013a15bfd95fc")

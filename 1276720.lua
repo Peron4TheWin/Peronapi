@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Witching Tower: Heroes
 addappid(1276720)
-addappid(1276721,0,"e1a48d55a9ffde980556b3d4e89e05a55513b4345d8671469e4d34435f3a3162")
--- setManifestid(1276721,"5145123492571599842")
+addappid(1276721, 1, "e1a48d55a9ffde980556b3d4e89e05a55513b4345d8671469e4d34435f3a3162")

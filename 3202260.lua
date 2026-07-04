@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 15th Prison
 addappid(3202260)
-addappid(3202261,0,"045a2288eb0fcb34d59dd2be1bdf26e2d5262ff248f37161c2925cf42fe8e9d2")
--- setManifestid(3202261,"6460448627664341849")
+addappid(3202261, 1, "045a2288eb0fcb34d59dd2be1bdf26e2d5262ff248f37161c2925cf42fe8e9d2")

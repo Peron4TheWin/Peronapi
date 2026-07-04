@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Panzer Knights - Sherman & Pershing
 addappid(1820200)
-addappid(1820201,0,"975c0f6344b5721a55503a63d1825f018c9838258e11668a88381a84deabb8cf")
--- setManifestid(1820201,"722830716914545547")
+addappid(1820201, 1, "975c0f6344b5721a55503a63d1825f018c9838258e11668a88381a84deabb8cf")

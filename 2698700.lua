@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roku and Rei
 addappid(2698700)
-addappid(2698701,0,"8094327416588c4e3b0535cbbfb4d78d7b058805b023d4c67a9944812f9bd0ad")
--- setManifestid(2698701,"8046347144968745442")
+addappid(2698701, 1, "8094327416588c4e3b0535cbbfb4d78d7b058805b023d4c67a9944812f9bd0ad")

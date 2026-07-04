@@ -1,2 +1,4 @@
-addappid(3582250) -- Farm to Table
-addappid(3582251, 1, "282a9be675c4c24f4c51245fcd9cd0042ae1e1f88072efb8288bb8eb425f1fc9") -- Depot 3582251
+-- Lua provided by SkyAPI 
+-- Game: Farm to Table
+addappid(3582250)
+addappid(3582251, 1, "282a9be675c4c24f4c51245fcd9cd0042ae1e1f88072efb8288bb8eb425f1fc9")

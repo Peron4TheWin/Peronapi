@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sprout Lands
 addappid(1906160)
-addappid(1906161,0,"cdaab60aae0d1d550d63053e74a8c5e919d81ab5c6a53ad16a10dd7815e74744")
--- setManifestid(1906161,"3923812964404238975")
+addappid(1906161, 1, "cdaab60aae0d1d550d63053e74a8c5e919d81ab5c6a53ad16a10dd7815e74744")

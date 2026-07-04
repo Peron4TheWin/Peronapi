@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Streets of Rogue Soundtrack
 addappid(594700)
-addappid(594701,0,"ab5dc87872646aff5c4042ac6f0b95044e98a6850e58f2778fd9fa7a6b000255")
--- setManifestid(594701,"546911718039382645")
+addappid(594701, 1, "ab5dc87872646aff5c4042ac6f0b95044e98a6850e58f2778fd9fa7a6b000255")

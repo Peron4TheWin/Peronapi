@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gravity Escape From The Maze
 addappid(1199170)
-addappid(1199171,0,"59ec8ad6b6c681eb30bbf290787da024487befdf81c17fffce602037caf68946")
--- setManifestid(1199171,"4984214432340135623")
+addappid(1199171, 1, "59ec8ad6b6c681eb30bbf290787da024487befdf81c17fffce602037caf68946")

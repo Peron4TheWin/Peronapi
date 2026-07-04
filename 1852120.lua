@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 最后的送别
 addappid(1852120)
-addappid(1852121,0,"671d1be8ed54cf712e906b0d8bdd08b77277e98c015fd66e676c489c77d62fd7")
--- setManifestid(1852121,"3039457346322215950")
+addappid(1852121, 1, "671d1be8ed54cf712e906b0d8bdd08b77277e98c015fd66e676c489c77d62fd7")

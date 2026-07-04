@@ -1,0 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Old School Musical
+addappid(398030)
+addappid(398031, 1, "16aec6592c1cbf224dc16a7452fc663dd42a3e5a6d1c81ce4819327029fa2e43")
+addappid(1089910, 0, "43484d335bdfe104ef81ffc2671d29949a496b50836e0004515af47dea39b93d")
+addappid(1256840, 0, "306a79fa98f699c7b1d7a75f4cfcf74057c6f022305b5e739d27f96f02f08007")

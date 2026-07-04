@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Crowbar Climber
 addappid(3285300)
-addappid(3285301,0,"d51efd89027b5fdeeef81d6aa001a03a29760b9ce9d36874ea7c13336463e629")
--- setManifestid(3285301,"8097976649073585138")
+addappid(3285301, 1, "d51efd89027b5fdeeef81d6aa001a03a29760b9ce9d36874ea7c13336463e629")
+addappid(3690180)

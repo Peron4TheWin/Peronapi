@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Picture toys
 addappid(1181120)
-addappid(1181121,0,"c3944bbc8cf99e979662f315675d0a6a45c71d841a48a009424d74b53bb45b4f")
--- setManifestid(1181121,"368917745385715836")
+addappid(1181121, 1, "c3944bbc8cf99e979662f315675d0a6a45c71d841a48a009424d74b53bb45b4f")
+addappid(1183440)

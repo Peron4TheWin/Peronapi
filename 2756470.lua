@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game Builder Tycoon
 addappid(2756470)
-addappid(2756471,0,"5ba2bf00c1275bc74220c82caf964146dbe6a97258a8ca6abe209da8fa626122")
--- setManifestid(2756471,"4569461233626278127")
+addappid(2756471, 1, "5ba2bf00c1275bc74220c82caf964146dbe6a97258a8ca6abe209da8fa626122")

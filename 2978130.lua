@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yuri Sword Saga Demo
 addappid(2978130)
-addappid(2978131,0,"3bd6cf9ae9b84f8ed471e9864effa8ebba39aa07c709a858b67826316a5591b0")
--- setManifestid(2978131,"579228954447954225")
+addappid(2978131, 1, "3bd6cf9ae9b84f8ed471e9864effa8ebba39aa07c709a858b67826316a5591b0")

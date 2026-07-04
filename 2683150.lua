@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ale & Tale Tavern
 addappid(2683150)
-addappid(228988)
-addappid(2683151,0,"fb4abcba88c9d336863c767233f69ca8be744236c5b6ae985441b2796efc5464")
---setManifestid(2683151,"4361992458820135239")
+addappid(2683151, 1, "fb4abcba88c9d336863c767233f69ca8be744236c5b6ae985441b2796efc5464")

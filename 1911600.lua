@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost Alone Ep.3 - Nonnina
 addappid(1911600)
-addappid(1911601,0,"6947949a225d57b6a8a4f22b6806ef072e65e0198f31789c34fac0d9084ad63c")
--- setManifestid(1911601,"5178080675473047367")
+addappid(1911601, 1, "6947949a225d57b6a8a4f22b6806ef072e65e0198f31789c34fac0d9084ad63c")

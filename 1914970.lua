@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Help Me Remember, Satori-sama!
 addappid(1914970)
-addappid(1914971,0,"04781dd4575c65d9bbb35ad50d606faf06700a9a672a827e1121b12298f31167")
--- setManifestid(1914971,"8966271298991825339")
+addappid(1914971, 1, "04781dd4575c65d9bbb35ad50d606faf06700a9a672a827e1121b12298f31167")

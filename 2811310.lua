@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mouse Curser Demo
 addappid(2811310)
-addappid(2811311,0,"ec37ba1cbe78c92076531e3b5fe5b807fc57c2b82bce276683e6dc73f6ca4ce1")
--- setManifestid(2811311,"3294716284779604029")
+addappid(2811311, 1, "ec37ba1cbe78c92076531e3b5fe5b807fc57c2b82bce276683e6dc73f6ca4ce1")

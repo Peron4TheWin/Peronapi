@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Banana Shooter
 addappid(1949740)
--- setManifestid(228989,"3514306556860204959")
-addappid(1949741,0,"ea504668994076884b48aa6fedf0d71decbcc22a08432a54edb0f0cadfd61452")
--- setManifestid(1949741,"7461162927803015055")
+addappid(1949741, 1, "ea504668994076884b48aa6fedf0d71decbcc22a08432a54edb0f0cadfd61452")
+addappid(2238100)

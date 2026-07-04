@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Memory Lost
 addappid(1483190)
-addappid(1483191,0,"c5fdf8ae630789fcf4b3a4dbca845f462cb7e8144363e0110465566cead25ccf")
--- setManifestid(1483191,"3215715915671160899")
+addappid(1483191, 1, "c5fdf8ae630789fcf4b3a4dbca845f462cb7e8144363e0110465566cead25ccf")

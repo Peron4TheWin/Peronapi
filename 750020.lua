@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moving Day
 addappid(750020)
-addappid(750021,0,"aeccea0b85c62ffe97bc1379a556cbc6b04be2914434d82771c4768f78f5f7f2")
--- setManifestid(750021,"8912489356931768173")
+addappid(750021, 1, "aeccea0b85c62ffe97bc1379a556cbc6b04be2914434d82771c4768f78f5f7f2")

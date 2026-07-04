@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Note
 addappid(3465680)
-addappid(3465681,0,"2d9b089d70c780c18405fad119c198bb32330e7c3629753aea8e902b058c3a96")
+addappid(3465681, 1, "2d9b089d70c780c18405fad119c198bb32330e7c3629753aea8e902b058c3a96")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Lost Tape - Cellar
 addappid(2769310)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2769311,0,"82aebfe5b8f0360a3bb5aadb6a8d78590a8ae267ee45913146fbcfec24654a78")
--- setManifestid(2769311,"5405439925334095905")
+addappid(2769311, 1, "82aebfe5b8f0360a3bb5aadb6a8d78590a8ae267ee45913146fbcfec24654a78")

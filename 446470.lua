@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: New York Taxi Simulator
 addappid(446470)
-addappid(228982)
--- setManifestid(228982,"6413394087650432851")
-addappid(446471,0,"4faf0ebc90bd8b82fdb4e33f7b71827973acf9b818e7580d30254e0ae553d41d")
--- setManifestid(446471,"6011925080602474290")
+addappid(446471, 1, "4faf0ebc90bd8b82fdb4e33f7b71827973acf9b818e7580d30254e0ae553d41d")

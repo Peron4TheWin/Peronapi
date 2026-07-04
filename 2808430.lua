@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VenusBlood HOLLOW International Soundtrack
 addappid(2808430)
-addappid(2808431,0,"4589068334c41bee2fb673979dc9cded2e4ab61585bb2a009b268d921289fd01")
--- setManifestid(2808431,"7372399900866006108")
+addappid(2808431, 1, "4589068334c41bee2fb673979dc9cded2e4ab61585bb2a009b268d921289fd01")

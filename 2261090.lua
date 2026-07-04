@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 三國立志傳
 addappid(2261090)
-addappid(2261091,0,"bb693cb8b5641839fdc4fcda20ad824b4724a0435fc6213418dbca8f22b66ea7")
--- setManifestid(2261091,"2604711490962983397")
+addappid(2261091, 1, "bb693cb8b5641839fdc4fcda20ad824b4724a0435fc6213418dbca8f22b66ea7")

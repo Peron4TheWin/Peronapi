@@ -1,5 +1,4 @@
--- atualizado por sykflare
-
+-- Lua provided by SkyAPI 
+-- Game: Amanda the Adventurer 3
 addappid(3657210)
-addappid(3657211,0,"e0e61f4993c2929f4ad84eea55c473f50fd8a91e974c3b1073028caaf9b75591")
--- setManifestid(3657211,"1996874024392616992") -- nova atualizaçao patch 1.0.11
+addappid(3657211, 1, "e0e61f4993c2929f4ad84eea55c473f50fd8a91e974c3b1073028caaf9b75591")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dream Catcher
 addappid(1275290)
-addappid(1275291,0,"8e9c54db4f70cd76d9dce9ede103be912fa5c2c1e3f921009cee1d8f5dbe36ac")
--- setManifestid(1275291,"3647250045767942259")
+addappid(1275291, 1, "8e9c54db4f70cd76d9dce9ede103be912fa5c2c1e3f921009cee1d8f5dbe36ac")

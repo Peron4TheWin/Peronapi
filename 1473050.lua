@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 hidden birds
 addappid(1473050)
-addappid(1473051,0,"34e85dedecd33f4800f3c2954442cc5ba81024dd174c5b4dd1061de6e625f05d")
--- setManifestid(1473051,"5583031699446240485")
+addappid(1473051, 1, "34e85dedecd33f4800f3c2954442cc5ba81024dd174c5b4dd1061de6e625f05d")

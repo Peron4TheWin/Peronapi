@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystic Forest
 addappid(2189910)
--- setManifestid(228988,"6645201662696499616")
-addappid(2189911,0,"bdffc82c59767283f8c7342f641313cee7384cf69f3c9a608fc4c7fc55531984")
--- setManifestid(2189911,"6170356433312739725")
+addappid(2189911, 1, "bdffc82c59767283f8c7342f641313cee7384cf69f3c9a608fc4c7fc55531984")

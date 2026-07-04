@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: REFLEXIA Prototype ver. Soundtrack
 addappid(2165880)
-addappid(2165881,0,"3c90ecbc1265df84656aabe184c2edd1298ecb1d3a1f32ac9194b2dcb3c24b28")
--- setManifestid(2165881,"5319533402095982631")
+addappid(2165881, 1, "3c90ecbc1265df84656aabe184c2edd1298ecb1d3a1f32ac9194b2dcb3c24b28")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Are You Smarter Than The Crowd?
 addappid(1473270)
-addappid(1473271,0,"57b9795cef0cef163719f4f3795bb2220f53b5d1331d7b3f24a85ff62e786f0b")
--- setManifestid(1473271,"3768350768128088583")
+addappid(1473271, 1, "57b9795cef0cef163719f4f3795bb2220f53b5d1331d7b3f24a85ff62e786f0b")

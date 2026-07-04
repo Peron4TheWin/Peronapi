@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Final Core
+addappid(556250)
+addappid(556251, 1, "6f0750f6c6911c8cf1cf2117f7a1d08df7e0e8b24fb0387005311121718c3b8b")

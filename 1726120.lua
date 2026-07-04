@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cursed to Golf
 addappid(1726120)
-addappid(1726121,0,"ff917a5c81963aae1fe6627a2d979cb4dcb6cbda5eb0ffa51dff36159df26737")
--- setManifestid(1726121,"2384463011190468221")
+addappid(1726121, 1, "ff917a5c81963aae1fe6627a2d979cb4dcb6cbda5eb0ffa51dff36159df26737")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 长梦 Demo
 addappid(2149720)
-addappid(2149721,0,"961eb01a4eaa4bc23e4944ec3e4458e1df934d66e3801a96b7355dafad386664")
--- setManifestid(2149721,"6532399270873837172")
+addappid(2149721, 1, "961eb01a4eaa4bc23e4944ec3e4458e1df934d66e3801a96b7355dafad386664")

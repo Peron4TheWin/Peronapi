@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lust from Beyond: M Edition Demo
 addappid(1714170)
-addappid(1714171,0,"c94e963bb9c2afe6c9ec7322939bc069e4cfbbbfe8430d4995f62e013bd40ad8")
--- setManifestid(1714171,"6096436572827673997")
+addappid(1714171, 1, "c94e963bb9c2afe6c9ec7322939bc069e4cfbbbfe8430d4995f62e013bd40ad8")

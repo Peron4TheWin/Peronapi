@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Casual Fishing
 addappid(3600070)
-addappid(3600071,0,"e3a4987b6a8e25d8469e013e534ac9bddf035c8d7f8bb82bb0b83525abc3e1e3")
--- setManifestid(3600071,"1413461967089380876")
+addappid(3600071, 1, "e3a4987b6a8e25d8469e013e534ac9bddf035c8d7f8bb82bb0b83525abc3e1e3")

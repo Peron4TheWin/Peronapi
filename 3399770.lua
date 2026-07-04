@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Miryam: The Polluted Land
 addappid(3399770)
-addappid(3399771,0,"15d03dd93048986c9fd0b5cbbc8d75842c2cc4299993045a93a064a357b07871")
--- setManifestid(3399771,"7682820151918048596")
+addappid(3399771, 1, "15d03dd93048986c9fd0b5cbbc8d75842c2cc4299993045a93a064a357b07871")

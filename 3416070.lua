@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ropuka's Idle Island
 addappid(3416070)
-addappid(3416071,0,"dd9c9acd29a60cf2cd7bf22e51433362f2e97ba5fdadfa5734087bd224683daf")
--- setManifestid(3416071,"3012981228353096151")
+addappid(3416071, 1, "dd9c9acd29a60cf2cd7bf22e51433362f2e97ba5fdadfa5734087bd224683daf")

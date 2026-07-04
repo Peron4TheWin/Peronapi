@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shadow Gambit: The Cursed Crew Demo
 addappid(2369210)
--- setManifestid(228989,"3514306556860204959")
-addappid(2369211,0,"928193b42db42c750f710c026b4b6ad97baf908e9a612fcb36ee9bd0885c76f7")
+addappid(2369211, 1, "928193b42db42c750f710c026b4b6ad97baf908e9a612fcb36ee9bd0885c76f7")

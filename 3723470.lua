@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Far Fishing
 addappid(3723470)
-addappid(3723471,0,"eac238cb12cbcafaa4b5b3d78567c3c9763065126a3c32b782e6d91716fa1c3f")
--- setManifestid(3723471,"5379550799460408930")
+addappid(3723471, 1, "eac238cb12cbcafaa4b5b3d78567c3c9763065126a3c32b782e6d91716fa1c3f")

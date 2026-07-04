@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Adder (Prologue)
 addappid(2598410)
-addappid(2598411,0,"174a05ce0e560d41106a91e7acd4a3f385fd2e3fa927f9e951169b84df0f232b")
--- setManifestid(2598411,"9176648616942217459")
+addappid(2598411, 1, "174a05ce0e560d41106a91e7acd4a3f385fd2e3fa927f9e951169b84df0f232b")

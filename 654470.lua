@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blood Waves
 addappid(654470)
-addappid(654471,0,"5e2b008e57c8343b407acbdcae55fdc8ba4abfe00b300e2381e12b80cd692d26")
--- setManifestid(654471,"5323799372621274261")
+addappid(654471, 1, "5e2b008e57c8343b407acbdcae55fdc8ba4abfe00b300e2381e12b80cd692d26")

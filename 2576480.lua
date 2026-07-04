@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: To The Mars
 addappid(2576480)
-addappid(2576481,0,"bb5a2bf4882f10524d56d8a6a4d5b6545929bcf96a57b94e925984adf8aa0a22")
--- setManifestid(2576481,"3677116459144374337")
+addappid(2576481, 1, "bb5a2bf4882f10524d56d8a6a4d5b6545929bcf96a57b94e925984adf8aa0a22")

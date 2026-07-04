@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: EscapeVR: Trapped Above the Clouds
 addappid(566970)
-addappid(566971,0,"0341872f4cbcea97cf65cb716dcd32002ddfc8be893ebd1a461290b49c970e84")
--- setManifestid(566971,"2201590441413883341")
+addappid(566971, 1, "0341872f4cbcea97cf65cb716dcd32002ddfc8be893ebd1a461290b49c970e84")

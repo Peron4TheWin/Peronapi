@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ReversEstory
 addappid(1524350)
-addappid(1524351,0,"9126f8a2cff42ea667bf59615cc239504f8397ff819608f70522e525efb55e4e")
--- setManifestid(1524351,"114015165496059982")
+addappid(1524351, 1, "9126f8a2cff42ea667bf59615cc239504f8397ff819608f70522e525efb55e4e")

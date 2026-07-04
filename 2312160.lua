@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frogun Encore
 addappid(2312160)
-addappid(2312161,0,"7c447c93275f152cf621fda520f90ce65e0e5423017c1ad18f516f6b8466edd2")
--- setManifestid(2312161,"5624397497330438856")
+addappid(2312161, 1, "7c447c93275f152cf621fda520f90ce65e0e5423017c1ad18f516f6b8466edd2")

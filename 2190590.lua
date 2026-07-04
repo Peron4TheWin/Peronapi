@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Valkie 64
 addappid(2190590)
-addappid(2190591,0,"3c8443701424ff29ae845fa509ecc037fd85fac3014bc9a7d6d165e53f2b9eb8")
+addappid(2190591, 1, "3c8443701424ff29ae845fa509ecc037fd85fac3014bc9a7d6d165e53f2b9eb8")

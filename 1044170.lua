@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lord of the click
 addappid(1044170)
-addappid(1044171,0,"955e48c3529ff4cb047f63d549307aa3a4dc41ea3eb5effbe8261a3344e31664")
--- setManifestid(1044171,"8114437326873608301")
+addappid(1044171, 1, "955e48c3529ff4cb047f63d549307aa3a4dc41ea3eb5effbe8261a3344e31664")

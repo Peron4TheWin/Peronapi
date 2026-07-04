@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Restaurant Manager
 addappid(724090)
-addappid(724091,0,"c4b332f77440bc04e043d3c3039612a828fd92efe65f54a724db30a6e8121d50")
--- setManifestid(724091,"1812590160596483183")
+addappid(724091, 1, "c4b332f77440bc04e043d3c3039612a828fd92efe65f54a724db30a6e8121d50")

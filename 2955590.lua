@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Creepy Shift: Roadside Diner
 addappid(2955590)
-addappid(2955591,0,"408d08c9788da9c2abeff9f3668ecc9a6e50bcccac6f2c1dd5f12fe2e0cd5c6d")
--- setManifestid(2955591,"5463235660918729440")
+addappid(2955591, 1, "408d08c9788da9c2abeff9f3668ecc9a6e50bcccac6f2c1dd5f12fe2e0cd5c6d")

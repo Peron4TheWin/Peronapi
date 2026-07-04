@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twilight Drive
 addappid(1537410)
-addappid(1537411,0,"2b1b98b149c060bd01212601fd7e779773a6c95cc442c8052f0a8c4c57920f2d")
--- setManifestid(1537411,"6495131464715022153")
+addappid(1537411, 1, "2b1b98b149c060bd01212601fd7e779773a6c95cc442c8052f0a8c4c57920f2d")

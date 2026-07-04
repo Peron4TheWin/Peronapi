@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Settlers: Prologue
 addappid(2788870)
-addappid(2788871,0,"9e0c1db3e6e6e1c7784d16308f565c6ae5c105a326988d5c41fc6472d862dc4e")
+addappid(2788871, 1, "9e0c1db3e6e6e1c7784d16308f565c6ae5c105a326988d5c41fc6472d862dc4e")

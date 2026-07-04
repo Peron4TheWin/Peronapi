@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sharknado VR (Arcade Edition)
 addappid(986480)
-addappid(986481,0,"bd12f71d153966013a52542b72f7d5a75f8b70ba241635d86616d028d4fed9ee")
--- setManifestid(986481,"2128565587035551490")
+addappid(986481, 1, "bd12f71d153966013a52542b72f7d5a75f8b70ba241635d86616d028d4fed9ee")

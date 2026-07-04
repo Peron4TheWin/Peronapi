@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soccer Manager 2022
 addappid(1777760)
-addappid(1777761,0,"8d83c8f50192adc1b9e471ccbc1d36c3b85d8aea877fece013be09dd0612ec18")
--- setManifestid(1777761,"5844155038443716305")
+addappid(1777761, 1, "8d83c8f50192adc1b9e471ccbc1d36c3b85d8aea877fece013be09dd0612ec18")

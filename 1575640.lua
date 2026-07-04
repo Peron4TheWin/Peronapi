@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SOL CRESTA
+addappid(1575640)
+addappid(1575641, 1, "5467b5331d7cd63ce66347f5401f150d665c39dd7e13b81072ea5fe2c15e8125")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Goblins of Elderstone
 addappid(693580)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(693581,0,"13488232df8b34641effb551861bfd89026946ec14ca1faf001ee61f3bc6d822")
--- setManifestid(693581,"827231386941586043")
+addappid(693581, 1, "13488232df8b34641effb551861bfd89026946ec14ca1faf001ee61f3bc6d822")

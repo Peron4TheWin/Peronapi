@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 易经·占卜
 addappid(2798400)
-addappid(2798401,0,"2c6389831dbde6d94684ca061d3b32e65abc7c4efa415630dd9e75dc1e25b0fb")
--- setManifestid(2798401,"8589452841391047712")
+addappid(2798401, 1, "2c6389831dbde6d94684ca061d3b32e65abc7c4efa415630dd9e75dc1e25b0fb")

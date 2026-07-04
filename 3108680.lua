@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ourkade
 addappid(3108680)
-addappid(3108681,0,"244a8e6b9567528f2d66266abb5c69a1557f7ac35531d44230a915edd317dcf2")
--- setManifestid(3108681,"4841569309000173350")
+addappid(3108681, 1, "244a8e6b9567528f2d66266abb5c69a1557f7ac35531d44230a915edd317dcf2")

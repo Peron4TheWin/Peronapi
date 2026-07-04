@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nayuta no Kiseki: KAI
 addappid(1732390)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(1732391,0,"4d0b9fdb6b2518a92b11563182daf85685d3d827ecc7ca573745d057eccf494a")
--- setManifestid(1732391,"7357481353175502729")
+addappid(1732391, 1, "4d0b9fdb6b2518a92b11563182daf85685d3d827ecc7ca573745d057eccf494a")

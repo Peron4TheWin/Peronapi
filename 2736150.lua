@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Galactic Harem Handbook: Chapter 2 - NSFW Sci-Fi Porn
 addappid(2736150)
-addappid(2736151,0,"3ab5e3c1aa41b253917ac5254a6b4ae54fbbdb1e6a927f6564bbec484f82405e")
--- setManifestid(2736151,"5455620415633891293")
+addappid(2736151, 1, "3ab5e3c1aa41b253917ac5254a6b4ae54fbbdb1e6a927f6564bbec484f82405e")

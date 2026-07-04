@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Underground Keeper
 addappid(497040)
-addappid(497041,0,"bbd40db62d9a12e323bb4c175927ea6288da310421c3ba5629e20e8e73e08b1f")
--- setManifestid(497041,"3020799756511055963")
+addappid(497041, 1, "bbd40db62d9a12e323bb4c175927ea6288da310421c3ba5629e20e8e73e08b1f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: your wife
 addappid(3339420)
-addappid(3339421,0,"1598c7432d564705f346ee3e22d08d65692a8badf2e71f02e88ad3cd003a42f0")
--- setManifestid(3339421,"5750760154674937959")
+addappid(3339421, 1, "1598c7432d564705f346ee3e22d08d65692a8badf2e71f02e88ad3cd003a42f0")

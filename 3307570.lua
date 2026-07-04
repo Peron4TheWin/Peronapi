@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crown of Greed Demo
 addappid(3307570)
-addappid(3307571,0,"cc9a08d21284d3854a7e92f85dc792d20de69a80726d50d4514f7c5d73d33209")
--- setManifestid(3307571,"7612586385930795941")
+addappid(3307571, 1, "cc9a08d21284d3854a7e92f85dc792d20de69a80726d50d4514f7c5d73d33209")

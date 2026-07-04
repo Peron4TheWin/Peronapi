@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Creation of a god
 addappid(2793810)
-addappid(2793811,0,"7c1f7d2449dd95e371c6a4437b868897ce898e982ee171a690f2c4de4e6f04dd")
--- setManifestid(2793811,"4524264402010152040")
+addappid(2793811, 1, "7c1f7d2449dd95e371c6a4437b868897ce898e982ee171a690f2c4de4e6f04dd")

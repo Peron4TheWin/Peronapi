@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Songs of Conquest - Original Soundtrack
 addappid(1968750)
-addappid(1968751,0,"897dad077cf3fc77cf8fd635e3ba8f50f99b5e30d64ec5da87286e0b58a3d539")
+addappid(1968751, 1, "897dad077cf3fc77cf8fd635e3ba8f50f99b5e30d64ec5da87286e0b58a3d539")

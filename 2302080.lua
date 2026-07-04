@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Death of a Wish
 addappid(2302080)
-addappid(2302081,0,"9e2c986f49b4396ab725562443debe7102ecfb9bdb4eccd1355f060bd53a9dbc")
--- setManifestid(2302081,"2446094892252701790")
+addappid(2302081, 1, "9e2c986f49b4396ab725562443debe7102ecfb9bdb4eccd1355f060bd53a9dbc")

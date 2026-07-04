@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CyberControl: Another Life
 addappid(3653710)
-addappid(3653711,0,"181d145b7d37d84d0a3f9c62b6c8c54ebdc7b268ffac5addfb0999078cd9d9be")
--- setManifestid(3653711,"3607754213888152299")
+addappid(3653711, 1, "181d145b7d37d84d0a3f9c62b6c8c54ebdc7b268ffac5addfb0999078cd9d9be")

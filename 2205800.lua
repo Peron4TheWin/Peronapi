@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CyberBrick
 addappid(2205800)
-addappid(2205801,0,"0f100f223bdf7ed845d5dde87018a9eae9e10ca4965de90e8d9d6f6d1c2c7324")
--- setManifestid(2205801,"7815846290626761742")
+addappid(2205801, 1, "0f100f223bdf7ed845d5dde87018a9eae9e10ca4965de90e8d9d6f6d1c2c7324")

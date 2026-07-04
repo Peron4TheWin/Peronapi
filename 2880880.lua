@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost Janitors Demo
 addappid(2880880)
-addappid(2880881,0,"223674a9f9f7d2d883e430eaaf3a03438ffcf6c22088921c8b82083b54e79368")
--- setManifestid(2880881,"1217662821778209615")
+addappid(2880881, 1, "223674a9f9f7d2d883e430eaaf3a03438ffcf6c22088921c8b82083b54e79368")

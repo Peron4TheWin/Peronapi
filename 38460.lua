@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MDK 2
 addappid(38460)
-addappid(38461,0,"926fa08a5e76071999596f9e742ecb9368862338722473c32a96f666bd605ae5")
--- setManifestid(38461,"2262497705723607389")
-addappid(38462)
-addappid(38463)
-addappid(38464)
-addappid(38465)
+addappid(38461, 1, "926fa08a5e76071999596f9e742ecb9368862338722473c32a96f666bd605ae5")

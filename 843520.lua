@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Front
 addappid(843520)
-addappid(843521,0,"3b5d7796d819b30e1e4de11f72459832abfbde7873aafc52f9770e33d6adf40e")
--- setManifestid(843521,"8401963641824147284")
+addappid(843521, 1, "3b5d7796d819b30e1e4de11f72459832abfbde7873aafc52f9770e33d6adf40e")

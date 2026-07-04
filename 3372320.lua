@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GROWING LIGHT: FINAL FANTASY XIV Original Soundtrack
 addappid(3372320)
-addappid(3372321,0,"c216cb62410d5b9602ebe6e99742d5db16dff3aed6f670b97723c833b3f48b02")
--- setManifestid(3372321,"4971628679217837777")
+addappid(3372321, 1, "c216cb62410d5b9602ebe6e99742d5db16dff3aed6f670b97723c833b3f48b02")

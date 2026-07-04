@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Undead City
 addappid(2675820)
-addappid(2675821,0,"f0bf6210c578f63d59302dc69cac7ae8d657520fdb54f4b0e6528801cdb6af1a")
--- setManifestid(2675821,"8385919548292165532")
+addappid(2675821, 1, "f0bf6210c578f63d59302dc69cac7ae8d657520fdb54f4b0e6528801cdb6af1a")

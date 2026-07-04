@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Creepy Shift: House For Sale
 addappid(3400650)
-addappid(3400651,0,"41d5afdb2760edcd2ed7f80f42b61c145fa9ce711b43f9fcd56ff9d63ab5587e")
--- setManifestid(3400651,"7879671901453081773")
+addappid(3400651, 1, "41d5afdb2760edcd2ed7f80f42b61c145fa9ce711b43f9fcd56ff9d63ab5587e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Survival In Draconia
 addappid(3082820)
-addappid(3082821,0,"0e2cb45ff5a6cc5795b3d8312495621b98a9dee4d11472f95c5c15bc1e94e0e1")
--- setManifestid(3082821,"2630793272182744297")
+addappid(3082821, 1, "0e2cb45ff5a6cc5795b3d8312495621b98a9dee4d11472f95c5c15bc1e94e0e1")

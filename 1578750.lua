@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Endless Furry Asteroids
+addappid(1578750)
+addappid(1578751, 1, "6eb0dffe2bc696899446c7e40af27729476bdb4065de698eb3dbb3bb5d531675")

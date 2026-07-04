@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Control III
+addappid(358930)
+addappid(358931, 1, "895ec5667464a81d48c09739529ab65413a4acf564d145631044e70161431769")

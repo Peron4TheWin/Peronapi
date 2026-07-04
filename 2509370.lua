@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cleric and Goblins
 addappid(2509370)
-addappid(2509371,0,"c4c116bf42f6369d524070e4051d4394e6426bd2d5e61bfdad1a0d8401d73540")
--- setManifestid(2509371,"746439091607508942")
+addappid(2509371, 1, "c4c116bf42f6369d524070e4051d4394e6426bd2d5e61bfdad1a0d8401d73540")

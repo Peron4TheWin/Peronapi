@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Simulator - Gym Girls
 addappid(2401040)
-addappid(2401041,0,"f62b722b9a3d5d4ab5120bc1001b096c17b0f27d716ddb6a32e49c9c068ab22e")
--- setManifestid(2401041,"5473208930430350368")
+addappid(2401041, 1, "f62b722b9a3d5d4ab5120bc1001b096c17b0f27d716ddb6a32e49c9c068ab22e")

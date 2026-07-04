@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ruff Ghanor
 addappid(2087460)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2087461,0,"6a814ce2fc2f08acaf6fdaa8f1c10494d75405b06cc47c7bc36b1e419b9a730c")
--- setManifestid(2087461,"3415670809454646676")
+addappid(2087461, 1, "6a814ce2fc2f08acaf6fdaa8f1c10494d75405b06cc47c7bc36b1e419b9a730c")

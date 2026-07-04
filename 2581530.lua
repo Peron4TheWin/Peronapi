@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ハッピーパパサポート！～Sugar Daddy Support～
 addappid(2581530)
-addappid(2581531,0,"8c5a0192ba8e66aeb7f2d6b58fa814f81b77891b7be67d74dad1de51a0134056")
--- setManifestid(2581531,"5771456318953922488")
+addappid(2581531, 1, "8c5a0192ba8e66aeb7f2d6b58fa814f81b77891b7be67d74dad1de51a0134056")

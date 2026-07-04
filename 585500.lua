@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dick Wilde
 addappid(585500)
-addappid(585501,0,"312fa7a6bf708e05a506aff940f3ad71f0a7ed2b1e53d3d9ca0da89215163680")
--- setManifestid(585501,"3426537471138114544")
+addappid(585501, 1, "312fa7a6bf708e05a506aff940f3ad71f0a7ed2b1e53d3d9ca0da89215163680")

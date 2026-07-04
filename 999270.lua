@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: War Builder League
 addappid(999270)
-addappid(999271,0,"e73b392196b66df827982b1c914db41ba5683faa5ad13db645dab0cbb83f639b")
--- setManifestid(999271,"8546317572776610188")
+addappid(999271, 1, "e73b392196b66df827982b1c914db41ba5683faa5ad13db645dab0cbb83f639b")

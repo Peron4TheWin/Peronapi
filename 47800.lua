@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RISK™: Factions
 addappid(47800)
-addappid(47801,0,"692b98128db91f0d9a6cc2bf9fd835491ce6d74008e15d9ee5bce1588ef3f76d")
--- setManifestid(47801,"304802541921338775")
+addappid(47801, 1, "692b98128db91f0d9a6cc2bf9fd835491ce6d74008e15d9ee5bce1588ef3f76d")

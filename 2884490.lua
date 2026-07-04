@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I commissioned some invisible people 0
 addappid(2884490)
-addappid(2884491,0,"af8d4ece9790e33d30a0cbecba6901785883949af2e495ee52de0dc2b9ebb748")
--- setManifestid(2884491,"7572032999621368632")
+addappid(2884491, 1, "af8d4ece9790e33d30a0cbecba6901785883949af2e495ee52de0dc2b9ebb748")

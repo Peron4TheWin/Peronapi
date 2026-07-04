@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Leaping Story:prologue
 addappid(2877340)
-addappid(2877341,0,"a1904cfd1738cb299b70922b94d5b38bf9851fd243ca6e02a5ed3c0e0312e74c")
--- setManifestid(2877341,"2296755285254756959")
+addappid(2877341, 1, "a1904cfd1738cb299b70922b94d5b38bf9851fd243ca6e02a5ed3c0e0312e74c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Romantic Escapades
 addappid(2897760)
-addappid(2897761,0,"d309294d9f28f61bc9fd632ec2133bc496ef6fb2c353ef57e9af630ea77ac693")
--- setManifestid(2897761,"5609536928347482439")
+addappid(2897761, 1, "d309294d9f28f61bc9fd632ec2133bc496ef6fb2c353ef57e9af630ea77ac693")

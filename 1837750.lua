@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Demeo: PC Edition
 addappid(1837750)
-addappid(1837751,0,"05c1e15754e2b9466d8fb4b37078ce4c1a8585297862ae36585baf5a40ac24cb")
--- setManifestid(1837751,"413529160213637124")
+addappid(1837751, 1, "05c1e15754e2b9466d8fb4b37078ce4c1a8585297862ae36585baf5a40ac24cb")

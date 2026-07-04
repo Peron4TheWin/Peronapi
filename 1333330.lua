@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Police hot Tale
 addappid(1333330)
-addappid(1333331,0,"421ca045453e8b5db56fadca71e05d6132302d25fd3eca4be1aaef6e8743f29d")
--- setManifestid(1333331,"4578409311685405064")
+addappid(1333331, 1, "421ca045453e8b5db56fadca71e05d6132302d25fd3eca4be1aaef6e8743f29d")

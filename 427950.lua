@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Withering
 addappid(427950)
-addappid(427951,0,"2e47e5f219f7c028f9f54e2158268139f1f1ca4782fe61efeebf303f05ce8d73")
--- setManifestid(427951,"8292445959255649613")
+addappid(427951, 1, "2e47e5f219f7c028f9f54e2158268139f1f1ca4782fe61efeebf303f05ce8d73")

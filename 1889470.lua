@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Half-Life Decay: Solo Mission Demo
 addappid(1889470)
-addappid(1889471,0,"636e1d1ca1fc4281690a0c051d03b3839b9350aca870ba97b33b279402b793fb")
--- setManifestid(1889471,"231373698248053034")
+addappid(1889471, 1, "636e1d1ca1fc4281690a0c051d03b3839b9350aca870ba97b33b279402b793fb")

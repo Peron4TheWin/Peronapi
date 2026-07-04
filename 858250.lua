@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tainted Fate
 addappid(858250)
-addappid(858251,0,"5394e3ff135c976ae78e1cefcae02686ea4547153a48d4ba120ee53d35f56966")
--- setManifestid(858251,"1990630073618773413")
+addappid(858251, 1, "5394e3ff135c976ae78e1cefcae02686ea4547153a48d4ba120ee53d35f56966")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 女神転生外伝 新約ラストバイブルIII 夢幻の英雄
 addappid(2194300)
-addappid(2194301,0,"ecbecb194674d286e49848ecad06280b371a5573ace2fa44bc0869ac0ba14a77")
--- setManifestid(2194301,"6867112427839173975")
+addappid(2194301, 1, "ecbecb194674d286e49848ecad06280b371a5573ace2fa44bc0869ac0ba14a77")

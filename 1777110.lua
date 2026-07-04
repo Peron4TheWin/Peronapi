@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DogFight Time
 addappid(1777110)
-addappid(1777111,0,"d6c5259faf9e61f54a7f580d07976a2859d576110cdfce2db7fcbfa786ebd7db")
--- setManifestid(1777111,"7286888832925500702")
+addappid(1777111, 1, "d6c5259faf9e61f54a7f580d07976a2859d576110cdfce2db7fcbfa786ebd7db")

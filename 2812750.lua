@@ -1,2 +1,4 @@
-addappid(2812750, 1, "None")
+-- Lua provided by SkyAPI 
+-- Game: Fuck in police
+addappid(2812750)
 addappid(2812751, 1, "0ea90f95f6ab8e04ab85c0e095b1c7928543f1caf4f768033e785fb993a70803")

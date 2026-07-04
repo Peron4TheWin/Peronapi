@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hidden Ghost Town
 addappid(1810310)
-addappid(1810311,0,"ca702c63661a3b78e873dfa3174e2384fc22974ed1eb38413a7a726f38c40e95")
--- setManifestid(1810311,"319208056594683257")
+addappid(1810311, 1, "ca702c63661a3b78e873dfa3174e2384fc22974ed1eb38413a7a726f38c40e95")

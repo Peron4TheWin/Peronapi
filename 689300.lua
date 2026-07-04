@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monsteria
 addappid(689300)
-addappid(689301,0,"959fda1ab54a9244bc5799b3c77ed73ed722ea4c8b4e74684e697bd9e5a87fe6")
--- setManifestid(689301,"6853690292048707492")
+addappid(689301, 1, "959fda1ab54a9244bc5799b3c77ed73ed722ea4c8b4e74684e697bd9e5a87fe6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sassy Girl
 addappid(2471650)
-addappid(2471651,0,"5897be5972116e2ac3e2b01c90f2ca5ca666c970ddf6fe673d7e369a9e41f50e")
--- setManifestid(2471651,"5277926271401007838")
+addappid(2471651, 1, "5897be5972116e2ac3e2b01c90f2ca5ca666c970ddf6fe673d7e369a9e41f50e")

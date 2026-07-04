@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Governor of Poker 2
 addappid(70200)
-addappid(70201,0,"a1a310f8bedbe418536ee9cdc1a592cba36e54d8aea27e0c6ced02aaf84d0734")
+addappid(70201, 1, "a1a310f8bedbe418536ee9cdc1a592cba36e54d8aea27e0c6ced02aaf84d0734")

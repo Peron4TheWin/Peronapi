@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT
 addappid(3191050)
-addappid(3191051,0,"e97a6611a86761cb9413ca9d1e9acc72aa8505f58000f6082f159bae7b92b1fc")
--- setManifestid(3191051,"974097183424982132")
+addappid(3191051, 1, "e97a6611a86761cb9413ca9d1e9acc72aa8505f58000f6082f159bae7b92b1fc")

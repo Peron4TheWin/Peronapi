@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cricket Through the Ages
 addappid(2657480)
-addappid(2657481,0,"07cde4858a6d3c1b4c5d8102a48b89a229126c28ab74fd1663ee369fa48dea1a")
--- setManifestid(2657481,"998308615713232562")
+addappid(2657481, 1, "07cde4858a6d3c1b4c5d8102a48b89a229126c28ab74fd1663ee369fa48dea1a")

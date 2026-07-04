@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Game Of Thrallan
 addappid(3229210)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229007,"4477590687906973371")
-addappid(3229211,0,"68c329d8bbd01518cdef6949fcb8301dec46a5ab2bb2e55e3356ffac0fa6fde7")
--- setManifestid(3229211,"8351472931922050895")
+addappid(3229211, 1, "68c329d8bbd01518cdef6949fcb8301dec46a5ab2bb2e55e3356ffac0fa6fde7")
+addappid(3265080)

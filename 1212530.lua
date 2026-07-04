@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Blueness of a Wound
 addappid(1212530)
-addappid(1212531,0,"332b0eb17ad9f036a37bdfbb77cf32c2681126e5e9a65240799bdc232c9bbefa")
--- setManifestid(1212531,"5967980124831382261")
+addappid(1212531, 1, "332b0eb17ad9f036a37bdfbb77cf32c2681126e5e9a65240799bdc232c9bbefa")

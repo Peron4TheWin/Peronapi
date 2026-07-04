@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Raiden III x MIKADO MANIAX
 addappid(2002860)
-addappid(2002861,0,"b4b4f932cb464b9cf13d3865776db88a661199a156c6971d6ac74c56b94d847b")
--- setManifestid(2002861,"4524932267717999040")
+addappid(2002861, 1, "b4b4f932cb464b9cf13d3865776db88a661199a156c6971d6ac74c56b94d847b")

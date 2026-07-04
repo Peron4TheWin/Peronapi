@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Board Defenders
 addappid(516010)
-addappid(516011,0,"80ac76b68b9f91c94671d884c778762750bbcb0c21d622dac3117b40e1caf7c9")
--- setManifestid(516011,"9025217827934905091")
+addappid(516011, 1, "80ac76b68b9f91c94671d884c778762750bbcb0c21d622dac3117b40e1caf7c9")

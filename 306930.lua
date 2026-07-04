@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BattleSpace
 addappid(306930)
-addappid(306931,0,"a26cb2668d4d1988b43e93c66d88f724e6dd44eddd8248d2cd93d6aeaba1faaf")
--- setManifestid(306931,"9119564720862111158")
+addappid(306931, 1, "a26cb2668d4d1988b43e93c66d88f724e6dd44eddd8248d2cd93d6aeaba1faaf")

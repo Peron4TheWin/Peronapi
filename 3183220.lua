@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aurora Defense
 addappid(3183220)
-addappid(3183221,0,"36b96ee2aaa054c8217f360bb8b646de335f382d803e6e2f30ab38813d78b16c")
--- setManifestid(3183221,"7896865157038845555")
+addappid(3183221, 1, "36b96ee2aaa054c8217f360bb8b646de335f382d803e6e2f30ab38813d78b16c")

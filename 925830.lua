@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Anatomy
 addappid(925830)
-addappid(925831,0,"7b3802b4c3b99171696f322c19b10bc8b045c0a634ba48392bc8c734cacc83fa")
--- setManifestid(925831,"6323460642931332074")
+addappid(925831, 1, "7b3802b4c3b99171696f322c19b10bc8b045c0a634ba48392bc8c734cacc83fa")

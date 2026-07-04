@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Winds & Leaves
 addappid(1783750)
-addappid(1783751,0,"7cf798cd0bb7e8bd908b36707ad954a247c70f29991b6b4237cd6d5e1c7df7d9")
--- setManifestid(1783751,"728339711697359769")
+addappid(1783751, 1, "7cf798cd0bb7e8bd908b36707ad954a247c70f29991b6b4237cd6d5e1c7df7d9")

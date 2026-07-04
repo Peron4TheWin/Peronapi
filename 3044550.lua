@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eldrea: SEX Saga 🔞
 addappid(3044550)
-addappid(3044551,0,"0e2d106c15c99f7de40b6c155b15b1efbf330fc9d39caa929949b6af82b97c6d")
--- setManifestid(3044551,"5754558447758921740")
+addappid(3044551, 1, "0e2d106c15c99f7de40b6c155b15b1efbf330fc9d39caa929949b6af82b97c6d")

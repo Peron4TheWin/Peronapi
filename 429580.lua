@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Wild Catgirl Appears!
 addappid(429580)
-addappid(429581,0,"39a902f5b0d9915599cee2239e551da437eb7bbe65e5abbdadf909480df29393")
--- setManifestid(429581,"6343731784448791238")
+addappid(429581, 1, "39a902f5b0d9915599cee2239e551da437eb7bbe65e5abbdadf909480df29393")

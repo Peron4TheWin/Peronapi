@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Piano Glow
 addappid(3499520)
-addappid(3499521,0,"6446540b05ba8770b71879f6c2643d3ef753f44af502a943cd4ac3da3a925dcc")
--- setManifestid(3499521,"8324829437503839203")
+addappid(3499521, 1, "6446540b05ba8770b71879f6c2643d3ef753f44af502a943cd4ac3da3a925dcc")

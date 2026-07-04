@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Survival Quiz CITY おまつり編
 addappid(2328530)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2328531,0,"46913231afb399b85a0de0d1e6bf43ee4309e129d376bde5ef5a0c7199c5e6cb")
--- setManifestid(2328531,"4839113180910120953")
+addappid(2328531, 1, "46913231afb399b85a0de0d1e6bf43ee4309e129d376bde5ef5a0c7199c5e6cb")

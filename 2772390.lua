@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My VALENTINE is a FEMBOY
 addappid(2772390)
-addappid(2772391,0,"0bbfe92c11f95b4325fe90f80547ba3d9408fd6ffd23cdde11aefdf5685e1e13")
+addappid(2772391, 1, "0bbfe92c11f95b4325fe90f80547ba3d9408fd6ffd23cdde11aefdf5685e1e13")

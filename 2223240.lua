@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sword and Fairy 7 - Dreamlike World Expansion
 addappid(2223240)
-addappid(2223241,0,"c7d3ba2342020f382cb7e6c7f202bbb7a136283e87870d04190562e15966f398")
--- setManifestid(2223241,"8900201496308069518")
+addappid(2223241, 1, "c7d3ba2342020f382cb7e6c7f202bbb7a136283e87870d04190562e15966f398")

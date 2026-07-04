@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yunoia
 addappid(2411830)
-addappid(2411831,0,"9469398be1129e0932eaecbe6883d2b39da69efb6fffe1ffa96a73fa6df76125")
--- setManifestid(2411831,"4119894645120985519")
+addappid(2411831, 1, "9469398be1129e0932eaecbe6883d2b39da69efb6fffe1ffa96a73fa6df76125")

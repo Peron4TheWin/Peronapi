@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 12 Labours of Hercules III: Girl Power
+addappid(360650)
+addappid(360651, 1, "45d49850421ded1f62adc6421726b3920f120192c8728498ad0980efbc8959eb")

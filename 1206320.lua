@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Primitive Survival
 addappid(1206320)
-addappid(1206321,0,"bf5423a8701da45873b86dc2a599c1fe6d2b0affb5b57c4c9218ca69d5ec33ba")
--- setManifestid(1206321,"5494678185822175848")
+addappid(1206321, 1, "bf5423a8701da45873b86dc2a599c1fe6d2b0affb5b57c4c9218ca69d5ec33ba")

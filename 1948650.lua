@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jigsaw Novel - Futanari Nurse
 addappid(1948650)
-addappid(1948651,0,"892ac527ae830e43217fca99a1a541a574f9082ccd221f2ba688c67f8eceb970")
--- setManifestid(1948651,"1031520042113419020")
+addappid(1948651, 1, "892ac527ae830e43217fca99a1a541a574f9082ccd221f2ba688c67f8eceb970")

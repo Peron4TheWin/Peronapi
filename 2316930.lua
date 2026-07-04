@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beat the Humans
 addappid(2316930)
-addappid(2316931,0,"ab252894ee2012f793b12042b3d84275b6e347b58dcec60a017c7f97edd46501")
--- setManifestid(2316931,"8004352086127961573")
+addappid(2316931, 1, "ab252894ee2012f793b12042b3d84275b6e347b58dcec60a017c7f97edd46501")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Marble Maid
 addappid(1429780)
-addappid(1429781,0,"fb0e8be72c56d1e9dcc8d3436d0c04c256ce1176f124c5d4e248082ea3767a80")
--- setManifestid(1429781,"2660195353028507068")
+addappid(1429781, 1, "fb0e8be72c56d1e9dcc8d3436d0c04c256ce1176f124c5d4e248082ea3767a80")

@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shardbound: Forge Your Path, Master Your Strategy
 addappid(586030)
--- setManifestid(228985,"3966345552745568756")
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(586031,0,"ed488ddbe922cf604b5da58b6755b96604d795cd3570784ff6b79f4cd2afee8b")
--- setManifestid(586031,"3602682638359447283")
+addappid(586031, 1, "ed488ddbe922cf604b5da58b6755b96604d795cd3570784ff6b79f4cd2afee8b")

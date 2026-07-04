@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ika's Odyssey
 addappid(3304030)
-addappid(3304031,0,"c4935d5bccbb6500c95a08a5810afbe52528c4bdf933f431c7d38840eb6d7d5e")
--- setManifestid(3304031,"8250186074742793126")
+addappid(3304031, 1, "c4935d5bccbb6500c95a08a5810afbe52528c4bdf933f431c7d38840eb6d7d5e")

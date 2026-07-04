@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Gamer
 addappid(685680)
-addappid(685681,0,"92958d2c169327a2a9774f61efb357e01faf772c9da59509ff5316e670ad3af0")
--- setManifestid(685681,"6954627176820043309")
+addappid(685681, 1, "92958d2c169327a2a9774f61efb357e01faf772c9da59509ff5316e670ad3af0")

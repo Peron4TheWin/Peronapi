@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Degraman: Act I. Vincent
 addappid(1189680)
-addappid(1189681,0,"648aa142a3849b203356ddf3de8fe34b06f1a30c5641bd5e3445a31f480adc97")
--- setManifestid(1189681,"2927705669432131124")
+addappid(1189681, 1, "648aa142a3849b203356ddf3de8fe34b06f1a30c5641bd5e3445a31f480adc97")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Brew Barons
 addappid(1636710)
-addappid(1636711,0,"4b89b9f61f17df4f8fc72e79e1ec6edb272ca29a9ed84979d5189c943c0b433a")
--- setManifestid(1636711,"511758388994070485")
+addappid(1636711, 1, "4b89b9f61f17df4f8fc72e79e1ec6edb272ca29a9ed84979d5189c943c0b433a")

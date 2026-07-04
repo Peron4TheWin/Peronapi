@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Big Sister
 addappid(733300)
--- setManifestid(228982,"6413394087650432851")
--- setManifestid(228986,"8782296191957114623")
-addappid(733301,0,"feac505adb2238a631e6a11d31e3c57315f3840cd1f263bdc446932535c513e1")
--- setManifestid(733301,"3081389398037703156")
+addappid(733301, 1, "feac505adb2238a631e6a11d31e3c57315f3840cd1f263bdc446932535c513e1")

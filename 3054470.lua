@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Zodiacs
 addappid(3054470)
-addappid(3054471,0,"d13ccfbf295bce6051bfb7f72c6c4085b5c72564d12d99684f6a2e094f21bf3f")
--- setManifestid(3054471,"7420883658878098566")
+addappid(3054471, 1, "d13ccfbf295bce6051bfb7f72c6c4085b5c72564d12d99684f6a2e094f21bf3f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spooky Milk Life
 addappid(1621540)
-addappid(1621541,0,"da248b681f7058df83a67345a8b402b8cfd5bdcfa64a115ae25dfc53352973f7")
--- setManifestid(1621541,"6780122902591159859")
+addappid(1621541, 1, "da248b681f7058df83a67345a8b402b8cfd5bdcfa64a115ae25dfc53352973f7")

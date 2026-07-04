@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Prototype Blocks
 addappid(1793120)
-addappid(1793121,0,"02bb7feb692c9abfdf729181a28bdc52b82e5eba214c7c6c7553fd2897901219")
--- setManifestid(1793121,"4619644565577666350")
+addappid(1793121, 1, "02bb7feb692c9abfdf729181a28bdc52b82e5eba214c7c6c7553fd2897901219")

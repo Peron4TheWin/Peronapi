@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Breath of the Forest
 addappid(1231100)
-addappid(1231101,0,"582eab938b7dd44d185c7dfe8003abb0a9653d1fec767de9896ed6d0a558b96c")
--- setManifestid(1231101,"5137228115192630442")
+addappid(1231101, 1, "582eab938b7dd44d185c7dfe8003abb0a9653d1fec767de9896ed6d0a558b96c")

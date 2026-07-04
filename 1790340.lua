@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KUUKIYOMI: Consider It! ONLINE
 addappid(1790340)
-addappid(1790341,0,"d7b2d7534fc80b98f0e676e0503c44291d56ad6b048d7ec777511142ed4a7317")
--- setManifestid(1790341,"8158533948637846734")
+addappid(1790341, 1, "d7b2d7534fc80b98f0e676e0503c44291d56ad6b048d7ec777511142ed4a7317")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fovos VR
 addappid(576650)
-addappid(576651,0,"9aa915bd7a6260193fcb85b21caba039213fb67f705ce693190bb1bbc268802a")
--- setManifestid(576651,"4779549726349875419")
+addappid(576651, 1, "9aa915bd7a6260193fcb85b21caba039213fb67f705ce693190bb1bbc268802a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mighty Fling
 addappid(1343920)
-addappid(1343921,0,"4e6d3a1a73718e007a6f99c8bb08be67255d24979d0d142104f6d33b070fd020")
--- setManifestid(1343921,"7431409922935560851")
+addappid(1343921, 1, "4e6d3a1a73718e007a6f99c8bb08be67255d24979d0d142104f6d33b070fd020")

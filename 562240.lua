@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Spirit Underneath
 addappid(562240)
--- setManifestid(228990,"1829726630299308803")
-addappid(562241,0,"cbdf55b4dccaad47d3b75b5753b5ac93d60a77443cf03d7163b731be05a23082")
--- setManifestid(562241,"2857672590818864122")
+addappid(562241, 1, "cbdf55b4dccaad47d3b75b5753b5ac93d60a77443cf03d7163b731be05a23082")

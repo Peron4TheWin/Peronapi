@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Erotic Jigsaw Puzzle Summer
 addappid(1678790)
-addappid(1678791,0,"6833bef4f801bd3d90ec000e3a47834643d8ac7d8d0f699e759e666992c799e8")
--- setManifestid(1678791,"156918849721410890")
+addappid(1678791, 1, "6833bef4f801bd3d90ec000e3a47834643d8ac7d8d0f699e759e666992c799e8")
 addappid(1683260)

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desires of the Amazons
 addappid(2359030)
--- setManifestid(228990,"1829726630299308803")
-addappid(2359031,0,"5cee1208172ae7afd80af34d6c17b42cf1d83315f93271c31af6d61cc3fbaaa4")
--- setManifestid(2359031,"7865714294204805990")
+addappid(2359031, 1, "5cee1208172ae7afd80af34d6c17b42cf1d83315f93271c31af6d61cc3fbaaa4")

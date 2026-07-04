@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XEYYEX 2: Colour Wars
 addappid(3155610)
-addappid(3155611,0,"497ed35c360d42c04b0e3f13024a3aa7356041adc257b3a0a22d12883f3fa341")
--- setManifestid(3155611,"7231425451174261414")
+addappid(3155611, 1, "497ed35c360d42c04b0e3f13024a3aa7356041adc257b3a0a22d12883f3fa341")

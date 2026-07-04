@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Superspy Steve
 addappid(2300730)
-addappid(2300731,0,"de22af87c55e91c94ad4be69640a02da2b08f7103a9130f8658582631932ba93")
--- setManifestid(2300731,"3980101430191321863")
+addappid(2300731, 1, "de22af87c55e91c94ad4be69640a02da2b08f7103a9130f8658582631932ba93")

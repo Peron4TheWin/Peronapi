@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Realm of Reincarnation
 addappid(3196570)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(3196571,0,"f0026f891fee6e584946b58b028781cc11aeb064e87eca1831974e970c3e4d2c")
--- setManifestid(3196571,"1344886795939151845")
+addappid(3196571, 1, "f0026f891fee6e584946b58b028781cc11aeb064e87eca1831974e970c3e4d2c")

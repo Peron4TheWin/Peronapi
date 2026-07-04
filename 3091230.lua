@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UFO-Man
 addappid(3091230)
-addappid(3091231,0,"1080d8298b33d2c89f2f2eec429e5065d3dc3cc515dd8e259d2f4758b987990e")
--- setManifestid(3091231,"6735774276684321400")
+addappid(3091231, 1, "1080d8298b33d2c89f2f2eec429e5065d3dc3cc515dd8e259d2f4758b987990e")

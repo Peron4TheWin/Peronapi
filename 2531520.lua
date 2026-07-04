@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dreamcore Demo
 addappid(2531520)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2531521,0,"8977efdedefb671b09939b8fe0faa51c065ebe038740bbff543495dfb66c5430")
+addappid(2531521, 1, "8977efdedefb671b09939b8fe0faa51c065ebe038740bbff543495dfb66c5430")

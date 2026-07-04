@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: P.A.I.N.T.
 addappid(1175890)
--- setManifestid(228987,"4302102680580581867")
--- setManifestid(228990,"1829726630299308803")
-addappid(1175891,0,"b5a5a27bb769b549c00fec8005d82273eba7e86536da0f0024d0107f8ae2e3e8")
--- setManifestid(1175891,"5023178084733051501")
+addappid(1175891, 1, "b5a5a27bb769b549c00fec8005d82273eba7e86536da0f0024d0107f8ae2e3e8")

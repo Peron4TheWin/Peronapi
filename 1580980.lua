@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Floor is [Blank]
 addappid(1580980)
-addappid(1580981,0,"270cdbaddd82215225740536eca8ddc17f83832b9ce8d655e79ffd6912c5764f")
--- setManifestid(1580981,"3299732125402551212")
+addappid(1580981, 1, "270cdbaddd82215225740536eca8ddc17f83832b9ce8d655e79ffd6912c5764f")

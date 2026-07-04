@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Sushi House
+addappid(3687470)
+addappid(3687471, 1, "77cfecbd5f2f99928e71913e4230cc12445d9d5c1d74b7c4d67e38193577e915")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Furr-Tec Anti-Extinction Playtest
 addappid(2700420)
--- setManifestid(229007,"4477590687906973371")
-addappid(2700421,0,"29eee0eea6e01352c5ebf3e75ee5cc771496f6b727093a67c79489cd89bb248d")
+addappid(2700421, 1, "29eee0eea6e01352c5ebf3e75ee5cc771496f6b727093a67c79489cd89bb248d")

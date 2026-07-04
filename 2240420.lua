@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Polterguys: Possession Party Demo
 addappid(2240420)
-addappid(2240421,0,"0bfa6221672b4c9cb253d6d4a3bf6069ba6594ed57d1f3a3020e7a3801b2a5b2")
+addappid(2240421, 1, "0bfa6221672b4c9cb253d6d4a3bf6069ba6594ed57d1f3a3020e7a3801b2a5b2")

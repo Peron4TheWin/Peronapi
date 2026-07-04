@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spectral Ascension
 addappid(1652780)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1652781,0,"b37f5a11fbfe2c3dbfe2f34e996b7e66af4443bb01916c91cfb08b3296402bcf")
--- setManifestid(1652781,"3800531696182789003")
+addappid(1652781, 1, "b37f5a11fbfe2c3dbfe2f34e996b7e66af4443bb01916c91cfb08b3296402bcf")

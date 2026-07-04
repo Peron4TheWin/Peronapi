@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 할 짓 없는 군주님
 addappid(2817210)
-addappid(2817211,0,"ae3395c97075dea5b251d561604c3dcf3f41425085253c271fe069bdb2fe6418")
--- setManifestid(2817211,"6935558473047840544")
+addappid(2817211, 1, "ae3395c97075dea5b251d561604c3dcf3f41425085253c271fe069bdb2fe6418")

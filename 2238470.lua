@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grimshire
 addappid(2238470)
-addappid(2238471,0,"8ce87fb1de64de108b3641ee896031278dd41c60da8ea6fb908cd23dc515f75c")
--- setManifestid(2238471,"5259847957336810504")
+addappid(2238471, 1, "8ce87fb1de64de108b3641ee896031278dd41c60da8ea6fb908cd23dc515f75c")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiny Troopers 2
 addappid(590370)
-addappid(590371,0,"9901a360f58429e98a9bb0e8f6c013e2f4891b376845aeed869c0178c1c846de")
--- setManifestid(590371,"1695287695462619212")
-addappid(590372)
+addappid(590371, 1, "9901a360f58429e98a9bb0e8f6c013e2f4891b376845aeed869c0178c1c846de")

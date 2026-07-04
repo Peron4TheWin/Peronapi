@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vengeful Rites
 addappid(755410)
-addappid(755411,0,"6ec7c0a0286edbc495c90d8cabf2a9795010224e74a4585ac0d4994bed970828")
--- setManifestid(755411,"9018488013060220361")
+addappid(755411, 1, "6ec7c0a0286edbc495c90d8cabf2a9795010224e74a4585ac0d4994bed970828")

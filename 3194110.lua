@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Doujin Fever!! Night Assault!
 addappid(3194110)
-addappid(3194111,0,"28f8fa8fc5b91d12d6f9fa294320c4b7242ce632f3ba6f95fad317606c8d1a0e")
--- setManifestid(3194111,"5903450902081243111")
+addappid(3194111, 1, "28f8fa8fc5b91d12d6f9fa294320c4b7242ce632f3ba6f95fad317606c8d1a0e")

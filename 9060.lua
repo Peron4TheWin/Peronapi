@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HeXen II
 addappid(9060)
-addappid(9061,0,"aa03e466ff2b46478a4d5ecc292065644f58c5efbd4116ad3af928308dc662f8")
--- setManifestid(9061,"8699029659006135252")
+addappid(9061, 1, "aa03e466ff2b46478a4d5ecc292065644f58c5efbd4116ad3af928308dc662f8")

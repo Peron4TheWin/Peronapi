@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Food and Girls
 addappid(1600130)
-addappid(1600131,0,"af2175009e020e990c7a4eb7d9649cd2240501396bae53fbb752f1522007b5a1")
--- setManifestid(1600131,"1412567800251168055")
+addappid(1600131, 1, "af2175009e020e990c7a4eb7d9649cd2240501396bae53fbb752f1522007b5a1")

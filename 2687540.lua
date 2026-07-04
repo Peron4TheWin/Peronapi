@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gateway to the Kulikovo Field: The Battle of Yepifan
 addappid(2687540)
-addappid(2687541,0,"2a777afdd41ab3adb3aa2c8032c1e275d519e9d159754f2017c2a425b1eb6d9e")
--- setManifestid(2687541,"2663867315169082412")
+addappid(2687541, 1, "2a777afdd41ab3adb3aa2c8032c1e275d519e9d159754f2017c2a425b1eb6d9e")

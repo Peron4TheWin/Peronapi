@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XENOTILT: HOSTILE PINBALL ACTION
 addappid(2008980)
-addappid(2008981,0,"ff99de909281660c9ce16da5d8073f45871bdd69f42cdef2f45e62eabb696c09")
+addappid(2008981, 1, "ff99de909281660c9ce16da5d8073f45871bdd69f42cdef2f45e62eabb696c09")

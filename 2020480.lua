@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 魔導聖戰:風色幻想
 addappid(2020480)
-addappid(2020481,0,"28e158fc5d9d4119dd2af72d740ec6bbad8253798b30adbfda1c1f135f4cd4ba")
--- setManifestid(2020481,"2859030244390615678")
+addappid(2020481, 1, "28e158fc5d9d4119dd2af72d740ec6bbad8253798b30adbfda1c1f135f4cd4ba")

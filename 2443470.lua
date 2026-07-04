@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zortch Demo
 addappid(2443470)
-addappid(2443471,0,"0e4bbd053e98651180467970516b54d8b9be7e3c9c10446f2fd41e0dcdf65034")
--- setManifestid(2443471,"4447709165962418701")
+addappid(2443471, 1, "0e4bbd053e98651180467970516b54d8b9be7e3c9c10446f2fd41e0dcdf65034")

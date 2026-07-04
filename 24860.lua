@@ -1,35 +1,4 @@
--- Configuração gerada por Onekey para AppID 24860
-
-addappid(24860, 1, "None") -- Adiciona o AppID principal
-
--- Configuração para Depot ID 24861
+-- Lua provided by SkyAPI 
+-- Game: AppID 24860
+addappid(24860)
 addappid(24861, 1, "bc14f3793b1bfee249478af1f1d4bb85cb97cd3d74de972eaef57cfa8f9d7d13")
--- setManifestid(24861,"7981479524323302643") -- Bloqueia para o manifesto mais recente: 7981479524323302643
-
--- Configuração para Depot ID 24862
-addappid(24862, 1, "b5dc053d10129208689e3dd62e4e09d4b72115132cf8561942463e41a9284910")
--- setManifestid(24862,"2598663713893740404") -- Bloqueia para o manifesto mais recente: 2598663713893740404
-
--- Configuração para Depot ID 24863
-addappid(24863, 1, "3efeecb05118553e7a13cbb1ba6fed01d413bcefe7465cf346db4c00b7d7ac04")
--- setManifestid(24863,"4224669099486842088") -- Bloqueia para o manifesto mais recente: 4224669099486842088
-
--- Configuração para Depot ID 24864
-addappid(24864, 1, "3ff3b343ae5a6a92e7d29e5e04374e2c70ac0069999576669e0ab09401844cfe")
--- setManifestid(24864,"8261062507396103136") -- Bloqueia para o manifesto mais recente: 8261062507396103136
-
--- Configuração para Depot ID 24865
-addappid(24865, 1, "825f6f72f4943923dd99c8a77d75adb3c29c3b4b213ef6d8b79be695aebb1e4b")
--- setManifestid(24865,"4013053368150310280") -- Bloqueia para o manifesto mais recente: 4013053368150310280
-
--- Configuração para Depot ID 24866
-addappid(24866, 1, "b677ecb7de7f5a67afe3aa00582f5620f675f276cc2052e827e9a8241665ddb5")
--- setManifestid(24866,"4216152580144575205") -- Bloqueia para o manifesto mais recente: 4216152580144575205
-
--- Configuração para Depot ID 24867
-addappid(24867, 1, "4c2dfba605c4f3b3fc621588b315113fe6a81fd3d82c6311d8c662ce17eda334")
--- setManifestid(24867,"4241532953543087910") -- Bloqueia para o manifesto mais recente: 4241532953543087910
-
--- Configuração para Depot ID 24869
-addappid(24869, 1, "44bb65adcfedcf65e678e96183cd4352d989fbf352010faf6b90037aca05357e")
--- setManifestid(24869,"454688347549466667") -- Bloqueia para o manifesto mais recente: 454688347549466667

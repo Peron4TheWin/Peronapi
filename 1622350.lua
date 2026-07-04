@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Copycat
 addappid(1622350)
-addappid(1622351,0,"83b37bc19503c3a2c210e8599e1fdf1bfad5725707f83548d46c1429e1d49efa")
---setManifestid(1622351,"1667702057264634925")
+addappid(1622351, 1, "83b37bc19503c3a2c210e8599e1fdf1bfad5725707f83548d46c1429e1d49efa")

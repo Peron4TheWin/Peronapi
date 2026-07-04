@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Becastled
 addappid(1330460)
-addappid(1330461,0,"2f315404e0292ce573c52729ebbfa7921f02ec79592f67bb9a761a9a63c97c76")
--- setManifestid(1330461,"7812918829440596288")
+addappid(1330461, 1, "2f315404e0292ce573c52729ebbfa7921f02ec79592f67bb9a761a9a63c97c76")

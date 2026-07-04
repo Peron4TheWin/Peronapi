@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wandervania
 addappid(3222910)
-addappid(3222911,0,"f6be1d1fa60120d6cf34d2a64cf051717fc781870108b2f11aa148d6f0cab6ef")
+addappid(3222911, 1, "f6be1d1fa60120d6cf34d2a64cf051717fc781870108b2f11aa148d6f0cab6ef")

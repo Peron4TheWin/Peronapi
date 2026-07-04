@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pro Wrestler Story
 addappid(3334710)
-addappid(3334711,0,"7b99b332fd3b4d33b5294ba535ea4e1a37f88024fb7b8472d857eb771e0715a0")
--- setManifestid(3334711,"8780108993759816073")
+addappid(3334711, 1, "7b99b332fd3b4d33b5294ba535ea4e1a37f88024fb7b8472d857eb771e0715a0")

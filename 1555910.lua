@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wet Nightmares
 addappid(1555910)
-addappid(1555911,0,"26e2d6e60f0696ee3ed5819e31961d5c6a1a1f64afe33af1cd6a7b9d6815de33")
--- setManifestid(1555911,"1470436305563641414")
+addappid(1555911, 1, "26e2d6e60f0696ee3ed5819e31961d5c6a1a1f64afe33af1cd6a7b9d6815de33")

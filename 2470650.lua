@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cones in Space
 addappid(2470650)
-addappid(2470651,0,"037a2e10cccf338b2e7cc1cf29956a2e5a08b5f34236404ba11339a925ed45cd")
--- setManifestid(2470651,"8168352488519522900")
+addappid(2470651, 1, "037a2e10cccf338b2e7cc1cf29956a2e5a08b5f34236404ba11339a925ed45cd")

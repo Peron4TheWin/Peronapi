@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Peach Hills Division
 addappid(2191210)
-addappid(2191211,0,"4226dc1b8476b0a339b42b11bdbee9b94811cc78846624fef7ac6b05fbb2966f")
--- setManifestid(2191211,"842421638635921880")
+addappid(2191211, 1, "4226dc1b8476b0a339b42b11bdbee9b94811cc78846624fef7ac6b05fbb2966f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nature and Girls
 addappid(1668870)
-addappid(1668871,0,"11b02b8f41906c164fb159e4d6e974b803da92beff16423f6cf1ea35a5f50ac8")
--- setManifestid(1668871,"3867097168226576525")
+addappid(1668871, 1, "11b02b8f41906c164fb159e4d6e974b803da92beff16423f6cf1ea35a5f50ac8")

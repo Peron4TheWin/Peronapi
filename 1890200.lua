@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: POG 7
 addappid(1890200)
-addappid(1890201,0,"25207534fa0f7b2a56f27b7938eaf5c833bc3569febf5075c684faa7483850d0")
--- setManifestid(1890201,"7757747885138012977")
+addappid(1890201, 1, "25207534fa0f7b2a56f27b7938eaf5c833bc3569febf5075c684faa7483850d0")

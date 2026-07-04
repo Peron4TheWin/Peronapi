@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Simkea
 addappid(1788270)
-addappid(1788271,0,"888f4acfe7df0d407dc9349a407595be7ec6d418fe35ab6cb7d19df75d95353b")
+addappid(1788271, 1, "888f4acfe7df0d407dc9349a407595be7ec6d418fe35ab6cb7d19df75d95353b")

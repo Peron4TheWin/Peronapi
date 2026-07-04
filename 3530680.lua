@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: How 2 Escape: Lost Submarine
 addappid(3530680)
-addappid(3530681,0,"9806600d77341b0b717104d6bf8fdb1dfd7e9e37611686b37a3dc3147f9e8fa8")
--- setManifestid(3530681,"3606523514785244489")
+addappid(3530681, 1, "9806600d77341b0b717104d6bf8fdb1dfd7e9e37611686b37a3dc3147f9e8fa8")

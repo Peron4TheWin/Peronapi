@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tactical Combat Department
 addappid(1298010)
-addappid(1298011,0,"fa041d563739737cec3564d92a9cf3ec8f1e396998f86e06419ae468f2f8a045")
--- setManifestid(1298011,"6858146810233073153")
+addappid(1298011, 1, "fa041d563739737cec3564d92a9cf3ec8f1e396998f86e06419ae468f2f8a045")

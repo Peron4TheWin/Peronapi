@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Millia -The ending-
 addappid(428060)
-addappid(428061,0,"fe62f09ace89bde32b82fa01f8b4e87391a7f0c3d7a4741c6cb84e3c8c4e7568")
--- setManifestid(428061,"3762205680505927537")
+addappid(428061, 1, "fe62f09ace89bde32b82fa01f8b4e87391a7f0c3d7a4741c6cb84e3c8c4e7568")

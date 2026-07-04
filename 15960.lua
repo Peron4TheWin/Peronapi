@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little Farm
 addappid(15960)
-addappid(15961,0,"44e710ee66274558e38f9e3be26f0ea8317e26711ff52d5c58e5d8d837a016ee")
--- setManifestid(15961,"842823221414468945")
+addappid(15961, 1, "44e710ee66274558e38f9e3be26f0ea8317e26711ff52d5c58e5d8d837a016ee")

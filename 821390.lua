@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Achievement Lurker: Another one bites the dust
 addappid(821390)
-addappid(821391,0,"68e368ab5f6f8c04a9eb45735daf77178c47d1cbb3f2aab6456a4c1e63b4b7e8")
--- setManifestid(821391,"5369608691922483040")
+addappid(821391, 1, "68e368ab5f6f8c04a9eb45735daf77178c47d1cbb3f2aab6456a4c1e63b4b7e8")

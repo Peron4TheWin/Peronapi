@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sunny Shine Funland!
 addappid(924520)
-addappid(924521,0,"770396d23c0ba6db8e84bf49f3b4bf39265bfcaabe3cf769227324c8c7d3c842")
+addappid(924521, 1, "770396d23c0ba6db8e84bf49f3b4bf39265bfcaabe3cf769227324c8c7d3c842")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Chef 2: Cooking Game
 addappid(1612810)
--- setManifestid(228990,"1829726630299308803")
-addappid(1612811,0,"ed9dba3955ab46f02a85dbaaf0c53f99bcf53688450098922aa08b63419799fd")
--- setManifestid(1612811,"2101927887017834684")
+addappid(1612811, 1, "ed9dba3955ab46f02a85dbaaf0c53f99bcf53688450098922aa08b63419799fd")

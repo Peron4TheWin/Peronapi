@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Seasons With Furry
 addappid(1465170)
-addappid(1465171,0,"ff9a374bfe5e9ad88c6d6323f6f6b64408151ec3aaebc120e89df0d9bbde1ab3")
--- setManifestid(1465171,"597042977648605060")
+addappid(1465171, 1, "ff9a374bfe5e9ad88c6d6323f6f6b64408151ec3aaebc120e89df0d9bbde1ab3")
+addappid(1466160)

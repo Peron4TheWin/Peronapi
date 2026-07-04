@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 addappid(969990)
-addappid(969991,0,"57d1e3f2c41fa70a907141460fe0aa4929500b4df7b13e24cfeca58089466401")
--- setManifestid(969991,"6322912655307981707")
+addappid(969991, 1, "57d1e3f2c41fa70a907141460fe0aa4929500b4df7b13e24cfeca58089466401")

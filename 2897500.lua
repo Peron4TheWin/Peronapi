@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CCO Car Crash Online Simulator
 addappid(2897500)
-addappid(2897501,0,"2bdc5fb96972534bd569e26e0204afe47cdc582ab9791a641ceaf80e2bda8da6")
--- setManifestid(2897501,"3755374098482775439")
+addappid(2897501, 1, "2bdc5fb96972534bd569e26e0204afe47cdc582ab9791a641ceaf80e2bda8da6")

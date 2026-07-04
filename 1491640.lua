@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Understanding, The Game
 addappid(1491640)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1491641,0,"bdd5d796d26d64b90fccbd52a7f92ae76978f0e556dc1707c07b0bf1fecfcb5b")
--- setManifestid(1491641,"6273713596035462108")
+addappid(1491641, 1, "bdd5d796d26d64b90fccbd52a7f92ae76978f0e556dc1707c07b0bf1fecfcb5b")

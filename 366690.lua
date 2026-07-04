@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cue Club 2: Pool & Snooker
+addappid(366690)
+addappid(366691, 1, "734a892a39768b841316ffa9314c7ca1a64929a27b3cd386fd745f3f97ca5e36")

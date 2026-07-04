@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Confession
 addappid(1289640)
-addappid(1289641,0,"3d3cbed498c22c0e3ed85d38e58e7fa84d9b1140036d4fc241d17e00555789fa")
--- setManifestid(1289641,"5099395984344942647")
+addappid(1289641, 1, "3d3cbed498c22c0e3ed85d38e58e7fa84d9b1140036d4fc241d17e00555789fa")

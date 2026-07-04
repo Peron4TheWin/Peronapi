@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Whisper of the House Playtest
 addappid(2686830)
-addappid(2686831,0,"829282768409ce320f56b403aa014fbfc58fc8136eb97e47b15443cf8d3e5f36")
--- setManifestid(2686831,"2102306421967400366")
+addappid(2686831, 1, "829282768409ce320f56b403aa014fbfc58fc8136eb97e47b15443cf8d3e5f36")

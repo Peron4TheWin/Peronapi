@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: View From Below
 addappid(1208760)
-addappid(1208761,0,"1a7dde7dbcf035a31205c7bf767ce394c10aeb39469f5f3f7fd81f722f4de6b4")
--- setManifestid(1208761,"2062048273971878453")
+addappid(1208761, 1, "1a7dde7dbcf035a31205c7bf767ce394c10aeb39469f5f3f7fd81f722f4de6b4")

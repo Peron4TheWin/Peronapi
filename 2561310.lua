@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: K2: Digital Edition
 addappid(2561310)
-addappid(2561311,0,"e5c4ab827f4dd550cd0a428f0354bd11d081ec463931445d35bd728fe8d5bba1")
--- setManifestid(2561311,"1059837862107747970")
+addappid(2561311, 1, "e5c4ab827f4dd550cd0a428f0354bd11d081ec463931445d35bd728fe8d5bba1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stellar Ghosts Settlers
 addappid(2578790)
-addappid(2578791,0,"d2051ef731301711c7fbea988f7a97408b6e09c3383ae77d4b6c8668f887e67d")
--- setManifestid(2578791,"7866520830949030172")
+addappid(2578791, 1, "d2051ef731301711c7fbea988f7a97408b6e09c3383ae77d4b6c8668f887e67d")

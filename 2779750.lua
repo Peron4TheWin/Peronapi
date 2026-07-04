@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epic Auto Towers Demo
 addappid(2779750)
-addappid(2779751,0,"cb668b5d526f643832836123b5bc82befa7e9ca6f84e7596d66b9b76b4d0002d")
--- setManifestid(2779751,"3157473219006461974")
+addappid(2779751, 1, "cb668b5d526f643832836123b5bc82befa7e9ca6f84e7596d66b9b76b4d0002d")

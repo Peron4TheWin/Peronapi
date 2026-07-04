@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mighty Party
 addappid(575720)
-addappid(575721,0,"0d9cd9b3835aa95a08a09ac4622c38603247089b4211036ec91ddef2827dbd01")
--- setManifestid(575721,"3364342193218770755")
+addappid(575721, 1, "0d9cd9b3835aa95a08a09ac4622c38603247089b4211036ec91ddef2827dbd01")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love n War: Hero by Chance II
 addappid(1627680)
-addappid(1627681,0,"213a60478bd35f3e62f84e79a925d368c4ea4986597d5c4ce33fe9d5ad5c1324")
--- setManifestid(1627681,"4983849251141496780")
+addappid(1627681, 1, "213a60478bd35f3e62f84e79a925d368c4ea4986597d5c4ce33fe9d5ad5c1324")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kingdom Clicker
 addappid(816060)
-addappid(816061,0,"f9f40a44a9234d8da20cacd660d4b53e3a5de3ae24cf8e8de7f10358b81ef360")
--- setManifestid(816061,"4374094752616554828")
+addappid(816061, 1, "f9f40a44a9234d8da20cacd660d4b53e3a5de3ae24cf8e8de7f10358b81ef360")

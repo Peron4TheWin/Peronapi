@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Souls of Chronos OST
 addappid(2318970)
-addappid(2318971,0,"8d68241ef6c12876ea7cc45f3c17efdc93df8cd99a310c605a2a9a07f98e08ae")
--- setManifestid(2318971,"6135544795288577226")
+addappid(2318971, 1, "8d68241ef6c12876ea7cc45f3c17efdc93df8cd99a310c605a2a9a07f98e08ae")

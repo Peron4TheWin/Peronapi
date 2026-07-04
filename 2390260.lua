@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Topple Tactics
 addappid(2390260)
-addappid(2390261,0,"d12c7b5145bc66f42e88b4ade00c808564eee83d8d795d76ca1afa31e547eb97")
+addappid(2390261, 1, "d12c7b5145bc66f42e88b4ade00c808564eee83d8d795d76ca1afa31e547eb97")

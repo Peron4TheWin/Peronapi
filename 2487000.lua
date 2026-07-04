@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yubu: The Shoeventure
 addappid(2487000)
-addappid(2487001,0,"4208bd98ae684cd3f7260c8ea6d232a4ae37992a0fb424f91fa2e1751617342c")
--- setManifestid(2487001,"335548317228766367")
+addappid(2487001, 1, "4208bd98ae684cd3f7260c8ea6d232a4ae37992a0fb424f91fa2e1751617342c")

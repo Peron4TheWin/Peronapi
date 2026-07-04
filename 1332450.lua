@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Open The Gates!
 addappid(1332450)
--- setManifestid(228990,"1829726630299308803")
-addappid(1332451,0,"fe8c71932038ad9cfda1326652a7dae837178d200f11bc9047ce96bc579bd9a5")
--- setManifestid(1332451,"710660537069429628")
+addappid(1332451, 1, "fe8c71932038ad9cfda1326652a7dae837178d200f11bc9047ce96bc579bd9a5")

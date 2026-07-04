@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Save Giant Girl from monsters 2
 addappid(2830670)
-addappid(2830671,0,"a4eabdfc142caa988c3491692bf17d614b33e112788ef24cf7f941bed08e23dc")
--- setManifestid(2830671,"3091210642385198786")
+addappid(2830671, 1, "a4eabdfc142caa988c3491692bf17d614b33e112788ef24cf7f941bed08e23dc")

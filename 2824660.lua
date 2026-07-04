@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Old School Rally
 addappid(2824660)
--- setManifestid(228990,"1829726630299308803")
-addappid(2824661,0,"60f3ee3e365512571665fdfec50bd3b1c8f2d4e4fb747a610b4a9b6e83aea870")
--- setManifestid(2824661,"6424070553282388790")
+addappid(2824661, 1, "60f3ee3e365512571665fdfec50bd3b1c8f2d4e4fb747a610b4a9b6e83aea870")

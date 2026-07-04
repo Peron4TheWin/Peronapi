@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Airborne Empire
 addappid(2438680)
-addappid(2438681,0,"b7a82611f534e7ff628612421bf94d88ea2921ab8ccc5a9f27943b17e85c3092")
--- setManifestid(2438681,"5797179387471197759")
+addappid(2438681, 1, "b7a82611f534e7ff628612421bf94d88ea2921ab8ccc5a9f27943b17e85c3092")

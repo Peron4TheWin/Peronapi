@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vampire Fable Demo
 addappid(3163300)
-addappid(3163301,0,"b6f317cf751c06b5d8a0d69a646a6afbd5c2eb11b2d0ca8ddc0d6a256d6ffd08")
+addappid(3163301, 1, "b6f317cf751c06b5d8a0d69a646a6afbd5c2eb11b2d0ca8ddc0d6a256d6ffd08")

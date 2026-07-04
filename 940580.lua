@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: FIA European Truck Racing Championship
 addappid(940580)
--- setManifestid(228984,"2547553897526095397")
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(940581,0,"5c7cc0b84571bed28199c9ebdeffb43d0f7907f522da74793b3b7e2986bc4a6e")
--- setManifestid(940581,"523613132428680936")
+addappid(940581, 1, "5c7cc0b84571bed28199c9ebdeffb43d0f7907f522da74793b3b7e2986bc4a6e")
+addappid(1075460)

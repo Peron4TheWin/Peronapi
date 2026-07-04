@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zork Anthology
 addappid(570580)
-addappid(570581,0,"906be1b8edafbc47ba23f71d47ee595617536108e84c36e23986ef5382c48e59")
--- setManifestid(570581,"8519076846131402632")
+addappid(570581, 1, "906be1b8edafbc47ba23f71d47ee595617536108e84c36e23986ef5382c48e59")

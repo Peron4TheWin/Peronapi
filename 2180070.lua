@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dead on Arrival: Remastered
 addappid(2180070)
-addappid(2180071,0,"167baace95d240bd5bc54231f538dba0efae380b95ee5b48a3b71f370084de26")
--- setManifestid(2180071,"1266594416590554218")
+addappid(2180071, 1, "167baace95d240bd5bc54231f538dba0efae380b95ee5b48a3b71f370084de26")

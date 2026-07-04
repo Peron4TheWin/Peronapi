@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SquadBlast
 addappid(2080820)
-addappid(2080821,0,"ca95931cd0f589fc6ef98def6a4b3796e8b0a117477fe3c55a1ef86377a018bc")
--- setManifestid(2080821,"5124706598834831324")
+addappid(2080821, 1, "ca95931cd0f589fc6ef98def6a4b3796e8b0a117477fe3c55a1ef86377a018bc")

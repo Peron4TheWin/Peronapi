@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Naxos
 addappid(1978790)
-addappid(1978791,0,"10f912f0a69421040ef3d99fc42c49dea0aea8672cfc8cea38de8f3bf9ad9e96")
--- setManifestid(1978791,"2192144547542176527")
+addappid(1978791, 1, "10f912f0a69421040ef3d99fc42c49dea0aea8672cfc8cea38de8f3bf9ad9e96")

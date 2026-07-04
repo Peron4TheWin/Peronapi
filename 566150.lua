@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bowling at the Lake
 addappid(566150)
-addappid(566151,0,"24fba60c124ba1e08814f226c88379b5095c119a92fe621b57e2f69fbb796371")
--- setManifestid(566151,"903654742995921515")
+addappid(566151, 1, "24fba60c124ba1e08814f226c88379b5095c119a92fe621b57e2f69fbb796371")

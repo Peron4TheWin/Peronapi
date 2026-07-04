@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Image2pixel-PixelArtGenerator
 addappid(3475120)
-addappid(3475121,0,"0358dbc41c51fbb9da961b3c6469acf91a09f6a8c21e48c7da4ed89c6004c6f9")
--- setManifestid(3475121,"3175142613875359776")
+addappid(3475121, 1, "0358dbc41c51fbb9da961b3c6469acf91a09f6a8c21e48c7da4ed89c6004c6f9")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bigfield 2042
 addappid(1902120)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1902121,0,"76b1f3d449f17d6cf481eef6be5afb8db9960afa49b1c9f725209f40ec578f85")
--- setManifestid(1902121,"2525806259236463069")
+addappid(1902121, 1, "76b1f3d449f17d6cf481eef6be5afb8db9960afa49b1c9f725209f40ec578f85")

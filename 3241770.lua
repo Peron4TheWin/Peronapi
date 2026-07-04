@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Novice Dungeon Master Demo
 addappid(3241770)
-addappid(3241771,0,"4d3bbc3a9d5c5936063f5a048352991a833cce77bd1d264de559add28f78b394")
--- setManifestid(3241771,"7049158980773340517")
+addappid(3241771, 1, "4d3bbc3a9d5c5936063f5a048352991a833cce77bd1d264de559add28f78b394")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Figure Workshop2
 addappid(2610250)
-addappid(2610251,0,"084c3c36a7f6e918b73ff734e3be5cc566568dd71fcb8fac8ca8666472eedd01")
--- setManifestid(2610251,"4719798975971546722")
+addappid(2610251, 1, "084c3c36a7f6e918b73ff734e3be5cc566568dd71fcb8fac8ca8666472eedd01")

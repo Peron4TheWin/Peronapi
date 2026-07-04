@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pandemic Train Demo
 addappid(1868230)
-addappid(1868231,0,"dbdecc5088dda20342b6337c1f60cedca13b667eebd58aaba36cf1c2e8d27bd5")
--- setManifestid(1868231,"7417994388752066585")
+addappid(1868231, 1, "dbdecc5088dda20342b6337c1f60cedca13b667eebd58aaba36cf1c2e8d27bd5")

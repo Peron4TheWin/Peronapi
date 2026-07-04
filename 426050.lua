@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGIE
 addappid(426050)
--- setManifestid(228983,"8124929965194586177")
-addappid(426051,0,"58070d6a51131ba5e203cbfd58081dffa8948d48487bfa42ee396e972f13c1c5")
--- setManifestid(426051,"8786020568580916099")
+addappid(426051, 1, "58070d6a51131ba5e203cbfd58081dffa8948d48487bfa42ee396e972f13c1c5")

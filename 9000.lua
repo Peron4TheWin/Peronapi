@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spear of Destiny
 addappid(9000)
-addappid(9001,0,"917efb7cf73066cb02d7e383dbbe1164a207e81b48282d9fb28c637ab1a5767e")
+addappid(9001, 1, "917efb7cf73066cb02d7e383dbbe1164a207e81b48282d9fb28c637ab1a5767e")

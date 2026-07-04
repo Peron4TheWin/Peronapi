@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infection Rate
 addappid(689030)
-addappid(689031,0,"2d86296a5da6d3f7c95c813396c7a85f005bc25104854467943aa595ef0ed32d")
--- setManifestid(689031,"1458977362714345535")
+addappid(689031, 1, "2d86296a5da6d3f7c95c813396c7a85f005bc25104854467943aa595ef0ed32d")

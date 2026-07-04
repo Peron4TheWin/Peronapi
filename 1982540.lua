@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The DioField Chronicle Digital Artbook
 addappid(1982540)
-addappid(1982541,0,"4b038b4b7396d05662b8d07c6d2327802f0bc26119e1fbf8c48a98dff5eac8b1")
+addappid(1982541, 1, "4b038b4b7396d05662b8d07c6d2327802f0bc26119e1fbf8c48a98dff5eac8b1")

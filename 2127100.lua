@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grappling Dash
 addappid(2127100)
-addappid(2127101,0,"723455a6a8c33cebcbd9cfba5d77345d1ee337e4c87e16f95b526bbd7161201a")
--- setManifestid(2127101,"5780084302420265835")
+addappid(2127101, 1, "723455a6a8c33cebcbd9cfba5d77345d1ee337e4c87e16f95b526bbd7161201a")

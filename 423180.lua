@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A.I. Space Corps
 addappid(423180)
-addappid(423181,0,"bb16c9e16dcd04f2ebe3d1b45eb50f36d0c54ada5e4bda286d70514909a86291")
--- setManifestid(423181,"6802105824271610620")
+addappid(423181, 1, "bb16c9e16dcd04f2ebe3d1b45eb50f36d0c54ada5e4bda286d70514909a86291")

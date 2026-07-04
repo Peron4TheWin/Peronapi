@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Killer
 addappid(3125830)
-addappid(3125831,0,"50b79b562cdedfcef808ab8c1ec01d1a67793e9626dd565c42982db1394dc054")
--- setManifestid(3125831,"875820947964732335")
+addappid(3125831, 1, "50b79b562cdedfcef808ab8c1ec01d1a67793e9626dd565c42982db1394dc054")

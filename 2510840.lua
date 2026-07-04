@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 Personality Pack Friendly and Slightly Naughty Woman DLX edition
 addappid(2510840)
-addappid(2510841,0,"0f061eb516521865925040782c20ee277bade66d5cb0341b80df952c385e4053")
--- setManifestid(2510841,"8043419181629611063")
+addappid(2510841, 1, "0f061eb516521865925040782c20ee277bade66d5cb0341b80df952c385e4053")

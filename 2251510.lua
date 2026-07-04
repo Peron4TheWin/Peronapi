@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sister Wish
 addappid(2251510)
-addappid(2251511,0,"ed80ef675380c4347e2c6c081f24ec66b7f832000a1cd0868fcdf0ef062273eb")
--- setManifestid(2251511,"2731400809899252040")
+addappid(2251511, 1, "ed80ef675380c4347e2c6c081f24ec66b7f832000a1cd0868fcdf0ef062273eb")

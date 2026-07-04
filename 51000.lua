@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery Case Files: Return to Ravenhearst™
 addappid(51000)
-addappid(51001,0,"2ea737d8d71783532b4eab47f42613e86d5cb1698f55f6171d764c1fbf8f5984")
--- setManifestid(51001,"190206192263792026")
+addappid(51001, 1, "2ea737d8d71783532b4eab47f42613e86d5cb1698f55f6171d764c1fbf8f5984")

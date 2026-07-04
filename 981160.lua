@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Woman's body
 addappid(981160)
-addappid(981161,0,"9d5576626b86c013c8b46f3337544faeb7949a6331ebdfe3b9545c9a0ab8a3d6")
--- setManifestid(981161,"1153257907575521015")
+addappid(981161, 1, "9d5576626b86c013c8b46f3337544faeb7949a6331ebdfe3b9545c9a0ab8a3d6")

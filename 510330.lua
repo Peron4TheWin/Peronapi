@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shotgun Raiders
 addappid(510330)
-addappid(510331,0,"d7ba3587cf81d96b529f2d54606319ff8e058d917d1645508aa509dc603bb2c4")
--- setManifestid(510331,"8578293309657391917")
+addappid(510331, 1, "d7ba3587cf81d96b529f2d54606319ff8e058d917d1645508aa509dc603bb2c4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 March Cats
 addappid(2845260)
-addappid(2845261,0,"039ef2c2b585e361aac0bcc3d7d81c15a1d9f8e7be02d47945a6905c98248af4")
--- setManifestid(2845261,"3545156386821724294")
+addappid(2845261, 1, "039ef2c2b585e361aac0bcc3d7d81c15a1d9f8e7be02d47945a6905c98248af4")

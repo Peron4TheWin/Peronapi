@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yasai Ninja
 addappid(372150)
-addappid(372151,0,"9e357fdd5f0e8369973c2a9a735e75d0ad5405a575d11c4a128bb69ea18063ca")
--- setManifestid(372151,"7687932558489946944")
+addappid(372151, 1, "9e357fdd5f0e8369973c2a9a735e75d0ad5405a575d11c4a128bb69ea18063ca")

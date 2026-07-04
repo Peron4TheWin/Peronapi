@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zero spring episode 1 English translation version
 addappid(951010)
-addappid(951011,0,"4c627dd0179e08a34d3bf0ea7dc1d26ec13f851f84f7db199736378b920f8d62")
--- setManifestid(951011,"6245091297046603935")
+addappid(951011, 1, "4c627dd0179e08a34d3bf0ea7dc1d26ec13f851f84f7db199736378b920f8d62")

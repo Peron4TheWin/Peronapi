@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hunt-or-Haunt
 addappid(1836920)
-addappid(1836921,0,"cfd0a7287a0cf986efc51b24ab5b2f639ee667b7fc3d27acdacee4fd30381e55")
--- setManifestid(1836921,"6655195291922865349")
+addappid(1836921, 1, "cfd0a7287a0cf986efc51b24ab5b2f639ee667b7fc3d27acdacee4fd30381e55")

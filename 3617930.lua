@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horror Tale 3: The Witch
 addappid(3617930)
-addappid(3617931,0,"203f99afbb35d4f0ec24b6d272b7f578112aef1037b7afd140a7d536ed9b2e22")
--- setManifestid(3617931,"252312111063068613")
+addappid(3617931, 1, "203f99afbb35d4f0ec24b6d272b7f578112aef1037b7afd140a7d536ed9b2e22")

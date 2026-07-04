@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Arter
 addappid(2136060)
-addappid(2136061,0,"bad544af25dc012c4ae8d3ce6cc2ffb2c28de78ea094d15a1a981d84238dca35")
--- setManifestid(2136061,"2243959480322736915")
+addappid(2136061, 1, "bad544af25dc012c4ae8d3ce6cc2ffb2c28de78ea094d15a1a981d84238dca35")

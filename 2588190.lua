@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Petty's Adventure: Volcano
 addappid(2588190)
-addappid(2588191,0,"9adfcbfdb11caa00106cb1f2774826e1e94e17ec78d5bc7b8da8870da9175255")
--- setManifestid(2588191,"2753081507321531942")
+addappid(2588191, 1, "9adfcbfdb11caa00106cb1f2774826e1e94e17ec78d5bc7b8da8870da9175255")

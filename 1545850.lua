@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tetragon
 addappid(1545850)
-addappid(1545851,0,"12fa68a837d2f1b91bc00a6a053612358f65758ba31a3b58e4a37f0b8af05a96")
--- setManifestid(1545851,"1367143464781581671")
+addappid(1545851, 1, "12fa68a837d2f1b91bc00a6a053612358f65758ba31a3b58e4a37f0b8af05a96")

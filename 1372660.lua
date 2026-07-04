@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: An Amazing Wizard
 addappid(1372660)
-addappid(1372661,0,"46b7f88c00efe708ee832d94d94b8df385f6452be162fccd9ec0fe8a191566e4")
--- setManifestid(1372661,"663877089726647308")
+addappid(1372661, 1, "46b7f88c00efe708ee832d94d94b8df385f6452be162fccd9ec0fe8a191566e4")

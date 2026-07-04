@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Basketball Club Story
 addappid(2102490)
-addappid(2102491,0,"72b7ed89ef6afa5ba8ff73661f89b1a861c4593b680adc5afde635003ef11068")
--- setManifestid(2102491,"5112241815056362621")
+addappid(2102491, 1, "72b7ed89ef6afa5ba8ff73661f89b1a861c4593b680adc5afde635003ef11068")

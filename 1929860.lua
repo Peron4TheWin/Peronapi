@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Virtue's Heaven
 addappid(1929860)
-addappid(1929861,0,"25e13d07ffdd125eb7c7f7d778e46ee37ffaf54ef5ce797a5f9c55dafa3a2094")
--- setManifestid(1929861,"2919605063198285318")
+addappid(1929861, 1, "25e13d07ffdd125eb7c7f7d778e46ee37ffaf54ef5ce797a5f9c55dafa3a2094")

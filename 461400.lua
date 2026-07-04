@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Massive
 addappid(461400)
-addappid(461401,0,"bbcf2164e66e3718197bcc5af8ec7ce28b5d11bc9aec8ae271945f57e09e1419")
--- setManifestid(461401,"7568217307037356651")
+addappid(461401, 1, "bbcf2164e66e3718197bcc5af8ec7ce28b5d11bc9aec8ae271945f57e09e1419")
 addappid(568590)

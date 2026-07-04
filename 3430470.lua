@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PLATiNA :: LAB
 addappid(3430470)
-addappid(3430471,0,"7f478c739cf9e5b4ccacc2527b6ad86e4bbfc13453783e9bf5db05fd5f371673")
--- setManifestid(3430471,"8756833846835852240")
+addappid(3430471, 1, "7f478c739cf9e5b4ccacc2527b6ad86e4bbfc13453783e9bf5db05fd5f371673")

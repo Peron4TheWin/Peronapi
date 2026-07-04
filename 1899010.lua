@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Sych story: Human Being
 addappid(1899010)
-addappid(1899011,0,"4a1e2618a076156ae6ebd29d5345c0429c968faf3f5905efd69fa850c49968ea")
--- setManifestid(1899011,"4381599715026567179")
+addappid(1899011, 1, "4a1e2618a076156ae6ebd29d5345c0429c968faf3f5905efd69fa850c49968ea")

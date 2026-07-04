@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Critter Cove
 addappid(1631470)
-addappid(1631471,0,"8b00ecf62bfe27a6bcabe7faf4de530264e9a53e43636774ef84f6d091c750d9")
---setManifestid(1631471,"1112865297574658722")
+addappid(1631471, 1, "8b00ecf62bfe27a6bcabe7faf4de530264e9a53e43636774ef84f6d091c750d9")

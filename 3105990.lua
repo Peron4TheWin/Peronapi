@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Territory of Egg 2 Demo
 addappid(3105990)
-addappid(3105991,0,"bacdad7bfa227bf39a14011665e13f2cf2526f6ee4ded04e7e9445c8d25e1af2")
--- setManifestid(3105991,"3404731434908262850")
+addappid(3105991, 1, "bacdad7bfa227bf39a14011665e13f2cf2526f6ee4ded04e7e9445c8d25e1af2")

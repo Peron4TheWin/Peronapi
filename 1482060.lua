@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lands Of Peace: Legends - Chapter 1
 addappid(1482060)
-addappid(1482061,0,"0a5264ec1f5573b826a5d3d20f6a4daa70d5d4d3adc65c976748216c02c35cb8")
--- setManifestid(1482061,"1672158902395030129")
+addappid(1482061, 1, "0a5264ec1f5573b826a5d3d20f6a4daa70d5d4d3adc65c976748216c02c35cb8")

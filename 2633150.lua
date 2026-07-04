@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Sophia's Spa
 addappid(2633150)
-addappid(2633151,0,"df4ec19abd627d4e3e497ab38fe46e8224090a3f5c076ed9c5f2c616e7ed8b09")
--- setManifestid(2633151,"1615938124755878946")
+addappid(2633151, 1, "df4ec19abd627d4e3e497ab38fe46e8224090a3f5c076ed9c5f2c616e7ed8b09")
+addappid(2778720)

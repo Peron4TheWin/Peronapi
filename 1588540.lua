@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Special Force Legion of Monsters
 addappid(1588540)
-addappid(1588541,0,"e86ec832dd18cdeef69b912a57d46b204a18d06b011f52b0480a10e235764fc0")
--- setManifestid(1588541,"2867269102733976108")
+addappid(1588541, 1, "e86ec832dd18cdeef69b912a57d46b204a18d06b011f52b0480a10e235764fc0")

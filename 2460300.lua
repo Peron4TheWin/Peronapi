@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Scholar's Mate Demo
 addappid(2460300)
-addappid(2460301,0,"8132a21000d9a4493f03e2afee2e2f4f2d3d004bf28c19ee8d608521dda414a8")
--- setManifestid(2460301,"5877765246542233840")
+addappid(2460301, 1, "8132a21000d9a4493f03e2afee2e2f4f2d3d004bf28c19ee8d608521dda414a8")

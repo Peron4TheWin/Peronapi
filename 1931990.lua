@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sunrise's Order
 addappid(1931990)
-addappid(1931991,0,"52df1b9e0ee6a89af80f10670a3b859a0d2408e96c5af860f13dcec23f7e15ff")
--- setManifestid(1931991,"1255393709372330364")
+addappid(1931991, 1, "52df1b9e0ee6a89af80f10670a3b859a0d2408e96c5af860f13dcec23f7e15ff")

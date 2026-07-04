@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Archery Blast
 addappid(806470)
-addappid(806471,0,"31c54f67a92a9bf8a848bcb68a4ac1e7d468f54ecfb5995c6987a17f3c307e5f")
--- setManifestid(806471,"7337245270295033577")
+addappid(806471, 1, "31c54f67a92a9bf8a848bcb68a4ac1e7d468f54ecfb5995c6987a17f3c307e5f")

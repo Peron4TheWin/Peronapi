@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: City Bus Simulator 2024
 addappid(2964300)
-addappid(2964301,0,"2881b5eb149171d1043d38d0e97e51502b11f41b8a718a87b5ead30fe88595bd")
--- setManifestid(2964301,"6077119011140971447")
+addappid(2964301, 1, "2881b5eb149171d1043d38d0e97e51502b11f41b8a718a87b5ead30fe88595bd")

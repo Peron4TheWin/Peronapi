@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot“Sento Girls”and love
 addappid(1934180)
--- setManifestid(228990,"1829726630299308803")
-addappid(1934181,0,"84e0f0803b22659b3a8a3008515e9ea948c519e6a1357acbd03afdfb6992b613")
--- setManifestid(1934181,"418516182087841947")
+addappid(1934181, 1, "84e0f0803b22659b3a8a3008515e9ea948c519e6a1357acbd03afdfb6992b613")

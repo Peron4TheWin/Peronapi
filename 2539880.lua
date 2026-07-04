@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: C.A.R.D.S. RPG: The Misty Battlefield
 addappid(2539880)
-addappid(2539881,0,"0d5e6f6f300cd9d10877064931ee2e463c429b55a6a185ee84653872b87b13ee")
--- setManifestid(2539881,"314830641240055548")
+addappid(2539881, 1, "0d5e6f6f300cd9d10877064931ee2e463c429b55a6a185ee84653872b87b13ee")

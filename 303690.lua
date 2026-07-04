@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FATE: The Cursed King
 addappid(303690)
-addappid(303691,0,"6bda836a4049a4512f2a905e3adecfd871b2fa4cf8a80686233bc37e6d92f055")
--- setManifestid(303691,"3298597376478429928")
+addappid(303691, 1, "6bda836a4049a4512f2a905e3adecfd871b2fa4cf8a80686233bc37e6d92f055")

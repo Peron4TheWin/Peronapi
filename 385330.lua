@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stray Cat Crossing
 addappid(385330)
-addappid(385331,0,"60be3b7f461e29387175a79bbf860835f868e44873f231c9d75bf8f01ebde1d0")
--- setManifestid(385331,"8302869359995827840")
+addappid(385331, 1, "60be3b7f461e29387175a79bbf860835f868e44873f231c9d75bf8f01ebde1d0")

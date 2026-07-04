@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Power Punch - Healthy Workout Edition
 addappid(2591030)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(2591031,0,"8c44eb404a7be69e8ac9c49c6090a43596a99cfc0c64b9e9f03166e4a835299b")
--- setManifestid(2591031,"8954729894522408403")
+addappid(2591031, 1, "8c44eb404a7be69e8ac9c49c6090a43596a99cfc0c64b9e9f03166e4a835299b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loading Simulator
 addappid(2458580)
-addappid(2458581,0,"774df34975318d782c5891f7071e78233015ceb78179d8b9a4dae522f1e6bfe6")
--- setManifestid(2458581,"593687755864058543")
+addappid(2458581, 1, "774df34975318d782c5891f7071e78233015ceb78179d8b9a4dae522f1e6bfe6")

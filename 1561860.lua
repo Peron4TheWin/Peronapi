@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Marble Muse Arcade
 addappid(1561860)
-addappid(1561861,0,"226f8af39ac0de351c3aeaa328a3987b4e2de6096ba31c8e44ab0d05631a83a6")
--- setManifestid(1561861,"1385328812757389289")
+addappid(1561861, 1, "226f8af39ac0de351c3aeaa328a3987b4e2de6096ba31c8e44ab0d05631a83a6")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AURA: Hentai Cards
 addappid(2440200)
-addappid(2440201,0,"6dbc7e13591d109bd45665429c0863f0f95df37f15196a6ee1668330bb03de29")
+addappid(2440201, 1, "6dbc7e13591d109bd45665429c0863f0f95df37f15196a6ee1668330bb03de29")

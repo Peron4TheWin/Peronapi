@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Hospital 1
 addappid(2947730)
-addappid(2947731,0,"7a6533bab1bb9c4fe4e1ad140a307140885414f5500f3c49f80669e90174fb9e")
--- setManifestid(2947731,"2217547483021233437")
+addappid(2947731, 1, "7a6533bab1bb9c4fe4e1ad140a307140885414f5500f3c49f80669e90174fb9e")

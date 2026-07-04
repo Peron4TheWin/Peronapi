@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ButtKnight
 addappid(2772820)
-addappid(2772821,0,"427bebee696a57c77abdb7f7c291fe1f99efc82922c0ba9b154fd7cb9a2b4e78")
--- setManifestid(2772821,"817418713483232241")
+addappid(2772821, 1, "d9cb8cd6f940a0c4f850fd34e68dfe7ff611d4882b9b00dc6815275894e476e2")

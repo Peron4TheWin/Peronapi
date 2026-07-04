@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mari and Bayu - The Road Home
 addappid(1725350)
-addappid(1725351,0,"0a68c9554cd30d4ee2a4729674d7b6164cf7f481a4cf3fa045a6e5ff429e22b9")
+addappid(1725351, 1, "0a68c9554cd30d4ee2a4729674d7b6164cf7f481a4cf3fa045a6e5ff429e22b9")

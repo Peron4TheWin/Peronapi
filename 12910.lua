@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AudioSurf Demo
 addappid(12910)
-addappid(12902)
--- setManifestid(12902,"6492096213265145551")
-addappid(12911,0,"7aa16b1a0eb161d33ae0bb784e59274ea65865b6d46ac7c38955cd6d7b745204")
+addappid(12911, 1, "7aa16b1a0eb161d33ae0bb784e59274ea65865b6d46ac7c38955cd6d7b745204")

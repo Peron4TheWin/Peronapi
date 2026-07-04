@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Another Farm Roguelike
 addappid(2116850)
-addappid(2116851,0,"12bcd296c9979cdbe33581add5e36b3c3a29d1faeba1ca809bcd1fa4eb4729e8")
--- setManifestid(2116851,"9193782184635005093")
+addappid(2116851, 1, "12bcd296c9979cdbe33581add5e36b3c3a29d1faeba1ca809bcd1fa4eb4729e8")

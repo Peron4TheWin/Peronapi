@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stagelands – eternal defense
 addappid(2595880)
-addappid(2595881,0,"40c30b4736dc8db4e7b20762beda63e6494c721df918c186515e1ef497022e83")
--- setManifestid(2595881,"5705934978263189605")
+addappid(2595881, 1, "40c30b4736dc8db4e7b20762beda63e6494c721df918c186515e1ef497022e83")

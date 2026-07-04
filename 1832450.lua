@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Happy's Humble Burger Farm: Obscura Programming (OST)
 addappid(1832450)
-addappid(1832451,0,"a03d23cda0bcded2e25af85afa6eb1b5cb291203d51184262e6c14b723e312a5")
--- setManifestid(1832451,"4428940870772762546")
+addappid(1832451, 1, "a03d23cda0bcded2e25af85afa6eb1b5cb291203d51184262e6c14b723e312a5")

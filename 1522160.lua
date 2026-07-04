@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Disney Epic Mickey: Rebrushed
 addappid(1522160)
-addappid(1522161,0,"30d26b038623eaef752b3ad6c9d1bc8e9bdf859f7f802d5ca54923011edc369c")
--- setManifestid(1522161,"4220722103960183356")
+addappid(1522161, 1, "30d26b038623eaef752b3ad6c9d1bc8e9bdf859f7f802d5ca54923011edc369c")
+addappid(2791920)

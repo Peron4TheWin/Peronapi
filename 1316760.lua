@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suicide Guy VR
 addappid(1316760)
-addappid(1316761,0,"3556f1aaaf9f4a19d7e0c8e48e54a89d62ae45bd2b3443ec181b6b1b5019a27f")
+addappid(1316761, 1, "3556f1aaaf9f4a19d7e0c8e48e54a89d62ae45bd2b3443ec181b6b1b5019a27f")

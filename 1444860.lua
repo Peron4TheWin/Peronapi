@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waifu Love
 addappid(1444860)
-addappid(1444861,0,"b488b785a663f7fb9036cf131eeee96193621fa85f4f45fb84b4de2258f76f7a")
--- setManifestid(1444861,"1028742619329843385")
+addappid(1444861, 1, "b488b785a663f7fb9036cf131eeee96193621fa85f4f45fb84b4de2258f76f7a")

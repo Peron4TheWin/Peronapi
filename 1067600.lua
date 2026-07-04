@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Defender: Farm and Castle
 addappid(1067600)
-addappid(1067601,0,"a7719803af162232b4949659503b06a184bc5b4049aab8172be8c0fe7ec02886")
--- setManifestid(1067601,"5020402572574425788")
+addappid(1067601, 1, "a7719803af162232b4949659503b06a184bc5b4049aab8172be8c0fe7ec02886")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Darkest Abyss Demo
 addappid(2638090)
-addappid(2638091,0,"0171f043133037c89012864d3fe275455700d4f56cec2fff807a81dad851aaa2")
--- setManifestid(2638091,"7598358873523252640")
+addappid(2638091, 1, "0171f043133037c89012864d3fe275455700d4f56cec2fff807a81dad851aaa2")

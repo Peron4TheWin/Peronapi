@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suspense: Madman's Dreams
 addappid(3395810)
-addappid(3395811,0,"ad7cb6027f7abd27e0d6dd021d552a1122316ee1e1899127ae8b9d76bbbe79d8")
+addappid(3395811, 1, "ad7cb6027f7abd27e0d6dd021d552a1122316ee1e1899127ae8b9d76bbbe79d8")

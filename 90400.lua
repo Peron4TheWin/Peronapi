@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blue Toad Murder Files™: The Mysteries of Little Riddle
 addappid(90400)
-addappid(90401,0,"3e398af776efa6a9c411e306bbd4e46c4d5cd0b1ec97adc2a925aad4ab04bb1f")
--- setManifestid(90401,"5041752283220729239")
+addappid(90401, 1, "3e398af776efa6a9c411e306bbd4e46c4d5cd0b1ec97adc2a925aad4ab04bb1f")

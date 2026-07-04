@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Golf VS Zombies
 addappid(2330380)
-addappid(2330381,0,"5d3dc918faa775f8c28d7fcee6efe82fc0c74f5de3f3faed6053827408fb4250")
--- setManifestid(2330381,"4746187629882425641")
+addappid(2330381, 1, "5d3dc918faa775f8c28d7fcee6efe82fc0c74f5de3f3faed6053827408fb4250")

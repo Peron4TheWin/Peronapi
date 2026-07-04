@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stick to the Plan
 addappid(2334280)
-addappid(2334281,0,"586a9a6525da2a8d779f166889ecc95dcb7a431471b6b35de23f33991b27119f")
--- setManifestid(2334281,"3170190820680091767")
+addappid(2334281, 1, "586a9a6525da2a8d779f166889ecc95dcb7a431471b6b35de23f33991b27119f")

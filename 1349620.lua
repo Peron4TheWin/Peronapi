@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Humans V Zombies
 addappid(1349620)
-addappid(1349621,0,"bed9f674cc0ebf765714ef70f2fc713da1d3e691dad0fc2f8a6b6a6c72e27be6")
--- setManifestid(1349621,"1100301103020375697")
+addappid(1349621, 1, "bed9f674cc0ebf765714ef70f2fc713da1d3e691dad0fc2f8a6b6a6c72e27be6")

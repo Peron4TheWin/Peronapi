@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mineirinho Shooter DC
 addappid(1212450)
-addappid(1212451,0,"60671adeccd3031374859e2b4077009d8a6688ebc7c0e35321a871238a1d69da")
--- setManifestid(1212451,"7332845595994375117")
+addappid(1212451, 1, "60671adeccd3031374859e2b4077009d8a6688ebc7c0e35321a871238a1d69da")

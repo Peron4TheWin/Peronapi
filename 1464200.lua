@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Divine Stone
 addappid(1464200)
-addappid(1464201,0,"e1447768de804375becc972fbc56fd60af0f8b58d33a5d49865029efd4439f95")
--- setManifestid(1464201,"2706400795515954254")
+addappid(1464201, 1, "e1447768de804375becc972fbc56fd60af0f8b58d33a5d49865029efd4439f95")

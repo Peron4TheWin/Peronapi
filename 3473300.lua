@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 Unhealthily Obsessed Yamato Nadeshiko GP-01Fb
 addappid(3473300)
-addappid(3473301,0,"aa63b1ccbdfa293fa83e026e0f2fe1631556c0a2c81daa192429a3f73cc052aa")
--- setManifestid(3473301,"9081614055868514547")
+addappid(3473301, 1, "aa63b1ccbdfa293fa83e026e0f2fe1631556c0a2c81daa192429a3f73cc052aa")

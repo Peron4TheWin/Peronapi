@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Halloween Puzzles
 addappid(968580)
-addappid(968581,0,"50feb4e8904848585b3bfeb9b56ce84aad88171b4ac7ea601a7bb9af38170f98")
--- setManifestid(968581,"4803932267945102840")
+addappid(968581, 1, "50feb4e8904848585b3bfeb9b56ce84aad88171b4ac7ea601a7bb9af38170f98")

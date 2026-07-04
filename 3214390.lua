@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stranger Watch
 addappid(3214390)
-addappid(3214391,0,"c58959ae12d2231cd17124adec34e19be3ca6b39893a5bacc8c43358868caec2")
--- setManifestid(3214391,"5571788005531068657")
+addappid(3214391, 1, "c58959ae12d2231cd17124adec34e19be3ca6b39893a5bacc8c43358868caec2")

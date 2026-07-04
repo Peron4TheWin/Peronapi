@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GUILTY GEAR XX ACCENT CORE PLUS R
 addappid(348550)
--- setManifestid(228990,"1829726630299308803")
-addappid(348551,0,"bc81a7470b9eafaa17162700c9a15e00de6d5dc6c2c23da102e1df775d9ff4fd")
--- setManifestid(348551,"1223933371542642931")
+addappid(348551, 1, "bc81a7470b9eafaa17162700c9a15e00de6d5dc6c2c23da102e1df775d9ff4fd")

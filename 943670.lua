@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Contraverse
 addappid(943670)
-addappid(943671,0,"a4077080e8fe5f923a899533beaa54e949f15890956fa17a3b3c3aa534d6d5b4")
--- setManifestid(943671,"5726962072158343184")
+addappid(943671, 1, "a4077080e8fe5f923a899533beaa54e949f15890956fa17a3b3c3aa534d6d5b4")

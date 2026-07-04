@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 逐光之旅 Lumione Soundtrack
 addappid(1752380)
-addappid(1752381,0,"8204afab7f360eb8cd76412d82ae44fab76b5b3677ee0ac7cb58971e23375d7a")
--- setManifestid(1752381,"5777552835785411952")
+addappid(1752381, 1, "8204afab7f360eb8cd76412d82ae44fab76b5b3677ee0ac7cb58971e23375d7a")

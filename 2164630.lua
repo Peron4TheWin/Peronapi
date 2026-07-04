@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Breathe With You
 addappid(2164630)
-addappid(2164631,0,"856d957d7887498eb0f3384e33676bea8a0119f37e62e64eb159d172f91fe662")
--- setManifestid(2164631,"1929191910862685024")
+addappid(2164631, 1, "856d957d7887498eb0f3384e33676bea8a0119f37e62e64eb159d172f91fe662")
+addappid(2533110)

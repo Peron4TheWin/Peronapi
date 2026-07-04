@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warplane inc.
+addappid(1578250)
+addappid(1578251, 1, "121041ba571b82d754ec11584b2f0264f288fb218232020b53827c2e72f2c76e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guardians of Eden OST
 addappid(2770440)
-addappid(2770441,0,"ec2da21fb0d0a49f000e3828ff9a74a629f0b46d99d762b69541c3a8c6cabb79")
--- setManifestid(2770441,"5095898922218160429")
+addappid(2770441, 1, "ec2da21fb0d0a49f000e3828ff9a74a629f0b46d99d762b69541c3a8c6cabb79")

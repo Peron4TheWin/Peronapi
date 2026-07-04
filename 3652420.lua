@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: War of Reproduction: Evolution
 addappid(3652420)
-addappid(3652421,0,"feed75f8566c2c805a90b859b83d8cbbc131e3fa62e5baadd0f4b9cf3ea20757")
--- setManifestid(3652421,"5079158442464999986")
+addappid(3652421, 1, "feed75f8566c2c805a90b859b83d8cbbc131e3fa62e5baadd0f4b9cf3ea20757")

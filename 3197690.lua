@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Three Skies Ascension
 addappid(3197690)
-addappid(3197691,0,"fb43e7acb7bb362d55dfbc3d674b67536a5280ae11702b778efc5c22036a2d24")
--- setManifestid(3197691,"3501715727172713224")
+addappid(3197691, 1, "fb43e7acb7bb362d55dfbc3d674b67536a5280ae11702b778efc5c22036a2d24")

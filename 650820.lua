@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Psychic Isolation Episode 1
 addappid(650820)
-addappid(650821,0,"b4edf9d0344bf4e7c5b4683cce48082c573a716a868dc20e3e96f62b67325888")
--- setManifestid(650821,"2929582133394948398")
+addappid(650821, 1, "b4edf9d0344bf4e7c5b4683cce48082c573a716a868dc20e3e96f62b67325888")

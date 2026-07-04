@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster In The Dark
+addappid(1573710)
+addappid(1573711, 1, "0057a7736e3037445e962c7c274bde687fa8a05e5c0a26ef790fcc9481143077")

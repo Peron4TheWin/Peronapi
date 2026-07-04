@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Board Wars - Trick Or Treat Playtest
 addappid(3072330)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3072331,0,"5bac3e4df9dddfba7bbeee94d04a1c0244a094a20d30ce372f13f057cc5e0673")
+addappid(3072331, 1, "5bac3e4df9dddfba7bbeee94d04a1c0244a094a20d30ce372f13f057cc5e0673")

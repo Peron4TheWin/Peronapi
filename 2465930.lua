@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vaporwave Pinball
 addappid(2465930)
-addappid(2465931,0,"cddfaac5138100b073672839e7dd2b7925a1524e6767ed7f1746d36e9c098b16")
--- setManifestid(2465931,"6477804418113895465")
+addappid(2465931, 1, "cddfaac5138100b073672839e7dd2b7925a1524e6767ed7f1746d36e9c098b16")

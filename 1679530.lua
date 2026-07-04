@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SYDE Rugby League Simulator
 addappid(1679530)
--- setManifestid(228988,"6645201662696499616")
-addappid(1679531,0,"cc4b190563907aea6d26d1811b2f56ccfcd6047e0a7e2192dbe9d76afd9fe317")
--- setManifestid(1679531,"6054544266008500037")
+addappid(1679531, 1, "cc4b190563907aea6d26d1811b2f56ccfcd6047e0a7e2192dbe9d76afd9fe317")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waifu Covered 2: Censored Edition
 addappid(1671400)
-addappid(1671401,0,"accbf9bd146bf29bb42e51f80ff416bde92a225e47061c7d2557668ab0b700ed")
--- setManifestid(1671401,"1545537775463777955")
+addappid(1671401, 1, "accbf9bd146bf29bb42e51f80ff416bde92a225e47061c7d2557668ab0b700ed")

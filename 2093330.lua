@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Party Bunch
 addappid(2093330)
-addappid(2093331,0,"3b732c9162cd1d2c9b330f282b07794652fd726e2bfd8f1cb9cfd93bc5601c5d")
--- setManifestid(2093331,"228685315108631254")
+addappid(2093331, 1, "3b732c9162cd1d2c9b330f282b07794652fd726e2bfd8f1cb9cfd93bc5601c5d")
+addappid(2129590)

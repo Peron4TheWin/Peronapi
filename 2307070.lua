@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 探偵・癸生川凌介事件譚 Vol.3「死者の楽園」
 addappid(2307070)
-addappid(2307071,0,"888772df93e77d66636ce5fd460e65889eab273b9fdf9d5b70a553a4e5219be2")
--- setManifestid(2307071,"2336476946119598859")
+addappid(2307071, 1, "888772df93e77d66636ce5fd460e65889eab273b9fdf9d5b70a553a4e5219be2")

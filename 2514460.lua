@@ -1,9 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: GUARDS!
 addappid(2514460)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228989)
---setManifestid(228989,"1332597174812030948")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(2514461,0,"d7ad238adaaa7cea38e98b320fb49c8b87ee3c12fa7c6211f25fef753208aa5e")
---setManifestid(2514461,"4526826381830314599")
+addappid(2514461, 1, "d7ad238adaaa7cea38e98b320fb49c8b87ee3c12fa7c6211f25fef753208aa5e")
+addappid(2665430, 0, "cde5e17841e4cac008e8bc08d32c115ec186259ca363702442612d92edbd1f23")

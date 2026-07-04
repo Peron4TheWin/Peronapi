@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Puzzle Adventure VR
 addappid(2794140)
-addappid(2794141,0,"6d11dae608357aa999ff0d5fb2e186289dc88a4fec3612c3d40fd3c2eb140a6e")
+addappid(2794141, 1, "6d11dae608357aa999ff0d5fb2e186289dc88a4fec3612c3d40fd3c2eb140a6e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Apartment No 129
 addappid(2895340)
-addappid(2895341,0,"68c33779a985d189ed97eb4a6c57a3366d47c7ec271b5745fd4ea91b0533a58a")
--- setManifestid(2895341,"3844993772673551380")
+addappid(2895341, 1, "68c33779a985d189ed97eb4a6c57a3366d47c7ec271b5745fd4ea91b0533a58a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Duels of Fortune
 addappid(2371130)
-addappid(2371131,0,"9fa429be135ef766077096ef93b94eebb94c41c82c522f990a734e328d452a6a")
--- setManifestid(2371131,"8979569507084658277")
+addappid(2371131, 1, "9fa429be135ef766077096ef93b94eebb94c41c82c522f990a734e328d452a6a")

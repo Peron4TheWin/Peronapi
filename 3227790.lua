@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Uncultured
 addappid(3227790)
-addappid(3227791,0,"5d1bfd7a5e4818a9db464b5ff33f680721597310f5ddbcca56499c3d5041938a")
--- setManifestid(3227791,"2093105859479256700")
+addappid(3227791, 1, "5d1bfd7a5e4818a9db464b5ff33f680721597310f5ddbcca56499c3d5041938a")

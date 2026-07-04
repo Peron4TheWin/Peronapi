@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Professor Watts Word Search: Yummy Foods
 addappid(884440)
-addappid(884441,0,"c6c0a08c813d29620ccd401e79187309b837f073ce2c5603fb401d41d4dbfc77")
--- setManifestid(884441,"7575693334876480314")
+addappid(884441, 1, "c6c0a08c813d29620ccd401e79187309b837f073ce2c5603fb401d41d4dbfc77")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aozora Meikyuu
 addappid(427980)
-addappid(427981,0,"86153a66aed5507180b77cb451705fc4ee178aea2532a2198e4556ee59f15ca8")
--- setManifestid(427981,"6040181670179955293")
+addappid(427981, 1, "86153a66aed5507180b77cb451705fc4ee178aea2532a2198e4556ee59f15ca8")

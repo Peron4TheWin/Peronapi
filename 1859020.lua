@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Porcelain Tales
 addappid(1859020)
-addappid(1859021,0,"e80b1a0f961e1edc1742749c2de4a90052079b432ace860f79902e043e23e042")
+addappid(1859021, 1, "e80b1a0f961e1edc1742749c2de4a90052079b432ace860f79902e043e23e042")

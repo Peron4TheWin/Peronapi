@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RC Airplane Challenge
 addappid(1516610)
-addappid(1516611,0,"0ddb914e25cfa22a7bd277540da52408663b19804c5d662f9a0661a3f9a1995c")
--- setManifestid(1516611,"39576934750960228")
+addappid(1516611, 1, "0ddb914e25cfa22a7bd277540da52408663b19804c5d662f9a0661a3f9a1995c")

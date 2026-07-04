@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dabado Puzzles
 addappid(1618340)
-addappid(1618341,0,"473ed56093b5d2fcfbf97853c124b8f1209ede1efb9f2297be4eecbe0aac6134")
--- setManifestid(1618341,"5480693258591712504")
+addappid(1618341, 1, "473ed56093b5d2fcfbf97853c124b8f1209ede1efb9f2297be4eecbe0aac6134")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I will make you scared of this Red Box.
 addappid(2549940)
-addappid(2549941,0,"987427af9395ee37d0f81840098309a904bb162e902923e4649a121e576ba734")
--- setManifestid(2549941,"2181947864952971863")
+addappid(2549941, 1, "987427af9395ee37d0f81840098309a904bb162e902923e4649a121e576ba734")

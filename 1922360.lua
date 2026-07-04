@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SCALEPLANET
 addappid(1922360)
-addappid(1922361,0,"a95113818d1fa6d05ce75237b43e911c79a0d9f49b9d51ca3df3c5f24c8970e0")
--- setManifestid(1922361,"1225990129633667123")
+addappid(1922361, 1, "a95113818d1fa6d05ce75237b43e911c79a0d9f49b9d51ca3df3c5f24c8970e0")

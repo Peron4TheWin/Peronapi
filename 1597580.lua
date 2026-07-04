@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clid The Snail
 addappid(1597580)
-addappid(1597581,0,"7f248ebb0c181144622f672b8dca5a8dc07b6b0a68c11d23733f6c96aedebfe8")
--- setManifestid(1597581,"3544065956861858780")
+addappid(1597581, 1, "7f248ebb0c181144622f672b8dca5a8dc07b6b0a68c11d23733f6c96aedebfe8")

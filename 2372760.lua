@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eternal Roadster
 addappid(2372760)
-addappid(2372761,0,"083bdad993f5dd5e3cce67c43a30d993bffbae71ca4ede592c9d4e186736eef4")
--- setManifestid(2372761,"5566559246356385566")
+addappid(2372761, 1, "083bdad993f5dd5e3cce67c43a30d993bffbae71ca4ede592c9d4e186736eef4")

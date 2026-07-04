@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trivia Vault: Mini Mixed Trivia 2
 addappid(706330)
-addappid(706331,0,"d16e71436dc3093703050e92ac2382216dff6dd8ed2b9f6719a7c49c9bd82faf")
--- setManifestid(706331,"6313284072257042065")
+addappid(706331, 1, "d16e71436dc3093703050e92ac2382216dff6dd8ed2b9f6719a7c49c9bd82faf")

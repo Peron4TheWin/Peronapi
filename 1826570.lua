@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: First Class Escape 2: Head in the Clouds
 addappid(1826570)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1826571,0,"cba6645679ee2ed190b5ea4ee74efae03c771ffb88cd17bb53f87fe42f229ca2")
--- setManifestid(1826571,"2682821435492605473")
+addappid(1826571, 1, "cba6645679ee2ed190b5ea4ee74efae03c771ffb88cd17bb53f87fe42f229ca2")

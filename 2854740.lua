@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nunholy
 addappid(2854740)
-addappid(2854741,0,"0e7a850b48b129deb2aaad37ecfe891a75e20b415134fcefefd010fff8c8936a")
--- setManifestid(2854741,"4071150481593315928")
+addappid(2854741, 1, "0e7a850b48b129deb2aaad37ecfe891a75e20b415134fcefefd010fff8c8936a")

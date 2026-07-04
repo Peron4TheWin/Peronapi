@@ -1,3 +1,4 @@
-addappid(4450350, 1, "2bef6367cbeea1a4e2a0534e87b9426eed3aacba84859bc37094ac1b9fecd62a") -- Xvirus
-addappid(4450351, 1, "fa572485596bebf7f3a03e835d4c6f13c4e4b07cb0fe9dc4637ab66ea362f5fa") -- Depot 4450351
--- setManifestid(4450351, "5760471891092554119", 175471437)
+-- Lua provided by SkyAPI 
+-- Game: Xvirus
+addappid(4450350)
+addappid(4450351, 1, "fa572485596bebf7f3a03e835d4c6f13c4e4b07cb0fe9dc4637ab66ea362f5fa")

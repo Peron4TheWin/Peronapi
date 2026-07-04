@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spelunky
 addappid(239350)
-addappid(228982)
--- setManifestid(228982,"6413394087650432851")
-addappid(239351,0,"c73f8430e3445bc22b8394a97dedbad3103ee137ea5da92fbd98915fec8957ec")
--- setManifestid(239351,"2622961810503583299")
+addappid(239351, 1, "c73f8430e3445bc22b8394a97dedbad3103ee137ea5da92fbd98915fec8957ec")

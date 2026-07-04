@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: mtion worlds
 addappid(1920720)
-addappid(1920721,0,"805ed12587ae4ffe535e1d22d4937bd92a265fc27910cf1ed5f3cba04d33f66b")
--- setManifestid(1920721,"8435999651364831457")
+addappid(1920721, 1, "805ed12587ae4ffe535e1d22d4937bd92a265fc27910cf1ed5f3cba04d33f66b")

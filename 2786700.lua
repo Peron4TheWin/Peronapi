@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Victor's Test Night
 addappid(2786700)
-addappid(2786701,0,"6d57fd96ec5b3e12d65dce0faf6f4ec2c6b00ca5b654bfad202af1048b24c7e3")
--- setManifestid(2786701,"2945040690586337216")
+addappid(2786701, 1, "6d57fd96ec5b3e12d65dce0faf6f4ec2c6b00ca5b654bfad202af1048b24c7e3")

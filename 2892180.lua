@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lands of Avaronia
 addappid(2892180)
-addappid(2892181,0,"72ebca832aef275a3518ffec879a4a254097aed6e18f163a1de5852cbecebf5c")
--- setManifestid(2892181,"2662132722897991551")
+addappid(2892181, 1, "72ebca832aef275a3518ffec879a4a254097aed6e18f163a1de5852cbecebf5c")

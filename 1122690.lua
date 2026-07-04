@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Stop
 addappid(1122690)
-addappid(1122691,0,"6b48c1a96fbf4feac0f79dd004f3a088bf459bcb2580171c7740a7e0decb381a")
+addappid(1122691, 1, "6b48c1a96fbf4feac0f79dd004f3a088bf459bcb2580171c7740a7e0decb381a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fuzz Force: Spook Squad
 addappid(1422190)
-addappid(1422191,0,"a0ecce0deb1ec3c933341531c00d7e6bbc5e5c0188646a9385b7899d6f40c089")
--- setManifestid(1422191,"1087036346991987636")
+addappid(1422191, 1, "a0ecce0deb1ec3c933341531c00d7e6bbc5e5c0188646a9385b7899d6f40c089")

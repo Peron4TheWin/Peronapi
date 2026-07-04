@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tactical Monsters Rumble Arena
 addappid(705220)
-addappid(705221,0,"95f9643dafd893ab9884d51b83652915ee378ab10f3f0f40e290b2482a4e890b")
--- setManifestid(705221,"6573595518213909590")
-addappid(705222)
+addappid(705221, 1, "95f9643dafd893ab9884d51b83652915ee378ab10f3f0f40e290b2482a4e890b")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Omni Magic!
 addappid(1994450)
-addappid(1994451,0,"edd17511c14471c794c0a67a76787b57ee7d6c6cdf8e3a84a6c15a7f46f6472f")
--- setManifestid(1994451,"5054133227168569189")
+addappid(1994451, 1, "edd17511c14471c794c0a67a76787b57ee7d6c6cdf8e3a84a6c15a7f46f6472f")
+addappid(2339750)

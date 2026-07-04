@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Non-Stop Raiders
 addappid(2087940)
-addappid(2087941,0,"31fb1d917c1bced0aaa4504d1a97d54b3a6058a70fc2435ede57658e7a8b97a9")
--- setManifestid(2087941,"6835101149843638975")
+addappid(2087941, 1, "31fb1d917c1bced0aaa4504d1a97d54b3a6058a70fc2435ede57658e7a8b97a9")

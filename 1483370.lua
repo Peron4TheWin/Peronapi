@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Use of Life
 addappid(1483370)
-addappid(1483371,0,"d1ef3aef3226f5fa54875cdd981fddb402c1906a07b736d958cf078dd869bb50")
--- setManifestid(1483371,"416248474725440920")
+addappid(1483371, 1, "d1ef3aef3226f5fa54875cdd981fddb402c1906a07b736d958cf078dd869bb50")

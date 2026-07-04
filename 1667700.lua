@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Geometry Arena 2
 addappid(1667700)
-addappid(1667701,0,"8491d008067be11030e95e3af21d3caf96371ad6e490c6106ee54da74ff44123")
--- setManifestid(1667701,"72696490779669397")
+addappid(1667701, 1, "8491d008067be11030e95e3af21d3caf96371ad6e490c6106ee54da74ff44123")

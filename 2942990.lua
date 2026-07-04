@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JR EAST Train Simulator: Oga Line (Akita to Oga) EV-E801 series
 addappid(2942990)
-addappid(2942991,0,"27fd1b95c747c8ae2748464e74138d211029633b72465eff4b55be3a9b11a0b4")
--- setManifestid(2942991,"8065202765666872435")
-addappid(2942992,0,"9a920743173e84411c99540db69c012ac0c38dd5cd52d61324d35d3238853c20")
--- setManifestid(2942992,"1783554084171407379")
+addappid(2942991, 1, "27fd1b95c747c8ae2748464e74138d211029633b72465eff4b55be3a9b11a0b4")

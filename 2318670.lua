@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Angrbotha Mountains
 addappid(2318670)
-addappid(2318671,0,"1bae07b4ec889bc4b5a418984fbe7cf0f81f9980191f6c9de255cd97364b3025")
--- setManifestid(2318671,"4702041814237716681")
+addappid(2318671, 1, "1bae07b4ec889bc4b5a418984fbe7cf0f81f9980191f6c9de255cd97364b3025")

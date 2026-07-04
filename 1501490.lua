@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ship Handling Simulator
 addappid(1501490)
-addappid(1501491,0,"503df4ffa5e89b24fd784e5443f3e8f896f5ba2dcdf77a55e5df7eeefb3e4b6f")
--- setManifestid(1501491,"5296509203523208923")
+addappid(1501491, 1, "503df4ffa5e89b24fd784e5443f3e8f896f5ba2dcdf77a55e5df7eeefb3e4b6f")

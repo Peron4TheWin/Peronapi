@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero Siege Playtest
 addappid(2447520)
-addappid(2447521,0,"72fe3cbb4fa4829bedc51169f0369b48ff6cfa1070a3e133534de470bb0a0d1b")
--- setManifestid(2447521,"5188923281304762212")
+addappid(2447521, 1, "72fe3cbb4fa4829bedc51169f0369b48ff6cfa1070a3e133534de470bb0a0d1b")

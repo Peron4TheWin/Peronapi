@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UBOAT: The Silent Wolf VR
 addappid(1455390)
-addappid(1455391,0,"a9853de9b4fe2d6c25aea749a586a9c7bb5c07265653755b6e06d16918dcada1")
+addappid(1455391, 1, "a9853de9b4fe2d6c25aea749a586a9c7bb5c07265653755b6e06d16918dcada1")

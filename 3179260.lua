@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kingdoms: Merge & Build
 addappid(3179260)
-addappid(3179261,0,"69b9aff21823950672a38fc86653a1f9fe9a2676c8ba5018a4b9336909d4e70c")
--- setManifestid(3179261,"1488310422022417615")
+addappid(3179261, 1, "69b9aff21823950672a38fc86653a1f9fe9a2676c8ba5018a4b9336909d4e70c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Test Drive Unlimited Solar Crown
 addappid(1249970)
-addappid(1249971,0,"ef894cda9509eea638e332e510f8d089c04994ef8ffafdfd3cc721414b0b4176")
---setManifestid(1249971,"3556100060696162505")
+addappid(1249971, 1, "ef894cda9509eea638e332e510f8d089c04994ef8ffafdfd3cc721414b0b4176")

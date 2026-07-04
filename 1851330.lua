@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heroes Of The Dark
 addappid(1851330)
-addappid(1851331,0,"4113a795bcf30daf3267131fbeebc8e2ee44ada87525af1f2f90ae04c9ccb89b")
--- setManifestid(1851331,"6847214252065982903")
+addappid(1851331, 1, "4113a795bcf30daf3267131fbeebc8e2ee44ada87525af1f2f90ae04c9ccb89b")

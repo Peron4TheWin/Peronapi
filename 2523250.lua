@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FatalZone: Outbreak
 addappid(2523250)
-addappid(2523251,0,"f7beb422344d535d210ec7745c61f20021db1a1bca78541626096bc36278b3f3")
--- setManifestid(2523251,"2318172832349898868")
+addappid(2523251, 1, "f7beb422344d535d210ec7745c61f20021db1a1bca78541626096bc36278b3f3")

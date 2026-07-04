@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meow Lab
 addappid(1505770)
-addappid(1505771,0,"926da6be3144c3157e7495c1737d3c32842bc53e4b5bfbd7fa75bb7add487aef")
+addappid(1505771, 1, "926da6be3144c3157e7495c1737d3c32842bc53e4b5bfbd7fa75bb7add487aef")

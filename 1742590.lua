@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TEMPUS
 addappid(1742590)
-addappid(1742591,0,"4f42d093a998b1b4022389b1f0a209d66cb79163dedf0f02f6c9fb5bdaa3873a")
+addappid(1742591, 1, "4f42d093a998b1b4022389b1f0a209d66cb79163dedf0f02f6c9fb5bdaa3873a")

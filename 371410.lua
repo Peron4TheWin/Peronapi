@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hostile Dimension
 addappid(371410)
-addappid(371411,0,"07d30ccac13eaca49403f558dc70c2df54b16d45593ffc5e90c01fdba7cec6e9")
--- setManifestid(371411,"820428063169551400")
+addappid(371411, 1, "07d30ccac13eaca49403f558dc70c2df54b16d45593ffc5e90c01fdba7cec6e9")

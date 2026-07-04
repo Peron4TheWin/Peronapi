@@ -1,4 +1,4 @@
-
-addappid(2471760) -- Dekamara
-addappid(2471761, 1, "64c916ab7ff4bc842fd094ac1e8f45aa817917f7757222d5192bb84deae1517f") -- Depot 2471761
--- setManifestid(2471761, "6816891183136108180", 128118552)
+-- Lua provided by SkyAPI 
+-- Game: Dekamara
+addappid(2471760)
+addappid(2471761, 1, "64c916ab7ff4bc842fd094ac1e8f45aa817917f7757222d5192bb84deae1517f")

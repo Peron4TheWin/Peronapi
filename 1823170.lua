@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosmos Bit
 addappid(1823170)
-addappid(1823171,0,"938cde94597b1333086e14dd9c6f78ac31874a7002e64cfb859bff36d59a3359")
--- setManifestid(1823171,"8376385906392229693")
+addappid(1823171, 1, "938cde94597b1333086e14dd9c6f78ac31874a7002e64cfb859bff36d59a3359")

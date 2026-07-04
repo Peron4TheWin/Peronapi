@@ -1,8 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Castle Crashers®
 addappid(204360)
-addappid(204371)
-addappid(204372)
+addappid(204361, 1, "2428bf7adcf5bac5af5d4f346adeea328831349da1ac601a9d6c33db6d6b5677")
 addappid(3133920)
-addappid(204361,0,"2428bf7adcf5bac5af5d4f346adeea328831349da1ac601a9d6c33db6d6b5677")
--- setManifestid(204361,"1341654107097785595")
-addappid(204362,0,"7a3159e2830293517766f4e7698bd55d7888ea6e752f32103a2543aa94c5548d")
--- setManifestid(204362,"5139428561222636224")

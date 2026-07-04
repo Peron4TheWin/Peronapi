@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Air Strike
 addappid(1741520)
-addappid(1741521,0,"61decdbeb6ce127eef0167dfa827fd27908b61fa494ee7d907897b52c6ae80b5")
--- setManifestid(1741521,"7065365182521624773")
+addappid(1741521, 1, "61decdbeb6ce127eef0167dfa827fd27908b61fa494ee7d907897b52c6ae80b5")

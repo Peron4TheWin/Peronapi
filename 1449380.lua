@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Colored Shapes
 addappid(1449380)
-addappid(1449381,0,"ac56f8309951ae18bd6405cba91c8b4022062dad95a8a45738b4ae9e10e3e3da")
--- setManifestid(1449381,"5167900758723881174")
+addappid(1449381, 1, "ac56f8309951ae18bd6405cba91c8b4022062dad95a8a45738b4ae9e10e3e3da")

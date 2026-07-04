@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Vampire Regent
 addappid(1515420)
-addappid(1515421,0,"7bf87a5ef3de9b596f1c39d45ac55705774358c76c340e45f98f76af2c4ac5be")
--- setManifestid(1515421,"3972002524001469280")
+addappid(1515421, 1, "7bf87a5ef3de9b596f1c39d45ac55705774358c76c340e45f98f76af2c4ac5be")

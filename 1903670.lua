@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Peaky Blinders: The King's Ransom Complete Edition
 addappid(1903670)
-addappid(1903671,0,"e6fd5798589620a9bf2e7ee18050e92e7748c673d294f16105f7f194c8713e7a")
--- setManifestid(1903671,"5463719849306355675")
+addappid(1903671, 1, "e6fd5798589620a9bf2e7ee18050e92e7748c673d294f16105f7f194c8713e7a")

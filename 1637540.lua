@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Village
 addappid(1637540)
-addappid(1637541,0,"dd6867355d3e348520b83e52dbc2baf6799626fcfa980d8d20437bfb7ea8a7ed")
--- setManifestid(1637541,"7465752715520313366")
+addappid(1637541, 1, "dd6867355d3e348520b83e52dbc2baf6799626fcfa980d8d20437bfb7ea8a7ed")

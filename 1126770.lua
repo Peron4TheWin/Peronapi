@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Bones Remastered
 addappid(1126770)
-addappid(228987)
--- setManifestid(228987,"4302102680580581867")
-addappid(1126771,0,"eaafcad80fc5d7562ad2e935442d6235830c2467dce78e1b0093b1648ca9736d")
--- setManifestid(1126771,"7460777103924131782")
+addappid(1126771, 1, "eaafcad80fc5d7562ad2e935442d6235830c2467dce78e1b0093b1648ca9736d")

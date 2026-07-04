@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Endustry
 addappid(1646280)
-addappid(1646281,0,"901a9c895894bf520593aec99dce13ee6c70dc4c8e356c1b897c6feefe101bd7")
--- setManifestid(1646281,"4097763750828531323")
+addappid(1646281, 1, "901a9c895894bf520593aec99dce13ee6c70dc4c8e356c1b897c6feefe101bd7")

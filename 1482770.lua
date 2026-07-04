@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Terra Firma
 addappid(1482770)
-addappid(1482771,0,"188fc4eaf1151066c8a8024bb279209cc31c7c9ffc739298f0fdc84b9e61f79a")
--- setManifestid(1482771,"5380881428037532054")
+addappid(1482771, 1, "188fc4eaf1151066c8a8024bb279209cc31c7c9ffc739298f0fdc84b9e61f79a")

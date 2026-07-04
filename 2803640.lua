@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cursed Enigma - The Midnight Apartment
 addappid(2803640)
-addappid(2803641,0,"192c0c9a32182cc7039072f37c6fa14e259e5004cf967bd01965eade1b511f2a")
+addappid(2803641, 1, "192c0c9a32182cc7039072f37c6fa14e259e5004cf967bd01965eade1b511f2a")

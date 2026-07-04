@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 1000 Shards
 addappid(1517320)
-addappid(1517321,0,"bc99f08e014a3f8f9ee541864b4dcae18f6790ba665caa450e36cd5ed4a84981")
--- setManifestid(1517321,"1088684623323252416")
+addappid(1517321, 1, "bc99f08e014a3f8f9ee541864b4dcae18f6790ba665caa450e36cd5ed4a84981")

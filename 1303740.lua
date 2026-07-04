@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Love n Dream
 addappid(1303740)
-addappid(1303741,0,"8b7988a4584ae9b0ad65ba6bba1db4ef038acde46a442fbdb37d9e83f6a00e95")
+addappid(1303741, 1, "8b7988a4584ae9b0ad65ba6bba1db4ef038acde46a442fbdb37d9e83f6a00e95")
+addappid(1356850)

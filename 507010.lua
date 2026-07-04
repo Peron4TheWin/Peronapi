@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mr.President!
 addappid(507010)
-addappid(507011,0,"d5b573257833fb3463c54a6ee9fbcb641a20fb00c679f88f6a857941e8252778")
--- setManifestid(507011,"6471771943651391066")
+addappid(507011, 1, "d5b573257833fb3463c54a6ee9fbcb641a20fb00c679f88f6a857941e8252778")

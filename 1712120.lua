@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I'm a cowboy: Western Shooter
 addappid(1712120)
-addappid(1712121,0,"02f2614aeb969ab3299e22fbe0f1e4f8abc05809e8b493d2e896db15bf73cb99")
--- setManifestid(1712121,"5193583180673360351")
+addappid(1712121, 1, "02f2614aeb969ab3299e22fbe0f1e4f8abc05809e8b493d2e896db15bf73cb99")

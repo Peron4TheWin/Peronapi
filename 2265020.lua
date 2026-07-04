@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Desire Mute 1
 addappid(2265020)
-addappid(2265021,0,"efb1e60a27aef54c316621dad192cea20a2471db509ea014f5d58c6a831fe951")
--- setManifestid(2265021,"2927367984234325227")
+addappid(2265021, 1, "efb1e60a27aef54c316621dad192cea20a2471db509ea014f5d58c6a831fe951")

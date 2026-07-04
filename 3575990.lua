@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gun Paradise
 addappid(3575990)
-addappid(3575991,0,"4ee5a84796eba27ff74e5d1037d6d81da81b887ab7fe284ff80a27a398610568")
+addappid(3575991, 1, "4ee5a84796eba27ff74e5d1037d6d81da81b887ab7fe284ff80a27a398610568")

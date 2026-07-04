@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Try To Survive
 addappid(1051250)
-addappid(1051251,0,"26482090d0987edd8625977fc3a5ae2631d16d463b54c39311d8d13defe92b7b")
--- setManifestid(1051251,"1132248045974290102")
+addappid(1051251, 1, "26482090d0987edd8625977fc3a5ae2631d16d463b54c39311d8d13defe92b7b")

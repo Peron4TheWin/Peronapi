@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A New Leaf: Memories
 addappid(1586340)
-addappid(1586341,0,"363c6afb9abd8a11846e639cc5014523ff1748ed9ba5ae601e13f78c917445dc")
--- setManifestid(1586341,"2879484392762352211")
+addappid(1586341, 1, "363c6afb9abd8a11846e639cc5014523ff1748ed9ba5ae601e13f78c917445dc")

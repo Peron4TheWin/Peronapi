@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cross Blitz
 addappid(1619520)
-addappid(1619521,0,"1ab8c00375deb010f355c6bf2d5694790029242fdffafd27bb134159a46d7053")
--- setManifestid(1619521,"641032260320044360")
+addappid(1619521, 1, "1ab8c00375deb010f355c6bf2d5694790029242fdffafd27bb134159a46d7053")

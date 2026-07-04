@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost Trap
 addappid(2006090)
-addappid(2006091,0,"2b7fe4bab6f1dbce933ad14648c990b650ef40dcb71308835273de1ec1c2ad65")
--- setManifestid(2006091,"2773177293156705746")
+addappid(2006091, 1, "2b7fe4bab6f1dbce933ad14648c990b650ef40dcb71308835273de1ec1c2ad65")

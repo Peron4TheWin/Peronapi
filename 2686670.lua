@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hide or Sex
 addappid(2686670)
-addappid(2686671,0,"149d8130788af02a413012f1df47f32305352e1c88f4b36bcdf01cc5dbc3f213")
--- setManifestid(2686671,"8713919071694678048")
+addappid(2686671, 1, "149d8130788af02a413012f1df47f32305352e1c88f4b36bcdf01cc5dbc3f213")

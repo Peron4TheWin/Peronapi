@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meta Ghost: Breaking Show Demo
 addappid(2518120)
-addappid(2518121,0,"26dcd8926290e44eb4ec57d498ffa5775cb777150770c8b7d449dfff0ae885e3")
--- setManifestid(2518121,"8893629603867041037")
+addappid(2518121, 1, "26dcd8926290e44eb4ec57d498ffa5775cb777150770c8b7d449dfff0ae885e3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Energy Supercross - The Official Videogame 5
 addappid(1610460)
-addappid(1610461,0,"f7d29205f2c09cf9532aa2038db7aab6bbcd6d1053b4d03799bd4f172df188c3")
--- setManifestid(1610461,"4735130442237866665")
+addappid(1610461, 1, "f7d29205f2c09cf9532aa2038db7aab6bbcd6d1053b4d03799bd4f172df188c3")

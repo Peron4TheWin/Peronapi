@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wall of insanity
 addappid(1713720)
-addappid(1713721,0,"fa29614eb693d535d5e5c1ca757410c895c0eb5bf6b2d43a3a10653f12598c10")
--- setManifestid(1713721,"4009017338556807286")
+addappid(1713721, 1, "fa29614eb693d535d5e5c1ca757410c895c0eb5bf6b2d43a3a10653f12598c10")

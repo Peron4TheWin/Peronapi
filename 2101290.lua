@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silver Screen Story
 addappid(2101290)
-addappid(2101291,0,"d19970a28b1724c943c5c15bdfb8030f94d2219cdc4db51152f16f3250e16155")
--- setManifestid(2101291,"7906060553625440679")
+addappid(2101291, 1, "d19970a28b1724c943c5c15bdfb8030f94d2219cdc4db51152f16f3250e16155")

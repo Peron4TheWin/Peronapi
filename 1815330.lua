@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Swelter
 addappid(1815330)
-addappid(1815331,0,"67e07a2a7a16cc7b67052d351524268c49305e6b5fe19beeb79d3dbfe51f04dd")
--- setManifestid(1815331,"4818825070124334869")
+addappid(1815331, 1, "67e07a2a7a16cc7b67052d351524268c49305e6b5fe19beeb79d3dbfe51f04dd")

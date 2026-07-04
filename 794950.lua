@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Frosty Leaves 寒叶下的薄冰
 addappid(794950)
-addappid(794951,0,"671f507325a045792fb6bda21705427c5514b85125ca9a53f0730f4f8dfc4aee")
--- setManifestid(794951,"1608163854030327999")
+addappid(794951, 1, "671f507325a045792fb6bda21705427c5514b85125ca9a53f0730f4f8dfc4aee")

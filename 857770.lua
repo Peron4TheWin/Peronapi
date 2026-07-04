@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Risers
 addappid(857770)
-addappid(857771,0,"84021c2f431626558aece669fd31de88a57938c65d5cbd868c4fc568ed24f283")
--- setManifestid(857771,"7238608797367977741")
+addappid(857771, 1, "84021c2f431626558aece669fd31de88a57938c65d5cbd868c4fc568ed24f283")

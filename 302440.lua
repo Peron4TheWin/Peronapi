@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roadside Assistance Simulator
 addappid(302440)
-addappid(302441,0,"cbc6c7013756ac672bdcd25a0c0f88f682565dc5ebfac6317b8fb46fc54d6b56")
--- setManifestid(302441,"364931984429235860")
-addappid(302442)
+addappid(302441, 1, "cbc6c7013756ac672bdcd25a0c0f88f682565dc5ebfac6317b8fb46fc54d6b56")

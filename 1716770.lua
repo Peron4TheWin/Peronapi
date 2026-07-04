@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Air Traffic BLITZ VR
 addappid(1716770)
-addappid(1716771,0,"893c28f7ee6941b81ecef950d86550fd13a365f6d20974e20526b97266bcffce")
--- setManifestid(1716771,"6821307142757816940")
+addappid(1716771, 1, "893c28f7ee6941b81ecef950d86550fd13a365f6d20974e20526b97266bcffce")

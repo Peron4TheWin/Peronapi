@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Street Power Football
 addappid(1275760)
-addappid(1275761,0,"945ad75693aa3924e106d0f2f3c300d925e450b17419f2319ff97d5b9097245b")
+addappid(1275761, 1, "945ad75693aa3924e106d0f2f3c300d925e450b17419f2319ff97d5b9097245b")

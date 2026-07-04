@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape First
 addappid(850450)
--- setManifestid(228990,"1829726630299308803")
-addappid(850451,0,"2a5d7fa3cd6d3b35cb0f7d6ee20c04478f1be68f93c6da8b81281d049617af3e")
--- setManifestid(850451,"2303888947074297621")
+addappid(850451, 1, "2a5d7fa3cd6d3b35cb0f7d6ee20c04478f1be68f93c6da8b81281d049617af3e")

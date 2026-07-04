@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guild of Ascension
 addappid(1169520)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1169521,0,"ba864b220e25b19108da819983e2c3abf239780ca9be5cdd41efd1d433e6221f")
--- setManifestid(1169521,"2806036180738176228")
+addappid(1169521, 1, "ba864b220e25b19108da819983e2c3abf239780ca9be5cdd41efd1d433e6221f")

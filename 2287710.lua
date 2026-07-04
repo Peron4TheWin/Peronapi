@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Where the Heart is:  Season 1
 addappid(2287710)
-addappid(2287711,0,"45e81b1be0d1746ec6b9ea874073aa1ef9f1ba7a23c758db0902a6a7eab8a30d")
--- setManifestid(2287711,"1174267381186523776")
+addappid(2287711, 1, "45e81b1be0d1746ec6b9ea874073aa1ef9f1ba7a23c758db0902a6a7eab8a30d")

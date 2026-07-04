@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silverworld
 addappid(839940)
-addappid(839941,0,"1eff330ab0cb89b4d0f461bc0770e36660b68c0ca482b4959ea17581cccf5a89")
--- setManifestid(839941,"6704241823887833267")
+addappid(839941, 1, "1eff330ab0cb89b4d0f461bc0770e36660b68c0ca482b4959ea17581cccf5a89")

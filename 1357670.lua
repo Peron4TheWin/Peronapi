@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Picture Perfect
 addappid(1357670)
-addappid(1357671,0,"5f94cc6734eabc5f31c44d35b01d9070bf276a962ed454800e832e1cba9ef363")
--- setManifestid(1357671,"8508570578473235398")
+addappid(1357671, 1, "5f94cc6734eabc5f31c44d35b01d9070bf276a962ed454800e832e1cba9ef363")

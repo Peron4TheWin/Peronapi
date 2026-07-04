@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Theme Park Simulator: Rollercoaster Paradise
 addappid(1202780)
-addappid(1202781,0,"1df2a406a5348dc811e991067b17207dd19b0ac760623d7bd62e28b8a5e99407")
--- setManifestid(1202781,"4824499525168081808")
+addappid(1202781, 1, "1df2a406a5348dc811e991067b17207dd19b0ac760623d7bd62e28b8a5e99407")

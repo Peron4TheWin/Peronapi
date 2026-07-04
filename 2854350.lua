@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 魔星兄弟
 addappid(2854350)
-addappid(2854351,0,"b864c137cd56a7cfd4656061cb32327df1e012224e8cb868273cb38d060af1a9")
--- setManifestid(2854351,"8280027003444120549")
+addappid(2854351, 1, "b864c137cd56a7cfd4656061cb32327df1e012224e8cb868273cb38d060af1a9")

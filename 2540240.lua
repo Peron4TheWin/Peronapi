@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HAELE 3D - Hand Poses Pro - Drawing References
 addappid(2540240)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2540241,0,"4a8a2a9a18ba4d6a7fe6b2d4d4e5964d662167c1e7711055bc907ad68aaa3955")
--- setManifestid(2540241,"1123145129316053951")
+addappid(2540241, 1, "4a8a2a9a18ba4d6a7fe6b2d4d4e5964d662167c1e7711055bc907ad68aaa3955")

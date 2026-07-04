@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Please FUCK ME my SEXY neighbor
 addappid(2277070)
-addappid(2277071,0,"aaae7248bf4b0faced3bc221c2cf3757f8be06cab3456d6c9f89f9b9053de7d5")
--- setManifestid(2277071,"5037944915986022362")
+addappid(2277071, 1, "aaae7248bf4b0faced3bc221c2cf3757f8be06cab3456d6c9f89f9b9053de7d5")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fiora Arc
 addappid(1999730)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(1999731,0,"3d85a11ea11dab242d3abd2acd57c5f26fdf0e673872af4e5a3da99d8225cee6")
--- setManifestid(1999731,"2904303055096363830")
+addappid(1999731, 1, "3d85a11ea11dab242d3abd2acd57c5f26fdf0e673872af4e5a3da99d8225cee6")

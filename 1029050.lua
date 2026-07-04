@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dodge Diego
 addappid(1029050)
-addappid(1029051,0,"bb7975746bfa8a14cb7a188608b1918ffde91ff0845a3faddb99b946fcdcc400")
--- setManifestid(1029051,"1440707146547093439")
+addappid(1029051, 1, "bb7975746bfa8a14cb7a188608b1918ffde91ff0845a3faddb99b946fcdcc400")

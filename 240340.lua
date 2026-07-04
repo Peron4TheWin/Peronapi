@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Ace
 addappid(240340)
-addappid(240341,0,"eaf218a5c016e7a25b1c46ac8745b4cb6b39ed6b0b65393770a588e0c9e676de")
--- setManifestid(240341,"7810149507005269925")
+addappid(240341, 1, "eaf218a5c016e7a25b1c46ac8745b4cb6b39ed6b0b65393770a588e0c9e676de")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Squad 51 vs. the Flying Saucers
 addappid(1378800)
-addappid(1378801,0,"9cd00bb325a2d44e6ba089dd9c012c3d5bb2f34798b03b8b0065b9827991516e")
--- setManifestid(1378801,"6560121763660228973")
+addappid(1378801, 1, "9cd00bb325a2d44e6ba089dd9c012c3d5bb2f34798b03b8b0065b9827991516e")

@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Espirito Delusion
 addappid(3560420)
--- setManifestid(228985,"3966345552745568756")
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3560421,0,"ea7d0edb1edb0e57e99f1eaadec1633a64e831ca597bbabf93ea44e08dc10f06")
--- setManifestid(3560421,"3623523300920799143")
+addappid(3560421, 1, "ea7d0edb1edb0e57e99f1eaadec1633a64e831ca597bbabf93ea44e08dc10f06")

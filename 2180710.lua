@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Neko
 addappid(2180710)
-addappid(2180711,0,"e4162fba380ed5a1944471eb1169a9f678002b7a0d1f4ad152a7369ce710ad9f")
--- setManifestid(2180711,"1709511302945970569")
+addappid(2180711, 1, "e4162fba380ed5a1944471eb1169a9f678002b7a0d1f4ad152a7369ce710ad9f")

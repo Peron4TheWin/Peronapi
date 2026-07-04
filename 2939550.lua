@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Urayama
 addappid(2939550)
-addappid(2939551,0,"fc899ac8e575031689655e3a465ea103a741a031b08935cb3014d1da2ca47e1c")
--- setManifestid(2939551,"5562859105081775871")
+addappid(2939551, 1, "fc899ac8e575031689655e3a465ea103a741a031b08935cb3014d1da2ca47e1c")

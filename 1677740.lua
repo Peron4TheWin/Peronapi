@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stumble Guys
 addappid(1677740)
-addappid(1677741,0,"3152088e05159ee3cea8d9df19cc0916ddbcbf1d572bfce0cf5936c658bbc2e2")
--- setManifestid(1677741,"7194771053548032263")
+addappid(1677741, 1, "3152088e05159ee3cea8d9df19cc0916ddbcbf1d572bfce0cf5936c658bbc2e2")

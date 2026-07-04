@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Little Blood Cult: Let's Summon Demons
 addappid(2475350)
-addappid(2475351,0,"b06c31c0b15d7d424d36355dda339a456f4b90b6db1aa70367e830870bea05bd")
--- setManifestid(2475351,"8820713076168988036")
+addappid(2475351, 1, "b06c31c0b15d7d424d36355dda339a456f4b90b6db1aa70367e830870bea05bd")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Love Battle Spirit
 addappid(3630910)
-addappid(3630911,0,"70d0bc1d4dfc25ab6128d72e18be8bc1056795bc59044fd9303b4f53752fe760")
--- setManifestid(3630911,"2856045119646518133")
+addappid(3630911, 1, "70d0bc1d4dfc25ab6128d72e18be8bc1056795bc59044fd9303b4f53752fe760")

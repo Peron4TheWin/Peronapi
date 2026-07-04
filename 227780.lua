@@ -1,11 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Serious Sam Classics: Revolution
 addappid(227780)
-addappid(228983)
---setManifestid(228983,"8124929965194586177")
-addappid(228985)
---setManifestid(228985,"3966345552745568756")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(229003)
---setManifestid(229003,"8740933542064151477")
-addappid(227782,0,"08c08404f83375b1a687457640efc658ef722cca9fc933fd5bbe12ec3a20c6f1")
---setManifestid(227782,"7889209798886523815")
+addappid(227781, 1, "6ed9b14a08787ef23980d57124a670df48bc35feb1642ce6857b9e4a035853ed")

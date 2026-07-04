@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aegis Dilemma: Veritas Omnia Vincit
 addappid(2721880)
-addappid(2721881,0,"45f34afa60682e7d2b0b0c90627bbfdc790b6303b1576925b10c25c8638e2aeb")
--- setManifestid(2721881,"6874401681597383496")
+addappid(2721881, 1, "45f34afa60682e7d2b0b0c90627bbfdc790b6303b1576925b10c25c8638e2aeb")

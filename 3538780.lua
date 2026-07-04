@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lovely Sex with Tsundere Girl -She is too much into pleasure and loves your cock-
 addappid(3538780)
-addappid(3538781,0,"8eff0cbb341bb2e8d6b816939d33ec22df69b323376d31b6b318cdeb6f98273b")
--- setManifestid(3538781,"8258728786563244001")
+addappid(3538781, 1, "8eff0cbb341bb2e8d6b816939d33ec22df69b323376d31b6b318cdeb6f98273b")

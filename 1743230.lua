@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Time of the Clones
 addappid(1743230)
-addappid(1743231,0,"c06a406b40947fc2d19bd4e83eb66f87ae6de2f30618fa04dea5c1d28e1c9754")
--- setManifestid(1743231,"7243153936899801208")
+addappid(1743231, 1, "c06a406b40947fc2d19bd4e83eb66f87ae6de2f30618fa04dea5c1d28e1c9754")

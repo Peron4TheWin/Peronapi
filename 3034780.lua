@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wukong Survivors Demo
 addappid(3034780)
-addappid(3034781,0,"23c296885019bd4b62bf533effdc149c6043b1f14bdd887845f6d596ea0b2e20")
+addappid(3034781, 1, "23c296885019bd4b62bf533effdc149c6043b1f14bdd887845f6d596ea0b2e20")

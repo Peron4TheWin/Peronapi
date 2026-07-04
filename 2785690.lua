@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Russian Hut Simulator
 addappid(2785690)
-addappid(2785691,0,"7a1982eb8a877642502baa6972b748d6c3011a21a7e33b199d35abb95d9eeaab")
--- setManifestid(2785691,"64203212726808283")
+addappid(2785691, 1, "7a1982eb8a877642502baa6972b748d6c3011a21a7e33b199d35abb95d9eeaab")

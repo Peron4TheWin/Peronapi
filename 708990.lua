@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Turtle's Quest
 addappid(708990)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(708991,0,"2ca2cee3fb53f2fa43f4c72d5b485b501d880911944a58617b00a464dc9e6157")
--- setManifestid(708991,"412554637446858910")
+addappid(708991, 1, "2ca2cee3fb53f2fa43f4c72d5b485b501d880911944a58617b00a464dc9e6157")

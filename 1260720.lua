@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Elemental Echoes
 addappid(1260720)
-addappid(1260721,0,"ec1f57df94c55a1f1d1fa2aa73d2932fb05ee01f878af8263252c5618e380de4")
--- setManifestid(1260721,"7285856619959703147")
+addappid(1260721, 1, "ec1f57df94c55a1f1d1fa2aa73d2932fb05ee01f878af8263252c5618e380de4")

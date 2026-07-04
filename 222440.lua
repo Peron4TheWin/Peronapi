@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: THE KING OF FIGHTERS 2002 UNLIMITED MATCH
 addappid(222440)
-addappid(228982)
--- setManifestid(228982,"6413394087650432851")
-addappid(222441,0,"ecc4bf27f87ee88b4bb037ee5747c78dea710c160d950c9204f19d7e6a8deff6")
--- setManifestid(222441,"6025242472875071924")
+addappid(222441, 1, "ecc4bf27f87ee88b4bb037ee5747c78dea710c160d950c9204f19d7e6a8deff6")

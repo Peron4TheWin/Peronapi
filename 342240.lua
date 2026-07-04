@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: SCHAR: Blue Shield Alliance
 addappid(342240)
+addappid(342241, 1, "a397538d1d765c8b8064ded4c2d508d67c604b9d03a1457d5b2a7037dcd04383")
 addappid(349660)
-addappid(342241,0,"a397538d1d765c8b8064ded4c2d508d67c604b9d03a1457d5b2a7037dcd04383")
--- setManifestid(342241,"1604804284283994041")

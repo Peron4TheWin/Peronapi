@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GrassGames Hearts 3
 addappid(2196300)
-addappid(2196301,0,"ec064d10a433dbf5501caf5837ae9027aba170ab6f77e89510d1c3e5b8b9d6ac")
+addappid(2196301, 1, "ec064d10a433dbf5501caf5837ae9027aba170ab6f77e89510d1c3e5b8b9d6ac")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waterpark Simulator
 addappid(1362910)
-addappid(1362911,0,"0b2d80c0e4107dda322bfa69e55bed8e9e1a31cc0d656576b0f7033e7634913e")
--- setManifestid(1362911,"8956390964494927587")
+addappid(1362911, 1, "0b2d80c0e4107dda322bfa69e55bed8e9e1a31cc0d656576b0f7033e7634913e")

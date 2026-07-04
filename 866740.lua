@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haunted Hotel: Charles Dexter Ward Collector's Edition
 addappid(866740)
-addappid(866741,0,"77b6ae66bd9288313c2f1583e204e34c038cd59a1e86b21112976dc0f8e14f0a")
--- setManifestid(866741,"2011385321715061571")
+addappid(866741, 1, "77b6ae66bd9288313c2f1583e204e34c038cd59a1e86b21112976dc0f8e14f0a")

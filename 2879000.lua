@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Atman:Rebel Flame
 addappid(2879000)
-addappid(2879001,0,"5958cb763b24af3885fa0cdf442bf8546d23d63fa7e42cb9f4b6371c52a89ba4")
--- setManifestid(2879001,"7117549131554626179")
+addappid(2879001, 1, "5958cb763b24af3885fa0cdf442bf8546d23d63fa7e42cb9f4b6371c52a89ba4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Formula Retro Racing
 addappid(1239660)
-addappid(1239661,0,"c016bdc03a2e18d1eaef6f75d6ddcc87b31a4c4b7dec28f7835ab7afe5f85582")
--- setManifestid(1239661,"2307906397811066926")
+addappid(1239661, 1, "c016bdc03a2e18d1eaef6f75d6ddcc87b31a4c4b7dec28f7835ab7afe5f85582")

@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: Once a Porn a Time
 addappid(1973580)
-addappid(1973581,0,"faf6ab913e2bd0adbb4376a03542bd6b3f35654478d7c92744f04801c4634188")
--- setManifestid(1973581,"4956798727354747789")
+addappid(1973581, 1, "faf6ab913e2bd0adbb4376a03542bd6b3f35654478d7c92744f04801c4634188")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Animals vs Animals
 addappid(2805620)
-addappid(2805621,0,"f8745cd04f193e1151eeb4b88ad7a70f692146921eed6fe0b29c50b213f41a7b")
--- setManifestid(2805621,"5116986022694506614")
+addappid(2805621, 1, "f8745cd04f193e1151eeb4b88ad7a70f692146921eed6fe0b29c50b213f41a7b")

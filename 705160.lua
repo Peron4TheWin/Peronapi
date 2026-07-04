@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Moon VR Video Player
 addappid(705160)
--- setManifestid(228986,"8782296191957114623")
-addappid(705161,0,"2d5ce30d1d6f479cf0a2ebff2c89adcc95858db04bf1cdcfd9719ea4de823ac6")
--- setManifestid(705161,"4479643595097008104")
+addappid(705161, 1, "2d5ce30d1d6f479cf0a2ebff2c89adcc95858db04bf1cdcfd9719ea4de823ac6")

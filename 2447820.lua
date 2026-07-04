@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Survivor's guilt
 addappid(2447820)
-addappid(2447821,0,"a46eb115612c5e0ca37a947d6cbe7db4cc9eaf2190271b1de8306e3d37d0b68b")
--- setManifestid(2447821,"4101365371137311996")
+addappid(2447821, 1, "a46eb115612c5e0ca37a947d6cbe7db4cc9eaf2190271b1de8306e3d37d0b68b")

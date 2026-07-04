@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little Inner Monsters - Card Game
 addappid(1813190)
-addappid(1813191,0,"f1a3ac1e867ce7fa8b19ff832fdc0f7f62748c0289523ebdfdea95f60575c95f")
--- setManifestid(1813191,"7463091413007471304")
+addappid(1813191, 1, "f1a3ac1e867ce7fa8b19ff832fdc0f7f62748c0289523ebdfdea95f60575c95f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clip maker
 addappid(1536420)
-addappid(1536421,0,"21de185263a31a43460aa48e475ec28a4b2b5032bef96f0086eab0e3746508d6")
--- setManifestid(1536421,"6868769418279099916")
+addappid(1536421, 1, "21de185263a31a43460aa48e475ec28a4b2b5032bef96f0086eab0e3746508d6")

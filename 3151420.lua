@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystic Explorer
 addappid(3151420)
-addappid(3151421,0,"e1da9f717b348cbed87bd964e438ea70a24d5ac9f81e9f83fc1c7fc6b78bc725")
--- setManifestid(3151421,"3548015441209235243")
+addappid(3151421, 1, "e1da9f717b348cbed87bd964e438ea70a24d5ac9f81e9f83fc1c7fc6b78bc725")

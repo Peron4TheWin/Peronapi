@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brick Breaker Premium
 addappid(874780)
-addappid(874781,0,"8266a78abe40b3d46f6fe602ae07ea8904453d0c47631de1d803dc59fd6de347")
--- setManifestid(874781,"1160447816396038181")
+addappid(874781, 1, "8266a78abe40b3d46f6fe602ae07ea8904453d0c47631de1d803dc59fd6de347")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Quest for Cathay Kingdom Mah Jong
 addappid(1862100)
-addappid(1862101,0,"2b66d02012b77ec97043daaeb06d1318b36ba74a0c68968c3f4c82f289b7585a")
--- setManifestid(1862101,"8892569665371646868")
+addappid(1862101, 1, "2b66d02012b77ec97043daaeb06d1318b36ba74a0c68968c3f4c82f289b7585a")

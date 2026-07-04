@@ -1,3 +1,4 @@
-
-addappid(3850560) 
-addappid(3850561, 1, "61903c2633e62e94d33f313bfefafd29b2e47475366438e3d01d2b7832001567") -- Depot 3850561
+-- Lua provided by SkyAPI 
+-- Game: Blood Money: Lethal Eden
+addappid(3850560)
+addappid(3850561, 1, "61903c2633e62e94d33f313bfefafd29b2e47475366438e3d01d2b7832001567")

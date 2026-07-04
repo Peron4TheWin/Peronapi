@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tankex
 addappid(1066240)
-addappid(1066241,0,"05f9059efb128f9a0f07e42cada65256f8fe1303d9b1ad5fb7c0bca78402b712")
--- setManifestid(1066241,"9043172655235675685")
+addappid(1066241, 1, "05f9059efb128f9a0f07e42cada65256f8fe1303d9b1ad5fb7c0bca78402b712")

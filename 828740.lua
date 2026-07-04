@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tales of the Neon Sea
 addappid(828740)
-addappid(828741,0,"c065764b26ed23b3f7dec59e133858ad256fb3df8cfc6b89c4fab92e38c0e1eb")
---setManifestid(828741,"6779301419140713473")
+addappid(828741, 1, "c065764b26ed23b3f7dec59e133858ad256fb3df8cfc6b89c4fab92e38c0e1eb")

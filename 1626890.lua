@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 坏小孩
 addappid(1626890)
-addappid(1626891,0,"4570c58b56ad84a807cfec31fa06bf3caec0a52c08e071497fd52cd858a44419")
--- setManifestid(1626891,"387298231064272638")
+addappid(1626891, 1, "4570c58b56ad84a807cfec31fa06bf3caec0a52c08e071497fd52cd858a44419")

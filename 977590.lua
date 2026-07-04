@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: バインドを解除する(unbind)
 addappid(977590)
-addappid(977591,0,"886df2bb52466ff51608ecf9c2101f853b83232964026fe41569be7dae59afd7")
--- setManifestid(977591,"8229646521411086269")
-addappid(977592)
-addappid(977593)
-addappid(977594)
+addappid(977591, 1, "886df2bb52466ff51608ecf9c2101f853b83232964026fe41569be7dae59afd7")
+addappid(993410)

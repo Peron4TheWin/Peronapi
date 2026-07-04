@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Birdsketball
 addappid(470470)
-addappid(470471,0,"b4f02b038ba3f8de0868c874eec39cbd64a4e4c271c37122f9740ed9d7ec7cef")
--- setManifestid(470471,"8117904409479265386")
+addappid(470471, 1, "b4f02b038ba3f8de0868c874eec39cbd64a4e4c271c37122f9740ed9d7ec7cef")

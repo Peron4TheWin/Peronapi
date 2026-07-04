@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 99 Waves Demo
 addappid(2801890)
-addappid(2801891,0,"e0da9a437cf4c39536adb51b6da367d3f9debf4c883fbce74738cda977e64263")
--- setManifestid(2801891,"7269708546187753955")
+addappid(2801891, 1, "e0da9a437cf4c39536adb51b6da367d3f9debf4c883fbce74738cda977e64263")

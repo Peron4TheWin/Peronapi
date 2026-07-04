@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fabular: Once Upon a Spacetime
 addappid(645720)
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229006,"1784011429307107530")
-addappid(645721,0,"54827cf650e82a19e135e28c367e2f5e860da988edb157c6b89b2bdc586f41ce")
--- setManifestid(645721,"1748714623614048388")
+addappid(645721, 1, "54827cf650e82a19e135e28c367e2f5e860da988edb157c6b89b2bdc586f41ce")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KILL KNIGHT Demo
 addappid(2865280)
-addappid(2865281,0,"2c12dc95e2f6c0f44cc556dad2a9abeab063655ba13dc53864fbd0ebcda0fb09")
--- setManifestid(2865281,"6868031300364585686")
+addappid(2865281, 1, "2c12dc95e2f6c0f44cc556dad2a9abeab063655ba13dc53864fbd0ebcda0fb09")

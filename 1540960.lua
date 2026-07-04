@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Underworld Idle
 addappid(1540960)
-addappid(1540961,0,"2cbd1a5fdfae634ea0d59d1c6218fce7898a41bb8510e06df3ef31e317cc2a6b")
--- setManifestid(1540961,"8890054461357306666")
+addappid(1540961, 1, "2cbd1a5fdfae634ea0d59d1c6218fce7898a41bb8510e06df3ef31e317cc2a6b")
+addappid(2268970)

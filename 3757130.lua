@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pinsky Protocol
 addappid(3757130)
-addappid(3757131,0,"eddb3f21c587846bbbfecb1de52c5f2e98a437bcea035d59f80073d00491b3ff")
--- setManifestid(3757131,"812451270586490785")
+addappid(3757131, 1, "eddb3f21c587846bbbfecb1de52c5f2e98a437bcea035d59f80073d00491b3ff")

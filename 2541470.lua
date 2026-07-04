@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 年上お姉さんを独り占めしたい！ - Possessing My Older Sister -
 addappid(2541470)
-addappid(2541471,0,"9fa3edf75083de27321644e06beb03cf5669c89da619471bc9bcdf9c5eb51f7f")
--- setManifestid(2541471,"6095383332475643049")
+addappid(2541471, 1, "9fa3edf75083de27321644e06beb03cf5669c89da619471bc9bcdf9c5eb51f7f")

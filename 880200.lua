@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: J15 Jet Fighter VR (歼15舰载机)
 addappid(880200)
-addappid(228986)
--- setManifestid(228986,"8782296191957114623")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(880201,0,"1c318224080cbef14295af270cfe39e4b88dfe7ac686404588e0ae40ceb168c4")
--- setManifestid(880201,"380873546574296300")
+addappid(880201, 1, "1c318224080cbef14295af270cfe39e4b88dfe7ac686404588e0ae40ceb168c4")

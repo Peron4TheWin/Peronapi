@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Astra
 addappid(1363810)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1363811,0,"39db9ee8906ecc359ef56a41dc835e9e7b3b2293db76cdc8f5e7b9ce7a5ac0b2")
--- setManifestid(1363811,"6556837760518976672")
+addappid(1363811, 1, "39db9ee8906ecc359ef56a41dc835e9e7b3b2293db76cdc8f5e7b9ce7a5ac0b2")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: To Kill a God Demo
 addappid(3261920)
-addappid(3261921,0,"3b0424be0deaf5c0d4e9f4c31e6379de4de333301860c4347b7f8d56e0b27d60")
--- setManifestid(3261921,"8307371175951075582")
+addappid(3261921, 1, "3b0424be0deaf5c0d4e9f4c31e6379de4de333301860c4347b7f8d56e0b27d60")

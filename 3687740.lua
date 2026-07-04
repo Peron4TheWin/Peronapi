@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SAM 0
 addappid(3687740)
-addappid(3687741,0,"f2918617348b0c3e5f74fce5f01c85974d1caa4a4026bfdd53e1fed373db8a05")
--- setManifestid(3687741,"2393172836730385371")
+addappid(3687741, 1, "f2918617348b0c3e5f74fce5f01c85974d1caa4a4026bfdd53e1fed373db8a05")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Days Without Gods
 addappid(1983270)
-addappid(1983271,0,"829f7cb37624c2264adcf79c9eccee73e107d1719577b41feb4f3ac89d4e8cb6")
--- setManifestid(1983271,"1045006684160594610")
+addappid(1983271, 1, "829f7cb37624c2264adcf79c9eccee73e107d1719577b41feb4f3ac89d4e8cb6")

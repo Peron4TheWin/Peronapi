@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 愚人之夜
 addappid(2466230)
-addappid(2466231,0,"edd2ed6cdd7f1bfb628a75ece8e81e882b13b4a27cb18f87ee4603f263ca35eb")
--- setManifestid(2466231,"311154371895136256")
+addappid(2466231, 1, "edd2ed6cdd7f1bfb628a75ece8e81e882b13b4a27cb18f87ee4603f263ca35eb")

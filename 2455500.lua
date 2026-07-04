@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Time Survivors: Chapter 0
 addappid(2455500)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2455501,0,"efc85df8644da2efe30673dc138d26bf3ddbe9196fc9617c2b95832b5ec12d83")
--- setManifestid(2455501,"6928546480777851592")
+addappid(2455501, 1, "efc85df8644da2efe30673dc138d26bf3ddbe9196fc9617c2b95832b5ec12d83")

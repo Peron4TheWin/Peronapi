@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alien Zombie Megadeath
 addappid(110610)
-addappid(110611,0,"9dfbbdf3b94a033f8c06787246f44c8d2ab9a132070410cf1074a672a53df870")
--- setManifestid(110611,"4491701740321149186")
+addappid(110611, 1, "9dfbbdf3b94a033f8c06787246f44c8d2ab9a132070410cf1074a672a53df870")

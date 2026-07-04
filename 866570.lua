@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: System Shock 2: 25th Anniversary Remaster
 addappid(866570)
-addappid(866571,0,"6edbf9ce4219fe61908e9f984131b5bd33fd5760f1f6e23ad0383ff69c505822")
--- setManifestid(866571,"4370763162633793581")
-addappid(866572,0,"a74158ba1f081c90349945bc4cbf9589273301419df7cf49118a2f45003396eb")
--- setManifestid(866572,"575181321075764465")
+addappid(866571, 1, "6edbf9ce4219fe61908e9f984131b5bd33fd5760f1f6e23ad0383ff69c505822")

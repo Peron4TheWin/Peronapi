@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: INTO EVIL Demo
 addappid(2563670)
-addappid(2563671,0,"89bb468ce698642c5ee8e8236ef64c425ee3218dbf63a2ae64737bf1cc7901a3")
--- setManifestid(2563671,"2065384702253121898")
+addappid(2563671, 1, "89bb468ce698642c5ee8e8236ef64c425ee3218dbf63a2ae64737bf1cc7901a3")

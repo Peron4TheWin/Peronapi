@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bitdude
 addappid(569370)
-addappid(569371,0,"a17e2500971876ae7f66419c3c30dc6c843eb56cc8505c3da9edec5af1181f6b")
--- setManifestid(569371,"1183614185595137441")
+addappid(569371, 1, "a17e2500971876ae7f66419c3c30dc6c843eb56cc8505c3da9edec5af1181f6b")

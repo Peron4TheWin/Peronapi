@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Monsters' Den: Godfall
 addappid(469720)
-addappid(469721,0,"182e9a14710c9b3fd2ffee93c0f70693d514f27ee5a067f5bc924ec0487444cc")
--- setManifestid(469721,"3150638534257183137")
+addappid(469721, 1, "182e9a14710c9b3fd2ffee93c0f70693d514f27ee5a067f5bc924ec0487444cc")
+addappid(1091060)

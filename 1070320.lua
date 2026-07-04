@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ring the City
 addappid(1070320)
-addappid(1070321,0,"274c8c8259ede4bf08860b791db29e682980067ee0fd047a4977ffb432db9dfe")
+addappid(1070321, 1, "274c8c8259ede4bf08860b791db29e682980067ee0fd047a4977ffb432db9dfe")

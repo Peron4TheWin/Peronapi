@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 魔女档案 MajyoArchive
 addappid(2838970)
-addappid(2838971,0,"a17331c5884a2c0fa12bd180d0eaaa9c5d68a7c2ebe3ba0cf67914b2aa1c091c")
--- setManifestid(2838971,"4429360408205135681")
+addappid(2838971, 1, "a17331c5884a2c0fa12bd180d0eaaa9c5d68a7c2ebe3ba0cf67914b2aa1c091c")

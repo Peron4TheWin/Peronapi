@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Evil
 addappid(1030360)
-addappid(1030361,0,"2644d0f33765bb2f42a9e1abfecae2cd393b1362a40b9e683da951b75d992545")
--- setManifestid(1030361,"878357829066722806")
+addappid(1030361, 1, "2644d0f33765bb2f42a9e1abfecae2cd393b1362a40b9e683da951b75d992545")

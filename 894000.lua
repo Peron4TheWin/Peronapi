@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Night of the Blood Moon
 addappid(894000)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(894001,0,"6210c157cfa40b28ca5a4199e3823265046c66de5cc673de85366cf30775aea6")
--- setManifestid(894001,"2944114062435330950")
-addappid(894002)
-addappid(894003)
+addappid(894001, 1, "6210c157cfa40b28ca5a4199e3823265046c66de5cc673de85366cf30775aea6")

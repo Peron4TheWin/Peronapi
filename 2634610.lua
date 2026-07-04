@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sacabambaspis Chronicle
 addappid(2634610)
-addappid(2634611,0,"ed73f91950c5dd12aa4de8d415f9327e0c145641bc21b783269d298ed2e27a04")
--- setManifestid(2634611,"4150627477750464901")
+addappid(2634611, 1, "ed73f91950c5dd12aa4de8d415f9327e0c145641bc21b783269d298ed2e27a04")

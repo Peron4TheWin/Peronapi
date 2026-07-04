@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chernobyl Trap
 addappid(1886200)
-addappid(1886201,0,"7baa681e92720fffdd13d51e04b8ba02f948392408be8a9ac9500f841a722d2d")
--- setManifestid(1886201,"4294156017680458302")
+addappid(1886201, 1, "7baa681e92720fffdd13d51e04b8ba02f948392408be8a9ac9500f841a722d2d")

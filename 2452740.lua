@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: To Be A King - Volume 1 Demo
 addappid(2452740)
-addappid(2452741,0,"426c7a353513f47e2f8e535cabe754383540ed05b05d601d4faefcb4c680307b")
--- setManifestid(2452741,"3420083382010898810")
+addappid(2452741, 1, "426c7a353513f47e2f8e535cabe754383540ed05b05d601d4faefcb4c680307b")

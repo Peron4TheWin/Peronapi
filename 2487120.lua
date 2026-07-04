@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fetish Room 18+
 addappid(2487120)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2487121,0,"24d4253247ac5fe6e93e27e47030e4f4242d64eb1281c4c3686f617ccfeefeee")
--- setManifestid(2487121,"4175867301957698406")
+addappid(2487121, 1, "24d4253247ac5fe6e93e27e47030e4f4242d64eb1281c4c3686f617ccfeefeee")

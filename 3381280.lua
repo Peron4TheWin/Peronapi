@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brawlers of the West Demo
 addappid(3381280)
-addappid(3381281,0,"679efd4e29e664938ae7cbe73a1e21aaf45ad3eccd81f80b30b1ce07b5571cd5")
--- setManifestid(3381281,"6441198595821004829")
+addappid(3381281, 1, "679efd4e29e664938ae7cbe73a1e21aaf45ad3eccd81f80b30b1ce07b5571cd5")

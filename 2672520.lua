@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Versebound
 addappid(2672520)
-addappid(2672521,0,"dc0f909d3f73330ff043de0fc1e562e7776f4dc0f1e443332de1d501c5c2ff35")
--- setManifestid(2672521,"2986589880601690595")
+addappid(2672521, 1, "dc0f909d3f73330ff043de0fc1e562e7776f4dc0f1e443332de1d501c5c2ff35")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Speed Crew
 addappid(2367480)
-addappid(2367481,0,"cc4901a42906af2f640d8ffdf8922fb0be6cbb222bc152a3fdccb3320d1592ac")
--- setManifestid(2367481,"3752367734091971924")
+addappid(2367481, 1, "cc4901a42906af2f640d8ffdf8922fb0be6cbb222bc152a3fdccb3320d1592ac")

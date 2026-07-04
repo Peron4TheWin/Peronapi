@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summum Aeterna
 addappid(1815230)
-addappid(1815231,0,"755ca7a9adff76b7b15f42029d5cf61e6ae8b54dcb0e331a2094fee67b6adce8")
--- setManifestid(1815231,"8048504272650461184")
+addappid(1815231, 1, "755ca7a9adff76b7b15f42029d5cf61e6ae8b54dcb0e331a2094fee67b6adce8")

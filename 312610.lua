@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: METAL SLUG X
 addappid(312610)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(312611,0,"7f1d0f535b6ae360297a32d8be65cde7b69860a123f019983d3b56e37933df8a")
--- setManifestid(312611,"3206672683359619399")
+addappid(312611, 1, "7f1d0f535b6ae360297a32d8be65cde7b69860a123f019983d3b56e37933df8a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Memory Thieves
 addappid(2963720)
-addappid(2963721,0,"8d0b335aabc9893a42bc96061736d71a4fb113eec463a2e2a5ea3f904668e6d5")
--- setManifestid(2963721,"9130116428486506098")
+addappid(2963721, 1, "8d0b335aabc9893a42bc96061736d71a4fb113eec463a2e2a5ea3f904668e6d5")

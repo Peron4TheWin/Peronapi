@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Girlfriend Experience VR
 addappid(922800)
-addappid(922801,0,"b75697d4462759c3baca15d44ae89a9c9b2231455f2b28bbe2848b4232023c37")
--- setManifestid(922801,"490394549184455494")
+addappid(922801, 1, "b75697d4462759c3baca15d44ae89a9c9b2231455f2b28bbe2848b4232023c37")

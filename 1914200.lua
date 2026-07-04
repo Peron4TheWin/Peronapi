@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosmoblaster Exodia
 addappid(1914200)
-addappid(1914201,0,"b2131fac6f67738ca82992c2557f550a5f62d273d962b77af5b7f95c6168e375")
--- setManifestid(1914201,"3888385065362470239")
+addappid(1914201, 1, "b2131fac6f67738ca82992c2557f550a5f62d273d962b77af5b7f95c6168e375")

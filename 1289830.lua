@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 迅风的米斯特汀 Windy Mystletainn
 addappid(1289830)
-addappid(1289831,0,"8ada93c5be059efe511874c5b0c36971d8dfdd0ece383edc5859fce8e8cc1de2")
--- setManifestid(1289831,"7499723222258688457")
+addappid(1289831, 1, "8ada93c5be059efe511874c5b0c36971d8dfdd0ece383edc5859fce8e8cc1de2")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Rhythm Taichi XR
 addappid(2266270)
-addappid(2266271,0,"fe97e1d82f03f064600d6f13c9e7ce1c43c6f015d106950c11803b9f1e8d8b9c")
--- setManifestid(2266271,"5566489056341114763")
+addappid(2266271, 1, "fe97e1d82f03f064600d6f13c9e7ce1c43c6f015d106950c11803b9f1e8d8b9c")
+addappid(2266280)

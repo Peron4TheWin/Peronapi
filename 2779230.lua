@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zarathustra - Cybergeddon
 addappid(2779230)
-addappid(2779231,0,"2d009ead5460f95291c97aa7f9618ee2d20e3ad36a9e846e884afe41664d83ef")
--- setManifestid(2779231,"3127610406237797580")
+addappid(2779231, 1, "2d009ead5460f95291c97aa7f9618ee2d20e3ad36a9e846e884afe41664d83ef")

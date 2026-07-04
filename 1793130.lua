@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battle Cry of Freedom Demo
 addappid(1793130)
-addappid(1793131,0,"18300f32c2ad42248847cd6a9afd783605f77637d71ffda4da8cfae61e6968af")
--- setManifestid(1793131,"7164045141709572050")
+addappid(1793131, 1, "18300f32c2ad42248847cd6a9afd783605f77637d71ffda4da8cfae61e6968af")

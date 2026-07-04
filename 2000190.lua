@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SSS222: HyperSpace
 addappid(2000190)
-addappid(2000191,0,"9004d9d4e766e81724c95e81cb6fa347dd26accf5ab1101b5f4ffd070230c9cd")
--- setManifestid(2000191,"4841009389915703108")
+addappid(2000191, 1, "9004d9d4e766e81724c95e81cb6fa347dd26accf5ab1101b5f4ffd070230c9cd")

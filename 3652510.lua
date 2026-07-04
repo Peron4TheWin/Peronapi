@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2 Friendly and Slightly Naughty Woman GP-01Fb
 addappid(3652510)
-addappid(3652511,0,"54ae1e36c49072b88c38bc46b0716f295017b1842039f4b03c43dbcc48ef7fc0")
--- setManifestid(3652511,"1340369655419770109")
+addappid(3652511, 1, "54ae1e36c49072b88c38bc46b0716f295017b1842039f4b03c43dbcc48ef7fc0")

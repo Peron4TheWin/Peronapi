@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: GreenIsland
 addappid(2405390)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2405391,0,"b04bb2234581dc062b24b7a6ac2d82925e47dbdb06b7865fa5adc0f245d4499a")
--- setManifestid(2405391,"380283220803604938")
+addappid(2405391, 1, "b04bb2234581dc062b24b7a6ac2d82925e47dbdb06b7865fa5adc0f245d4499a")
+addappid(2405410)

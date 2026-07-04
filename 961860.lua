@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Blasting Boy
 addappid(961860)
-addappid(961861,0,"dc41ad4cd5a807c7fde62440ea149dd6d903a572023ba5f34f5fa88d035c6293")
+addappid(961861, 1, "dc41ad4cd5a807c7fde62440ea149dd6d903a572023ba5f34f5fa88d035c6293")

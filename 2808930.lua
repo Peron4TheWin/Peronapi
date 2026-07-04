@@ -1,4 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Lust Goddess
 addappid(2808930)
+addappid(2808931, 1, "56d0d282de07ffeea381c878beba19735867e44776afdbd8dd5bba34de41db9e")
 addappid(3008290)
 addappid(3104890)
 addappid(3348530)
@@ -31,7 +34,3 @@ addappid(3824110)
 addappid(3866020)
 addappid(3937050)
 addappid(3967090)
-addappid(2808931,0,"56d0d282de07ffeea381c878beba19735867e44776afdbd8dd5bba34de41db9e")
--- setManifestid(2808931,"5671524184786961625")
-addappid(2808932,0,"4e6ec6d50ec30535e617715f1f8031adbb9512e759e369469e271977753128f3")
--- setManifestid(2808932,"97133473466275944")

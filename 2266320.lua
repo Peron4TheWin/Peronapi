@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The You Testament: The 2D Coming
 addappid(2266320)
-addappid(2266321,0,"2deae71298e17e1a0b5aaaf8b2e883cbff1c8db9c2958ea521da630e5545d601")
--- setManifestid(2266321,"2055939261184380310")
+addappid(2266321, 1, "2deae71298e17e1a0b5aaaf8b2e883cbff1c8db9c2958ea521da630e5545d601")

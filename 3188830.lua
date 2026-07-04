@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I'm Still Here
 addappid(3188830)
-addappid(3188831,0,"fcaa01d5cf116526dfb6b4cd3639f8707c0bb73b9b7f86854766081f20f88b53")
--- setManifestid(3188831,"7566695375310043821")
+addappid(3188831, 1, "fcaa01d5cf116526dfb6b4cd3639f8707c0bb73b9b7f86854766081f20f88b53")

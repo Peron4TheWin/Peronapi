@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: House Flipper 2 - Co-op Playtest
 addappid(3039120)
-addappid(3039121,0,"519473b5e886543ba302de34b290bf1f344d77431094ca561ae419b5515f524f")
--- setManifestid(3039121,"3638034982490041463")
+addappid(3039121, 1, "519473b5e886543ba302de34b290bf1f344d77431094ca561ae419b5515f524f")

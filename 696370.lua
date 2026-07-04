@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BROKE PROTOCOL
 addappid(696370)
-addappid(696371,0,"4999c8099997ea25196e76fdd7cb61573f53611ea21a3c45df3c4abfdf14f60f")
--- setManifestid(696371,"8548948602260494496")
+addappid(696371, 1, "4999c8099997ea25196e76fdd7cb61573f53611ea21a3c45df3c4abfdf14f60f")

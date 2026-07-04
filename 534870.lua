@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arcane
 addappid(534870)
-addappid(534871,0,"e1af80e14d92aa85cceec610ea15835d42d9a1c9ac004273d6e96e76e8e5547c")
--- setManifestid(534871,"7727010143024611286")
+addappid(534871, 1, "e1af80e14d92aa85cceec610ea15835d42d9a1c9ac004273d6e96e76e8e5547c")

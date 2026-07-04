@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Succubus 8
 addappid(2487490)
-addappid(2487491,0,"1e37f4d88a9db740c96419c506e84cca68cfc651e639c45af987f3d761fb61d5")
--- setManifestid(2487491,"888123113848326336")
+addappid(2487491, 1, "1e37f4d88a9db740c96419c506e84cca68cfc651e639c45af987f3d761fb61d5")

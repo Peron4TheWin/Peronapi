@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [Chilla's Art] Hanako | 花子さん
 addappid(1400290)
-addappid(1400291,0,"87b1d0bcdabbdbfea7f6a931dcf993a2efb8f23424c241d307d5e165d0a68fee")
--- setManifestid(1400291,"1173830559995254616")
+addappid(1400291, 1, "87b1d0bcdabbdbfea7f6a931dcf993a2efb8f23424c241d307d5e165d0a68fee")

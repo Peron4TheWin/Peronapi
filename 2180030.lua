@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Darkest Tales — Extended edition
 addappid(2180030)
-addappid(2180031,0,"36c66a9982d30a4e5ac4425697aab2ffcee7a912fe195fa0599cf1e13763268e")
--- setManifestid(2180031,"8790607833489974307")
+addappid(2180031, 1, "36c66a9982d30a4e5ac4425697aab2ffcee7a912fe195fa0599cf1e13763268e")

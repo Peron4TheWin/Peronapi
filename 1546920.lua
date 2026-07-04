@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Overboard!
 addappid(1546920)
-addappid(1546921,0,"b0aa3165b0cfd5a204a5be884fb0d360f1ba021a085c767305faeaba49acb2bd")
--- setManifestid(1546921,"578766069341251729")
+addappid(1546921, 1, "b0aa3165b0cfd5a204a5be884fb0d360f1ba021a085c767305faeaba49acb2bd")

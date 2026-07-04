@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Abolish
 addappid(3270210)
-addappid(3270211,0,"75254390528f254524332ac70da1eace770d7f4c45e3b446f334c0dbeedb0743")
--- setManifestid(3270211,"2235993868887801988")
+addappid(3270211, 1, "75254390528f254524332ac70da1eace770d7f4c45e3b446f334c0dbeedb0743")

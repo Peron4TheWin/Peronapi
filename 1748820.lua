@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Listen to the Wind - Soundtrack
 addappid(1748820)
-addappid(1748821,0,"e4f77ca709b6bae164cf99ffbdcc78d6801f5004ac1d7125c23aa5ec5ddc5a42")
--- setManifestid(1748821,"9047766421390629965")
+addappid(1748821, 1, "e4f77ca709b6bae164cf99ffbdcc78d6801f5004ac1d7125c23aa5ec5ddc5a42")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fargone
 addappid(2242100)
-addappid(2242101,0,"595e4ee90fca8e3ce84a14962cd1e2c3dd5000d065bd047a6ad34edf45cd9fcb")
--- setManifestid(2242101,"906551696202857617")
+addappid(2242101, 1, "595e4ee90fca8e3ce84a14962cd1e2c3dd5000d065bd047a6ad34edf45cd9fcb")

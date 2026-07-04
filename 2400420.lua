@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Land of the Survivors
 addappid(2400420)
-addappid(2400421,0,"d06713b28c15342dcd3c44c0b324fe8f03b5c6020dc2d66572f220d7d90172cc")
--- setManifestid(2400421,"8752058408475828741")
+addappid(2400421, 1, "d06713b28c15342dcd3c44c0b324fe8f03b5c6020dc2d66572f220d7d90172cc")

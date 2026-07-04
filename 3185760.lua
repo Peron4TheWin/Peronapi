@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tinkerlands Demo
 addappid(3185760)
-addappid(3185761,0,"416fbd9328cb15ec74dc68e1739f5955c865994842bc0a7f971c0b3085fbbb8b")
--- setManifestid(3185761,"8988338398322263681")
+addappid(3185761, 1, "416fbd9328cb15ec74dc68e1739f5955c865994842bc0a7f971c0b3085fbbb8b")

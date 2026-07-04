@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Rina
 addappid(2640980)
-addappid(2640981,0,"1496bc5d3da3e2aa61b17a4b4ad10661b350db0252a6b3425d07bee105b5b5dc")
--- setManifestid(2640981,"5396515720617431900")
+addappid(2640981, 1, "1496bc5d3da3e2aa61b17a4b4ad10661b350db0252a6b3425d07bee105b5b5dc")

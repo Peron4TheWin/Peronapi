@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Quake II
 addappid(2320)
-addappid(2321,0,"80fd8cab8082e032fd0702129b1a0e1d57ecedf155f5e6cfd3c8e1591bf18dc1")
+addappid(2321, 1, "80fd8cab8082e032fd0702129b1a0e1d57ecedf155f5e6cfd3c8e1591bf18dc1")

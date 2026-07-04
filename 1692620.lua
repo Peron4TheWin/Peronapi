@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Water Physics Simulation
 addappid(1692620)
-addappid(1692621,0,"7a2c6751adbf17da781ce4d873c249cff23c8510756cfbe01ba7bd8bd3cacc92")
--- setManifestid(1692621,"7664904655790213827")
+addappid(1692621, 1, "7a2c6751adbf17da781ce4d873c249cff23c8510756cfbe01ba7bd8bd3cacc92")

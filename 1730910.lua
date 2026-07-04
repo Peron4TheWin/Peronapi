@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero Road Online
 addappid(1730910)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1730911,0,"cb6a5b535587bce215374bedfa303d43db9cb9d3e20f61e3b072cb135b5e1e2b")
--- setManifestid(1730911,"5191861805763028503")
+addappid(1730911, 1, "cb6a5b535587bce215374bedfa303d43db9cb9d3e20f61e3b072cb135b5e1e2b")

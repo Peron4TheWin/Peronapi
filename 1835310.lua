@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Babba Yagga: Woodboy
 addappid(1835310)
-addappid(1835311,0,"da62385e080d9efaeaf878b92c6eee175ce7f4c68fa131af2bded9500558eb98")
--- setManifestid(1835311,"4894827377573807571")
+addappid(1835311, 1, "da62385e080d9efaeaf878b92c6eee175ce7f4c68fa131af2bded9500558eb98")

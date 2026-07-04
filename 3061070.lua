@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Valet Simulator: Parking & Business
 addappid(3061070)
-addappid(3061071,0,"675fc995f60e2ded16969056df49dad0a4271f2034923ad3e10d451b09cad679")
+addappid(3061071, 1, "675fc995f60e2ded16969056df49dad0a4271f2034923ad3e10d451b09cad679")

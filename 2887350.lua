@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fluffy Sailors
 addappid(2887350)
-addappid(228989)
-addappid(228990)
---setManifestid(228990,"1829726630299308803")
-addappid(2887351,0,"77b07113df5e3e5aedd87e7fc25570e14dc96c1528a62e85d170ad54314f8490")
---setManifestid(2887351,"2410982328743323182")
+addappid(2887351, 1, "77b07113df5e3e5aedd87e7fc25570e14dc96c1528a62e85d170ad54314f8490")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chroma: Bloom And Blight
 addappid(1140740)
-addappid(1140741,0,"b68cd533ba1d93b046d5416138f2bc9e4bd74fa59e5b44af3cb24f6b5ccc9b89")
+addappid(1140741, 1, "b68cd533ba1d93b046d5416138f2bc9e4bd74fa59e5b44af3cb24f6b5ccc9b89")

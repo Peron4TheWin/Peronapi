@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Goblin Walker
 addappid(834060)
-addappid(834061,0,"ffe3a01a055482849c15662853de94cb1c9c5e24f6e10878aa13825697f778cc")
--- setManifestid(834061,"5989960200985329860")
+addappid(834061, 1, "ffe3a01a055482849c15662853de94cb1c9c5e24f6e10878aa13825697f778cc")

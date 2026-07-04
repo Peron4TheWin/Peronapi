@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Stalked 2 Demo
 addappid(3255390)
-addappid(3255391,0,"34232d31b212faa9698afc0e743a7bd864f505cd4139e47acd62f440013f1d49")
--- setManifestid(3255391,"3192439941134861727")
+addappid(3255391, 1, "34232d31b212faa9698afc0e743a7bd864f505cd4139e47acd62f440013f1d49")

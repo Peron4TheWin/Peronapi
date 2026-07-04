@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Toy Tanks
 addappid(1345440)
-addappid(1345441,0,"37dd62596d98e2e4751c938633b2a0a579764586d36cf70ff8fca193a38d8cff")
--- setManifestid(1345441,"4736782061461727955")
+addappid(1345441, 1, "37dd62596d98e2e4751c938633b2a0a579764586d36cf70ff8fca193a38d8cff")

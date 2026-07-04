@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RETNE
 addappid(622380)
-addappid(622381,0,"e28b82f5bfd3158bd3cf80476b5550b605192ac2888c082abe487b858884dc37")
--- setManifestid(622381,"1897097648533011207")
+addappid(622381, 1, "e28b82f5bfd3158bd3cf80476b5550b605192ac2888c082abe487b858884dc37")

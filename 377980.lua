@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mortos
 addappid(377980)
-addappid(377981,0,"2d1f0e770b38ae7afd208c1580fa95cdbc20a7f4b8c28fb4b8cf74c6455c1d80")
--- setManifestid(377981,"61157870038746255")
+addappid(377981, 1, "2d1f0e770b38ae7afd208c1580fa95cdbc20a7f4b8c28fb4b8cf74c6455c1d80")

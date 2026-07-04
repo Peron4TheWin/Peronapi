@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mirror Quest Dog and Cat
 addappid(3534040)
-addappid(3534041,0,"281bea067d240e9ac479cb86d90f4f8bf7027264319eb382dd0e0ff86c2ac6b6")
--- setManifestid(3534041,"8959235336488203837")
+addappid(3534041, 1, "281bea067d240e9ac479cb86d90f4f8bf7027264319eb382dd0e0ff86c2ac6b6")

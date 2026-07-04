@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lethis - Path of Progress
+addappid(359230)
+addappid(359231, 1, "273356336a6ae128fe82f5643295783184454d7551b1bb0c800bc07bbe4b936a")

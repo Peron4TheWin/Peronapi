@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SCP: Observer
 addappid(1738710)
-addappid(1738711,0,"a8432bf12cd20aadbf1b86773dcc557de787edecc13d15265250002d339d49ef")
--- setManifestid(1738711,"5814082351930123780")
+addappid(1738711, 1, "a8432bf12cd20aadbf1b86773dcc557de787edecc13d15265250002d339d49ef")

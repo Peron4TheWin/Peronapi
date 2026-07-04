@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LOLLIPOP CHAINSAW RePOP
 addappid(2658450)
-addappid(2658451,0,"d3c09b507a343a7ba3c75abd0ce562ceb1c9f33c4a5c840a65bf5f245df9d891")
--- setManifestid(2658451,"5845875658734906345")
+addappid(2658451, 1, "d3c09b507a343a7ba3c75abd0ce562ceb1c9f33c4a5c840a65bf5f245df9d891")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Soul Stone War
 addappid(1222400)
-addappid(1222401,0,"1cdec400beb5cc02dce63939b5c5a55407af7df749d29a25ff614b9390d9b588")
--- setManifestid(1222401,"7209288908349594338")
+addappid(1222401, 1, "1cdec400beb5cc02dce63939b5c5a55407af7df749d29a25ff614b9390d9b588")

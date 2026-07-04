@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HOT MAGIC SAUSAGE
 addappid(2934880)
-addappid(2934881,0,"e5089daa76ccddf24acb57fc136b0f8e3f19507b0347fe194c77d0404af799ea")
--- setManifestid(2934881,"996106696155850983")
+addappid(2934881, 1, "e5089daa76ccddf24acb57fc136b0f8e3f19507b0347fe194c77d0404af799ea")

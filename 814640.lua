@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sleepwalker
 addappid(814640)
-addappid(814641,0,"fc596f287b72922132a772530e098142a212bcf9e574f4ab0e93a7f01476c3ef")
--- setManifestid(814641,"5852127245459924071")
+addappid(814641, 1, "fc596f287b72922132a772530e098142a212bcf9e574f4ab0e93a7f01476c3ef")

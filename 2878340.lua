@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Climb Challenge - Find Items 5
 addappid(2878340)
-addappid(2878341,0,"3b46c26c33af43b313c9886716a233e86c7c546ecea4173af5219e6f256ff5c1")
--- setManifestid(2878341,"5731656040397119786")
+addappid(2878341, 1, "3b46c26c33af43b313c9886716a233e86c7c546ecea4173af5219e6f256ff5c1")

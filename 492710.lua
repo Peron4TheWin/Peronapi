@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Ping Pong
 addappid(492710)
-addappid(492711,0,"95742363d21c4a3ec9c692b07901c6e3aa3d414614d6ed6f4ea3c9d46ad844ff")
--- setManifestid(492711,"5529140741288442858")
+addappid(492711, 1, "95742363d21c4a3ec9c692b07901c6e3aa3d414614d6ed6f4ea3c9d46ad844ff")

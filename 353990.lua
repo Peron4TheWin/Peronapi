@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Parvaneh: Legacy of the Light's Guardians
 addappid(353990)
-addappid(353991,0,"4b73a004651877c8bd5cd60e4ffc7c583c211a8261dee8230238c2a9015b4bfb")
--- setManifestid(353991,"8081329421302667748")
+addappid(353991, 1, "4b73a004651877c8bd5cd60e4ffc7c583c211a8261dee8230238c2a9015b4bfb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Romance of the Three Kingdoms VI with Power Up Kit
 addappid(628020)
-addappid(628021,0,"ada7f5494e8c6435c0b64ba25a4a9704dbf359dd08a7b46a350bc413a6231c0d")
--- setManifestid(628021,"6283673938439007013")
+addappid(628021, 1, "ada7f5494e8c6435c0b64ba25a4a9704dbf359dd08a7b46a350bc413a6231c0d")

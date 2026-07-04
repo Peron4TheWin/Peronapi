@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Meet Cute: Cafe 🐾
 addappid(1879190)
-addappid(1879191,0,"98ce2585de025de2ab9f7de429a1bee489ece1dad767e53d4c3ae0ecc957aaba")
--- setManifestid(1879191,"6821933269133977173")
+addappid(1879191, 1, "98ce2585de025de2ab9f7de429a1bee489ece1dad767e53d4c3ae0ecc957aaba")
+addappid(1895530, 0, "b9e252ce98d38da2b3bf93bd96c1322410621f580055f64bcb6b98b4ee55bbaf")

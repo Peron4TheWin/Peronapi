@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hunting Unlimited 4
 addappid(545920)
-addappid(545921,0,"a99252e47be2f310c1792af672fa752ea9e7c3d659f1ee9652ddc3b5d2dd5054")
--- setManifestid(545921,"3299425035831553910")
+addappid(545921, 1, "a99252e47be2f310c1792af672fa752ea9e7c3d659f1ee9652ddc3b5d2dd5054")

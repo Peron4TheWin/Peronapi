@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JellyCar Worlds
 addappid(1740930)
-addappid(1740931,0,"cc486935ac58fd11a4919c4b73fc58446b2114a73f34b202ae216db0c6021c82")
--- setManifestid(1740931,"4511599047667763833")
+addappid(1740931, 1, "cc486935ac58fd11a4919c4b73fc58446b2114a73f34b202ae216db0c6021c82")

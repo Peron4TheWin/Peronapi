@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unsafe Express
 addappid(1756160)
-addappid(1756161,0,"0de302ceac41e7f5a88af651119782dbc837e58618e925e2c2e011017033323e")
--- setManifestid(1756161,"1587798876334628956")
+addappid(1756161, 1, "0de302ceac41e7f5a88af651119782dbc837e58618e925e2c2e011017033323e")

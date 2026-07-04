@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arcana: Heat and Cold. Stories
 addappid(2426310)
-addappid(2426311,0,"515a420da560be0a60e02e22f7b464a506e692ba5f68d8b8af1206e8fdaf7e61")
--- setManifestid(2426311,"5434112050429696185")
+addappid(2426311, 1, "515a420da560be0a60e02e22f7b464a506e692ba5f68d8b8af1206e8fdaf7e61")

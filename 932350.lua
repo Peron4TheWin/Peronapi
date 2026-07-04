@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Intelligence: Dogs
 addappid(932350)
-addappid(932351,0,"209cf70840072bfb0364ef9bc397031bc68c067291dd372492863f7efd1e2806")
--- setManifestid(932351,"5331242064763101975")
+addappid(932351, 1, "209cf70840072bfb0364ef9bc397031bc68c067291dd372492863f7efd1e2806")
+addappid(936910)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aim Down Screen
 addappid(2755450)
-addappid(2755451,0,"d73afa28be0a1b4fc40eb7df8fa31c4aedc4f766f2de1aa97f21e0be3b3c5eab")
--- setManifestid(2755451,"3776248015673715733")
+addappid(2755451, 1, "d73afa28be0a1b4fc40eb7df8fa31c4aedc4f766f2de1aa97f21e0be3b3c5eab")

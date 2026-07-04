@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Defentron
 addappid(1475970)
-addappid(1475971,0,"697fe403c0fe499530fdd706bd9175ee7ed3399bd9866c23b8b4f6135eb0cbad")
--- setManifestid(1475971,"8416377146826657286")
+addappid(1475971, 1, "697fe403c0fe499530fdd706bd9175ee7ed3399bd9866c23b8b4f6135eb0cbad")

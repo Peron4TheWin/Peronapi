@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: History of Football World Cup
 addappid(1745040)
-addappid(1745041,0,"f8a46759383b3d212b35bad6155a34c33747bdbaf419614cdfc3dfdf7cf8822e")
--- setManifestid(1745041,"2704638923156612864")
-addappid(1745042,0,"90aa7b55ad93649dc3be1251ed772f44d4a593a7697ff0411f61e7de7766061b")
--- setManifestid(1745042,"6338668490820407206")
+addappid(1745041, 1, "f8a46759383b3d212b35bad6155a34c33747bdbaf419614cdfc3dfdf7cf8822e")

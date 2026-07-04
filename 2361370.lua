@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sandbox:God Simulator
 addappid(2361370)
-addappid(2361371,0,"3f70cde6a15b5a6c85735f91527f80e2f7ec50f1b701ea9426299cd68b1079a9")
--- setManifestid(2361371,"5919277500429062298")
+addappid(2361371, 1, "3f70cde6a15b5a6c85735f91527f80e2f7ec50f1b701ea9426299cd68b1079a9")

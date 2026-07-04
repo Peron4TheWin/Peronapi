@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ASSASSINATION STATION
 addappid(683430)
-addappid(683431,0,"2a81bcf3d9d25ea62171f8852b29ced61a26cbc4c8827a49ffd655f8926806e8")
--- setManifestid(683431,"527709988272119619")
+addappid(683431, 1, "2a81bcf3d9d25ea62171f8852b29ced61a26cbc4c8827a49ffd655f8926806e8")

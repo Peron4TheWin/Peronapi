@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rune in the Three Kingdoms
 addappid(2398720)
-addappid(2398721,0,"c9916ac6a54a2565ac2a10d9703b5f0f440834a39db82ad5fe06a85838c5923f")
--- setManifestid(2398721,"6482417406716716399")
+addappid(2398721, 1, "c9916ac6a54a2565ac2a10d9703b5f0f440834a39db82ad5fe06a85838c5923f")

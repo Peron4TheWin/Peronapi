@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wild Country
 addappid(1515000)
-addappid(1515001,0,"6ffc78575968fa5dd31dc3de66728cf505071b3cf5ec10024201b811c0905203")
--- setManifestid(1515001,"9093584545577119339")
+addappid(1515001, 1, "6ffc78575968fa5dd31dc3de66728cf505071b3cf5ec10024201b811c0905203")

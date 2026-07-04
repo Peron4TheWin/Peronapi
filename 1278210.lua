@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Raiders in Space
 addappid(1278210)
-addappid(1278211,0,"a60876864015a3d7751ab30509157c66cdfbdd23cebe5304c7002c6378f21077")
--- setManifestid(1278211,"8716924740750154409")
+addappid(1278211, 1, "a60876864015a3d7751ab30509157c66cdfbdd23cebe5304c7002c6378f21077")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kung Fu School
 addappid(2203510)
-addappid(2203511,0,"675e778af9d38c7483b671c7dd732d7023fda955411781ce2d8dc1a8cb94002a")
+addappid(2203511, 1, "675e778af9d38c7483b671c7dd732d7023fda955411781ce2d8dc1a8cb94002a")

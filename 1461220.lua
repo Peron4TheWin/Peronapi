@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wait! Where's My Lunch
 addappid(1461220)
-addappid(1461221,0,"d78078b42b4e19b1528cb26fecce3120c8f6e6bb84d3cc223b67898320823777")
--- setManifestid(1461221,"7839307494670918578")
+addappid(1461221, 1, "d78078b42b4e19b1528cb26fecce3120c8f6e6bb84d3cc223b67898320823777")

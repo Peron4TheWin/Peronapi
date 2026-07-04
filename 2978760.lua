@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zero Orders Tactics Demo
 addappid(2978760)
-addappid(2978761,0,"ce5f5893c819e6cea269058b9e4d0fbfcc5b297480ff5a0add65675127cc78f8")
--- setManifestid(2978761,"2750320111120144422")
+addappid(2978761, 1, "ce5f5893c819e6cea269058b9e4d0fbfcc5b297480ff5a0add65675127cc78f8")

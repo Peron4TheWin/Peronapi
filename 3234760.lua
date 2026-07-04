@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Orange Roulette
 addappid(3234760)
-addappid(3234761,0,"29475705b2fe8497831bc768dcc95f0cf7007d651b9fbd3137d00a0ed8126259")
--- setManifestid(3234761,"8148670514452587426")
+addappid(3234761, 1, "29475705b2fe8497831bc768dcc95f0cf7007d651b9fbd3137d00a0ed8126259")

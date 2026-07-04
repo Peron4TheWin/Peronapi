@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Temple
 addappid(886040)
-addappid(886041,0,"0f093fa61e13167f48be3ebd107f144cc073e302ba70af158f15259f59c83d1f")
--- setManifestid(886041,"3861841142657166254")
+addappid(886041, 1, "0f093fa61e13167f48be3ebd107f144cc073e302ba70af158f15259f59c83d1f")

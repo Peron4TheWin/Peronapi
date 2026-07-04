@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game Localization
 addappid(1438940)
-addappid(1438941,0,"6a1a157f975fe22cb240ffd82dda46dd24b0e8e362deb7933034a665f56428cc")
--- setManifestid(1438941,"6169579612138908747")
+addappid(1438941, 1, "6a1a157f975fe22cb240ffd82dda46dd24b0e8e362deb7933034a665f56428cc")

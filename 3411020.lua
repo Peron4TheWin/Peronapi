@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Villages & Dungeons
 addappid(3411020)
-addappid(3411021,0,"2a147d92b887763ad62d27ee4a67a4f720b65a95c1468a5ae33ba5ecc11be8b5")
--- setManifestid(3411021,"2195297317457768016")
+addappid(3411021, 1, "2a147d92b887763ad62d27ee4a67a4f720b65a95c1468a5ae33ba5ecc11be8b5")

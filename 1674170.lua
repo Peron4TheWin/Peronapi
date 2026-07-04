@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sprocket
 addappid(1674170)
--- setManifestid(228990,"1829726630299308803")
-addappid(1674171,0,"499f4c7f29d6fce3e91d26828c4520d13d5dfc7a4b88ba43d5fe01959baaec54")
--- setManifestid(1674171,"3556565309499543539")
+addappid(1674171, 1, "499f4c7f29d6fce3e91d26828c4520d13d5dfc7a4b88ba43d5fe01959baaec54")

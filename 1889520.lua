@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Истории ужасов: Воскрешение
 addappid(1889520)
-addappid(1889521,0,"56381695f48fe4a61cf0859350acd38eeb5bf2d04e03cb7a06b23db0b7671441")
--- setManifestid(1889521,"2170844255754332536")
+addappid(1889521, 1, "56381695f48fe4a61cf0859350acd38eeb5bf2d04e03cb7a06b23db0b7671441")

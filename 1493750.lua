@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Evil Dead: The Game
 addappid(1493750)
-addappid(1493751,0,"3011c24d44b125bdf6af3f40424f7eb8c58639dca083ec2373e4f6a780f296c7")
+addappid(1493751, 1, "3011c24d44b125bdf6af3f40424f7eb8c58639dca083ec2373e4f6a780f296c7")

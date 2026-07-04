@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Racket Club
 addappid(2407910)
-addappid(2407911,0,"8b22b457d184fd412504af6682eced1b534e6b2042feb067d176cc77141634ed")
--- setManifestid(2407911,"7955645071024896952")
+addappid(2407911, 1, "8b22b457d184fd412504af6682eced1b534e6b2042feb067d176cc77141634ed")

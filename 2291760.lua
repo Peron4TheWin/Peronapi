@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Papa's Freezeria Deluxe
 addappid(2291760)
-addappid(2291761,0,"c5bf30da62c0300434752fc3d2d500919fd2440096a04cc27991a87fc3998196")
--- setManifestid(2291761,"7676376901330507066")
+addappid(2291761, 1, "c5bf30da62c0300434752fc3d2d500919fd2440096a04cc27991a87fc3998196")

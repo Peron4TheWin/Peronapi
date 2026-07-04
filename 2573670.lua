@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fragment: A Story in Growing
 addappid(2573670)
-addappid(2573671,0,"2fbcb4d7755abf264fc38940404a22496aca025fccc5a653252342717998a771")
--- setManifestid(2573671,"3064925160037695882")
+addappid(2573671, 1, "2fbcb4d7755abf264fc38940404a22496aca025fccc5a653252342717998a771")

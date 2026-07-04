@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trainpunk Run
 addappid(819470)
-addappid(819471,0,"e5ad73bc11f025e0a6427a892eb2ada2ee30cfbd4171f78a56252f3ce407159a")
--- setManifestid(819471,"1311185844018249961")
+addappid(819471, 1, "e5ad73bc11f025e0a6427a892eb2ada2ee30cfbd4171f78a56252f3ce407159a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Diving Focus Demo
 addappid(3095850)
-addappid(3095851,0,"97050435534a9ce08eba4ade47fd225c29ef81667bbf0735471fdd64b1a5a8ea")
--- setManifestid(3095851,"2670982504652946859")
+addappid(3095851, 1, "97050435534a9ce08eba4ade47fd225c29ef81667bbf0735471fdd64b1a5a8ea")

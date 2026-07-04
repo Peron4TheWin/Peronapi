@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Erotic Rhythm
 addappid(3226190)
-addappid(3226191,0,"b4abd2588a37fa811397cab88491976314116b06eeb449c56ff4a322d16cd355")
--- setManifestid(3226191,"496418107438577019")
+addappid(3226191, 1, "b4abd2588a37fa811397cab88491976314116b06eeb449c56ff4a322d16cd355")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Creeper World IXE
 addappid(2257010)
-addappid(2257011,0,"ce36e6c98c6147f97538dec5ded6171d705e6d04ff37e82515f2563ee16e719c")
--- setManifestid(2257011,"3103139956562880307")
+addappid(2257011, 1, "ce36e6c98c6147f97538dec5ded6171d705e6d04ff37e82515f2563ee16e719c")

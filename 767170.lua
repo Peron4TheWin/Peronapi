@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dolphins-cyborgs and open space
 addappid(767170)
-addappid(767171,0,"a1c1162e192327deccc453743beb7d5534d537ebd6c19daba2f0b5d0acaaf196")
--- setManifestid(767171,"8196963989910084896")
+addappid(767171, 1, "a1c1162e192327deccc453743beb7d5534d537ebd6c19daba2f0b5d0acaaf196")

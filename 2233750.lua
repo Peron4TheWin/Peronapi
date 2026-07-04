@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Koltera
 addappid(2233750)
--- setManifestid(228989,"3514306556860204959")
-addappid(2233751,0,"8a0a6aefe8076025e122fb91c92ee20472c14a4195f6734c6dec95c3ce91fe79")
--- setManifestid(2233751,"4073098112500849599")
+addappid(2233751, 1, "8a0a6aefe8076025e122fb91c92ee20472c14a4195f6734c6dec95c3ce91fe79")

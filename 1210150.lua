@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ageless
 addappid(1210150)
-addappid(1210151,0,"b4eb6231d06ea5f1fbb42334ef559fd5487c9c1b330fdec36ed3b5f45cdaa436")
--- setManifestid(1210151,"8665035376285437086")
+addappid(1210151, 1, "b4eb6231d06ea5f1fbb42334ef559fd5487c9c1b330fdec36ed3b5f45cdaa436")

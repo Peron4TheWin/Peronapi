@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Due Process - Original Soundtrack
 addappid(1486040)
-addappid(1486041,0,"3798caf676df0d23de0fb7d9d0aa50629651fe85d2e8c2156fe551f50b118de8")
--- setManifestid(1486041,"7322910367073208740")
+addappid(1486041, 1, "3798caf676df0d23de0fb7d9d0aa50629651fe85d2e8c2156fe551f50b118de8")

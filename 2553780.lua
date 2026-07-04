@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Subject Debris
 addappid(2553780)
-addappid(2553781,0,"fa03c4a98af3cb24e02d0585434dcf5c222799fa633e8a86bef2ac33d80c1cc2")
--- setManifestid(2553781,"5510993852867223442")
+addappid(2553781, 1, "fa03c4a98af3cb24e02d0585434dcf5c222799fa633e8a86bef2ac33d80c1cc2")

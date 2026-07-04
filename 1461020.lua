@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Attack of the Mechadonk - The ultimate donkey
 addappid(1461020)
-addappid(1461021,0,"272b25e9c843feaf0051cbc48707aeab0970a345b7733e7fad5c84f37df9a35c")
--- setManifestid(1461021,"1375442160136608697")
+addappid(1461021, 1, "272b25e9c843feaf0051cbc48707aeab0970a345b7733e7fad5c84f37df9a35c")

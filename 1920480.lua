@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: River City Girls 2
 addappid(1920480)
-addappid(1920481,0,"4dea88c426d346744fcba6cbeb2b911ff4fc46c41cb1fd7ef7e6c1867b4449ea")
---setManifestid(1920481,"3543865670558870267")
+addappid(1920481, 1, "4dea88c426d346744fcba6cbeb2b911ff4fc46c41cb1fd7ef7e6c1867b4449ea")
+addappid(2787870)

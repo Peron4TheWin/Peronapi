@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ranocta
 addappid(2791380)
-addappid(2791381,0,"288aa6b4a9d4e405cb1a9279bbfb871f36fe1696186e0c4def1e02394340eb51")
--- setManifestid(2791381,"16814489926365145")
+addappid(2791381, 1, "288aa6b4a9d4e405cb1a9279bbfb871f36fe1696186e0c4def1e02394340eb51")

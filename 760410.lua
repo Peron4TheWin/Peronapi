@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don't Be Afraid
 addappid(760410)
-addappid(760411,0,"f3810f594c588f64d1740d067f0f4f2749ec5eb176b690f05d53dc67ac090a8a")
--- setManifestid(760411,"5549077768361407579")
+addappid(760411, 1, "f3810f594c588f64d1740d067f0f4f2749ec5eb176b690f05d53dc67ac090a8a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Hospital 4
 addappid(3009820)
-addappid(3009821,0,"950e31b10694ea7150e86332e28a131c2be1509bd2576d0282fa1e2b5acc8788")
--- setManifestid(3009821,"3203908306993856692")
+addappid(3009821, 1, "950e31b10694ea7150e86332e28a131c2be1509bd2576d0282fa1e2b5acc8788")

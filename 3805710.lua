@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Treasure Tiger
 addappid(3805710)
-addappid(3805711,0,"471f6a8a20c13034b2125826a56049a843eb6072d310f12d95c95f947c8f65dc")
+addappid(3805711, 1, "471f6a8a20c13034b2125826a56049a843eb6072d310f12d95c95f947c8f65dc")

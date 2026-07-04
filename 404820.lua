@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ragdoll Runners
 addappid(404820)
-addappid(404821,0,"ced907a73500663c9b6c5f3793055bf790a807439f8cb59ef0f7961494f233e0")
--- setManifestid(404821,"6801710583210392632")
+addappid(404821, 1, "ced907a73500663c9b6c5f3793055bf790a807439f8cb59ef0f7961494f233e0")

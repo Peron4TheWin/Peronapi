@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starfend
 addappid(2540820)
-addappid(2540821,0,"fb81e818eddee2ca0d8a27cb9701382ee5f552250aed8d757c9747fe22d8b5df")
--- setManifestid(2540821,"9205429278237543635")
+addappid(2540821, 1, "fb81e818eddee2ca0d8a27cb9701382ee5f552250aed8d757c9747fe22d8b5df")

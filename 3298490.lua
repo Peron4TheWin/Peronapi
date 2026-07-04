@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soul Rush
 addappid(3298490)
-addappid(3298491,0,"baacaa3a5cac62cacda5cfb57f41ca23f29de39bda99ab7b179910a3f27b2514")
--- setManifestid(3298491,"356614204625927197")
+addappid(3298491, 1, "baacaa3a5cac62cacda5cfb57f41ca23f29de39bda99ab7b179910a3f27b2514")

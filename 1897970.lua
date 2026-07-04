@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Island: Aroma
 addappid(1897970)
-addappid(1897971,0,"c8d65b216d5f82f7fc3138842233ad1ee68bb44baaed55c14debc1994781e6dd")
--- setManifestid(1897971,"9016580784390642820")
+addappid(1897971, 1, "c8d65b216d5f82f7fc3138842233ad1ee68bb44baaed55c14debc1994781e6dd")

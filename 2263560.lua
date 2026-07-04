@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eternal Fidelity
 addappid(2263560)
-addappid(2263561,0,"de7e3bb157517934e2d014766e588058d1b3fafe6ee1e5c28faaa59342ca2b39")
--- setManifestid(2263561,"3574416645446978054")
+addappid(2263561, 1, "de7e3bb157517934e2d014766e588058d1b3fafe6ee1e5c28faaa59342ca2b39")

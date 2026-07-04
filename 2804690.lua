@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mindcop Demo
 addappid(2804690)
-addappid(2804691,0,"9b2c98f25acee88e6923a2d2b056b51ca2550fd30d1d342c775ed371ff156cc5")
--- setManifestid(2804691,"8484742744776734244")
+addappid(2804691, 1, "9b2c98f25acee88e6923a2d2b056b51ca2550fd30d1d342c775ed371ff156cc5")

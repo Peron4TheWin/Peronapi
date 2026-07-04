@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ERROR143
 addappid(2066550)
-addappid(2066551,0,"c57ffd2602bd94769b1df09ed4e7a52fd99c8372cdd79dae39d54fd9942bfe8c")
+addappid(2066551, 1, "c57ffd2602bd94769b1df09ed4e7a52fd99c8372cdd79dae39d54fd9942bfe8c")

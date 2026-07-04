@@ -1,6 +1,4 @@
-
-addappid(3180070) -- No, I'm not a Human
-addappid(3180071, 1, "46e2cd1b157fec728146480948f03addd84b05ad244310eea46c81c3ebb47971") -- Depot 3180071
--- setManifestid(3180071, "6481422090201577381", 863359556)
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
--- setManifestid(228989, "3514306556860204959", 39590283)
+-- Lua provided by SkyAPI 
+-- Game: No, I'm not a Human
+addappid(3180070)
+addappid(3180071, 1, "46e2cd1b157fec728146480948f03addd84b05ad244310eea46c81c3ebb47971")

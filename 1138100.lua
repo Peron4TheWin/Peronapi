@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Ibunseki - Ayaria Dawn: ReCreation
 addappid(1138100)
-addappid(1138101,0,"0a8143bfc5aba3e56e69f920f36540e3dfebed1a33340e47f2dc7472ed906f69")
--- setManifestid(1138101,"2957358221172909301")
+addappid(1138101, 1, "0a8143bfc5aba3e56e69f920f36540e3dfebed1a33340e47f2dc7472ed906f69")

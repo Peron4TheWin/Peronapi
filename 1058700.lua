@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LOVE³ -Love Cube- Demo
 addappid(1058700)
-addappid(1058701,0,"fc85588def428298ff16c9637e2bf2dea1ff44331c0083271f491d753b5bcb1c")
--- setManifestid(1058701,"7347869389343562380")
+addappid(1058701, 1, "fc85588def428298ff16c9637e2bf2dea1ff44331c0083271f491d753b5bcb1c")

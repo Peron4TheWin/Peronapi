@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crimson Song - Yuri Visual Novel
 addappid(2191100)
-addappid(2191101,0,"8ffdca3da75efb1584ca48be3d916d92a319d745237e1109f65d6f9613ef55ff")
--- setManifestid(2191101,"2568555498273985622")
+addappid(2191101, 1, "8ffdca3da75efb1584ca48be3d916d92a319d745237e1109f65d6f9613ef55ff")

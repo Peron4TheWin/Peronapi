@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hobo Knight
 addappid(1054030)
-addappid(1054031,0,"97d5099a6001a1c7d1d460a972100981580ccfb53191e8d0ccf5036f8bb7a4f8")
--- setManifestid(1054031,"637498934661491268")
+addappid(1054031, 1, "97d5099a6001a1c7d1d460a972100981580ccfb53191e8d0ccf5036f8bb7a4f8")

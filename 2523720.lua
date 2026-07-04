@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gears of War: Reloaded
 addappid(2523720)
-addappid(2523721,0,"3e44ca039e0a56e928a0f15185ec4dd1a6122548cafccbeeb625c4af6b7fdaaa")
--- setManifestid(2523721,"7848695509184653364")
+addappid(2523721, 1, "3e44ca039e0a56e928a0f15185ec4dd1a6122548cafccbeeb625c4af6b7fdaaa")

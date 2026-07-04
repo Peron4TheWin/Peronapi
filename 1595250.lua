@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dirty Blood
 addappid(1595250)
-addappid(1595251,0,"089cdc3c9b27063411c72acf0b84edd4734bb3182544cfa03c70cf1973e73679")
--- setManifestid(1595251,"3344578455311265775")
+addappid(1595251, 1, "089cdc3c9b27063411c72acf0b84edd4734bb3182544cfa03c70cf1973e73679")

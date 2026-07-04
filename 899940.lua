@@ -1,7 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: 校园恋物语|Love in School
 addappid(899940)
-addappid(899942,0,"bacb8d9fa418462b56df9c48071bc0eb0e22bd53b715f8e54bfb6f939fa7eb81")
--- setManifestid(899942,"8594742620319698476")
-addappid(899941,0,"5dfebe46ca8f6ea39ade4a0c7f4ee40521ffc32551d9bd717b182a4c72db8d5a")
--- setManifestid(899941,"8264153566783127891")
-addappid(911861)
+addappid(899941, 1, "5dfebe46ca8f6ea39ade4a0c7f4ee40521ffc32551d9bd717b182a4c72db8d5a")
 addappid(911860)

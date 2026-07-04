@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Psychopath Massacre
 addappid(2917620)
-addappid(2917621,0,"05f8167020accdf1cbeaebe90533512c9905e9830b96941cfa5b4ba73a4fb296")
--- setManifestid(2917621,"6279183365579967381")
+addappid(2917621, 1, "05f8167020accdf1cbeaebe90533512c9905e9830b96941cfa5b4ba73a4fb296")

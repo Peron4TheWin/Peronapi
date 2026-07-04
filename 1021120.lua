@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PraeBot
 addappid(1021120)
-addappid(1021121,0,"bbb036ea6d76287a8b0379bc7520a9affc50bd07eb58d8678825b7fdd1cebc6a")
--- setManifestid(1021121,"845639400036205078")
+addappid(1021121, 1, "bbb036ea6d76287a8b0379bc7520a9affc50bd07eb58d8678825b7fdd1cebc6a")

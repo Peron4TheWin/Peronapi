@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gensokyo Night Festival
 addappid(1122050)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(1122051,0,"5974f8138ac0f50856b879f4e85bced29cb0ad8a28075d48a59a2010ac5faa9c")
--- setManifestid(1122051,"4057178493431443145")
+addappid(1122051, 1, "5974f8138ac0f50856b879f4e85bced29cb0ad8a28075d48a59a2010ac5faa9c")

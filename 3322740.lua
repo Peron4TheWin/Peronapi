@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gaung
 addappid(3322740)
-addappid(3322741,0,"5e6127bdbb991d7d5e5918884d3fc09d49742ce42f7ea5b7cc59165c31fb8f9c")
--- setManifestid(3322741,"6204461199507109661")
+addappid(3322741, 1, "5e6127bdbb991d7d5e5918884d3fc09d49742ce42f7ea5b7cc59165c31fb8f9c")

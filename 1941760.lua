@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Irritability & Mood Swings
 addappid(1941760)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1941761,0,"fc610e4bef14d9216549f8e217b17d2afee63472d00ec0e5b7f1c6df60621c70")
--- setManifestid(1941761,"7505520512914467057")
+addappid(1941761, 1, "fc610e4bef14d9216549f8e217b17d2afee63472d00ec0e5b7f1c6df60621c70")

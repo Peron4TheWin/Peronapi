@@ -1,4 +1,6 @@
-addappid(3199650) -- Pathologic 3
-addappid(3199651, 1, "5a843f4bb384528f9d115b2fb887b607b71c549a756fc80aa7af67bb07344f3a")
-addappid(4250480) -- Pathologic 3 - Supporter Pack
-addappid(4284630) -- Pathologic 3 - Polyhedral Room
+-- Lua provided by SkyAPI 
+-- Game: Pathologic 3
+addappid(3199650)
+addappid(3199651, 1, "5A843F4BB384528F9D115B2FB887B607B71C549A756FC80AA7AF67BB07344F3A")
+addappid(4250480)
+addappid(4284630)

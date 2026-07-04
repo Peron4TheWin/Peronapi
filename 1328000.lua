@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zombie Shooting Star
 addappid(1328000)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(1328001,0,"5a085a918af4b12b7f5fe3c4810571f4fee6573715a63f3d328a6b8e4d872a7e")
--- setManifestid(1328001,"4512877846008151061")
+addappid(1328001, 1, "5a085a918af4b12b7f5fe3c4810571f4fee6573715a63f3d328a6b8e4d872a7e")

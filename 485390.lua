@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Machine Made: Rebirth
 addappid(485390)
-addappid(485391,0,"eb34e918031b1838b14af22ec7bbc709f5acbd3a5c2430a1a5ba2a11376faace")
--- setManifestid(485391,"5125488190574750142")
+addappid(485391, 1, "eb34e918031b1838b14af22ec7bbc709f5acbd3a5c2430a1a5ba2a11376faace")

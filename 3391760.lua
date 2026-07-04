@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kill Ze Bugs Demo
 addappid(3391760)
-addappid(3391761,0,"065d9b0a8b7bce314baa065cd0ec5f8e1c77b48289826870befcc1344cef7483")
--- setManifestid(3391761,"2767503595117291738")
+addappid(3391761, 1, "065d9b0a8b7bce314baa065cd0ec5f8e1c77b48289826870befcc1344cef7483")

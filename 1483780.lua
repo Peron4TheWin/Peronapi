@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tested on Humans: Escape Room
 addappid(1483780)
-addappid(1483781,0,"f3930df322fac20435286c042e284b9193431a8323c5d39839dad7a79a8de7ef")
+addappid(1483781, 1, "f3930df322fac20435286c042e284b9193431a8323c5d39839dad7a79a8de7ef")

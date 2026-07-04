@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cut
 addappid(1850480)
-addappid(1850481,0,"3fff02b20ceb911864bad4fb2af345a5fec583d67fc913cbf53eb27d7169717b")
--- setManifestid(1850481,"3890490407306855376")
+addappid(1850481, 1, "3fff02b20ceb911864bad4fb2af345a5fec583d67fc913cbf53eb27d7169717b")

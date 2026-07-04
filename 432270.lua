@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Seat?
 addappid(432270)
-addappid(432271,0,"12efba2f23075611eafee9a11912bb8f0bc84898400e1d46a2f769c916c6a1a1")
--- setManifestid(432271,"5135812952428334137")
+addappid(432271, 1, "12efba2f23075611eafee9a11912bb8f0bc84898400e1d46a2f769c916c6a1a1")

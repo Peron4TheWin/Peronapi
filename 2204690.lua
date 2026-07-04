@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou ~Red Empress Devil. DEMO
 addappid(2204690)
-addappid(2204691,0,"a0da95f029fff4591d567593b7990b7b33a75e27ea909bed9c06542b368200a5")
--- setManifestid(2204691,"7723803394553946995")
+addappid(2204691, 1, "a0da95f029fff4591d567593b7990b7b33a75e27ea909bed9c06542b368200a5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soccer Rage
 addappid(356510)
-addappid(356511,0,"dc4ba54cc902145a6eba8680e270ea6a79785edc22a0482dd50f8e09315990f5")
--- setManifestid(356511,"5108478975243683692")
+addappid(356511, 1, "dc4ba54cc902145a6eba8680e270ea6a79785edc22a0482dd50f8e09315990f5")

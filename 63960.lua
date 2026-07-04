@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Theatre of War 3: Korea
 addappid(63960)
+addappid(63961, 1, "424de56ec177abe443b35a746afde4cfecfb0fe73b97a0ed0be21b7b883937a1")
 addappid(229000)
-addappid(63961,0,"424de56ec177abe443b35a746afde4cfecfb0fe73b97a0ed0be21b7b883937a1")

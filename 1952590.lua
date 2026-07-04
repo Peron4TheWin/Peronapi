@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Future Racer 2000
 addappid(1952590)
-addappid(1952591,0,"3244c69db98a5a9ebae76459eb0376a7624b9f41eda189d2d796fa3599ef6d60")
--- setManifestid(1952591,"3073692895258793304")
+addappid(1952591, 1, "3244c69db98a5a9ebae76459eb0376a7624b9f41eda189d2d796fa3599ef6d60")

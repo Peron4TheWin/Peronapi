@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Siralim Ultimate Chiptune Soundtrack
 addappid(3685140)
-addappid(3685141,0,"4358e1588b8ec150cb4e508f769af45f1c08ae16bddbfc90901baa7de291da6b")
--- setManifestid(3685141,"9005052842119043928")
+addappid(3685141, 1, "4358e1588b8ec150cb4e508f769af45f1c08ae16bddbfc90901baa7de291da6b")

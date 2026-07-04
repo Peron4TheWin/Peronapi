@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lorelei and the Laser Eyes - Original Soundtrack
 addappid(2940730)
-addappid(2940731,0,"015a07883cae5b0c53e152eaa38069be52e052bda8392936f58b4058d1a837eb")
--- setManifestid(2940731,"5965909154233022210")
+addappid(2940731, 1, "015a07883cae5b0c53e152eaa38069be52e052bda8392936f58b4058d1a837eb")

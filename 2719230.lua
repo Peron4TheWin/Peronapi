@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wheelie King 5 Demo
 addappid(2719230)
-addappid(2719231,0,"ef3c7a37fb101b7aec7950e474ea440e4d7f6c5e1ffd7f3c12c53cd299540788")
--- setManifestid(2719231,"270737637866457204")
+addappid(2719231, 1, "ef3c7a37fb101b7aec7950e474ea440e4d7f6c5e1ffd7f3c12c53cd299540788")

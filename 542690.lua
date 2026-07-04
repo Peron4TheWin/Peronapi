@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mahsung Deluxe
 addappid(542690)
-addappid(542691,0,"a98684f35b2d1b5001eeab802fe6d988982a0b5cc0ea7766d120ff3bc82c4d15")
--- setManifestid(542691,"7075528160999826825")
+addappid(542691, 1, "a98684f35b2d1b5001eeab802fe6d988982a0b5cc0ea7766d120ff3bc82c4d15")

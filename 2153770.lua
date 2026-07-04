@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Coin Flipper
 addappid(2153770)
-addappid(2153771,0,"366241e522fa64071b93a5a06a443ce591eae02d0d65841fb04e5d3d95badf4c")
--- setManifestid(2153771,"5259174066609594186")
+addappid(2153771, 1, "366241e522fa64071b93a5a06a443ce591eae02d0d65841fb04e5d3d95badf4c")

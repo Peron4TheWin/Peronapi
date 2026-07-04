@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Week With The Mafia
 addappid(2656310)
-addappid(2656311,0,"50b2d8f27c16918f0c9749e3ddf12f6bbcc712d87f987fa730272a3a3b3a4f5e")
--- setManifestid(2656311,"1087705060882949089")
+addappid(2656311, 1, "50b2d8f27c16918f0c9749e3ddf12f6bbcc712d87f987fa730272a3a3b3a4f5e")

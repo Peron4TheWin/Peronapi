@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Doomsday × FAIRY TAIL
 addappid(2439510)
-addappid(2439511,0,"068e8e7132c38ac6e9a6a359f9a50a30a9ddbb5a6174685ed532c174afcbd8e4")
--- setManifestid(2439511,"8373092842125851351")
+addappid(2439511, 1, "068e8e7132c38ac6e9a6a359f9a50a30a9ddbb5a6174685ed532c174afcbd8e4")

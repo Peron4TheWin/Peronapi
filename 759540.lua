@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wanted Killer VR
 addappid(759540)
-addappid(759541,0,"713eec2468f9c185ad3c0133ca3a9da5e8e7523daf8af162acdb317617ed575b")
--- setManifestid(759541,"936369468460757350")
+addappid(759541, 1, "713eec2468f9c185ad3c0133ca3a9da5e8e7523daf8af162acdb317617ed575b")

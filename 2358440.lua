@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Museum
 addappid(2358440)
-addappid(2358441,0,"243c35f511fbc93c71568f78dbe798714a49d7e911dfd37cf1616da2edb4237a")
--- setManifestid(2358441,"115478446196017069")
+addappid(2358441, 1, "243c35f511fbc93c71568f78dbe798714a49d7e911dfd37cf1616da2edb4237a")

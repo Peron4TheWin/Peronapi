@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VRider SBK™
 addappid(3145740)
-addappid(3145741,0,"caaa99ce0f1d4691305b06eb85ca9494609f01f63528f4802680e3aad6dea6d7")
--- setManifestid(3145741,"2005609938657136931")
+addappid(3145741, 1, "caaa99ce0f1d4691305b06eb85ca9494609f01f63528f4802680e3aad6dea6d7")

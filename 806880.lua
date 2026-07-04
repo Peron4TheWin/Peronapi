@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DJ Mole
 addappid(806880)
-addappid(806881,0,"2b24e8aa6695cb02d890b3e0ee701df2b19bec586c2da723170f68742de85f3c")
--- setManifestid(806881,"6016220853056797745")
+addappid(806881, 1, "2b24e8aa6695cb02d890b3e0ee701df2b19bec586c2da723170f68742de85f3c")

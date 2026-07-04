@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyber Warrior
 addappid(726980)
--- setManifestid(228989,"3514306556860204959")
-addappid(726981,0,"72b7811c663738f65357f04ed2d89bd59b91ade9c13ebccb422052137f2c3170")
--- setManifestid(726981,"1695602395604231365")
+addappid(726981, 1, "72b7811c663738f65357f04ed2d89bd59b91ade9c13ebccb422052137f2c3170")

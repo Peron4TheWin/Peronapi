@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slit Mouthed - 口裂け女
 addappid(1710750)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1710751,0,"c0754499d4b7926438037e3f3fcab6d387bde2d2556e973a526fcc47f0d630e3")
--- setManifestid(1710751,"6136162646626673461")
+addappid(1710751, 1, "c0754499d4b7926438037e3f3fcab6d387bde2d2556e973a526fcc47f0d630e3")

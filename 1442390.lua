@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grey Scout
 addappid(1442390)
-addappid(1442391,0,"5a9bbe3472ee552646800eace35db5058371396a57634433f01b6dfabf5cdeed")
--- setManifestid(1442391,"1897088458882946058")
+addappid(1442391, 1, "5a9bbe3472ee552646800eace35db5058371396a57634433f01b6dfabf5cdeed")

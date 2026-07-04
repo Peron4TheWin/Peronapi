@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: air star
 addappid(2253510)
-addappid(2253511,0,"a8910e80a17adfad04945682841c27061b9e051acc90416e1e9615d3aa29ae2a")
--- setManifestid(2253511,"9072743030953131718")
+addappid(2253511, 1, "a8910e80a17adfad04945682841c27061b9e051acc90416e1e9615d3aa29ae2a")

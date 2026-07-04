@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sense - 不祥的预感: A Cyberpunk Ghost Story
 addappid(1120560)
-addappid(1120561,0,"3f2d21a1974e80d2fb0860a684ad101e3fd33ba38b5c977f77f6476285bd47b1")
+addappid(1120561, 1, "3f2d21a1974e80d2fb0860a684ad101e3fd33ba38b5c977f77f6476285bd47b1")

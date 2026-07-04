@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slime Dice
 addappid(1767950)
-addappid(1767951,0,"ab862922fbb6a630b284884d61357e084f8b37188418a4ac7d2c34a5eea9e9bc")
--- setManifestid(1767951,"8403290327102760953")
+addappid(1767951, 1, "ab862922fbb6a630b284884d61357e084f8b37188418a4ac7d2c34a5eea9e9bc")

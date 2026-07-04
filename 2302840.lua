@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Compass of Destiny: Istanbul
 addappid(2302840)
-addappid(2302841,0,"0c2e3f9421c32e3a63899f3b898f6f5a7dc9361cfeacf30ae766451cd8199016")
--- setManifestid(2302841,"956999684851890021")
+addappid(2302841, 1, "0c2e3f9421c32e3a63899f3b898f6f5a7dc9361cfeacf30ae766451cd8199016")

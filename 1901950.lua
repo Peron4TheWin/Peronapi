@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Raid on Taihoku
 addappid(1901950)
-addappid(1901951,0,"a5c4c3d02b1f0dbf051700d1e0130c4db032fb1dfcffe6e5004ffef5451e0dc3")
--- setManifestid(1901951,"4913769786413364932")
+addappid(1901951, 1, "a5c4c3d02b1f0dbf051700d1e0130c4db032fb1dfcffe6e5004ffef5451e0dc3")

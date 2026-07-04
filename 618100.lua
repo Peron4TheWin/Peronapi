@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Feral Blue
 addappid(618100)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(618101,0,"ac5cc19297e1f5793120af340a9b6ad8ac99c0314df7365170bc4dd4d583f5f5")
--- setManifestid(618101,"221719177111787063")
+addappid(618101, 1, "ac5cc19297e1f5793120af340a9b6ad8ac99c0314df7365170bc4dd4d583f5f5")

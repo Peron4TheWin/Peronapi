@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game For Anna
 addappid(1673600)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1673601,0,"6531b40c5c4c3b8e2fb157e414b1a2a2f22c3aedfc3277db7c6e1ec73da04eb1")
--- setManifestid(1673601,"8069053424610965263")
+addappid(1673601, 1, "6531b40c5c4c3b8e2fb157e414b1a2a2f22c3aedfc3277db7c6e1ec73da04eb1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sidereal
 addappid(2702590)
-addappid(2702591,0,"58b8c29f2cc4884d7b8532a20cf044a5f54d7387a98e5cad804090879673eaa2")
--- setManifestid(2702591,"4585639267596731930")
+addappid(2702591, 1, "58b8c29f2cc4884d7b8532a20cf044a5f54d7387a98e5cad804090879673eaa2")

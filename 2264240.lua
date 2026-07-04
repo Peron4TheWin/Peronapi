@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Waiter
 addappid(2264240)
-addappid(2264241,0,"02d77e8a1c740db24595b29f25d83d323d3c929bfe7795ee0b74c6908662a9a7")
--- setManifestid(2264241,"969135809747797413")
+addappid(2264241, 1, "02d77e8a1c740db24595b29f25d83d323d3c929bfe7795ee0b74c6908662a9a7")

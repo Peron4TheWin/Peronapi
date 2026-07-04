@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 我有一座冒险屋 I have an adventure house
 addappid(1855660)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(1855661,0,"5306e95f34f91c84c446fb6bbf319d799e517e58fa7415dd7d6412c641e5df43")
--- setManifestid(1855661,"4719161543363826173")
+addappid(1855661, 1, "5306e95f34f91c84c446fb6bbf319d799e517e58fa7415dd7d6412c641e5df43")

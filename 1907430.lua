@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HuangGaoLe's Game Collection
 addappid(1907430)
-addappid(1907431,0,"71d88b02e77b53391b7d0495c420b8746f1d2a58e08c74a9f96abfcd7d7f925b")
--- setManifestid(1907431,"1351609363459216816")
+addappid(1907431, 1, "71d88b02e77b53391b7d0495c420b8746f1d2a58e08c74a9f96abfcd7d7f925b")

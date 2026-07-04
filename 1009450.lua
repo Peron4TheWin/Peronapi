@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sankaku Renai: Love Triangle Trouble
 addappid(1009450)
-addappid(1009451,0,"8d37254f0cfa45913457bc911f43c48e5b9f46f2bed18015540feed1284e8dad")
--- setManifestid(1009451,"6039766788683859949")
+addappid(1009451, 1, "8d37254f0cfa45913457bc911f43c48e5b9f46f2bed18015540feed1284e8dad")

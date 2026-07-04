@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lands of Rumour
 addappid(3359370)
-addappid(3359371,0,"b078ae84f2aaf7782c8db7545ab013a735e480db935fbf4cf325fbbdc4027461")
--- setManifestid(3359371,"453982436213792727")
+addappid(3359371, 1, "b078ae84f2aaf7782c8db7545ab013a735e480db935fbf4cf325fbbdc4027461")

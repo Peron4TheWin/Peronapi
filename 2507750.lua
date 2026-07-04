@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Poly Jigsaw: Furries 2
 addappid(2507750)
-addappid(2507751,0,"2c4ee8e6445282579e6ca9ad7b0d9dc138cedd737653b75ff758ddb1ca141978")
--- setManifestid(2507751,"889826092126170559")
+addappid(2507751, 1, "2c4ee8e6445282579e6ca9ad7b0d9dc138cedd737653b75ff758ddb1ca141978")

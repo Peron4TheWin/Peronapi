@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VRoid Clothing Maker
 addappid(2330730)
-addappid(2330731,0,"268f0ecd57a6d1289de7cf1762ae37ffb36524c9152cd7756d49a324c1bfbc3c")
--- setManifestid(2330731,"4290762890507733267")
+addappid(2330731, 1, "268f0ecd57a6d1289de7cf1762ae37ffb36524c9152cd7756d49a324c1bfbc3c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Inumimi
 addappid(1114360)
-addappid(1114361,0,"c50dc719c72cfe68eb5c616ed8d0544085ad0c07515a2a1f260309c647247406")
--- setManifestid(1114361,"3175786167332165444")
+addappid(1114361, 1, "c50dc719c72cfe68eb5c616ed8d0544085ad0c07515a2a1f260309c647247406")

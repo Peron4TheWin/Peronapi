@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sue's Story
 addappid(1307200)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1307201,0,"c53cb5e34dc9c7f50c403ad7b351986fd9cb90b2fe9c7229a16ae9bb3c9e44f8")
--- setManifestid(1307201,"4482598972776217476")
+addappid(1307201, 1, "c53cb5e34dc9c7f50c403ad7b351986fd9cb90b2fe9c7229a16ae9bb3c9e44f8")

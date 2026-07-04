@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tribal Hunter Demo
 addappid(1444520)
-addappid(1444521,0,"4d0520aeed8aa5d80a7972321d03772df9efb2aaaa46e14305d7f36b77b284fd")
--- setManifestid(1444521,"7455260774199722958")
+addappid(1444521, 1, "4d0520aeed8aa5d80a7972321d03772df9efb2aaaa46e14305d7f36b77b284fd")

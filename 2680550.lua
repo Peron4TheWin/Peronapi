@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hollywood Animal
 addappid(2680550)
-addappid(2680551,0,"acee2ffb440b3d2df9f1939207db34e30f2ae56d123ef9d19f7d0d5889b23579")
--- setManifestid(2680551,"872346372151598465")
+addappid(2680551, 1, "acee2ffb440b3d2df9f1939207db34e30f2ae56d123ef9d19f7d0d5889b23579")

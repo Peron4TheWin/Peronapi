@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Johnny Rocketfingers Complete Game Collection!
 addappid(2429760)
-addappid(2429761,0,"30bcdbb85fdaa3258c34da0637f251b3a38cc6952949aa91ed5fc4e824696965")
--- setManifestid(2429761,"3107375127213250450")
+addappid(2429761, 1, "30bcdbb85fdaa3258c34da0637f251b3a38cc6952949aa91ed5fc4e824696965")

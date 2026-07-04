@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARIA CHRONICLE Original Soundtrack
 addappid(1357690)
-addappid(1357691,0,"10a50256ee94450a972057a4ffae71fdb8f1e3db88d1fb448b9a575cacf9b3ec")
--- setManifestid(1357691,"5296620815350934107")
+addappid(1357691, 1, "10a50256ee94450a972057a4ffae71fdb8f1e3db88d1fb448b9a575cacf9b3ec")

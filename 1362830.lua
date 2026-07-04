@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bomber Dudes
 addappid(1362830)
-addappid(1362831,0,"76dfc4a2b4abfdaa5300f299a3e54f8dc596d5cfbfa446d779b1ee028583c5ea")
--- setManifestid(1362831,"7539686303094909297")
+addappid(1362831, 1, "76dfc4a2b4abfdaa5300f299a3e54f8dc596d5cfbfa446d779b1ee028583c5ea")

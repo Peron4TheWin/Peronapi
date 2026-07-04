@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warlocks Deeds
 addappid(2479780)
--- setManifestid(228983,"8124929965194586177")
--- setManifestid(229020,"5799761707845834510")
-addappid(2479781,0,"72503a0289589b510cf6a22fee7ea77c30747e7ee1e52da87372daef70bb96c2")
--- setManifestid(2479781,"8693744857909975069")
+addappid(2479781, 1, "72503a0289589b510cf6a22fee7ea77c30747e7ee1e52da87372daef70bb96c2")

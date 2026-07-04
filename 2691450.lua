@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Giant Hornet
 addappid(2691450)
-addappid(2691451,0,"daadfcbfb153b69e574c68ba816790e3801f3bbb0c7e9e2f638d8dec68d89aa1")
--- setManifestid(2691451,"3442017016521030592")
+addappid(2691451, 1, "daadfcbfb153b69e574c68ba816790e3801f3bbb0c7e9e2f638d8dec68d89aa1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RSSU - Retro Style Soviet Undies
 addappid(2867700)
-addappid(2867701,0,"a225a9869aaad6ac708cf48f46c7749fe3edefd39d98296dd83d0d22194f5b5a")
--- setManifestid(2867701,"1519916521165914479")
+addappid(2867701, 1, "a225a9869aaad6ac708cf48f46c7749fe3edefd39d98296dd83d0d22194f5b5a")

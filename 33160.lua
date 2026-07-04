@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alien Shooter 2: Reloaded Demo
 addappid(33160)
-addappid(33161,0,"9c9ab1f9b6f8bf6a4e0d1402954aa635cccbf458ff1c78ea3d8ba432f808a31c")
--- setManifestid(33161,"6054159831075039494")
+addappid(33161, 1, "9c9ab1f9b6f8bf6a4e0d1402954aa635cccbf458ff1c78ea3d8ba432f808a31c")

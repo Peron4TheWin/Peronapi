@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ZombieCards
 addappid(3443610)
-addappid(3443611,0,"ecdd1086f173caecac7eb9f1298c44c1e56031881be090190852ac324a2b5f17")
--- setManifestid(3443611,"4560577787225209883")
+addappid(3443611, 1, "ecdd1086f173caecac7eb9f1298c44c1e56031881be090190852ac324a2b5f17")

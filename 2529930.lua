@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pleasure Party 2
 addappid(2529930)
-addappid(2529931,0,"4059c537904c0743b3c6bb128e107aef1781d45004812ad50cdf810d6865efd8")
--- setManifestid(2529931,"1256025569737336184")
+addappid(2529931, 1, "4059c537904c0743b3c6bb128e107aef1781d45004812ad50cdf810d6865efd8")

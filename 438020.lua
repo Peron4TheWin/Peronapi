@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AI: Rampage
 addappid(438020)
-addappid(438021,0,"74f0db8e4c1edcb1a7de60957f9eca62bdbd907b9b43a28bc377d1acedc01ede")
--- setManifestid(438021,"4678173730860820518")
+addappid(438021, 1, "74f0db8e4c1edcb1a7de60957f9eca62bdbd907b9b43a28bc377d1acedc01ede")

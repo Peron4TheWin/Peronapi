@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Citadale Resurrection
 addappid(2295650)
-addappid(2295651,0,"2bd263fe7460469c306f18e794d3f79762522532ed9c605bf2fcea5379b14c65")
--- setManifestid(2295651,"8403637718319635608")
+addappid(2295651, 1, "2bd263fe7460469c306f18e794d3f79762522532ed9c605bf2fcea5379b14c65")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Having a HARD Time
 addappid(2420460)
-addappid(2420461,0,"ad0e1bd33a4a927475147f2438b152337807810d2a3ed0c8f1586bd80cbfd310")
--- setManifestid(2420461,"345128231652268146")
+addappid(2420461, 1, "ad0e1bd33a4a927475147f2438b152337807810d2a3ed0c8f1586bd80cbfd310")

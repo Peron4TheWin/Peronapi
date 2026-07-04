@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OVR Locomotion Effect : Anti-VR Sickness
 addappid(1393780)
-addappid(1393781,0,"535c05c7df591f9c9c209869f0e2af82bcc3c765b9b47e9c7e4b586f2226c268")
+addappid(1393781, 1, "535c05c7df591f9c9c209869f0e2af82bcc3c765b9b47e9c7e4b586f2226c268")

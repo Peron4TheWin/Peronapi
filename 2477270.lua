@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lust's Cupid
 addappid(2477270)
-addappid(2477271,0,"1d68c2af57678e17e48935daee51d4fa41f10d47b531e6129d1d890d0436f2a5")
+addappid(2477271, 1, "1d68c2af57678e17e48935daee51d4fa41f10d47b531e6129d1d890d0436f2a5")

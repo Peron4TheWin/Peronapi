@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blind_
 addappid(1470910)
-addappid(1470911,0,"15fccb54d3217798d6b66432774ed8ac84d8598ddf5095d4e9534a3b7c2b3606")
+addappid(1470911, 1, "15fccb54d3217798d6b66432774ed8ac84d8598ddf5095d4e9534a3b7c2b3606")

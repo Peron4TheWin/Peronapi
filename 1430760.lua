@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aquarist
 addappid(1430760)
-addappid(1430761,0,"63fed22ae0423ecd4bfea90e201fc98d953636578f824bbb610442283ad1b8cd")
--- setManifestid(1430761,"1191817954613823122")
+addappid(1430761, 1, "63fed22ae0423ecd4bfea90e201fc98d953636578f824bbb610442283ad1b8cd")

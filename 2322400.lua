@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Grape Demo
 addappid(2322400)
-addappid(2322401,0,"7d4110e8891f4547d286f93b88c46d0106a07f8bb1d6e10b1e06a4ea37679bd1")
--- setManifestid(2322401,"3556194268514634173")
+addappid(2322401, 1, "7d4110e8891f4547d286f93b88c46d0106a07f8bb1d6e10b1e06a4ea37679bd1")

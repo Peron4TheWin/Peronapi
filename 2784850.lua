@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Is it different or not?
 addappid(2784850)
-addappid(2784851,0,"5efaa1d2ace8309af2a54feed4483fef771854fe92083e56f7aa51bb1912b936")
--- setManifestid(2784851,"7957985897465952910")
+addappid(2784851, 1, "5efaa1d2ace8309af2a54feed4483fef771854fe92083e56f7aa51bb1912b936")

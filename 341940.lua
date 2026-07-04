@@ -1,22 +1,4 @@
-
-addappid(341940, 1, "f2787cfe81aa233bef74cda9beeba8da1c3500c404c3332eff7bffbc5bf2cd50") -- Hatred
-addappid(341941, 1, "9a058f86501451492d08c6eb37d6bd51e6937951ac04de40caa6c7feea376fc9") -- Hatred Content
--- setManifestid(341941, "7543385468453748477", 4097016059)
-addappid(341942, 1, "eae9b9d8694786069538cc89beb7f2f1f9e20694c06907ac78db2aa68a230a74") -- Hatred linux
--- setManifestid(341942, "4870521521728213366", 5217370896)
-addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (Shared from App 228980)
--- setManifestid(228983, "8124929965194586177", 19265607)
-addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
--- setManifestid(228984, "2547553897526095397", 13742505)
-addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (Shared from App 228980)
--- setManifestid(228985, "3966345552745568756", 13699237)
-addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
--- setManifestid(228990, "1829726630299308803", 102931551)
-addappid(229002, 1, "f95e8545cfe871c330a483b25520ba7ed3750d21b9a51791ff0f0ed0dae33738") -- .NET 4.0 Redist (Shared from App 228980)
--- setManifestid(229002, "7260605429366465749", 50450161)
-addappid(1171890)
-addappid(1171890, 1, "0fdd1c65078267470f71130fd77b21931942ec50c65a511653822a02dcd9cf3e") -- Hatred Subscribe or Die - Hatred: Subscribe or Die Depot
--- setManifestid(1171890, "3693748185663900302", 7102431)
-addappid(1580880)
-addappid(1580880, 1, "480533da6d6b9e61972ad4b0c2a1e6e011e7d2d9bece0468274cfdaeeb9d8be0") -- Hatred Black Label - comic book - Depot 1580880
--- setManifestid(1580880, "3496313831006935666", 42931309)
+-- Lua provided by SkyAPI 
+-- Game: Hatred
+addappid(341940)
+addappid(341941, 1, "9a058f86501451492d08c6eb37d6bd51e6937951ac04de40caa6c7feea376fc9")

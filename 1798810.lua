@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chefy-Chef
 addappid(1798810)
-addappid(1798811,0,"4cb3f79acd37d708b264a67f5ce21981e88c6a8b359e000c53ec29ba0d9ca5f1")
--- setManifestid(1798811,"7694500338301473624")
+addappid(1798811, 1, "4cb3f79acd37d708b264a67f5ce21981e88c6a8b359e000c53ec29ba0d9ca5f1")

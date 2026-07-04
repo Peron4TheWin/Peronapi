@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape Toon Kingdom
 addappid(3198360)
-addappid(3198361,0,"a67e283210b3288e744e1efcdd7978703c13e751fc2cea3e99cef188f9092b80")
--- setManifestid(3198361,"5906301208612879154")
+addappid(3198361, 1, "a67e283210b3288e744e1efcdd7978703c13e751fc2cea3e99cef188f9092b80")

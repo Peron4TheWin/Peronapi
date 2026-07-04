@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rotating Machine
 addappid(3755730)
-addappid(3755731,0,"c9f32b4e4e32408b076d888004074de99ca67e75a60512b18dfeb39a005cda89")
--- setManifestid(3755731,"7794644264323396865")
+addappid(3755731, 1, "c9f32b4e4e32408b076d888004074de99ca67e75a60512b18dfeb39a005cda89")

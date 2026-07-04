@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deathbound
 addappid(1277130)
-addappid(1277131,0,"f0e25285c69f852068c19218ffc7cf08b44abe1d4f922bb637a77fc5e068e9c9")
---setManifestid(1277131,"819165398378009925")
+addappid(1277131, 1, "f0e25285c69f852068c19218ffc7cf08b44abe1d4f922bb637a77fc5e068e9c9")

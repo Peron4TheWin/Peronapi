@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Volley Pals
 addappid(2170100)
-addappid(2170101,0,"3ea16f5fc30b560bcea5be514429a2443c5c6c8dce8a5ca8863eab8a8b81ab01")
--- setManifestid(2170101,"8696156439697050862")
+addappid(2170101, 1, "3ea16f5fc30b560bcea5be514429a2443c5c6c8dce8a5ca8863eab8a8b81ab01")

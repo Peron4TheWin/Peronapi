@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bulls and Cows - Wild West
 addappid(2795840)
-addappid(2795841,0,"8da80d32218efc08200faf04bfe43544a31fd71918300d62d1eadd3e2a8fc826")
--- setManifestid(2795841,"7780141507591655668")
+addappid(2795841, 1, "8da80d32218efc08200faf04bfe43544a31fd71918300d62d1eadd3e2a8fc826")

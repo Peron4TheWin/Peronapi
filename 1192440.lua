@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Monster Breeder
 addappid(1192440)
-addappid(1192441,0,"10e9dff3873410e66ee903a07fc79cc45126ff4ea846e8b9370fe01857ad3444")
--- setManifestid(1192441,"7639845611457437578")
+addappid(1192441, 1, "10e9dff3873410e66ee903a07fc79cc45126ff4ea846e8b9370fe01857ad3444")

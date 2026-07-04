@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JOI Lab VR 🔞 Demo
 addappid(3108540)
-addappid(3108541,0,"578de9a5685506c84c1e7f128a339d10a8e23f034119050d10fe7463cb8228be")
+addappid(3108541, 1, "578de9a5685506c84c1e7f128a339d10a8e23f034119050d10fe7463cb8228be")

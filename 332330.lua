@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PixelJunk™ Shooter Ultimate
 addappid(332330)
-addappid(332331,0,"963cdf2b51be3c1e6efe7515941eb440ea1b6155f94b313820936ce66b7a8d32")
--- setManifestid(332331,"6174751794498427902")
+addappid(332331, 1, "963cdf2b51be3c1e6efe7515941eb440ea1b6155f94b313820936ce66b7a8d32")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pursuer
 addappid(1013660)
-addappid(1013661,0,"cb4282efe9526bee4c8f933dacc6ee7ee504e8f341fae46fc9e0501f05881ae2")
--- setManifestid(1013661,"9150357389968008382")
+addappid(1013661, 1, "cb4282efe9526bee4c8f933dacc6ee7ee504e8f341fae46fc9e0501f05881ae2")

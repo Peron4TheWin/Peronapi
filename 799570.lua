@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Angles
 addappid(799570)
-addappid(799571,0,"9aaaae07714e70c1a29dd01003d8e47565a5ebb82932f19ac207b8e143aaf0e2")
--- setManifestid(799571,"6024647920999512722")
+addappid(799571, 1, "9aaaae07714e70c1a29dd01003d8e47565a5ebb82932f19ac207b8e143aaf0e2")

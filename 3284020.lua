@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cashrooms
 addappid(3284020)
-addappid(3284021,0,"e2c3a8c3527e6d87435bae1c27de35ee622636979a3a8c82943a54af771ad6a2")
--- setManifestid(3284021,"1961018571829308674")
+addappid(3284021, 1, "e2c3a8c3527e6d87435bae1c27de35ee622636979a3a8c82943a54af771ad6a2")

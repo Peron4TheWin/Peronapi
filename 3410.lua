@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heavy Weapon Deluxe
 addappid(3410)
-addappid(3411,0,"43a26b22a7833d442394111ed874fbd808ef0889910975a20f0dd7515438bc74")
--- setManifestid(3411,"5876960347239988539")
+addappid(3411, 1, "43a26b22a7833d442394111ed874fbd808ef0889910975a20f0dd7515438bc74")

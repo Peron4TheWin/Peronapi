@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Friend The Spider
 addappid(2743220)
-addappid(2743221,0,"bb390be839f8e6ed8d89d552bded82b1afb30ad1628ae5948d8e2e138d098b5c")
--- setManifestid(2743221,"6465074993223874848")
+addappid(2743221, 1, "bb390be839f8e6ed8d89d552bded82b1afb30ad1628ae5948d8e2e138d098b5c")

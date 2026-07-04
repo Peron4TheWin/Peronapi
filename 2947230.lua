@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haruka Ao no Hanayome ni
 addappid(2947230)
-addappid(2947231,0,"8b95863307cecd8b8c526d3d5421c460d5a8f1e51f799d52141fc7240f691e3b")
--- setManifestid(2947231,"7972491535066669751")
+addappid(2947231, 1, "8b95863307cecd8b8c526d3d5421c460d5a8f1e51f799d52141fc7240f691e3b")

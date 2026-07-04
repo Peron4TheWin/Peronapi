@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: IFU
 addappid(2666080)
-addappid(2666081,0,"18239b0f11d1b28d33a0ee59fe914f6afea32bedb79f5f2584021bbc10ffcd35")
--- setManifestid(2666081,"2542483003113520510")
+addappid(2666081, 1, "18239b0f11d1b28d33a0ee59fe914f6afea32bedb79f5f2584021bbc10ffcd35")

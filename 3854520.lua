@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blast Radius
 addappid(3854520)
-addappid(3854521,0,"c3e06aa74e07aa615aa740b02efcf503e49c8b7899a22b8dbb313bf64c29646a")
--- setManifestid(3854521,"2712046044281329169")
+addappid(3854521, 1, "c3e06aa74e07aa615aa740b02efcf503e49c8b7899a22b8dbb313bf64c29646a")

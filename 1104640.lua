@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: New Frontier
 addappid(1104640)
-addappid(228985)
---setManifestid(228985,"3966345552745568756")
-addappid(1104641,0,"fe00b5cb39c0dbf50fde588884c295719fd726e0a549edce1678dd9f24440264")
---setManifestid(1104641,"3507515394529513488")
+addappid(1104641, 1, "fe00b5cb39c0dbf50fde588884c295719fd726e0a549edce1678dd9f24440264")

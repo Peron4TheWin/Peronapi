@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sassy Cybergirl
 addappid(2343460)
-addappid(2343461,0,"6b6f949e90b4c2b83718cc20ce06c64c23bbb926d2e047cbfcc6e57cf6189d4a")
--- setManifestid(2343461,"7765948273001923961")
+addappid(2343461, 1, "6b6f949e90b4c2b83718cc20ce06c64c23bbb926d2e047cbfcc6e57cf6189d4a")

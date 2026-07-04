@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deadly Traps
 addappid(690080)
-addappid(690081,0,"9a63518d0d4e0c531427ee24ecfbc44a473b42523c04d7105bfe752e22b00bab")
--- setManifestid(690081,"2455086318183478279")
+addappid(690081, 1, "9a63518d0d4e0c531427ee24ecfbc44a473b42523c04d7105bfe752e22b00bab")

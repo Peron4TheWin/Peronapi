@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chessire Demo
 addappid(2769000)
-addappid(2769001,0,"5264ac21bf18da5ec19a066e2f9e7cb06698152f9b500eb7cde484c3d0e01e6a")
--- setManifestid(2769001,"1832797022438863816")
+addappid(2769001, 1, "5264ac21bf18da5ec19a066e2f9e7cb06698152f9b500eb7cde484c3d0e01e6a")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wizarre
 addappid(2614360)
-addappid(2614361,0,"aa58b4ce21630f778c0baf3db63aba242a2f11026ab96200e71abd89ef1b8ff2")
--- setManifestid(2614361,"5635656295221921907")
+addappid(2614361, 1, "aa58b4ce21630f778c0baf3db63aba242a2f11026ab96200e71abd89ef1b8ff2")

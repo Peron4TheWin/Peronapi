@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Forest Girls
 addappid(1524650)
-addappid(1524651,0,"9b7e717c637a4ad695b951d769ff1a10dd4021469b9759a3277e3095bd30d83d")
--- setManifestid(1524651,"138788340774912573")
+addappid(1524651, 1, "9b7e717c637a4ad695b951d769ff1a10dd4021469b9759a3277e3095bd30d83d")

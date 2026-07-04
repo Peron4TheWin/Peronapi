@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Legendary gun
 addappid(1099070)
-addappid(1099071,0,"a1a2fba4dbd40a7fce8551bf9ffe1ecda49f5cecf212bf09e5343d257d65175f")
--- setManifestid(1099071,"5806902919359777291")
+addappid(1099071, 1, "a1a2fba4dbd40a7fce8551bf9ffe1ecda49f5cecf212bf09e5343d257d65175f")

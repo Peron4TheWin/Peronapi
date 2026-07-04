@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MORSE Demo
 addappid(1976900)
-addappid(1976901,0,"8b78d69800ef69e1c2f82250d413acf798c3bceb69560966702078c9d6e50620")
+addappid(1976901, 1, "8b78d69800ef69e1c2f82250d413acf798c3bceb69560966702078c9d6e50620")

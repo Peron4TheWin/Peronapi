@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Pix
 addappid(1148920)
-addappid(1148921,0,"c80aea81f714aaf9730691d7a3b903475ededf0b53b82e2b17a23ac2ab71be92")
--- setManifestid(1148921,"4831324369264377370")
+addappid(1148921, 1, "c80aea81f714aaf9730691d7a3b903475ededf0b53b82e2b17a23ac2ab71be92")
+addappid(1151540)

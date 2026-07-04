@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Men against Lizards
 addappid(3047430)
-addappid(3047431,0,"43075a870719fd6326745b732e71cd1bf39ed995771aeb528f4c7ba5b4c9091d")
--- setManifestid(3047431,"744000609700177850")
+addappid(3047431, 1, "43075a870719fd6326745b732e71cd1bf39ed995771aeb528f4c7ba5b4c9091d")

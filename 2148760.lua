@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Extreme Truck Stunts
 addappid(2148760)
-addappid(2148761,0,"e848127e6a4e302545bd5ae91bf59263bcaad9292d98a99fc4c9fbf2eb45d902")
--- setManifestid(2148761,"1257119002538967824")
+addappid(2148761, 1, "e848127e6a4e302545bd5ae91bf59263bcaad9292d98a99fc4c9fbf2eb45d902")

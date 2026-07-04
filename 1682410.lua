@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 寂寞神明的心愿手记
 addappid(1682410)
-addappid(1682411,0,"48ecf522dff537246945a239d9bb11b17af12a847985de29f1ea5393022dc991")
--- setManifestid(1682411,"2168550431333792366")
+addappid(1682411, 1, "48ecf522dff537246945a239d9bb11b17af12a847985de29f1ea5393022dc991")

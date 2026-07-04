@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Undergrounders
 addappid(3364120)
-addappid(3364121,0,"6a7c9c9232bad3cd06a0470b15c4d0c02d76986b63ab02f4009fd1a94f638c2b")
--- setManifestid(3364121,"739277798236700164")
+addappid(3364121, 1, "6a7c9c9232bad3cd06a0470b15c4d0c02d76986b63ab02f4009fd1a94f638c2b")

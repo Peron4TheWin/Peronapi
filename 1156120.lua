@@ -1,2 +1,4 @@
-addappid(1156120) -- DOOMBRINGER
+-- Lua provided by SkyAPI 
+-- Game: AppID 1156120
+addappid(1156120)
 addappid(1156121, 1, "f0668802a2df06060549621fdcea840e7b3f5415c2c79b5fd45cfb9f94d50f95")

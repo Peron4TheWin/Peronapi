@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Diatribes
 addappid(3245570)
-addappid(3245571,0,"398e02d6bcb3be562ac2a42f4f109889bd65833ec5155dca7ec5f5451998339d")
--- setManifestid(3245571,"121983555117029114")
+addappid(3245571, 1, "398e02d6bcb3be562ac2a42f4f109889bd65833ec5155dca7ec5f5451998339d")

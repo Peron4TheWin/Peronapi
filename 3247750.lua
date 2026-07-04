@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mycopunk
 addappid(3247750)
-addappid(3247751,0,"888bdd148939bec18022ebea7b4041f7d8a6de44b5779a16ded755e6917cea6f")
--- setManifestid(3247751,"4393726783162663577")
+addappid(3247751, 1, "888bdd148939bec18022ebea7b4041f7d8a6de44b5779a16ded755e6917cea6f")

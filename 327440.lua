@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hail to the King: Deathbat
 addappid(327440)
-addappid(327441,0,"2a6844e52b97672b0a3e2c6393b9f17635829fb634dcc357bc08e38cf096e1a7")
--- setManifestid(327441,"119379308642460708")
+addappid(327441, 1, "2a6844e52b97672b0a3e2c6393b9f17635829fb634dcc357bc08e38cf096e1a7")

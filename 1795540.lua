@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MudGate
 addappid(1795540)
-addappid(1795541,0,"6c9d6ba28df0135f6e5c7bcd867193114911a1799519af77b077a0e1c388dfed")
--- setManifestid(1795541,"7134471682704799196")
+addappid(1795541, 1, "6c9d6ba28df0135f6e5c7bcd867193114911a1799519af77b077a0e1c388dfed")

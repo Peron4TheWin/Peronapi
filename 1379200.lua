@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Escape from Skull Dungeon
 addappid(1379200)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1379201,0,"fcfc06b0514378fdff6d7bdf3df34b4ae01f53230cebcb4a53c91101ef675087")
--- setManifestid(1379201,"2103056167539589277")
+addappid(1379201, 1, "fcfc06b0514378fdff6d7bdf3df34b4ae01f53230cebcb4a53c91101ef675087")

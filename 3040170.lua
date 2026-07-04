@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arashi Gaiden
 addappid(3040170)
-addappid(3040171,0,"ed860d978363fecd3be9bfe747dba050ecfd547babee8bedc36c656807388080")
--- setManifestid(3040171,"5748925137853634372")
+addappid(3040171, 1, "ed860d978363fecd3be9bfe747dba050ecfd547babee8bedc36c656807388080")

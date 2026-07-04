@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY X/X-2 HD Remaster
 addappid(359870)
-addappid(229003)
-addappid(359871,0,"8e28e18ac8cc58c9c81ddd3022ad0bfcb15e378768d5fc713dcb0254e6d93fff")
+addappid(359871, 1, "8e28e18ac8cc58c9c81ddd3022ad0bfcb15e378768d5fc713dcb0254e6d93fff")

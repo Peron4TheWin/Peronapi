@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Skies above the Great War
 addappid(2320040)
-addappid(2320041,0,"423a823c4476dfb96f76a8b182466c301469d89b88b0ef3ab09c6fe276c920f4")
--- setManifestid(2320041,"7678342237489265678")
+addappid(2320041, 1, "423a823c4476dfb96f76a8b182466c301469d89b88b0ef3ab09c6fe276c920f4")

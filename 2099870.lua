@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ever Seen a Cat? - Paper Edition + Wallpapers
 addappid(2099870)
-addappid(2099871,0,"8faf5b0d5ae3e686bd42f0fb24efb7c15643ac60913098d4dc651e6677956922")
--- setManifestid(2099871,"7699684827862119866")
+addappid(2099871, 1, "8faf5b0d5ae3e686bd42f0fb24efb7c15643ac60913098d4dc651e6677956922")

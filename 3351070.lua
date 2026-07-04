@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ConsTance
 addappid(3351070)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3351071,0,"4640ec16bfc36e6e45f04a331a4aaa6de918488154c8a2367ead2133244adbe6")
--- setManifestid(3351071,"3828689785279580931")
+addappid(3351071, 1, "4640ec16bfc36e6e45f04a331a4aaa6de918488154c8a2367ead2133244adbe6")

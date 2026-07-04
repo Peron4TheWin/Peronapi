@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nobody Wants to Die Soundtrack
 addappid(2996830)
-addappid(2996831,0,"94a10689e1f5fdb739c5757b587f91ef70d1f1cf0e0ed9ec8c9fe310b0cb9613")
--- setManifestid(2996831,"1955093715882694429")
+addappid(2996831, 1, "94a10689e1f5fdb739c5757b587f91ef70d1f1cf0e0ed9ec8c9fe310b0cb9613")

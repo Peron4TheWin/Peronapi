@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: OPPAI Academy Big, Bouncy, Booby Babes!
 addappid(1590600)
-addappid(1590601,0,"b47f223ca8e1d6ab3321fd199e480a8a71928ea0ae354f1b09b5f49dfb2424f8")
+addappid(1590601, 1, "b47f223ca8e1d6ab3321fd199e480a8a71928ea0ae354f1b09b5f49dfb2424f8")

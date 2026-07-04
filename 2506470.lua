@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hunter Girls
 addappid(2506470)
-addappid(2506471,0,"506bd8070f0934afcd96bef8c201ee7f1549a55f08c2397893f05a3443f7732f")
--- setManifestid(2506471,"2201059163034723781")
+addappid(2506471, 1, "506bd8070f0934afcd96bef8c201ee7f1549a55f08c2397893f05a3443f7732f")

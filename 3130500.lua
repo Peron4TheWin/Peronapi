@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jitter Demo
 addappid(3130500)
-addappid(3130501,0,"38543845d3a8ebb2f970affb49597963cf810de6dfeb15a2f2a5524b813e39a9")
--- setManifestid(3130501,"3367646892195031956")
+addappid(3130501, 1, "38543845d3a8ebb2f970affb49597963cf810de6dfeb15a2f2a5524b813e39a9")

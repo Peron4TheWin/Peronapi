@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Portal: Prelude RTX
 addappid(2410180)
--- setManifestid(228989,"550968249685141759")
-addappid(2410181,0,"5f0784a26fa1f9d8ceeda65d3883465bfb0092ca66033826ff694aca0afc7595")
--- setManifestid(2410181,"4949530312671311881")
+addappid(2410181, 1, "5f0784a26fa1f9d8ceeda65d3883465bfb0092ca66033826ff694aca0afc7595")

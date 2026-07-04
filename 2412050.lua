@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Ghost in Sky Elevator
 addappid(2412050)
-addappid(2412051,0,"cd4e1c622faf1296ee8bf17fb72c900f33a03628ee71ea1e1543eec81e041fb8")
--- setManifestid(2412051,"2666579041157606282")
+addappid(2412051, 1, "cd4e1c622faf1296ee8bf17fb72c900f33a03628ee71ea1e1543eec81e041fb8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The House of Da Vinci Soundtrack
 addappid(1347740)
-addappid(1347741,0,"be6d2dd24c187b3c8ef0b8cddb9c16ab84b393028ecbcf010ea4a45094443af9")
--- setManifestid(1347741,"3310445518766263515")
+addappid(1347741, 1, "be6d2dd24c187b3c8ef0b8cddb9c16ab84b393028ecbcf010ea4a45094443af9")

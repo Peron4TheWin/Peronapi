@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Happy New Hentai
 addappid(1474580)
-addappid(1474581,0,"c9c51e9ad427d407dd0e0f5dd65837fb782183eb0413f1bf141db4672f16de59")
--- setManifestid(1474581,"7124441092350412736")
+addappid(1474581, 1, "c9c51e9ad427d407dd0e0f5dd65837fb782183eb0413f1bf141db4672f16de59")

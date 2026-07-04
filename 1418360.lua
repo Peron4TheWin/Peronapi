@@ -1,5 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Lonesome Village
 addappid(1418360)
+addappid(1418361, 1, "c86e88e4418b6ec1ca6a322baf33684ad39e1d903e427c1e31b58e8058224c9e")
 addappid(2341850)
 addappid(2341851)
-addappid(1418361,0,"c86e88e4418b6ec1ca6a322baf33684ad39e1d903e427c1e31b58e8058224c9e")
--- setManifestid(1418361,"745722809030702520")

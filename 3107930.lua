@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MEMOLOGY 2: OLD TIMES
 addappid(3107930)
-addappid(3107931,0,"1a9bc46e1bf594f9ab2b47a835bc870ad957a19c0ced89968cdf36a95ad362be")
--- setManifestid(3107931,"5574913374807762769")
+addappid(3107931, 1, "1a9bc46e1bf594f9ab2b47a835bc870ad957a19c0ced89968cdf36a95ad362be")

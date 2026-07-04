@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 异界无赖 Playtest
 addappid(2433100)
-addappid(2433101,0,"fbb81af5ea5902b173ced7dcf882b705f39c4a57847368149262018045b56eb7")
--- setManifestid(2433101,"7335183342952772804")
+addappid(2433101, 1, "fbb81af5ea5902b173ced7dcf882b705f39c4a57847368149262018045b56eb7")

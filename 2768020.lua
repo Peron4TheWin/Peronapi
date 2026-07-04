@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Baggage Inspector
 addappid(2768020)
-addappid(2768021,0,"f899ac291783995bbb0eb2dcb7c977e4ba2a2ac72048600caf73b052ad65bd10")
--- setManifestid(2768021,"7447252068727228646")
+addappid(2768021, 1, "f899ac291783995bbb0eb2dcb7c977e4ba2a2ac72048600caf73b052ad65bd10")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GroundFall
 addappid(934260)
-addappid(934261,0,"c172b41982d95dfe950e8e14a2fe0dfec4775981d0fb756b24981d05c966d9a4")
--- setManifestid(934261,"2649212153329673702")
+addappid(934261, 1, "c172b41982d95dfe950e8e14a2fe0dfec4775981d0fb756b24981d05c966d9a4")

@@ -1,8 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: NOBUNAGA'S AMBITION: Sphere of Influence
 addappid(392470)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(392471,0,"5f45e75de1f346139e23aa01161a4f06b5dccba1343bfdb88c642ad62c3ce700")
--- setManifestid(392471,"6496897919570279888")
+addappid(392471, 1, "5f45e75de1f346139e23aa01161a4f06b5dccba1343bfdb88c642ad62c3ce700")
 addappid(392630)
 addappid(392640)
 addappid(392641)

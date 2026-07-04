@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KYOTO TANOJI QUEST
 addappid(558680)
-addappid(558681,0,"599863b03fd4e3436d91fc06ab6f0b9d78ccdc94a6f21cb8f5c5eb4a77a76ade")
--- setManifestid(558681,"93100546948885908")
+addappid(558681, 1, "599863b03fd4e3436d91fc06ab6f0b9d78ccdc94a6f21cb8f5c5eb4a77a76ade")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 国際指定怪異124号 東京廃村
 addappid(2563160)
-addappid(2563161,0,"0d4da97d3f8fe0b79d9d605aa713d43a1a141da333bec9f0f87cf77e06e15a94")
--- setManifestid(2563161,"1299719906556781186")
+addappid(2563161, 1, "0d4da97d3f8fe0b79d9d605aa713d43a1a141da333bec9f0f87cf77e06e15a94")

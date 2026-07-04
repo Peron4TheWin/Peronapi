@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gunsmith Simulator Soundtrack
 addappid(3338830)
-addappid(3338831,0,"ff309578667cf5d892a2a6c3b95bc92defd2b61d377cca4a570e9377eb2e23e9")
--- setManifestid(3338831,"8748283322847657318")
+addappid(3338831, 1, "ff309578667cf5d892a2a6c3b95bc92defd2b61d377cca4a570e9377eb2e23e9")

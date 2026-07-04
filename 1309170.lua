@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Way of Heroes
 addappid(1309170)
-addappid(1309171,0,"54c8896199ba624a05cd2627d5b8112303393b7eeb159c17091cfcdaacf3d02a")
--- setManifestid(1309171,"8684113801242575193")
+addappid(1309171, 1, "54c8896199ba624a05cd2627d5b8112303393b7eeb159c17091cfcdaacf3d02a")

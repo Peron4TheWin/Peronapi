@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tide of Thieves
 addappid(2112290)
-addappid(2112291,0,"c240a51807e8234023abd85867d73a0e7903f189d1aa4755de9abf777e11404b")
--- setManifestid(2112291,"2383331967218670110")
+addappid(2112291, 1, "c240a51807e8234023abd85867d73a0e7903f189d1aa4755de9abf777e11404b")

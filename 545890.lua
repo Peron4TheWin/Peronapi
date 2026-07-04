@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Breaking Wheel
 addappid(545890)
-addappid(545891,0,"9d810b3de2441f5bfdb3dd2ca3a37bb21c522ba94cfb228b80cdc155573731b2")
--- setManifestid(545891,"1090984410609291115")
+addappid(545891, 1, "9d810b3de2441f5bfdb3dd2ca3a37bb21c522ba94cfb228b80cdc155573731b2")

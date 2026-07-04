@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wulin Chess - Soundtrack
 addappid(1632200)
-addappid(1632201,0,"d5112992d5a17853baad69a51f7546cec3877ae8deb2afe96befa20eb5f63add")
--- setManifestid(1632201,"4483505209996008831")
+addappid(1632201, 1, "d5112992d5a17853baad69a51f7546cec3877ae8deb2afe96befa20eb5f63add")

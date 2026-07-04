@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Princess Dating Sim
 addappid(2183080)
-addappid(2183081,0,"125592c191579cb9745717a2372526fb1408ff4da77319ae6020ffe9df967fbd")
--- setManifestid(2183081,"4645783565059043607")
+addappid(2183081, 1, "125592c191579cb9745717a2372526fb1408ff4da77319ae6020ffe9df967fbd")

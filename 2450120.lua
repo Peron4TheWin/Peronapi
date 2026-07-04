@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Naughty College 18+
 addappid(2450120)
-addappid(2450121,0,"53d9377a264bdbf78968dd06666e4e96520ff93476fdf989d28a0f5517f82326")
--- setManifestid(2450121,"997919128884170195")
+addappid(2450121, 1, "53d9377a264bdbf78968dd06666e4e96520ff93476fdf989d28a0f5517f82326")

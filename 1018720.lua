@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: X-POINT
 addappid(1018720)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(1018721,0,"fdb74366a5a2ee993b777bfc47b263551fc126c40af2c2cb56fc2179b86d676b")
--- setManifestid(1018721,"1314773400297385687")
+addappid(1018721, 1, "fdb74366a5a2ee993b777bfc47b263551fc126c40af2c2cb56fc2179b86d676b")

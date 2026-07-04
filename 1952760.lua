@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RGB Rush
 addappid(1952760)
-addappid(1952761,0,"e930dab34d4ff6a0cc3d9a5f3e71d3c9305007c972c3fd7d77548e665ae8673d")
--- setManifestid(1952761,"7574846712803622013")
+addappid(1952761, 1, "e930dab34d4ff6a0cc3d9a5f3e71d3c9305007c972c3fd7d77548e665ae8673d")

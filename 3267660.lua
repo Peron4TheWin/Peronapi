@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [Demo] The Backrooms: Rescue Expedition
 addappid(3267660)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3267661,0,"cda4add68279344263a3368bcd3030d5ec70739f050444606abeb7aa4051213f")
+addappid(3267661, 1, "cda4add68279344263a3368bcd3030d5ec70739f050444606abeb7aa4051213f")

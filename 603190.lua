@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tank Destroyer
 addappid(603190)
-addappid(603191,0,"2577c7661dfe71f746a3271bdb1fff7d422bf31d59b348e20dd77cdb40127f91")
--- setManifestid(603191,"5041119348299438287")
+addappid(603191, 1, "2577c7661dfe71f746a3271bdb1fff7d422bf31d59b348e20dd77cdb40127f91")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Katana Rama
 addappid(1944630)
-addappid(1944631,0,"b3e4ad75646a7dbbcad4ba48ba553196b31ce732db6f5f6144794e57dd2987ed")
--- setManifestid(1944631,"1913133705595492480")
+addappid(1944631, 1, "b3e4ad75646a7dbbcad4ba48ba553196b31ce732db6f5f6144794e57dd2987ed")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Where is my mom
 addappid(1584440)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1584441,0,"f35a02a11d08ad27c0ef3d224492c9bf29545fba458aa7e95ba88e13d1709c43")
--- setManifestid(1584441,"2593979375257100047")
+addappid(1584441, 1, "f35a02a11d08ad27c0ef3d224492c9bf29545fba458aa7e95ba88e13d1709c43")

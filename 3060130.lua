@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosmic Call
 addappid(3060130)
-addappid(3060131,0,"a119fb90c4683bde3dee33310daa84d57d28d8724f37511cc2f00d7e9211222f")
--- setManifestid(3060131,"409527350822125873")
+addappid(3060131, 1, "a119fb90c4683bde3dee33310daa84d57d28d8724f37511cc2f00d7e9211222f")

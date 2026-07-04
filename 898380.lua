@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Color Party
 addappid(898380)
-addappid(898381,0,"0ef33b53c21c3c3553e3bc2ea61a3fd10d498f656595475aea591ea3ca696e0e")
--- setManifestid(898381,"7015932198448268590")
+addappid(898381, 1, "0ef33b53c21c3c3553e3bc2ea61a3fd10d498f656595475aea591ea3ca696e0e")

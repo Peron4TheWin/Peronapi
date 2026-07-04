@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: We're All Going To Die
 addappid(1457140)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1457141,0,"e9363c835450012b7b4e8efcea0098f835331e80c1d29ed6e46b9d61966a78a1")
--- setManifestid(1457141,"8317854790933317781")
+addappid(1457141, 1, "e9363c835450012b7b4e8efcea0098f835331e80c1d29ed6e46b9d61966a78a1")

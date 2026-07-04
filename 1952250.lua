@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: SAMURAI MAIDEN
 addappid(1952250)
-addappid(1952251,1,"3a1143441b97928bea0262cb00cd8369845b83eec9ccee4f4b4298e67fcbf13a")
---setManifestid(1952251,"7062616129433288062",10261447943)
+addappid(1952251, 1, "3a1143441b97928bea0262cb00cd8369845b83eec9ccee4f4b4298e67fcbf13a")
 addappid(2148410)
 addappid(2148412)
 addappid(2148413)

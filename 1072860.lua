@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Real Scary
 addappid(1072860)
--- setManifestid(229012,"4353723233161159493")
-addappid(1072861,0,"c76c8d8484ba33912ff045f4b46aaed2359911acead6ef5666bb71cffaa87646")
--- setManifestid(1072861,"2929194022915552021")
+addappid(1072861, 1, "c76c8d8484ba33912ff045f4b46aaed2359911acead6ef5666bb71cffaa87646")

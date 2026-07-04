@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gamers Unknown Survival
 addappid(677870)
-addappid(677871,0,"2ae1da746310af78153d2c6e302414ab6813d191d0988f79616aad7acb21dec0")
--- setManifestid(677871,"1864431882949248744")
+addappid(677871, 1, "2ae1da746310af78153d2c6e302414ab6813d191d0988f79616aad7acb21dec0")

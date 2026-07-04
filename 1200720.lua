@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Making*Lovers
 addappid(1200720)
-addappid(1200721,0,"ee69b430d83df979704ff1ea25477f34409fdceac3e6d2d42f0b6fdf31d5eeca")
--- setManifestid(1200721,"4039450641768477621")
+addappid(1200721, 1, "ee69b430d83df979704ff1ea25477f34409fdceac3e6d2d42f0b6fdf31d5eeca")

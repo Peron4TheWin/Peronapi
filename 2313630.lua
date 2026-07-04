@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MITTIN
 addappid(2313630)
-addappid(2313631,0,"37c49b3778c97fecd6756617e17cddf973861009c8af3cdca9932af0c7fe8c8a")
--- setManifestid(2313631,"255001183137850961")
+addappid(2313631, 1, "37c49b3778c97fecd6756617e17cddf973861009c8af3cdca9932af0c7fe8c8a")

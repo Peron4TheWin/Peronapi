@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Etaine: Magic Survivor / 伊泰恩：魔法幸存者
 addappid(2508890)
-addappid(2508891,0,"69680195b1a313d236b1ca64e87df11a04b9dd55a5e01fe6a75391a3d3e7101d")
--- setManifestid(2508891,"6508344022730078313")
+addappid(2508891, 1, "69680195b1a313d236b1ca64e87df11a04b9dd55a5e01fe6a75391a3d3e7101d")

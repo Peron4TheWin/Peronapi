@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Overshadow
 addappid(1333840)
--- setManifestid(228988,"6645201662696499616")
-addappid(1333841,0,"c928bf3340320d3f46da386ec15d0c1ae036dc7ac35fb711f4e7b5eede31ae2b")
--- setManifestid(1333841,"1302568066016818526")
+addappid(1333841, 1, "c928bf3340320d3f46da386ec15d0c1ae036dc7ac35fb711f4e7b5eede31ae2b")

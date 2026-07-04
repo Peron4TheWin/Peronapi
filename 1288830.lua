@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: [NTRPG] Wife Punishment 妻子的惩罚!!~风情客栈的公交车~
 addappid(1288830)
-addappid(1288831,0,"ec1e411f18af796502c0800fc9f08e716eb459c75a4244c92fcf140e0bac955f")
--- setManifestid(1288831,"2617857816611677038")
+addappid(1288831, 1, "ec1e411f18af796502c0800fc9f08e716eb459c75a4244c92fcf140e0bac955f")

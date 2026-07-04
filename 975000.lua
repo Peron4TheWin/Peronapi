@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NO, THANK YOU!!!
 addappid(975000)
-addappid(975001,0,"9575ffd3affe3782c0912278c17e21e2ea2475d82d5f5e4fe20d7219de852844")
--- setManifestid(975001,"4843033242105682013")
+addappid(975001, 1, "9575ffd3affe3782c0912278c17e21e2ea2475d82d5f5e4fe20d7219de852844")

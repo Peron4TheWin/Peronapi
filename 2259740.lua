@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: King of Light
 addappid(2259740)
-addappid(2259741,0,"bbecd10e1fa13c4d19666596f75e96a1dbfab87e384d2db85acd29dcd15f356c")
--- setManifestid(2259741,"6932260453635644710")
+addappid(2259741, 1, "bbecd10e1fa13c4d19666596f75e96a1dbfab87e384d2db85acd29dcd15f356c")
+addappid(2971490)

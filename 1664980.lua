@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 1001 Jigsaw: Earth Chronicles 4
 addappid(1664980)
-addappid(1664981,0,"f68448edb098e59c07e380bf130ef6375dc257efcf01fa523a212e272e824834")
-addappid(1664984,0,"e685f23873ae02f3e33adb79d940f780960cc787bfb9273e120712aba08bbd9c")
+addappid(1664981, 1, "f68448edb098e59c07e380bf130ef6375dc257efcf01fa523a212e272e824834")

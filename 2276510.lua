@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CHARMING HEART Demo
 addappid(2276510)
-addappid(2276511,0,"511786e98cd7d1c3ed982d70a702abe08695cdab29f8a7d563a55ffd43f3d396")
--- setManifestid(2276511,"1536392919745048111")
+addappid(2276511, 1, "511786e98cd7d1c3ed982d70a702abe08695cdab29f8a7d563a55ffd43f3d396")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monstronomy
 addappid(2542460)
-addappid(2542461,0,"8e60361d66c3dbe796178494619ddce2043365878b95d3afbcd7e6afb4a02852")
--- setManifestid(2542461,"8200038395619049373")
+addappid(2542461, 1, "8e60361d66c3dbe796178494619ddce2043365878b95d3afbcd7e6afb4a02852")

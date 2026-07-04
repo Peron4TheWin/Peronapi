@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Casino Simulator
 addappid(2898270)
-addappid(2898271,0,"b7b05c08c260c2f0f60c8e3c710557ff2e0c56acaef008ab76d36e12f3bfe83d")
--- setManifestid(2898271,"1472745365076754193")
+addappid(2898271, 1, "b7b05c08c260c2f0f60c8e3c710557ff2e0c56acaef008ab76d36e12f3bfe83d")

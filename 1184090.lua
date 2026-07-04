@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Belly Dance Girl
 addappid(1184090)
-addappid(1184091,0,"5846fb1aea7df1b98f015cfd2c56aadbf859819c8b975de59e1f1ed9e89e15bf")
--- setManifestid(1184091,"604232383805455927")
+addappid(1184091, 1, "5846fb1aea7df1b98f015cfd2c56aadbf859819c8b975de59e1f1ed9e89e15bf")

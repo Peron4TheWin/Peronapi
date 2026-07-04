@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Convenience Stories
 addappid(2119650)
-addappid(2119651,0,"b39bb0c3aeebfa987ee4c197a2da4d739d10ca111102dfb96be8f25c9015082b")
--- setManifestid(2119651,"7366259506661293094")
+addappid(2119651, 1, "b39bb0c3aeebfa987ee4c197a2da4d739d10ca111102dfb96be8f25c9015082b")

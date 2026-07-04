@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: トラウマーメイド
 addappid(1388510)
-addappid(1388511,0,"b678ab356ec90386825c57741d12acf81f71b3972f1dfeb7478b34ac757d4bf6")
--- setManifestid(1388511,"2203632409637395423")
+addappid(1388511, 1, "b678ab356ec90386825c57741d12acf81f71b3972f1dfeb7478b34ac757d4bf6")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Merge Nymphs
 addappid(1460200)
-addappid(1460201,0,"f42b428b3b4df5a8728020eee265e1cb96d3ae3f4c9d440fb18ec407d4988a83")
--- setManifestid(1460201,"5011438121490163038")
+addappid(1460201, 1, "f42b428b3b4df5a8728020eee265e1cb96d3ae3f4c9d440fb18ec407d4988a83")

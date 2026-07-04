@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Liminal Redux
 addappid(2324230)
-addappid(2324231,0,"6dc517b7b64ac4b517c86a6c9be4bd12bb767833cff0044238b82114d6e79727")
--- setManifestid(2324231,"125835933240609340")
+addappid(2324231, 1, "6dc517b7b64ac4b517c86a6c9be4bd12bb767833cff0044238b82114d6e79727")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Scene Investigators Demo
 addappid(1444400)
-addappid(1444401,0,"4a3ddcc1b35e4d601f2a06189874bc0d0c2531a967ec1d7861d77ea17f95a809")
--- setManifestid(1444401,"1988029627498571951")
+addappid(1444401, 1, "4a3ddcc1b35e4d601f2a06189874bc0d0c2531a967ec1d7861d77ea17f95a809")

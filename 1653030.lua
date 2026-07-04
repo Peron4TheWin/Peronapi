@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ren the Summoner and the Erotic Dungeon
 addappid(1653030)
-addappid(1653031,0,"8a1dfabb9ff0e28157ecaad1bf24a34348cb46afdcb59490d3d5f169eac91a71")
--- setManifestid(1653031,"6452795654277302403")
+addappid(1653031, 1, "8a1dfabb9ff0e28157ecaad1bf24a34348cb46afdcb59490d3d5f169eac91a71")
+addappid(2268530)

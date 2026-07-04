@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Z: The beginning of the end. Chapter I
 addappid(2514340)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2514341,0,"0d266dc11fef8cdebd0fdef29ea64255a6edfe77659c113d6fd1c1a6b53bc31d")
--- setManifestid(2514341,"8141829679016273007")
+addappid(2514341, 1, "0d266dc11fef8cdebd0fdef29ea64255a6edfe77659c113d6fd1c1a6b53bc31d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Research Story
 addappid(1629830)
-addappid(1629831,0,"c44015fcaaf42ef956e92da590db8940b4edeef9783f87ca52b6c242346fa1bd")
--- setManifestid(1629831,"3883861378289487963")
+addappid(1629831, 1, "c44015fcaaf42ef956e92da590db8940b4edeef9783f87ca52b6c242346fa1bd")

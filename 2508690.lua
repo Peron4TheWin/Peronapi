@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sugar Girls
 addappid(2508690)
-addappid(2508691,0,"3804ce3fcd049222724f187f8bfed05c9f49be38081ac5eb35fbc084422f891a")
--- setManifestid(2508691,"6774685263156344348")
+addappid(2508691, 1, "3804ce3fcd049222724f187f8bfed05c9f49be38081ac5eb35fbc084422f891a")

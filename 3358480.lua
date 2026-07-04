@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Idiom‌
 addappid(3358480)
-addappid(3358481,0,"3d4ea256fe50dee45f4f366091ae4631daf43c93c90b2cd917250812346997b4")
+addappid(3358481, 1, "3d4ea256fe50dee45f4f366091ae4631daf43c93c90b2cd917250812346997b4")

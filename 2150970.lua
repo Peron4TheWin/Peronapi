@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TIMORE REMAKE
 addappid(2150970)
-addappid(2150971,0,"807ebb5bb42143da627dedc88215c97fcd77c89603364fe52ceb5971d423da6d")
--- setManifestid(2150971,"1459418822730558905")
+addappid(2150971, 1, "807ebb5bb42143da627dedc88215c97fcd77c89603364fe52ceb5971d423da6d")

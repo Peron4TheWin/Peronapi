@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lair of Torment
 addappid(2508210)
-addappid(2508211,0,"a86a76d9bc74bb4c35feabdac6958430cedce7018879ef2f8ede86038a33b174")
--- setManifestid(2508211,"4670454402532432988")
+addappid(2508211, 1, "a86a76d9bc74bb4c35feabdac6958430cedce7018879ef2f8ede86038a33b174")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Snotty's Sewer
 addappid(2435890)
-addappid(2435891,0,"d54f6dbc8c63be9a3aab0555490765cf43415a719024eb7994bfc2bdbb834b75")
--- setManifestid(2435891,"3461332278903897443")
+addappid(2435891, 1, "d54f6dbc8c63be9a3aab0555490765cf43415a719024eb7994bfc2bdbb834b75")

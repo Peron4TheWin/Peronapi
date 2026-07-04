@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 传颂的种族 The Celebrated Race
 addappid(2066530)
-addappid(2066531,0,"f2a3d1c9ca7f8e2e6925dc81f4d2fc3aad5aaaf2aa98772a80cfade2a25f57ac")
--- setManifestid(2066531,"8357179227609756929")
+addappid(2066531, 1, "f2a3d1c9ca7f8e2e6925dc81f4d2fc3aad5aaaf2aa98772a80cfade2a25f57ac")

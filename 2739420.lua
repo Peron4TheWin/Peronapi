@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 书恋与君：美少女教我追系花
 addappid(2739420)
-addappid(2739421,0,"134be2055433f7a9cccd45137b7c0973ba8dfdec971269fed447301b308109c4")
--- setManifestid(2739421,"1147345449234142598")
+addappid(2739421, 1, "134be2055433f7a9cccd45137b7c0973ba8dfdec971269fed447301b308109c4")

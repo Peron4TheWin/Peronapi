@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brawler
 addappid(1558530)
-addappid(1558531,0,"62eaa00f24652895e81cd20bdde9ae950ede826e3d00e60b2452dca3de607cbd")
--- setManifestid(1558531,"6000932367366070310")
+addappid(1558531, 1, "62eaa00f24652895e81cd20bdde9ae950ede826e3d00e60b2452dca3de607cbd")

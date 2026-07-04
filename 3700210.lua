@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Island Supermarket Simulator
 addappid(3700210)
-addappid(3700211,0,"78b07e3d9c600c4b1c36a4891c92da27923990fb16d14539a0512df032ae7a8a")
--- setManifestid(3700211,"371962190916229768")
+addappid(3700211, 1, "78b07e3d9c600c4b1c36a4891c92da27923990fb16d14539a0512df032ae7a8a")

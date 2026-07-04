@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Honey's Sweet Revenge
 addappid(2570130)
-addappid(2570131,0,"c48ebaaee1a11e2e376d2be05838872b051d479a50e76184c3e100ab2f70a3eb")
--- setManifestid(2570131,"7576483566595399332")
+addappid(2570131, 1, "c48ebaaee1a11e2e376d2be05838872b051d479a50e76184c3e100ab2f70a3eb")

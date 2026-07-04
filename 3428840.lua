@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Countryballs: Rise of Europe
 addappid(3428840)
-addappid(3428841,0,"c103c09cc03b99b19e54d876d93ec0ad262c733a29fbd2679d699197181ec4a6")
--- setManifestid(3428841,"2937858905141124864")
+addappid(3428841, 1, "c103c09cc03b99b19e54d876d93ec0ad262c733a29fbd2679d699197181ec4a6")

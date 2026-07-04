@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FAIRY TAIL: Beach Volleyball Havoc
 addappid(2116680)
-addappid(2116681,0,"b0ad2cc1783dbfc9029c5d13f2dcf8c272e56869a2dd0196e661ba64fbb83674")
--- setManifestid(2116681,"2213282206383451477")
+addappid(2116681, 1, "b0ad2cc1783dbfc9029c5d13f2dcf8c272e56869a2dd0196e661ba64fbb83674")

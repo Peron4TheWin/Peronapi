@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Voronica Cleans House: a Vore Adventure
 addappid(1634950)
-addappid(1634951,0,"c4b4eccb4dd922298e9760a6a58d69061acdcf3c3a02d46b40e84cdc95082190")
--- setManifestid(1634951,"7603790279662934195")
+addappid(1634951, 1, "c4b4eccb4dd922298e9760a6a58d69061acdcf3c3a02d46b40e84cdc95082190")

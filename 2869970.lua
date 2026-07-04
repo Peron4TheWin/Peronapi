@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: V-Girl MILF Chloe
 addappid(2869970)
-addappid(2869971,0,"f5d1d737d90ede04bdc605f115cc72c267cbcead959405d3622f2f28c2cd35c7")
--- setManifestid(2869971,"6741421151639133600")
+addappid(2869971, 1, "f5d1d737d90ede04bdc605f115cc72c267cbcead959405d3622f2f28c2cd35c7")

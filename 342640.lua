@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Privateers
 addappid(342640)
-addappid(342641,0,"63988ec4fd7cca0e3f903799219d0cde391a9b54f5f29d431a2c88a320fde776")
--- setManifestid(342641,"7323174461956670721")
+addappid(342641, 1, "63988ec4fd7cca0e3f903799219d0cde391a9b54f5f29d431a2c88a320fde776")
+addappid(596110)

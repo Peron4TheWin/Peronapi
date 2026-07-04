@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stories of Blossom
 addappid(1581680)
-addappid(1581681,0,"79c8a3b8bd933cbc938b7e5abf9d08a9a43558316423890591ae024dba831ed1")
--- setManifestid(1581681,"3290932562946240685")
+addappid(1581681, 1, "79c8a3b8bd933cbc938b7e5abf9d08a9a43558316423890591ae024dba831ed1")

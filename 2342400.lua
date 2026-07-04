@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WAT?
 addappid(2342400)
-addappid(2342401,0,"aaac2a643c6a1fdb9d326c96a8ad4fb1a9208b4142ea5a213415af41c6e946b3")
--- setManifestid(2342401,"2944967900563667378")
+addappid(2342401, 1, "aaac2a643c6a1fdb9d326c96a8ad4fb1a9208b4142ea5a213415af41c6e946b3")

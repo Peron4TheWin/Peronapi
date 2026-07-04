@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Hotel
 addappid(1855890)
-addappid(1855891,0,"32722af12e08ff224967d4c9c5dcc7c422022cdee58c55cb96280123f7f1b0a3")
--- setManifestid(1855891,"7039310807643687183")
+addappid(1855891, 1, "32722af12e08ff224967d4c9c5dcc7c422022cdee58c55cb96280123f7f1b0a3")

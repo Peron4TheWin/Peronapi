@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WarpThrough
 addappid(957770)
-addappid(957771,0,"f3e0b703d3c1c9b09b299c7022186c510379463d5e38b1c55fc75436c2eba820")
--- setManifestid(957771,"1833293118703557812")
+addappid(957771, 1, "f3e0b703d3c1c9b09b299c7022186c510379463d5e38b1c55fc75436c2eba820")

@@ -1,10 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: Under The Waves Demo
 addappid(3069100)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(3069101,0,"51703515d07055492fdcedecde4327a4978e2a0bc26c57e7afbaa73dca74ce7e")
+addappid(3069101, 1, "51703515d07055492fdcedecde4327a4978e2a0bc26c57e7afbaa73dca74ce7e")

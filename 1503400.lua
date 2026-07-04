@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Temporal Purge: Z
 addappid(1503400)
--- setManifestid(228990,"1829726630299308803")
-addappid(1503401,0,"ace38255bdf2c6f3c56934d241259b23a8b354bb86cf22446b89c92d2db0f2f0")
--- setManifestid(1503401,"7325876734292841041")
+addappid(1503401, 1, "ace38255bdf2c6f3c56934d241259b23a8b354bb86cf22446b89c92d2db0f2f0")
+addappid(3163270)

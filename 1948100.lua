@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lustful Ponies
 addappid(1948100)
-addappid(1948101,0,"1a293d8b3d0a3cef493377174c5fb9e957e208db219ab3c20845cc47e18570e8")
--- setManifestid(1948101,"751977205532507742")
+addappid(1948101, 1, "1a293d8b3d0a3cef493377174c5fb9e957e208db219ab3c20845cc47e18570e8")

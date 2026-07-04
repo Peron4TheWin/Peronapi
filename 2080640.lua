@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: First Date : Late To Date
 addappid(2080640)
-addappid(2080641,0,"616b388a05e4eff2ffdf2df60e65e0ef3015018678eacb24a909eb6dc96eac76")
--- setManifestid(2080641,"5955606833066182916")
+addappid(2080641, 1, "616b388a05e4eff2ffdf2df60e65e0ef3015018678eacb24a909eb6dc96eac76")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trapper: Drug Dealing RPG
 addappid(1662860)
-addappid(1662861,0,"b0f00f0ee96a0aebcf1e7efee54f95719c6f91009a36c6422870a395dfb5a939")
--- setManifestid(1662861,"83863114519144786")
+addappid(1662861, 1, "b0f00f0ee96a0aebcf1e7efee54f95719c6f91009a36c6422870a395dfb5a939")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Most Extraordinary Gnome
 addappid(2089710)
-addappid(2089711,0,"993cc4c816918e71342fb2eb57935026a62eae3f6531611237b1c96dc34907c8")
--- setManifestid(2089711,"7334015136194404685")
+addappid(2089711, 1, "993cc4c816918e71342fb2eb57935026a62eae3f6531611237b1c96dc34907c8")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chromosome Evil 2
 addappid(2529770)
-addappid(2529771,0,"25012291d5fb4fe2a95cbed73e33d38de25953963b3f0ce897c8f4722c6a5a74")
--- setManifestid(2529771,"5268326904808351515")
+addappid(2529771, 1, "25012291d5fb4fe2a95cbed73e33d38de25953963b3f0ce897c8f4722c6a5a74")

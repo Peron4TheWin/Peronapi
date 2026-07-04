@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Might & Magic: Clash of Heroes - Definitive Edition
 addappid(2213300)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(2213301,0,"8c4e3ece3a273a60d9f657e2426ab58c6fb8ad0fa69949a61608a36cef4f563c")
--- setManifestid(2213301,"8830073770789313827")
+addappid(2213301, 1, "8c4e3ece3a273a60d9f657e2426ab58c6fb8ad0fa69949a61608a36cef4f563c")

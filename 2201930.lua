@@ -1,7 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Oriental Valley
 addappid(2201930)
-addappid(228989)
---setManifestid(228989,"1332597174812030948")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(2201931,0,"2d9b328bebf7230789f44f93f7d6ab244c6cb6d2a6d9f08a24a904b524034b29")
---setManifestid(2201931,"5833192689540355416")
+addappid(2201931, 1, "2d9b328bebf7230789f44f93f7d6ab244c6cb6d2a6d9f08a24a904b524034b29")
+addappid(2915630)
+addappid(2915640)

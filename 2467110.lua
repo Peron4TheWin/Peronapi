@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Towerful Defense: A Rogue TD Demo
 addappid(2467110)
-addappid(2467111,0,"b6a313fc79124abf6e1877db37a8b763df3a5c4aa50490e1ef5ac5fdb8788805")
--- setManifestid(2467111,"3960641741171402198")
+addappid(2467111, 1, "b6a313fc79124abf6e1877db37a8b763df3a5c4aa50490e1ef5ac5fdb8788805")

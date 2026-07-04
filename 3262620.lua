@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: 剑武玄幻之旅
 addappid(3262620)
-addappid(3262621,0,"f9d2943911e1ac8323cd85a4f15d8cc425c1c4c44b0722ad33c95f99558d7b97")
--- setManifestid(3262621,"8336480432837556661")
+addappid(3262621, 1, "f9d2943911e1ac8323cd85a4f15d8cc425c1c4c44b0722ad33c95f99558d7b97")
+addappid(3299290)

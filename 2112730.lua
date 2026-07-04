@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drag Deal
 addappid(2112730)
-addappid(2112731,0,"2e20b84ac2fdf6c21bcaf5ac5292a86b0575426fe73f9fd401ad1389a5dba618")
--- setManifestid(2112731,"1152060614993647324")
+addappid(2112731, 1, "2e20b84ac2fdf6c21bcaf5ac5292a86b0575426fe73f9fd401ad1389a5dba618")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hike
 addappid(1867480)
-addappid(1867481,0,"538bc9b42254cfc5a92ed893307d39be01b3db306b94b23a17afaba288298dce")
--- setManifestid(1867481,"7304552763418182367")
+addappid(1867481, 1, "538bc9b42254cfc5a92ed893307d39be01b3db306b94b23a17afaba288298dce")

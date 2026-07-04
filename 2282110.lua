@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: March, March! European Warfare
 addappid(2282110)
-addappid(2282111,0,"c67f771286b488b73a9a58d369ba3447d7341c4f84c636a85d0fe8e3b3a90e57")
--- setManifestid(2282111,"1991330924328769629")
+addappid(2282111, 1, "c67f771286b488b73a9a58d369ba3447d7341c4f84c636a85d0fe8e3b3a90e57")

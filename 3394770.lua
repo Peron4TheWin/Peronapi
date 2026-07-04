@@ -1,2 +1,4 @@
-addappid(3394770) -- Deadly Dice: Menherarium
-addappid(3394771, 1, "01e96cab1e37e494fa9729f0efd284b95b4e335c8f83677bc8256394c45a32d7") -- Depot 3394771
+-- Lua provided by SkyAPI 
+-- Game: Menherarium: Deadly Dice
+addappid(3394770)
+addappid(3394771, 1, "01e96cab1e37e494fa9729f0efd284b95b4e335c8f83677bc8256394c45a32d7")

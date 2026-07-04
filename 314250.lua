@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jet Gunner
 addappid(314250)
-addappid(314251,0,"a5062c25459f2017496f1a0c8f42b8de10e11658f9707b22c19abf333bd113ec")
--- setManifestid(314251,"8408804314669546503")
+addappid(314251, 1, "a5062c25459f2017496f1a0c8f42b8de10e11658f9707b22c19abf333bd113ec")

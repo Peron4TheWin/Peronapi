@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 9-nine-:NewEpisode
 addappid(1890120)
-addappid(1890121,0,"70d81f6013bd328e1b95167e49b166cc529cc4310f03c7c8a7206c5d2fbc6790")
--- setManifestid(1890121,"6349277785769487970")
+addappid(1890121, 1, "70d81f6013bd328e1b95167e49b166cc529cc4310f03c7c8a7206c5d2fbc6790")

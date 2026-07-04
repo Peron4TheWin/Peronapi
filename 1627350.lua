@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEAD LETTER DEPT.
 addappid(1627350)
-addappid(1627351,0,"8bc236396b13778fd3a38c39cbaa20ae26e3bb34338b08e7660da2e22dc77fba")
--- setManifestid(1627351,"7086417181817254899")
+addappid(1627351, 1, "8bc236396b13778fd3a38c39cbaa20ae26e3bb34338b08e7660da2e22dc77fba")

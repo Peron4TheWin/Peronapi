@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I'm Not Crazy
 addappid(3109000)
-addappid(3109001,0,"c2107271672d8a49237c8ff469b1f4f64ef691dbb32e371caaa1b141017c8198")
--- setManifestid(3109001,"4245179430573731365")
+addappid(3109001, 1, "c2107271672d8a49237c8ff469b1f4f64ef691dbb32e371caaa1b141017c8198")

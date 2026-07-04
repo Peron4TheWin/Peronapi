@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DeathOmen
 addappid(1842470)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1842471,0,"a60e9952bade3c781d18d6a24e15584dd6b8cf792db0ac22d22df1566f4c7905")
--- setManifestid(1842471,"1006776966918146521")
+addappid(1842471, 1, "a60e9952bade3c781d18d6a24e15584dd6b8cf792db0ac22d22df1566f4c7905")

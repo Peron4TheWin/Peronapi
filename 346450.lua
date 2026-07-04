@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: samurai_jazz
 addappid(346450)
-addappid(346451,0,"5dcc7abad90eb266018f30a6d876c7a9f90163f2c23452e845ef125bf949c632")
--- setManifestid(346451,"3819373413060808877")
+addappid(346451, 1, "5dcc7abad90eb266018f30a6d876c7a9f90163f2c23452e845ef125bf949c632")

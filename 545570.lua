@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PHAT PHROG
 addappid(545570)
-addappid(545571,0,"b1a1948ee7122877d49381507776d4d629ffef4ff557f95259fde55a65d5a2b4")
--- setManifestid(545571,"6271743502812803174")
+addappid(545571, 1, "b1a1948ee7122877d49381507776d4d629ffef4ff557f95259fde55a65d5a2b4")

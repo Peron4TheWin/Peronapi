@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Adventures of Elena Temple: Definitive Edition
 addappid(800190)
-addappid(800191,0,"f0903a149718e4415ccbe5ec8305e8f650bf23eadbcbfb58b585b83aa9a09da2")
--- setManifestid(800191,"545975620734631152")
-addappid(800193,0,"23f0dfdd19fdec9fbcbeaa2b9b197c027fe40d8e7335e23df7039e48e4431bc3")
--- setManifestid(800193,"6513698220181714554")
+addappid(800191, 1, "f0903a149718e4415ccbe5ec8305e8f650bf23eadbcbfb58b585b83aa9a09da2")
+addappid(876440)

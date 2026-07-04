@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hex-Up
 addappid(765610)
-addappid(765611,0,"a49f71f63981377c755a8b2e3a0d296aa451ba260c835dce3049483d606b0ab8")
--- setManifestid(765611,"7784377785532882798")
+addappid(765611, 1, "a49f71f63981377c755a8b2e3a0d296aa451ba260c835dce3049483d606b0ab8")

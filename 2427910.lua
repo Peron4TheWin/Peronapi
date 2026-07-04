@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neonscape
 addappid(2427910)
-addappid(2427911,0,"4cb8d5cada76edbddf5b0e636e92fc8770433460d1149ee51143c8156e19d111")
+addappid(2427911, 1, "4cb8d5cada76edbddf5b0e636e92fc8770433460d1149ee51143c8156e19d111")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Xenon-Runner
 addappid(2327130)
-addappid(2327131,0,"ddf2613e05acc9c325197d08968d983ddf5ff3645509cfd8324462d5aaa719bc")
--- setManifestid(2327131,"5341036969315914055")
+addappid(2327131, 1, "ddf2613e05acc9c325197d08968d983ddf5ff3645509cfd8324462d5aaa719bc")

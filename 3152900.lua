@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Fantasy
 addappid(3152900)
-addappid(3152901,0,"5ca64815c6dc96e881c689bd6ea40694ccbadb3069cf24425464ca4ac46d796c")
--- setManifestid(3152901,"5635666346540573958")
+addappid(3152901, 1, "5ca64815c6dc96e881c689bd6ea40694ccbadb3069cf24425464ca4ac46d796c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Extremely Powerful Capybaras
 addappid(2089980)
-addappid(2089981,0,"5373f2e2eddeefa6ec7bb22bd940c35cc36e8b5ecab7f222c7a6bc0abecbd38e")
--- setManifestid(2089981,"3497748792458916512")
+addappid(2089981, 1, "5373f2e2eddeefa6ec7bb22bd940c35cc36e8b5ecab7f222c7a6bc0abecbd38e")

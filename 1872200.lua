@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: IRON GUARD (Non VR)
 addappid(1872200)
-addappid(1872201,0,"d8d1dc06d6efd1799cb80af43928618d3b5dd2e52df0defe664727c687367688")
--- setManifestid(1872201,"6337889541059452099")
+addappid(1872201, 1, "d8d1dc06d6efd1799cb80af43928618d3b5dd2e52df0defe664727c687367688")

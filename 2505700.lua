@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BeadsPopper
 addappid(2505700)
-addappid(2505701,0,"f7d73eb07ea21b9f6accfbd1f95bda607aa911864b87ad5edb09de6edc5373ee")
--- setManifestid(2505701,"1263630190113144632")
+addappid(2505701, 1, "f7d73eb07ea21b9f6accfbd1f95bda607aa911864b87ad5edb09de6edc5373ee")

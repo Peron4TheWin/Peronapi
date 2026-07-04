@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Life in Willowdale: Farm Adventures
 addappid(1548910)
-addappid(1548911,0,"82725774dc3542f9936476ef2368281edac248f3d6f0c5fb72935ddef8f371e7")
--- setManifestid(1548911,"6125618862457845673")
+addappid(1548911, 1, "82725774dc3542f9936476ef2368281edac248f3d6f0c5fb72935ddef8f371e7")

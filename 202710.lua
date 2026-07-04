@@ -1,9 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Demigod
 addappid(202710)
-addappid(228982)
--- setManifestid(228982,"6413394087650432851")
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(229000)
--- setManifestid(229000,"4622705914179893434")
-addappid(202711,0,"9a80fc3d47905a9dc082a75446d13462054a51c53f6bc2e2a5c589ca0b376f4d")
--- setManifestid(202711,"6011297603436789406")
+addappid(202711, 1, "9a80fc3d47905a9dc082a75446d13462054a51c53f6bc2e2a5c589ca0b376f4d")

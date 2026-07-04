@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nurikabe World
 addappid(2964540)
-addappid(2964541,0,"c4944028f05fe664b22b3eec695f95efe9e5b92a25f38d3ad5e5c87a040ea212")
--- setManifestid(2964541,"399913054696208160")
+addappid(2964541, 1, "c4944028f05fe664b22b3eec695f95efe9e5b92a25f38d3ad5e5c87a040ea212")

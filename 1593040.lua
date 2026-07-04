@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Belle-de-Nuit
 addappid(1593040)
-addappid(1593041,0,"37af3a88c080b326ba0ed06db67fcf5a66b90ee4fa8c9760899e0f57ea122262")
--- setManifestid(1593041,"7514150030315827248")
+addappid(1593041, 1, "37af3a88c080b326ba0ed06db67fcf5a66b90ee4fa8c9760899e0f57ea122262")
+addappid(2189510)

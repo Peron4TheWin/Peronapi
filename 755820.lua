@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Against The Galaxy
 addappid(755820)
-addappid(755821,0,"54e220b6dba76eb49e70404dd3cdf97ebb0775cc331ce681a6138493bd3751b5")
--- setManifestid(755821,"3556143046923976687")
+addappid(755821, 1, "54e220b6dba76eb49e70404dd3cdf97ebb0775cc331ce681a6138493bd3751b5")

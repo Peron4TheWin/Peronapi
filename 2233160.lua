@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AirportSim Demo
 addappid(2233160)
-addappid(2233161,0,"b13cec64055fcde4eacfc1d783625c6d8deae003185e8d56609a10d84f39917e")
--- setManifestid(2233161,"1166649075371210908")
+addappid(2233161, 1, "b13cec64055fcde4eacfc1d783625c6d8deae003185e8d56609a10d84f39917e")

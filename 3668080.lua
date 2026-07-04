@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reflection
 addappid(3668080)
-addappid(3668081,0,"57e8358dc923a421319fe11031a8cbada4031105c13786c9ef4c08b4cd67d05c")
+addappid(3668081, 1, "57e8358dc923a421319fe11031a8cbada4031105c13786c9ef4c08b4cd67d05c")

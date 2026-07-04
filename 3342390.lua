@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The World of Marius
 addappid(3342390)
-addappid(3342391,0,"ae39fb0efbb2b2a49cf84f0e8ee987d98eae5b9f52151d89a30cbb8ea18301aa")
--- setManifestid(3342391,"7268696579344040337")
+addappid(3342391, 1, "ae39fb0efbb2b2a49cf84f0e8ee987d98eae5b9f52151d89a30cbb8ea18301aa")

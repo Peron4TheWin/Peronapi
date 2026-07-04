@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MyCompany996
 addappid(1249060)
-addappid(1249061,0,"e4033fa05d7b9611fc5818a4dfc6475a8fc541852ef512a1cabab72fb6c2f5c6")
+addappid(1249061, 1, "e4033fa05d7b9611fc5818a4dfc6475a8fc541852ef512a1cabab72fb6c2f5c6")

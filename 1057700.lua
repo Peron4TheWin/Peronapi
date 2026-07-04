@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battle Grounds III
 addappid(1057700)
-addappid(1057701,0,"c6d3002e6ea8c0a12c19661e069cc1cfce79205a8c05f92be6c0b799a36d5aae")
--- setManifestid(1057701,"6793808434881014640")
+addappid(1057701, 1, "c6d3002e6ea8c0a12c19661e069cc1cfce79205a8c05f92be6c0b799a36d5aae")

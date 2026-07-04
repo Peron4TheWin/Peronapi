@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Real
 addappid(2627600)
-addappid(2627601,0,"b417565d08c1fbd4292c4459c013ead844b85481c636f7cebf2106a99b98b714")
+addappid(2627601, 1, "b417565d08c1fbd4292c4459c013ead844b85481c636f7cebf2106a99b98b714")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cosplay Fever!!
 addappid(2185730)
-addappid(2185731,0,"291ff514b52bff899ffa8d070a93ab72766d3553731bd418bd4cfdf705c23140")
--- setManifestid(2185731,"4063354147518932532")
+addappid(2185731, 1, "291ff514b52bff899ffa8d070a93ab72766d3553731bd418bd4cfdf705c23140")

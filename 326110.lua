@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Defenders of the Last Colony
 addappid(326110)
-addappid(326111,0,"96681f1d3b76ef23365f999d42adee7b7919ab4eae4e0fe16e48710d538e1c0e")
--- setManifestid(326111,"455850710398378484")
+addappid(326111, 1, "96681f1d3b76ef23365f999d42adee7b7919ab4eae4e0fe16e48710d538e1c0e")

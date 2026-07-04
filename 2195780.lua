@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Class of Heroes: Anniversary Edition
 addappid(2195780)
-addappid(2195781,0,"7aacbcbdab233828ad5e8e482a0d33a58e5cdacf22158e1ad15f9a5d56b07df0")
--- setManifestid(2195781,"7391557101458715581")
+addappid(2195781, 1, "7aacbcbdab233828ad5e8e482a0d33a58e5cdacf22158e1ad15f9a5d56b07df0")

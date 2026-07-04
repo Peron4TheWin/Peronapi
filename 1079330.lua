@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Canary’s Theory of Happiness: Nightclub Management & Romance
 addappid(1079330)
-addappid(1079331,0,"3732ae6e819dcd5f945d705ec3172ee137b7278285efaf985d9bc11ffd276b37")
--- setManifestid(1079331,"7021247376683982947")
+addappid(1079331, 1, "3732ae6e819dcd5f945d705ec3172ee137b7278285efaf985d9bc11ffd276b37")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Biozone
 addappid(19080)
-addappid(19081,0,"d1fe336698d5660f2200e7739d493ad8c72ef749cf16f05062b0ec93c2e44ee2")
--- setManifestid(19081,"5232621543727230389")
+addappid(19081, 1, "d1fe336698d5660f2200e7739d493ad8c72ef749cf16f05062b0ec93c2e44ee2")

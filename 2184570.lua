@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Memories Off #5 Togireta Film
 addappid(2184570)
-addappid(2184571,0,"bfb2c051efbc5f774945f472e315752682a5f9b5fe12f5df3f207ebdb6751ca4")
+addappid(2184571, 1, "bfb2c051efbc5f774945f472e315752682a5f9b5fe12f5df3f207ebdb6751ca4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Putrika 1st.cut:The Reason She Must Perish
 addappid(2818450)
-addappid(2818451,0,"a35b5048f471143009de762fd79c3cbdbbce82b83d29d799004f9ec801d75b36")
--- setManifestid(2818451,"939388342400762801")
+addappid(2818451, 1, "a35b5048f471143009de762fd79c3cbdbbce82b83d29d799004f9ec801d75b36")

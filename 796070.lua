@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PuppetShow: Return to Joyville Collector's Edition
 addappid(796070)
-addappid(796071,0,"05241ed6ff7ce4a0cb853089cdd2d5856e1f078b3d7d9d702939f1ed651c3796")
--- setManifestid(796071,"1925865968328660912")
+addappid(796071, 1, "05241ed6ff7ce4a0cb853089cdd2d5856e1f078b3d7d9d702939f1ed651c3796")

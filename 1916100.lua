@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Day of the Dino
 addappid(1916100)
-addappid(1916101,0,"ef81a4e0df8a79e7160913aedf4f7b46524648a5e60796a9f29ebe7d5827dfde")
--- setManifestid(1916101,"3387124594610842567")
+addappid(1916101, 1, "ef81a4e0df8a79e7160913aedf4f7b46524648a5e60796a9f29ebe7d5827dfde")

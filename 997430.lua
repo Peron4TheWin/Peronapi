@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Mirum
 addappid(997430)
-addappid(997431,0,"30c3083ed89146efeb3b6b1f13f956a9c9ca32a44644ade3f4e048c956655313")
--- setManifestid(997431,"60301438072288284")
+addappid(997431, 1, "30c3083ed89146efeb3b6b1f13f956a9c9ca32a44644ade3f4e048c956655313")

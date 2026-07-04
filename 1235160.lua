@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Boom Stick
 addappid(1235160)
-addappid(1235161,0,"fdd7dcac93264aa2e34b8cd747f6c13cdfb02b4c39fa0cab3814c270f22776a5")
--- setManifestid(1235161,"5808208410942451163")
+addappid(1235161, 1, "fdd7dcac93264aa2e34b8cd747f6c13cdfb02b4c39fa0cab3814c270f22776a5")

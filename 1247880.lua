@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 听见我的心 Listen to My Heart
 addappid(1247880)
-addappid(1247881,0,"be437262832092be8461a6f22360a5a82ff817b9fc11a657ec5be0e5ad9a36d8")
--- setManifestid(1247881,"4455445640322767589")
+addappid(1247881, 1, "be437262832092be8461a6f22360a5a82ff817b9fc11a657ec5be0e5ad9a36d8")

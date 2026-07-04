@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Burr Puzzle
 addappid(3739420)
-addappid(3739421,0,"960ff1b73fd16efbc1f7b2ff0d9872c6de251cf5a808963c249367bd140302f5")
--- setManifestid(3739421,"420460249779766711")
+addappid(3739421, 1, "960ff1b73fd16efbc1f7b2ff0d9872c6de251cf5a808963c249367bd140302f5")

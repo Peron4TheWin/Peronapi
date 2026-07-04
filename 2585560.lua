@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 笼中困兽
 addappid(2585560)
-addappid(2585561,0,"e5f0dfc253e1b2029e793e5f45f1b9b9eb1223918f91a6ba4226173b61b17d80")
--- setManifestid(2585561,"702462625152234465")
+addappid(2585561, 1, "e5f0dfc253e1b2029e793e5f45f1b9b9eb1223918f91a6ba4226173b61b17d80")

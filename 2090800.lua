@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Otaku‘s Daily
 addappid(2090800)
-addappid(2090801,0,"fcd8616f75830f86e40bd4a937e0f463465a8c46b26bf08707ac206ef1ccf47a")
--- setManifestid(2090801,"2920425711369188161")
+addappid(2090801, 1, "fcd8616f75830f86e40bd4a937e0f463465a8c46b26bf08707ac206ef1ccf47a")

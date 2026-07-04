@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Cat Fights Here
 addappid(1942540)
-addappid(1942541,0,"b34270201e8cdc1c3fab223b795930eb28c5426551fce2cbacf0367343188fd2")
--- setManifestid(1942541,"1822266448710241114")
+addappid(1942541, 1, "b34270201e8cdc1c3fab223b795930eb28c5426551fce2cbacf0367343188fd2")

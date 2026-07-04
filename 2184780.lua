@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Train1999 Demo
 addappid(2184780)
-addappid(2184781,0,"bb3ae379687e2bb49e395aec6f9bcc22b50742a017d1c29cdda02d4742f84ade")
--- setManifestid(2184781,"8898913949760626863")
+addappid(2184781, 1, "bb3ae379687e2bb49e395aec6f9bcc22b50742a017d1c29cdda02d4742f84ade")

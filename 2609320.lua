@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 功德木鱼
 addappid(2609320)
-addappid(2609321,0,"4d9d9273878137b7f22b8aaee7b85787a809e0a7b7ba9b5a2ee3cd0e9830cc31")
--- setManifestid(2609321,"7237436537095034993")
+addappid(2609321, 1, "4d9d9273878137b7f22b8aaee7b85787a809e0a7b7ba9b5a2ee3cd0e9830cc31")

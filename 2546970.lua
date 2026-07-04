@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 冬日树下的回忆AFTER
 addappid(2546970)
-addappid(2546971,0,"bea7b9cd1e385baa035d6c5c61847e58a56c31c7a39b76425f2cf3f2e9dadf76")
--- setManifestid(2546971,"5658479822211463423")
+addappid(2546971, 1, "bea7b9cd1e385baa035d6c5c61847e58a56c31c7a39b76425f2cf3f2e9dadf76")

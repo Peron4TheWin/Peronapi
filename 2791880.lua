@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Assembly Line 2
 addappid(2791880)
-addappid(2791881,0,"8afc3face5d0a8e22b5c6d5572efb8f9e70d52fd543f00561f0d40027b19e3ba")
--- setManifestid(2791881,"2900663619564283512")
+addappid(2791881, 1, "8afc3face5d0a8e22b5c6d5572efb8f9e70d52fd543f00561f0d40027b19e3ba")

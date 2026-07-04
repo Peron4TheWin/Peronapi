@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Biters & Bullets Demo
 addappid(2099540)
-addappid(2099541,0,"dd3107b7d092b960cbfd0054731dd306c834c1cae9d2cb5d306a0b996b03ff21")
+addappid(2099541, 1, "dd3107b7d092b960cbfd0054731dd306c834c1cae9d2cb5d306a0b996b03ff21")

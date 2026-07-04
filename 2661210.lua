@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: WhaleGameOnline
 addappid(2661210)
--- setManifestid(228988,"6645201662696499616")
-addappid(2661211,0,"bbcac27ebad67177bb1069f8b5254c82919b04b77272dd86213f993de43181ee")
--- setManifestid(2661211,"8239970931703196346")
+addappid(2661211, 1, "bbcac27ebad67177bb1069f8b5254c82919b04b77272dd86213f993de43181ee")

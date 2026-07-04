@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horror Night
 addappid(1721350)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229007,"4477590687906973371")
-addappid(1721351,0,"7a20cddfe04675e8fc95ab4e9061e1fbceec6ed8f039d842a68a234f6241f1e3")
--- setManifestid(1721351,"3106556168376306269")
+addappid(1721351, 1, "7a20cddfe04675e8fc95ab4e9061e1fbceec6ed8f039d842a68a234f6241f1e3")

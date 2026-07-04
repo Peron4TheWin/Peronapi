@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bomb Club Deluxe - Soundtrack
 addappid(1906710)
-addappid(1906711,0,"a52dd1a9881a02aa17e209405d4cd9c1dad30ca91d4c5762df825814a39d2dfa")
--- setManifestid(1906711,"3112155167116168671")
+addappid(1906711, 1, "a52dd1a9881a02aa17e209405d4cd9c1dad30ca91d4c5762df825814a39d2dfa")

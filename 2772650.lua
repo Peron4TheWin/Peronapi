@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I got GOONED by a FEMBOY
 addappid(2772650)
-addappid(2772651,0,"c535ddbbd87d7b26bcebd506009ea6fca0527b9e995e3fb9c47504b13232f29e")
--- setManifestid(2772651,"5387761913606291257")
+addappid(2772651, 1, "c535ddbbd87d7b26bcebd506009ea6fca0527b9e995e3fb9c47504b13232f29e")

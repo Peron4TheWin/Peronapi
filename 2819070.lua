@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 因果律 Inside The Memory
 addappid(2819070)
-addappid(2819071,0,"c8a785b27f9afbff8af8b8f2872f91e4435b011a4e75e6a297549dc56b33345c")
--- setManifestid(2819071,"2266481578587482762")
+addappid(2819071, 1, "c8a785b27f9afbff8af8b8f2872f91e4435b011a4e75e6a297549dc56b33345c")

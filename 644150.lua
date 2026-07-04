@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Smogpunk 湮霾之地
 addappid(644150)
-addappid(644151,0,"80a774737f747fe4abbcaeceb78201300236f6af1632ebf40eeb4b82fde7193c")
--- setManifestid(644151,"1390744841225940498")
+addappid(644151, 1, "80a774737f747fe4abbcaeceb78201300236f6af1632ebf40eeb4b82fde7193c")

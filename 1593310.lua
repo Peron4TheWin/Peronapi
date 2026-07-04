@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NEKOPARA - Catboys Paradise
 addappid(1593310)
-addappid(1593311,0,"8067cc60dfce07100a6113590a51078b72ca6c85962bd888cf4c7df5aef66e51")
--- setManifestid(1593311,"5231321879117099500")
+addappid(1593311, 1, "8067cc60dfce07100a6113590a51078b72ca6c85962bd888cf4c7df5aef66e51")

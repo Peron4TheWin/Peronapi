@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DarkRanger
 addappid(3424920)
-addappid(3424921,0,"b9b1aaa5eee5c676d6d36acb64c60bbb9cd5f941f33e73edbf81b800feb3d896")
--- setManifestid(3424921,"6950647990361436210")
+addappid(3424921, 1, "b9b1aaa5eee5c676d6d36acb64c60bbb9cd5f941f33e73edbf81b800feb3d896")

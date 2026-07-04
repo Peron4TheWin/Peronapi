@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sheep's Territory
 addappid(1928390)
-addappid(1928391,0,"aa80feff00e74199cab7540dfcba5629565a4617fa67ff78237de67f1e4485b8")
--- setManifestid(1928391,"4045132997258796322")
+addappid(1928391, 1, "aa80feff00e74199cab7540dfcba5629565a4617fa67ff78237de67f1e4485b8")

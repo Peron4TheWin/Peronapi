@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Run Penguin Run
 addappid(2375100)
-addappid(2375101,0,"85e19d0a3c741ee7883bbcd168dfab9bc94a325c7645fd56f93e4867ed7698dc")
--- setManifestid(2375101,"6682920346378808542")
+addappid(2375101, 1, "85e19d0a3c741ee7883bbcd168dfab9bc94a325c7645fd56f93e4867ed7698dc")

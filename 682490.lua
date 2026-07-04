@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 鬼山 / A Ghost Around Me
 addappid(682490)
-addappid(682491,0,"1f3b502c0251b10d8ea10fa9876e62c7ae0f3e2d1bef11dd14e3c1d395bf4c36")
--- setManifestid(682491,"5005685879583000034")
+addappid(682491, 1, "1f3b502c0251b10d8ea10fa9876e62c7ae0f3e2d1bef11dd14e3c1d395bf4c36")

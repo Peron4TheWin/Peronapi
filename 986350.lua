@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nemezis: Mysterious Journey III
 addappid(986350)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(986351,0,"dabcebeb4f6456bf9c68a0eb13dd96c6ac62506a0186a8c2b4f1956ce10cad75")
--- setManifestid(986351,"2832332006366756892")
+addappid(986351, 1, "dabcebeb4f6456bf9c68a0eb13dd96c6ac62506a0186a8c2b4f1956ce10cad75")

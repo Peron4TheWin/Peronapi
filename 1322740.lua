@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VR-NISSAGE 3 - John Wentz Art Exhibition
 addappid(1322740)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1322741,0,"e218d5366e85d7606cd77e3d723dcee83e8d4100fe4c76dbe7fd8e2c409fe1fb")
+addappid(1322741, 1, "e218d5366e85d7606cd77e3d723dcee83e8d4100fe4c76dbe7fd8e2c409fe1fb")

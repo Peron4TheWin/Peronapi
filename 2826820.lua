@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Turbo Play
 addappid(2826820)
-addappid(2826821,0,"ff181746799dc92be6284d9496fc765d4901ecca2b2ae62d5c6b1a4a3eb7ae1c")
--- setManifestid(2826821,"769994395636589012")
+addappid(2826821, 1, "ff181746799dc92be6284d9496fc765d4901ecca2b2ae62d5c6b1a4a3eb7ae1c")

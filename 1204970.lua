@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hell Pub
 addappid(1204970)
-addappid(1204971,0,"feedbe43d3c3fb38eac0bfd086473c256653e62b4963049ffdc28dbf3b9a23f9")
--- setManifestid(1204971,"3968735414609268771")
+addappid(1204971, 1, "feedbe43d3c3fb38eac0bfd086473c256653e62b4963049ffdc28dbf3b9a23f9")

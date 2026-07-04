@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jump Man
 addappid(3591940)
-addappid(3591941,0,"ee7fbeb85f5737ea93c8f6e10c4a239f1269e16228fd97850e54334b2041d819")
--- setManifestid(3591941,"4244800573425323380")
+addappid(3591941, 1, "ee7fbeb85f5737ea93c8f6e10c4a239f1269e16228fd97850e54334b2041d819")

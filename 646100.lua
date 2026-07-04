@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Woodlands
 addappid(646100)
-addappid(646101,0,"722a43cb26682b3b96d7c3e146c51fd599e147cf66b1ba89499dcb9c2b2736c4")
--- setManifestid(646101,"8126174622806368466")
+addappid(646101, 1, "722a43cb26682b3b96d7c3e146c51fd599e147cf66b1ba89499dcb9c2b2736c4")

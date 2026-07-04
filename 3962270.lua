@@ -1,4 +1,4 @@
-addappid(3962270) -- Perfume Atelier
-addappid(3962271, 1, "af9a715eeb2a35453431f6ebe89e9eefdfa67a225f5fcee955981775bf4cf22b") -- Depot 3962271
-addappid(3962272, 1, "009c77dcc97137acedd9cefe9e8407aaec71c609e07fe9c9566899cbf3c597c8") -- Depot 3962272
-addappid(3962273, 1, "93e0772c743ad18f8f6bf49f8104bc3701a490762634300b086de2fdbb0b6255") -- Depot 3962273
+-- Lua provided by SkyAPI 
+-- Game: Perfume Atelier
+addappid(3962270)
+addappid(3962271, 1, "af9a715eeb2a35453431f6ebe89e9eefdfa67a225f5fcee955981775bf4cf22b")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flamebreak
+addappid(399640)
+addappid(399641, 1, "dac7a26e82731e22ae75a6c3163f0a3f8779a21b66e7c08d6eb7c3b7a12fc756")

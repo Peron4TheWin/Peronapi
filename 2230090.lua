@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Furry UwU
 addappid(2230090)
-addappid(2230091,0,"3fc3add27f40538765bc514503bd01125c1fc3e5ee4d03edda8c71db2076dc64")
--- setManifestid(2230091,"9156365823911354306")
+addappid(2230091, 1, "3fc3add27f40538765bc514503bd01125c1fc3e5ee4d03edda8c71db2076dc64")

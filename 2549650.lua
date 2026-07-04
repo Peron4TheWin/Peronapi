@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ammo and Oxygen
 addappid(2549650)
-addappid(2549651,0,"f64f6fdd32088ec9f9c75e64b2ea4def6233ccdeab4e3ddea9318440c14182d0")
--- setManifestid(2549651,"7625550060789339107")
+addappid(2549651, 1, "f64f6fdd32088ec9f9c75e64b2ea4def6233ccdeab4e3ddea9318440c14182d0")

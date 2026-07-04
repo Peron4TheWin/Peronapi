@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Overseer
 addappid(1693430)
-addappid(1693431,0,"81a7dc1270a259832c29ade2c26e14dcddd0fd215bbd8bd50c3b16ed936ec545")
--- setManifestid(1693431,"1079730944860884304")
+addappid(1693431, 1, "81a7dc1270a259832c29ade2c26e14dcddd0fd215bbd8bd50c3b16ed936ec545")

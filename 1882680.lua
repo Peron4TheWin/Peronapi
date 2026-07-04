@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Winter
 addappid(1882680)
-addappid(1882681,0,"0fa4c42b0bfc8f8208e4ce4ca611e49a108c2c9c0887187aad775e1feb2656d0")
--- setManifestid(1882681,"3576510393905015801")
+addappid(1882681, 1, "0fa4c42b0bfc8f8208e4ce4ca611e49a108c2c9c0887187aad775e1feb2656d0")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Outbreak: Contagious Memories
 addappid(1772950)
-addappid(1772951,0,"86b993ff1d8c7764e8fa3d437babf6d4513b81806b50ff8905eb8ec57aa99f65")
+addappid(1772951, 1, "86b993ff1d8c7764e8fa3d437babf6d4513b81806b50ff8905eb8ec57aa99f65")

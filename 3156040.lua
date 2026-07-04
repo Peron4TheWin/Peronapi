@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CalorieMate LIQUID FOR GAME CREATORS
 addappid(3156040)
-addappid(3156041,0,"c26f17a6c2ec42299f334e2bdcbc290d9737358809fdfac79374d826f30e8c6e")
--- setManifestid(3156041,"1782474360672994094")
+addappid(3156041, 1, "c26f17a6c2ec42299f334e2bdcbc290d9737358809fdfac79374d826f30e8c6e")

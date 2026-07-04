@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One Night You're Crazy
 addappid(697800)
-addappid(697801,0,"5b1d2bd9bee4aad35372856876e66a524bbfa0912027e4309e9ad800c2fb9d5c")
--- setManifestid(697801,"3113518581717373222")
+addappid(697801, 1, "5b1d2bd9bee4aad35372856876e66a524bbfa0912027e4309e9ad800c2fb9d5c")

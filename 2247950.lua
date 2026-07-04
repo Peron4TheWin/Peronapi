@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Digital Virus
 addappid(2247950)
-addappid(2247951,0,"f3ddd7c7ffd0322144ccd2168d5401ac2f1f71fbce9e6fdc5b67987bf9338595")
+addappid(2247951, 1, "f3ddd7c7ffd0322144ccd2168d5401ac2f1f71fbce9e6fdc5b67987bf9338595")

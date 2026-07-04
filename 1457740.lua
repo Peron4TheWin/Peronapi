@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stars Die
 addappid(1457740)
-addappid(1457741,0,"20e5715de252a6d47ab17fc6a189fe54f7c1fa42b3e6e5fd7bec2b1ad77cdc88")
--- setManifestid(1457741,"1458573397177187400")
+addappid(1457741, 1, "20e5715de252a6d47ab17fc6a189fe54f7c1fa42b3e6e5fd7bec2b1ad77cdc88")

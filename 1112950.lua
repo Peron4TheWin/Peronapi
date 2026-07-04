@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Japocaliptyca/ Япокалиптика
 addappid(1112950)
-addappid(1112951,0,"91001eb57d52c5ab5b2c2d69919ccdf806ae6d5aeba667556ddc6e06b16684c0")
--- setManifestid(1112951,"8843166121414650254")
+addappid(1112951, 1, "91001eb57d52c5ab5b2c2d69919ccdf806ae6d5aeba667556ddc6e06b16684c0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drilly Willis Demo
 addappid(1548480)
-addappid(1548481,0,"89d848dd542d01a074f88f026385f26bd3b2c0ebf88c9863adc3a009b5caa8f9")
--- setManifestid(1548481,"591195224872180223")
+addappid(1548481, 1, "89d848dd542d01a074f88f026385f26bd3b2c0ebf88c9863adc3a009b5caa8f9")

@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loop:ClassRoom
 addappid(2980940)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2980941,0,"67348c0b941951d0ad44f420f11c08d56d3a60eeb6dd772dfd10d0672a4d6b7e")
--- setManifestid(2980941,"1890105467630784809")
+addappid(2980941, 1, "67348c0b941951d0ad44f420f11c08d56d3a60eeb6dd772dfd10d0672a4d6b7e")

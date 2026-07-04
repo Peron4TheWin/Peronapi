@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MudRunner VR
 addappid(3188340)
-addappid(3188341,0,"7cf03d1235ff97d14759ae5547821d0df82d604f6f62ac4bed76ed17c6865fa3")
--- setManifestid(3188341,"1838497117234039690")
+addappid(3188341, 1, "7cf03d1235ff97d14759ae5547821d0df82d604f6f62ac4bed76ed17c6865fa3")

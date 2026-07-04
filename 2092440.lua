@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Human or Not Demo
 addappid(2092440)
-addappid(2092441,0,"3dc2eabd76f59bd65e1f7c1ebb415509fbb1d138cad84a887ffd9f78647c1644")
--- setManifestid(2092441,"2270731678318110902")
+addappid(2092441, 1, "3dc2eabd76f59bd65e1f7c1ebb415509fbb1d138cad84a887ffd9f78647c1644")

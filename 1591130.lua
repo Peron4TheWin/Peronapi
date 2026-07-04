@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Station: Escape Room
 addappid(1591130)
-addappid(1591131,0,"3e4ad68271eb3c24055de64d22891220556b48023a1d36d39ee24521fd9961d0")
--- setManifestid(1591131,"4254600896033151052")
+addappid(1591131, 1, "3e4ad68271eb3c24055de64d22891220556b48023a1d36d39ee24521fd9961d0")

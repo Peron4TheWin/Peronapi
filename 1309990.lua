@@ -1,6 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Creature Lab
 addappid(1309990)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
--- setManifestid(229007,"4477590687906973371")
-addappid(1309991,0,"37de12adce2c809e03b101c520c6bc54acb04df7e6a9c7890108e1e0dbc00f1f")
--- setManifestid(1309991,"6925621706101563628")
+addappid(1309991, 1, "37de12adce2c809e03b101c520c6bc54acb04df7e6a9c7890108e1e0dbc00f1f")
+addappid(2447620)

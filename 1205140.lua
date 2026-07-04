@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kika & Daigo: A Curious Tale
 addappid(1205140)
-addappid(1205141,0,"df51fb90ae6f09bc1c78547697d50fd75dedbe435aead4fded6eddc7269f35c3")
--- setManifestid(1205141,"2091100546878749665")
+addappid(1205141, 1, "df51fb90ae6f09bc1c78547697d50fd75dedbe435aead4fded6eddc7269f35c3")

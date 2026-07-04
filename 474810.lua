@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dorke and Ymp
 addappid(474810)
-addappid(474811,0,"88bbefa976d8bdff50376479b9385d3b7788263d04fb9cbb802d2168f197f0f7")
--- setManifestid(474811,"6601329452107894080")
+addappid(474811, 1, "88bbefa976d8bdff50376479b9385d3b7788263d04fb9cbb802d2168f197f0f7")

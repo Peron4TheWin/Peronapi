@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 9 Clues 2: The Ward
 addappid(369420)
-addappid(369421,0,"d3198ed147cd20baf54ab3f62f4128c6560b5fd5a3e4036cbb5954685a4b39ad")
---setManifestid(369421,"6352071408777556708")
+addappid(369421, 1, "d3198ed147cd20baf54ab3f62f4128c6560b5fd5a3e4036cbb5954685a4b39ad")

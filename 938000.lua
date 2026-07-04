@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Land of Puzzles: Elven Princess
 addappid(938000)
-addappid(938001,0,"fd448180cd05083002ee7c9a0d803df32bc3a09fa6b3f6faf41b0bda94317a75")
--- setManifestid(938001,"6114842570304919269")
+addappid(938001, 1, "fd448180cd05083002ee7c9a0d803df32bc3a09fa6b3f6faf41b0bda94317a75")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fingered
 addappid(384360)
-addappid(384361,0,"e7670e8cef5aa3b327c5600d68416565b51bdceae7fedabed074096ad548c369")
--- setManifestid(384361,"88916426563573085")
+addappid(384361, 1, "e7670e8cef5aa3b327c5600d68416565b51bdceae7fedabed074096ad548c369")

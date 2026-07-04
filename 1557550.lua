@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogues Adventure
 addappid(1557550)
-addappid(1557551,0,"1c4216febdb2f79d2567d0fc740ca4e16afb56087a590ff523048075dcaac8ec")
--- setManifestid(1557551,"6153315427521728189")
+addappid(1557551, 1, "1c4216febdb2f79d2567d0fc740ca4e16afb56087a590ff523048075dcaac8ec")

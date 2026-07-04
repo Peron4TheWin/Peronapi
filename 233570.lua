@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AppID 233570
 addappid(233570)
--- setManifestid(229003,"8740933542064151477")
-addappid(233571,0,"a682e7ef43a2942f4a90cbdba30c7071716bdc31c946ccb695a122fda58e2e2b")
--- setManifestid(233571,"6451871195120874426")
+addappid(233571, 1, "a682e7ef43a2942f4a90cbdba30c7071716bdc31c946ccb695a122fda58e2e2b")

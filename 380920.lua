@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Boss 101
 addappid(380920)
-addappid(380921,0,"d23690be6ec7b696ac8db8788918bb4237b62b2083262620caaef765f46a68fb")
--- setManifestid(380921,"93707193975385663")
+addappid(380921, 1, "d23690be6ec7b696ac8db8788918bb4237b62b2083262620caaef765f46a68fb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SUKUR
 addappid(2183240)
-addappid(2183241,0,"c2794a9eebaceb370bbd8d35d4a30c9c1e7876a19f610c8c0842a9b0652a8db6")
--- setManifestid(2183241,"4833140861132595428")
+addappid(2183241, 1, "c2794a9eebaceb370bbd8d35d4a30c9c1e7876a19f610c8c0842a9b0652a8db6")

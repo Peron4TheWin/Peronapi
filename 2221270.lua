@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arkero VR
 addappid(2221270)
-addappid(2221271,0,"b3e657d2704028f2c569b0ee261932fae5cd2978dabb86bb25191e362ccc0616")
--- setManifestid(2221271,"8004238011706125847")
+addappid(2221271, 1, "b3e657d2704028f2c569b0ee261932fae5cd2978dabb86bb25191e362ccc0616")

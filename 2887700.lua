@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 天命三国
 addappid(2887700)
-addappid(2887701,0,"2963dd9c5f91bcf4c8eeb63ec6d32a2d3b8804a9ec09bf2ebe862e28087d91c3")
--- setManifestid(2887701,"7724339891362458183")
+addappid(2887701, 1, "2963dd9c5f91bcf4c8eeb63ec6d32a2d3b8804a9ec09bf2ebe862e28087d91c3")

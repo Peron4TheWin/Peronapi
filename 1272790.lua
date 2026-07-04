@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Blooming Chaos 2 - Soundtrack 1
 addappid(1272790)
-addappid(1272791,0,"f9573bbc49a4a15e017f611ac9a1beb9a1e577bfb20b99daf7668447081ff882")
+addappid(1272791, 1, "f9573bbc49a4a15e017f611ac9a1beb9a1e577bfb20b99daf7668447081ff882")

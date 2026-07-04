@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Cow Girls
 addappid(1830910)
-addappid(1830911,0,"54088439b4122d916dc83b48fd061cedf12604d730b94dacad2a6e572c749606")
--- setManifestid(1830911,"5460741592148764192")
+addappid(1830911, 1, "54088439b4122d916dc83b48fd061cedf12604d730b94dacad2a6e572c749606")
+addappid(1839790)

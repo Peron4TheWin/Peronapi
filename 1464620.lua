@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Oona the Druid's Path
 addappid(1464620)
--- setManifestid(228988,"6645201662696499616")
-addappid(1464621,0,"52aaf0430029e544561c482b2ce36d2014eeb92c9412f57d5f358f55e850a0e1")
--- setManifestid(1464621,"4948596054747568299")
+addappid(1464621, 1, "52aaf0430029e544561c482b2ce36d2014eeb92c9412f57d5f358f55e850a0e1")

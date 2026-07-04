@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knock'Em Out
 addappid(2192900)
-addappid(2192901,0,"0c1840ea3034ffc95b8876adba1d2abbc0276437392add138754347775fd121b")
---setManifestid(2192901,"4743586852512653386")
+addappid(2192901, 1, "0c1840ea3034ffc95b8876adba1d2abbc0276437392add138754347775fd121b")

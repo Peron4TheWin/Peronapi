@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ASSAULT SHELL
 addappid(1432970)
-addappid(1432971,0,"e4fc7b4508d180d52739edfc784ddc13b45400b9a87a9969fc288066ac79d7f4")
--- setManifestid(1432971,"7650243477117549911")
+addappid(1432971, 1, "e4fc7b4508d180d52739edfc784ddc13b45400b9a87a9969fc288066ac79d7f4")

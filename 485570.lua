@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Milford Heaven - Luken's Chronicles
 addappid(485570)
--- setManifestid(228990,"1829726630299308803")
-addappid(485571,0,"faad9989448d8ecec07a3625d474dd13d03ae909c6e8ca0c70d6362197c3bf8e")
--- setManifestid(485571,"8667339143482285115")
+addappid(485571, 1, "faad9989448d8ecec07a3625d474dd13d03ae909c6e8ca0c70d6362197c3bf8e")

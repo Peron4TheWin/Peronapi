@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Tales: Fallen Brave Squad
 addappid(3705380)
-addappid(3705381,0,"080cbd6952e9c81c88d5ece1575c643ce3165f1b3d329fa4f535e0c860b666e1")
--- setManifestid(3705381,"8839783192498953978")
+addappid(3705381, 1, "080cbd6952e9c81c88d5ece1575c643ce3165f1b3d329fa4f535e0c860b666e1")

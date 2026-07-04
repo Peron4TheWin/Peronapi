@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Andromeda One
 addappid(1180520)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(1180521,0,"9f1d27a033a93174829bfded0f81d9bfab1ed7f4936cf8e8c2897516bfc62dbb")
--- setManifestid(1180521,"6486412082619165111")
+addappid(1180521, 1, "9f1d27a033a93174829bfded0f81d9bfab1ed7f4936cf8e8c2897516bfc62dbb")

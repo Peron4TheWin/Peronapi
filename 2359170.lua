@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Witch's Rhythm Puzzle
 addappid(2359170)
-addappid(2359171,0,"e630da84effdc7f8ba0a65f1db23f6e91ce5585919da47165f318ebe1e0e6e66")
--- setManifestid(2359171,"937475335581045904")
+addappid(2359171, 1, "e630da84effdc7f8ba0a65f1db23f6e91ce5585919da47165f318ebe1e0e6e66")

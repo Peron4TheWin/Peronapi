@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rusted Moss
 addappid(1772830)
-addappid(1772831,0,"0eca4940a773462af16f1859c38bc3fdb2845fe0a4d71f58d52a9067e932a2dc")
--- setManifestid(1772831,"2576511640230554863")
+addappid(1772831, 1, "0eca4940a773462af16f1859c38bc3fdb2845fe0a4d71f58d52a9067e932a2dc")

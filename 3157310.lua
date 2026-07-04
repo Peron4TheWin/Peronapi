@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tales of the Forgotten
 addappid(3157310)
-addappid(3157311,0,"ee51f95840fc3d144478d505d8c9d6a346bdb9cbf9d32a54acae7b42b567d6dc")
--- setManifestid(3157311,"3618844333149562378")
+addappid(3157311, 1, "ee51f95840fc3d144478d505d8c9d6a346bdb9cbf9d32a54acae7b42b567d6dc")

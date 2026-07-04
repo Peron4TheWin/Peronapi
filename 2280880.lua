@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Rat's life: the Cat Conspiracy Demo
 addappid(2280880)
-addappid(2280881,0,"a6bce508f2f3da81c3407ad8511b74e2d2d64c3c2b86b1cf2019197522c3d7bf")
--- setManifestid(2280881,"792778742841337882")
+addappid(2280881, 1, "a6bce508f2f3da81c3407ad8511b74e2d2d64c3c2b86b1cf2019197522c3d7bf")

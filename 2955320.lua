@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horse Runner DX
 addappid(2955320)
-addappid(2955321,0,"6a38e39f98ceb54cff1b80dd071ccf60cfa130674be90d7068ef3d5f2eeeddf8")
--- setManifestid(2955321,"8339216236767752063")
+addappid(2955321, 1, "6a38e39f98ceb54cff1b80dd071ccf60cfa130674be90d7068ef3d5f2eeeddf8")

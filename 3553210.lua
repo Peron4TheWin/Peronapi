@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Auto Rogue
 addappid(3553210)
-addappid(3553211,0,"fa1462b15979f2739eafc2a1371af2f6f3e4ace223e2e477a842c1fcddce8a7f")
--- setManifestid(3553211,"2069679259895805599")
+addappid(3553211, 1, "fa1462b15979f2739eafc2a1371af2f6f3e4ace223e2e477a842c1fcddce8a7f")

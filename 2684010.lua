@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Laura Up
 addappid(2684010)
-addappid(2684011,0,"84f984047bcf927d79d0d783ebea4322fd436d6063a76eb921fe6aa37265a10f")
--- setManifestid(2684011,"4219184720404711836")
+addappid(2684011, 1, "84f984047bcf927d79d0d783ebea4322fd436d6063a76eb921fe6aa37265a10f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Puzzle Poker
 addappid(554660)
-addappid(554661,0,"6a3cb3489701279717e71c33841c49df2b0c58e45e7e17e251dc73426a544bb1")
--- setManifestid(554661,"6564091897614058177")
+addappid(554661, 1, "6a3cb3489701279717e71c33841c49df2b0c58e45e7e17e251dc73426a544bb1")

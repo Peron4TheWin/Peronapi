@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twilight Tails
 addappid(2826140)
-addappid(2826141,0,"4fd27313aebac3201f0f91d6e488f83de7a777098a3933b584b2f89645b2cd4d")
--- setManifestid(2826141,"3433370102087291424")
+addappid(2826141, 1, "4fd27313aebac3201f0f91d6e488f83de7a777098a3933b584b2f89645b2cd4d")

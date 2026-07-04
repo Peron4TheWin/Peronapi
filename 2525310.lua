@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drop Duchy
 addappid(2525310)
-addappid(2525311,0,"4f575923f1b939467dae8a961bf95e3c380dd3594554f5f67b1c64fe7edd3409")
--- setManifestid(2525311,"8022714651604746603")
+addappid(2525311, 1, "4f575923f1b939467dae8a961bf95e3c380dd3594554f5f67b1c64fe7edd3409")

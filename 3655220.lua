@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heroes of Mount Dragon Playtest
 addappid(3655220)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3655221,0,"d6bede9f044beee33a3502430ef3ebeef51854eda36f1ea0f456d84238b21606")
+addappid(3655221, 1, "d6bede9f044beee33a3502430ef3ebeef51854eda36f1ea0f456d84238b21606")

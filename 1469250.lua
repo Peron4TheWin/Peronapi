@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rubber Bandits: Christmas Prologue
 addappid(1469250)
-addappid(1469251,0,"6e3a9c44a29f68beb9565a77cd97b06d0812ea8fcf07915cbeda965030f5f5b8")
--- setManifestid(1469251,"4045662556374705191")
+addappid(1469251, 1, "6e3a9c44a29f68beb9565a77cd97b06d0812ea8fcf07915cbeda965030f5f5b8")

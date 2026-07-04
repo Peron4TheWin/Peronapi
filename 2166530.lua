@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rich Teddy Adventure
 addappid(2166530)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2166531,0,"14c04a6711943d4284007d6574397dcc47b0d1a9bbf0f9b46cb60ca403d2076e")
+addappid(2166531, 1, "14c04a6711943d4284007d6574397dcc47b0d1a9bbf0f9b46cb60ca403d2076e")

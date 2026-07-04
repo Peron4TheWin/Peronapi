@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nightmare: The Lunatic Soundtrack
 addappid(1859230)
-addappid(1859231,0,"14e16b389c3e7f5eef85d7307739ecc7474480ec6fcf000d90508879900f7108")
--- setManifestid(1859231,"6975088926762041359")
+addappid(1859231, 1, "14e16b389c3e7f5eef85d7307739ecc7474480ec6fcf000d90508879900f7108")

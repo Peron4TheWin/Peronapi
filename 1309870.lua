@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Decently Bad Tower Defense
 addappid(1309870)
-addappid(1309871,0,"a5b0b15c2464c96eb97bbf4be54155be4318fb09345a5e7cfd0657c381053290")
--- setManifestid(1309871,"7986584421971969511")
+addappid(1309871, 1, "a5b0b15c2464c96eb97bbf4be54155be4318fb09345a5e7cfd0657c381053290")

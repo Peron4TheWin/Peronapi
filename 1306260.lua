@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ClickCells: CPU girls
 addappid(1306260)
-addappid(1306261,0,"24b444d72d38693f722b3652ef9e11d31a2d5017553f97edf6741b41e6ef8bee")
--- setManifestid(1306261,"8672566505753067438")
+addappid(1306261, 1, "24b444d72d38693f722b3652ef9e11d31a2d5017553f97edf6741b41e6ef8bee")

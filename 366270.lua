@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SHOCK TROOPERS
+addappid(366270)
+addappid(366271, 1, "e382c4b05df86bd36efdb646ba061f6a8467102dc186374bd513f642b0a89d89")

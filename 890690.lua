@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forgotten World
 addappid(890690)
-addappid(890691,0,"7623d8d6a2879f2d1fd5124668964457f72732620cd51a4f6e27b7ba20c0f47f")
--- setManifestid(890691,"949782781251372866")
+addappid(890691, 1, "7623d8d6a2879f2d1fd5124668964457f72732620cd51a4f6e27b7ba20c0f47f")

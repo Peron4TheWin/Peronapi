@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Just King
 addappid(1059980)
-addappid(1059981,0,"34533a736ad588eadf3d54a4d396138ffd82c4c67a791cc8b5f6583289168abd")
--- setManifestid(1059981,"8190833048965335444")
+addappid(1059981, 1, "34533a736ad588eadf3d54a4d396138ffd82c4c67a791cc8b5f6583289168abd")

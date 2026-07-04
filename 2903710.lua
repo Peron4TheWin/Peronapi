@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost Lullabies: The Orphanage Chronicles
 addappid(2903710)
-addappid(2903711,0,"e3773d8270a3efd10ccd9fb57b05cd8aa2567cd607cb59fba893dcbe43366cfd")
--- setManifestid(2903711,"8134648918190667239")
+addappid(2903711, 1, "e3773d8270a3efd10ccd9fb57b05cd8aa2567cd607cb59fba893dcbe43366cfd")

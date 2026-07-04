@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Archvale
 addappid(1296360)
-addappid(1296361,0,"cd8bd502bab629ae4c436ea94afeb2370b50ec2cc8919f583bc3989b20b46edc")
--- setManifestid(1296361,"4448900037900655732")
+addappid(1296361, 1, "cd8bd502bab629ae4c436ea94afeb2370b50ec2cc8919f583bc3989b20b46edc")

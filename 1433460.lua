@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 决奕Duel
 addappid(1433460)
-addappid(1433461,0,"d8460ca36aff09dda1c4318466fdff01c2bf563b7709495735b077e0b93dd23a")
+addappid(1433461, 1, "d8460ca36aff09dda1c4318466fdff01c2bf563b7709495735b077e0b93dd23a")

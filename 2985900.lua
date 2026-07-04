@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 中医模拟传承人
 addappid(2985900)
-addappid(2985901,0,"367b2fadf1221a1bcd9e4a7692dc02a7f01cecfbcc316d6baf619077e39e2f32")
--- setManifestid(2985901,"3926933928172037702")
+addappid(2985901, 1, "367b2fadf1221a1bcd9e4a7692dc02a7f01cecfbcc316d6baf619077e39e2f32")

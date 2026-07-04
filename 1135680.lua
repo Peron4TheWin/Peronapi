@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hard Love - Darkest Desire
 addappid(1135680)
-addappid(1135681,0,"a558942ae000c56634d66f8ffa04eace798b5eac84c4ba347206b3e45ce3f3fb")
--- setManifestid(1135681,"7355146656355421998")
+addappid(1135681, 1, "a558942ae000c56634d66f8ffa04eace798b5eac84c4ba347206b3e45ce3f3fb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 韦弗利山 - Waverly Hills
 addappid(1340850)
-addappid(1340851,0,"2131de0ef67837f5b092b156a4a2369ce48be0ad4458f163f180b0d61cdef001")
--- setManifestid(1340851,"7379961794216834230")
+addappid(1340851, 1, "2131de0ef67837f5b092b156a4a2369ce48be0ad4458f163f180b0d61cdef001")

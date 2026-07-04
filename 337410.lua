@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Karos
 addappid(337410)
-addappid(337411,0,"4fb94611111797c6839cbb2c6071f307738128abd27befe0c63b48e6a1ea90f8")
--- setManifestid(337411,"7270859655624932482")
+addappid(337411, 1, "4fb94611111797c6839cbb2c6071f307738128abd27befe0c63b48e6a1ea90f8")

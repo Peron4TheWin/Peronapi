@@ -1,2 +1,4 @@
-addappid(2432860, 1, "53d0a788b0b27b34c106efbfee75e16b64bab8ddee4da727179ed5647b6fc314") -- MENACE
-addappid(2432861, 1, "dd46113d103c531a01255582fb9c8eccc8b1a0efca01b2852de83796b58d0002") -- Depot 2432861
+-- Lua provided by SkyAPI 
+-- Game: MENACE
+addappid(2432860)
+addappid(2432861, 1, "dd46113d103c531a01255582fb9c8eccc8b1a0efca01b2852de83796b58d0002")

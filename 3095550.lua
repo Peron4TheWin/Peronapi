@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: False Mall
 addappid(3095550)
-addappid(3095551,0,"0a3a8de88fd06ea17fb78a126ff23076701057f92dec91808f588baa3a27fbb1")
+addappid(3095551, 1, "0a3a8de88fd06ea17fb78a126ff23076701057f92dec91808f588baa3a27fbb1")

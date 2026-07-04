@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cabin Corpse - Season 1
 addappid(2945200)
-addappid(2945201,0,"9ff44cfd4b2be8d3ecf8630ce173e4b6f9a2765899ffc6df11ead55c2703888c")
--- setManifestid(2945201,"3625350088894244571")
+addappid(2945201, 1, "9ff44cfd4b2be8d3ecf8630ce173e4b6f9a2765899ffc6df11ead55c2703888c")

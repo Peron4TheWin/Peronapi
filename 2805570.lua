@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Panoptia Demo
 addappid(2805570)
-addappid(2805571,0,"1677636f55005d9ca5ef1830914b2d214fef542cfd58f8989faaef72f5c09b13")
--- setManifestid(2805571,"8363086571423273070")
+addappid(2805571, 1, "1677636f55005d9ca5ef1830914b2d214fef542cfd58f8989faaef72f5c09b13")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Visitors
 addappid(520250)
-addappid(520251,0,"5098d4d6b31aa4bf1a9e3814e14fe42ea30db633b5ed81673b66e27fbe3d2440")
--- setManifestid(520251,"1515242281249903008")
+addappid(520251, 1, "5098d4d6b31aa4bf1a9e3814e14fe42ea30db633b5ed81673b66e27fbe3d2440")

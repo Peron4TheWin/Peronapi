@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Iconia Defenders
 addappid(2747820)
-addappid(2747821,0,"edd4aa1d21ad5612f6213a399a87f0b09b2e4005e8f42c32316b6084ea8cfc54")
--- setManifestid(2747821,"1818476523884110441")
+addappid(2747821, 1, "edd4aa1d21ad5612f6213a399a87f0b09b2e4005e8f42c32316b6084ea8cfc54")

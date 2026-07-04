@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nightfall Comes
 addappid(1935100)
-addappid(1935101,0,"11a84ea2ff6ee45724792c73131c10d761ac94ce4a964a072ff69ee74dd2ed72")
--- setManifestid(1935101,"5237980609649023855")
+addappid(1935101, 1, "11a84ea2ff6ee45724792c73131c10d761ac94ce4a964a072ff69ee74dd2ed72")

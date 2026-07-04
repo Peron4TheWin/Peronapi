@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vaporwave World
 addappid(1243560)
-addappid(1243561,0,"d46ddab8daf4b2a659d6291691fe2d5f506b294b0df395965600b2af8614393c")
--- setManifestid(1243561,"5424870367473437519")
+addappid(1243561, 1, "d46ddab8daf4b2a659d6291691fe2d5f506b294b0df395965600b2af8614393c")

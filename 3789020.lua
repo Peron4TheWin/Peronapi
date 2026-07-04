@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Banana Ninja VS 100 Mann
 addappid(3789020)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3789021,0,"c590685a14eea3fad9a878c481467fa963ac771ef778ccb52a7aaa03175cf0c1")
--- setManifestid(3789021,"7113066629970595371")
+addappid(3789021, 1, "c590685a14eea3fad9a878c481467fa963ac771ef778ccb52a7aaa03175cf0c1")

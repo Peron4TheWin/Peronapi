@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Calcu-Late
 addappid(449200)
-addappid(449201,0,"1c795c8681f491c3cf86cdeda1f7dc921e0762d948554065c4a0f06bf0d54961")
--- setManifestid(449201,"6691389752205932419")
+addappid(449201, 1, "1c795c8681f491c3cf86cdeda1f7dc921e0762d948554065c4a0f06bf0d54961")

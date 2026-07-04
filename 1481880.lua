@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Invincible Fins
 addappid(1481880)
-addappid(1481881,0,"ca26e12467c2e11f4fc818e8b5f4bba4771de2e58f563cf190c33044bf327699")
--- setManifestid(1481881,"3288905416302408600")
+addappid(1481881, 1, "ca26e12467c2e11f4fc818e8b5f4bba4771de2e58f563cf190c33044bf327699")

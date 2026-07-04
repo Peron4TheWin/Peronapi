@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 独特的友谊 - Special Friendship
 addappid(2725600)
-addappid(2725601,0,"5b4ca9deb794a3beea2649774fb14fb9a264e5f1a59f095ba7303ebaae15e691")
--- setManifestid(2725601,"2945554335754222825")
+addappid(2725601, 1, "5b4ca9deb794a3beea2649774fb14fb9a264e5f1a59f095ba7303ebaae15e691")

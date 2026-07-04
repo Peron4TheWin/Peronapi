@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGO® City Undercover
 addappid(578330)
-addappid(228983)
--- setManifestid(228983,"8124929965194586177")
-addappid(578331,0,"44ff08a81901dccc5bc670947c0f15975cb4bb01eb44faad587a3d10424ae17a")
--- setManifestid(578331,"7512825488547549198")
+addappid(578331, 1, "44ff08a81901dccc5bc670947c0f15975cb4bb01eb44faad587a3d10424ae17a")

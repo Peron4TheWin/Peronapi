@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Memory Match Saga
 addappid(1190640)
-addappid(1190641,0,"d04c9897cbe0e3f6c57fc82ca7abff338046f41d4d531d7cd456962d96fc07eb")
--- setManifestid(1190641,"1056356360833727157")
+addappid(1190641, 1, "d04c9897cbe0e3f6c57fc82ca7abff338046f41d4d531d7cd456962d96fc07eb")
 addappid(1196220)
 addappid(1196700)
 addappid(1197040)

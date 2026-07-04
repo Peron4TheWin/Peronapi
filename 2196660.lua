@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fish Volleyball Demo
 addappid(2196660)
-addappid(2196661,0,"bfb9b3427839084bc9c4fc234669972f3dae30c2df5a4437138251a210ed74ff")
--- setManifestid(2196661,"4614129103213807228")
+addappid(2196661, 1, "bfb9b3427839084bc9c4fc234669972f3dae30c2df5a4437138251a210ed74ff")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Let's Cook Together 2
 addappid(1637400)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1637401,0,"ea14270e5247cec7afc3693c00273dffde99fc4c6da67730618e043be3d696fa")
--- setManifestid(1637401,"9060627398430202775")
+addappid(1637401, 1, "ea14270e5247cec7afc3693c00273dffde99fc4c6da67730618e043be3d696fa")

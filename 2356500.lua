@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Travellin Cats in Bali
 addappid(2356500)
-addappid(2356501,0,"3fe4f5b5e35928b2092616b950f076e0a4a489b39bb866803851468eee847b70")
--- setManifestid(2356501,"6040411246644421466")
+addappid(2356501, 1, "3fe4f5b5e35928b2092616b950f076e0a4a489b39bb866803851468eee847b70")
+addappid(2843440)

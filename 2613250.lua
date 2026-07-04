@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Multiplayer Drone Simulator
 addappid(2613250)
-addappid(2613251,0,"9e85e657de85b6277418e07b36e50a0a2e445ec174bc2fbf4269404bf0a309cb")
--- setManifestid(2613251,"7282375551941894524")
+addappid(2613251, 1, "9e85e657de85b6277418e07b36e50a0a2e445ec174bc2fbf4269404bf0a309cb")

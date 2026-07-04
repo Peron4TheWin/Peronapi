@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rhythm Witch: Beat Death Demo
 addappid(3054100)
-addappid(3054101,0,"e7a17711e67d47a8e85c737110e6eb0280559d968213fb087238a3087e7b0d63")
--- setManifestid(3054101,"2726052171915433248")
+addappid(3054101, 1, "e7a17711e67d47a8e85c737110e6eb0280559d968213fb087238a3087e7b0d63")

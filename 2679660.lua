@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Traveler's Refrain
 addappid(2679660)
-addappid(2679661,0,"5f675672b3edd7e898ef7b87caefb74b291fe5d420fe302331c18731614e1174")
--- setManifestid(2679661,"7174978667536288198")
+addappid(2679661, 1, "5f675672b3edd7e898ef7b87caefb74b291fe5d420fe302331c18731614e1174")

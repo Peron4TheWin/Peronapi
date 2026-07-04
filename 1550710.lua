@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warbox
 addappid(1550710)
-addappid(1550711,0,"de980e14a66fd5dc0f045e9c8c0714d30f6cb5d3781a1ce633bdf5454d8be7dc")
--- setManifestid(1550711,"9166398292284129251")
+addappid(1550711, 1, "de980e14a66fd5dc0f045e9c8c0714d30f6cb5d3781a1ce633bdf5454d8be7dc")

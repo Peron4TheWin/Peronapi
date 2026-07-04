@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Last Golfer
 addappid(2537630)
-addappid(2537631,0,"ec6ce4aeacd2d7daf92d98e783252b970cd208202499531b4fc0f077bad98be2")
--- setManifestid(2537631,"337542835707859230")
+addappid(2537631, 1, "ec6ce4aeacd2d7daf92d98e783252b970cd208202499531b4fc0f077bad98be2")

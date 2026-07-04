@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloodland
 addappid(1427420)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1427421,0,"da86c00d628d2c6f2e2ba5f29eb27912b09a48e379cd19db42bbb4718b79b1ff")
--- setManifestid(1427421,"383742565822949877")
+addappid(1427421, 1, "da86c00d628d2c6f2e2ba5f29eb27912b09a48e379cd19db42bbb4718b79b1ff")

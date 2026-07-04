@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chaser
+addappid(39670)
+addappid(39671, 1, "35675e62746d6bc4c3bb68d33b210609b98a9d33eea81b6279ffc506a0efd976")

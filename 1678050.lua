@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Runic Relay: The Trials
 addappid(1678050)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1678051,0,"e27234c9f36151adb366d037e0bde5679377ea44feb052e94140cf52e88269fd")
--- setManifestid(1678051,"1853823205192227177")
+addappid(1678051, 1, "e27234c9f36151adb366d037e0bde5679377ea44feb052e94140cf52e88269fd")

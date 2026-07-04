@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Runo
 addappid(1642130)
-addappid(1642131,0,"3638454c46c19a2cd60e5fccb519ce3398a8294eddd89408ebb6e202eb2ed278")
--- setManifestid(1642131,"166297323017882011")
+addappid(1642131, 1, "3638454c46c19a2cd60e5fccb519ce3398a8294eddd89408ebb6e202eb2ed278")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mr. Hopp's Playhouse HD
 addappid(2945990)
-addappid(2945991,0,"2f003a6f8510c33eba2870c825dcae9b5b882fff569e0deaa33334a0c962902c")
--- setManifestid(2945991,"8883535614672867259")
+addappid(2945991, 1, "2f003a6f8510c33eba2870c825dcae9b5b882fff569e0deaa33334a0c962902c")

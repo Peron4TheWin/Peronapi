@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ironclads: Schleswig War 1864
 addappid(46760)
-addappid(46761,0,"a52dbddf5b18fcbe42a1764b06fad64ff623d8f9b25d5c88a27742501f4cc008")
--- setManifestid(46761,"2698102531359584529")
+addappid(46761, 1, "a52dbddf5b18fcbe42a1764b06fad64ff623d8f9b25d5c88a27742501f4cc008")

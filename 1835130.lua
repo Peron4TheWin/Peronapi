@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dear Monster Demo
 addappid(1835130)
-addappid(1835131,0,"b7c2a14d3bb39fcb0f83780ca14f9745cca40a1907459c4b9e15295bfa196ff8")
--- setManifestid(1835131,"6100208207617453714")
+addappid(1835131, 1, "b7c2a14d3bb39fcb0f83780ca14f9745cca40a1907459c4b9e15295bfa196ff8")

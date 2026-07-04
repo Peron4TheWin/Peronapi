@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Plot of the Druid
 addappid(1108170)
-addappid(1108171,0,"8e677a65238208ff8f9be7787c8843245a4c0d6805b1fdaddaa34c663db81c7d")
--- setManifestid(1108171,"3085874790546027107")
+addappid(1108171, 1, "8e677a65238208ff8f9be7787c8843245a4c0d6805b1fdaddaa34c663db81c7d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Googol Clicker
 addappid(2155480)
-addappid(2155481,0,"f6f019b54cd003272e4415a30e19cea7cc7c650b18117d35c7d4c7ca636b95bc")
--- setManifestid(2155481,"3742091994561266134")
+addappid(2155481, 1, "f6f019b54cd003272e4415a30e19cea7cc7c650b18117d35c7d4c7ca636b95bc")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: At Eve’s Wake Definitive Edition
 addappid(1395120)
-addappid(1395121,0,"66439fd719c54ba2a80b694641de54e5b07f2dada9bba3fb673d89f94ee51c3e")
--- setManifestid(1395121,"9166906834964424606")
+addappid(1395121, 1, "66439fd719c54ba2a80b694641de54e5b07f2dada9bba3fb673d89f94ee51c3e")

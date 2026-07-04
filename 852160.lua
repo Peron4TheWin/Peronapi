@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jack the Barbarian
 addappid(852160)
-addappid(852161,0,"c71f9b79aff78488bc1cfb88eaf41f8848a8e7400fb5618afe933b283e692f59")
--- setManifestid(852161,"923742831920981582")
+addappid(852161, 1, "c71f9b79aff78488bc1cfb88eaf41f8848a8e7400fb5618afe933b283e692f59")

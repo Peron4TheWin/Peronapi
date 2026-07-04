@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Bad Meme
 addappid(1298340)
-addappid(1298341,0,"4798a0e47875cf66efa09e254dbcd5ef3dde1fcbe4a6c229966ae60913c0ccb3")
--- setManifestid(1298341,"7328129088567868046")
+addappid(1298341, 1, "4798a0e47875cf66efa09e254dbcd5ef3dde1fcbe4a6c229966ae60913c0ccb3")
+addappid(1317300)

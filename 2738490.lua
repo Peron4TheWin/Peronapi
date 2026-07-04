@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sol Cesto
 addappid(2738490)
-addappid(2738491,0,"27cff6c7bfcd289e04d87efd458564e1cb038e14ccd8fa71717536a221c7f0d5")
--- setManifestid(2738491,"6691629303100545433")
+addappid(2738491, 1, "27cff6c7bfcd289e04d87efd458564e1cb038e14ccd8fa71717536a221c7f0d5")

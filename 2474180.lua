@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Save the settlers
 addappid(2474180)
-addappid(2474181,0,"341a74a52b2e9677ae9b0fc64f1042bf1d65881ab2be4d26dd7cf415e8d673ed")
--- setManifestid(2474181,"2908454844117655555")
+addappid(2474181, 1, "341a74a52b2e9677ae9b0fc64f1042bf1d65881ab2be4d26dd7cf415e8d673ed")

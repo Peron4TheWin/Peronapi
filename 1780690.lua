@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Tale of Fighting Nymphs
 addappid(1780690)
-addappid(1780691,0,"2ba72ba1b2588931e3a97913d22cdf2eb6cd5d53bb15d6b1bb41aac548b51a64")
--- setManifestid(1780691,"2583196775131491136")
+addappid(1780691, 1, "2ba72ba1b2588931e3a97913d22cdf2eb6cd5d53bb15d6b1bb41aac548b51a64")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Just Death
 addappid(336210)
-addappid(336211,0,"b45c23148306d4cb3ab7e4c8e30e9c89ea37867b1e3497099a521b478d9432f1")
--- setManifestid(336211,"1731238918348335777")
+addappid(336211, 1, "b45c23148306d4cb3ab7e4c8e30e9c89ea37867b1e3497099a521b478d9432f1")

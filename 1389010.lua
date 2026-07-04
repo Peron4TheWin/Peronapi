@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deathroids
 addappid(1389010)
-addappid(1389011,0,"67675ef9aa88b6ed23e715efedf9e01b3c1647196f777107bb4b0be9f41bcac6")
--- setManifestid(1389011,"4796873158839291960")
+addappid(1389011, 1, "67675ef9aa88b6ed23e715efedf9e01b3c1647196f777107bb4b0be9f41bcac6")

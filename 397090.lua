@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wind Child
 addappid(397090)
-addappid(397091,0,"41cf51f257f632d96904df33aae7967a58ece8b7bb1b5a0be81cf7f31cb9f87c")
--- setManifestid(397091,"711531702887550194")
+addappid(397091, 1, "41cf51f257f632d96904df33aae7967a58ece8b7bb1b5a0be81cf7f31cb9f87c")

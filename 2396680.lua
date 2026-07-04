@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Madness Chambers
 addappid(2396680)
-addappid(2396681,0,"5176db4ff5537998bab88d211acc229e0238a52db18bae3bc63611c938701a37")
--- setManifestid(2396681,"476234514297170662")
+addappid(2396681, 1, "5176db4ff5537998bab88d211acc229e0238a52db18bae3bc63611c938701a37")

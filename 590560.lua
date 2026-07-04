@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Filthy, Stinking, Orcs!
 addappid(590560)
-addappid(590561,0,"484b44a4dae028d6af8357a64338d6d0607515e43bf128704f6b593c1894726a")
--- setManifestid(590561,"5582590027984971752")
+addappid(590561, 1, "484b44a4dae028d6af8357a64338d6d0607515e43bf128704f6b593c1894726a")

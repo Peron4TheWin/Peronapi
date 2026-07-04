@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metrophobia Demo
 addappid(3279510)
-addappid(3279511,0,"c2eeccef133abd255db712c337503be459a6d76db257c810d87ca08cb7f92514")
--- setManifestid(3279511,"3069097596739782477")
+addappid(3279511, 1, "c2eeccef133abd255db712c337503be459a6d76db257c810d87ca08cb7f92514")

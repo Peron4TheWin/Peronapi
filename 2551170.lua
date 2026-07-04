@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Travellin Cats in Maple Hollow 🍂
 addappid(2551170)
-addappid(2551171,0,"0c7bed8faf942d835af59207a5a9eec39ab46494f10720ea1f0b045d4fd4064d")
--- setManifestid(2551171,"3359338382303430324")
+addappid(2551171, 1, "0c7bed8faf942d835af59207a5a9eec39ab46494f10720ea1f0b045d4fd4064d")
+addappid(2736010)

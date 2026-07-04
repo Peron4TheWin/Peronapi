@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 三国：寻将传
 addappid(2301790)
-addappid(2301791,0,"c88b2e90c03e76a2932877a4075b6e96f2ccb7a4d5fc4b03794d7cd3292c98c9")
--- setManifestid(2301791,"5814391508821980569")
+addappid(2301791, 1, "c88b2e90c03e76a2932877a4075b6e96f2ccb7a4d5fc4b03794d7cd3292c98c9")

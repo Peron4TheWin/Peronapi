@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Russian Psychiatric Pastoral Demo
 addappid(2465050)
-addappid(2465051,0,"00fa1497a628df650405d7c49ec2281e79ccf70e636a5d8479994fd41d60d0df")
--- setManifestid(2465051,"5823628950803707486")
+addappid(2465051, 1, "00fa1497a628df650405d7c49ec2281e79ccf70e636a5d8479994fd41d60d0df")

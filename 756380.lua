@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Bugman Extreme Ultra
 addappid(756380)
-addappid(756381,0,"f409e84d0eb7dd0e95550dcb46994ea490ac071aef09c5b04ea7ffba30d056dc")
--- setManifestid(756381,"4992078293821376572")
+addappid(756381, 1, "f409e84d0eb7dd0e95550dcb46994ea490ac071aef09c5b04ea7ffba30d056dc")

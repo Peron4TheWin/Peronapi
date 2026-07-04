@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lotte Forest Ambience
 addappid(2436080)
-addappid(2436081,0,"2c81891639c06355d12a6e97e3c240a5d1a9a10c5402419390442f8ecc6a86a1")
--- setManifestid(2436081,"1650389549385085172")
+addappid(2436081, 1, "2c81891639c06355d12a6e97e3c240a5d1a9a10c5402419390442f8ecc6a86a1")

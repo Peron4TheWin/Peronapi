@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Puzzledorf
 addappid(1580560)
-addappid(1580561,0,"6b7c9fe05c91e0cb7a9b09fa26f8d79d8c0d1d7a50d675b81874bb090ffe0d98")
--- setManifestid(1580561,"5552752073432652661")
+addappid(1580561, 1, "6b7c9fe05c91e0cb7a9b09fa26f8d79d8c0d1d7a50d675b81874bb090ffe0d98")

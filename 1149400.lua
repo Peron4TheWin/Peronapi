@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Yellow King
 addappid(1149400)
-addappid(1149401,0,"b64bec175d5e04e45479420308726cefc32e27bfc83fb824ab55924bfe226045")
--- setManifestid(1149401,"7968722424198900260")
+addappid(1149401, 1, "b64bec175d5e04e45479420308726cefc32e27bfc83fb824ab55924bfe226045")

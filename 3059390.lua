@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hexagod
 addappid(3059390)
-addappid(3059391,0,"2cd2af1c86f4c1bc6e65342bc82bedc923dfb4989258a14c5ee5f2a2304a6164")
--- setManifestid(3059391,"4960910878706607201")
+addappid(3059391, 1, "2cd2af1c86f4c1bc6e65342bc82bedc923dfb4989258a14c5ee5f2a2304a6164")

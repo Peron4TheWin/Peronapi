@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CARNAL
 addappid(1586290)
-addappid(1586291,0,"cf773e4ebd7a1ca1fbae3529c764f03fe3db6d27720f20d4eacd5a6278ca5de1")
--- setManifestid(1586291,"4065841764158944608")
+addappid(1586291, 1, "cf773e4ebd7a1ca1fbae3529c764f03fe3db6d27720f20d4eacd5a6278ca5de1")

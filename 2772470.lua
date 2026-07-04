@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: I got STRADDLED by a FEMBOY
 addappid(2772470)
-addappid(2772471,0,"e031cfb4e6275f8877324a9ee09a5150015a1bf6d47f78803607045d04a26fac")
+addappid(2772471, 1, "e031cfb4e6275f8877324a9ee09a5150015a1bf6d47f78803607045d04a26fac")

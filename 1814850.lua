@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Strangest.io's My Megamix '21
 addappid(1814850)
-addappid(1814851,0,"38913f1b62c1e160b9769c5c8b547c21f7989a66682f298131c3859b6c99dc8d")
--- setManifestid(1814851,"3952905325035391698")
+addappid(1814851, 1, "38913f1b62c1e160b9769c5c8b547c21f7989a66682f298131c3859b6c99dc8d")

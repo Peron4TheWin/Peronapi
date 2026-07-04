@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 7 Nights Keeper Demo
 addappid(3242070)
-addappid(3242071,0,"6ef79bc6d88ead1bd775f8757829a030a5307ab350e36b5bc3e7dbc261460a84")
--- setManifestid(3242071,"2812883699882708615")
+addappid(3242071, 1, "6ef79bc6d88ead1bd775f8757829a030a5307ab350e36b5bc3e7dbc261460a84")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Cube of Love
 addappid(3204440)
-addappid(3204441,0,"c5fc5b163e97bfe88e7373c580c380407e4b6809e43ab7caac5ad8f13a57c8d6")
+addappid(3204441, 1, "c5fc5b163e97bfe88e7373c580c380407e4b6809e43ab7caac5ad8f13a57c8d6")

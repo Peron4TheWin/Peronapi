@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Daisho: Survival of a Samurai
 addappid(2502650)
-addappid(2502651,0,"8dec62e822e945e8e1ab4a38f883078680976be52d514feac74aa411a81d2850")
--- setManifestid(2502651,"7451824147827818515")
+addappid(2502651, 1, "8dec62e822e945e8e1ab4a38f883078680976be52d514feac74aa411a81d2850")

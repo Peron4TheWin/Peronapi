@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Once upon a time
 addappid(566410)
-addappid(566411,0,"76716b6bde443f21c0729587cf7a3dc46ded19894b0f08dcda7e3e6b2c862a58")
--- setManifestid(566411,"6607470364701109756")
+addappid(566411, 1, "76716b6bde443f21c0729587cf7a3dc46ded19894b0f08dcda7e3e6b2c862a58")

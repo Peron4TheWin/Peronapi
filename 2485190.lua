@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MediBang Paint for Desktop
 addappid(2485190)
--- setManifestid(228989,"3514306556860204959")
-addappid(2485191,0,"2175bd927cbbb2126d179b8e4a8ae0cd62271f63b46326f9ff9febe62be54e22")
--- setManifestid(2485191,"4263934761868668256")
+addappid(2485191, 1, "9d3fd9fbc2ecbc50f090cc0da7ad018240dae3fc9e38f69412572f7b0f72536d")

@@ -1,4 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Fall Guys
 addappid(1097150)
+addappid(1097151, 1, "243e7ffcd6bbd15f3976f648f7d851f975219f7a995ffb32e404e7a94e84dae9")
 addappid(1261620)
 addappid(1343612)
 addappid(1362660)
@@ -11,5 +14,3 @@ addappid(1570390)
 addappid(1622930)
 addappid(1677990)
 addappid(1677991)
-addappid(1097151,0,"243e7ffcd6bbd15f3976f648f7d851f975219f7a995ffb32e404e7a94e84dae9")
---setManifestid(1097151,"8806787142867023096")

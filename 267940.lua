@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Glacier 3: The Meltdown
 addappid(267940)
-addappid(267941,0,"73981e6907cbbcd54ddd6b1f1f7288df73904413ecf2e9e375e7bf470cf7631b")
--- setManifestid(267941,"8281569790085331296")
+addappid(267941, 1, "73981e6907cbbcd54ddd6b1f1f7288df73904413ecf2e9e375e7bf470cf7631b")

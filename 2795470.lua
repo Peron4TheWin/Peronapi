@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AppID 2795470
 addappid(2795470)
-addappid(2795471,0,"8da743d97879a1b893e9629cb8af04412b94fa3e5cd5fe2f2ce3b5bd894f0878")
+addappid(2795471, 1, "8da743d97879a1b893e9629cb8af04412b94fa3e5cd5fe2f2ce3b5bd894f0878")

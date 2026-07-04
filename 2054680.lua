@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Odd One Out
 addappid(2054680)
-addappid(2054681,0,"688c8c5ae02a2a1152b85e2c6f5f882272767e7d5feda70b377cbe67c5823a8d")
--- setManifestid(2054681,"7762644618322652138")
+addappid(2054681, 1, "688c8c5ae02a2a1152b85e2c6f5f882272767e7d5feda70b377cbe67c5823a8d")

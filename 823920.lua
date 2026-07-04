@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kawaii Rainbow Portal
 addappid(823920)
-addappid(823921,0,"bc5bd8e2f02ba74a10e3970fddf05fa1c2c79f59c9ae4a536edf2cc2f2dc4f79")
--- setManifestid(823921,"8521284457435475215")
+addappid(823921, 1, "bc5bd8e2f02ba74a10e3970fddf05fa1c2c79f59c9ae4a536edf2cc2f2dc4f79")

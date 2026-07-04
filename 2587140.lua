@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Empires Shall Fall Soundtrack
 addappid(2587140)
-addappid(2587141,0,"a237722c2585c7afe1798edcfb4e6e80ce71eab47d92501bd473a849a9fee841")
--- setManifestid(2587141,"3759190679384424603")
+addappid(2587141, 1, "a237722c2585c7afe1798edcfb4e6e80ce71eab47d92501bd473a849a9fee841")

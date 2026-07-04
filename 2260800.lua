@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: nothing_matters
 addappid(2260800)
-addappid(2260801,0,"d649c5559132f906b1325d95f38d6b09f69d9da2cd96de3ad31cad0bd18c41a5")
--- setManifestid(2260801,"2719821644868687165")
+addappid(2260801, 1, "d649c5559132f906b1325d95f38d6b09f69d9da2cd96de3ad31cad0bd18c41a5")

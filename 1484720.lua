@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dead Estate
 addappid(1484720)
-addappid(1484721,0,"b483a8cfd4be1921be8384435068f891b8921a3e71b86b0a281ab6163aac8575")
--- setManifestid(1484721,"5249436330363578997")
+addappid(1484721, 1, "b483a8cfd4be1921be8384435068f891b8921a3e71b86b0a281ab6163aac8575")

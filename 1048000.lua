@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Girl Fantasy
 addappid(1048000)
-addappid(1048001,0,"1a10235e2e87d73b9dfcce3e491c2521a8bb6149cfabac67ae776c1f12790a05")
--- setManifestid(1048001,"6592727460199808710")
+addappid(1048001, 1, "1a10235e2e87d73b9dfcce3e491c2521a8bb6149cfabac67ae776c1f12790a05")

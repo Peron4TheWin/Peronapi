@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PANZER BALL
 addappid(325260)
-addappid(325261,0,"9526235b93c6a72cf29081a7460ff8c062bf5322102a2deebfabb2fdf3a0ebc4")
--- setManifestid(325261,"5281842755910988521")
-addappid(325262)
+addappid(325261, 1, "9526235b93c6a72cf29081a7460ff8c062bf5322102a2deebfabb2fdf3a0ebc4")

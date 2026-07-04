@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suck Up!
 addappid(2726370)
-addappid(2726371,0,"187ee6ed117535c8967bd54f73c9b349aa5b719bcd2ab59bc9d904a879f493ec")
--- setManifestid(2726371,"1174476527639353565")
+addappid(2726371, 1, "187ee6ed117535c8967bd54f73c9b349aa5b719bcd2ab59bc9d904a879f493ec")

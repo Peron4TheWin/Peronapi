@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clones
 addappid(72400)
-addappid(72401,0,"486c6dcd458cbfe7bb3bc9cd8e6dd08ef912311f17634593dea4e0347b4b58ea")
--- setManifestid(72401,"5804261885298082303")
+addappid(72401, 1, "486c6dcd458cbfe7bb3bc9cd8e6dd08ef912311f17634593dea4e0347b4b58ea")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Happy Guy
 addappid(1611300)
-addappid(1611301,0,"7e1a3795c5ff3060e3852805a9223dee0fdcc8dc8bbd62ae00ae54c8806f8056")
--- setManifestid(1611301,"938313670469269696")
+addappid(1611301, 1, "7e1a3795c5ff3060e3852805a9223dee0fdcc8dc8bbd62ae00ae54c8806f8056")
+addappid(1649810)

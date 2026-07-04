@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Swords of Edo Kinetic Novel
 addappid(1320260)
-addappid(1320261,0,"9b974eb3309d06c8ab9503dcf09583c8bfc4b9722266ee6f918e29d4764c5cd3")
--- setManifestid(1320261,"6344418091107642018")
+addappid(1320261, 1, "9b974eb3309d06c8ab9503dcf09583c8bfc4b9722266ee6f918e29d4764c5cd3")

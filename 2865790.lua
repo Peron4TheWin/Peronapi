@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Black Zork
 addappid(2865790)
-addappid(2865791,0,"08651a9264b8a001287fb3fc7858d5ae8a3cea7cafda5b398599d1fb3d4046cb")
--- setManifestid(2865791,"2434853432026492339")
+addappid(2865791, 1, "08651a9264b8a001287fb3fc7858d5ae8a3cea7cafda5b398599d1fb3d4046cb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Screaming Noppy
 addappid(2103320)
-addappid(2103321,0,"a5ea670e6f7674b3a7579949440cb13083dda9050aa6199b97b708c374cbab41")
--- setManifestid(2103321,"5904829275820352804")
+addappid(2103321, 1, "a5ea670e6f7674b3a7579949440cb13083dda9050aa6199b97b708c374cbab41")

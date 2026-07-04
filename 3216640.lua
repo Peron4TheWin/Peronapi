@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Beast and the Princess
 addappid(3216640)
-addappid(3216641,0,"b3f855f6e4ef3c6c9dffadea05699a0b10c52af9fb00ad08908b801f97967243")
--- setManifestid(3216641,"5724430457633450555")
+addappid(3216641, 1, "b3f855f6e4ef3c6c9dffadea05699a0b10c52af9fb00ad08908b801f97967243")

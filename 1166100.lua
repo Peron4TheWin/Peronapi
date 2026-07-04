@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Danger Course VR
 addappid(1166100)
-addappid(1166101,0,"7ce3e15b2bfd35b115d7bd8234b785ff1e877caed7b5659a1e3678f7bbd35738")
--- setManifestid(1166101,"4152363826970523882")
+addappid(1166101, 1, "7ce3e15b2bfd35b115d7bd8234b785ff1e877caed7b5659a1e3678f7bbd35738")

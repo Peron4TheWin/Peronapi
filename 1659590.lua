@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fallow
 addappid(1659590)
-addappid(1659591,0,"41e275df09817ca72e52bdc7985efc8c09ade705ba220fbae43d9bafbb3e9bd9")
--- setManifestid(1659591,"8410882662841789580")
+addappid(1659591, 1, "41e275df09817ca72e52bdc7985efc8c09ade705ba220fbae43d9bafbb3e9bd9")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deathwish Enforcers Special Edition
 addappid(2683030)
-addappid(2683031,0,"d1d5514378dcceace4cb76073359b5738c7c204b42eb9aeb8f44d5ada5394c03")
--- setManifestid(2683031,"8617742683101095463")
+addappid(2683031, 1, "d1d5514378dcceace4cb76073359b5738c7c204b42eb9aeb8f44d5ada5394c03")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Capybara: The story of Sisyphus
 addappid(2732980)
-addappid(2732981,0,"97e3421e83b6419f1dd181922b5396c4e8890af266c2a8984e62967ed2245f3a")
--- setManifestid(2732981,"1535457513673477637")
+addappid(2732981, 1, "97e3421e83b6419f1dd181922b5396c4e8890af266c2a8984e62967ed2245f3a")
+addappid(2914340)

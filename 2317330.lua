@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trance, Trauma
 addappid(2317330)
-addappid(2317331,0,"4ffbc6a57b5234f40c5a529afeefa92473944169ee080fd5fd97190fed14f212")
--- setManifestid(2317331,"5350355841564999482")
+addappid(2317331, 1, "4ffbc6a57b5234f40c5a529afeefa92473944169ee080fd5fd97190fed14f212")

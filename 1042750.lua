@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Night shot
 addappid(1042750)
-addappid(1042751,0,"c0d171fc6064e66d544ecd14c31065ff93d6cf3227a2b215da16612b6affc52e")
+addappid(1042751, 1, "c0d171fc6064e66d544ecd14c31065ff93d6cf3227a2b215da16612b6affc52e")

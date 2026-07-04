@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: COIL
 addappid(31500)
-addappid(31501,0,"02c2517c9dbd340b5342f0c423c433f59497b86604d7dd828ad46c7b631c62a7")
--- setManifestid(31501,"8501648435675271999")
+addappid(31501, 1, "02c2517c9dbd340b5342f0c423c433f59497b86604d7dd828ad46c7b631c62a7")

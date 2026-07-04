@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BloodLight Demo
 addappid(3033640)
-addappid(3033641,0,"2d424e86757c887fd389c70fcff61cd859cf322d2a195d088527ccf709be1e07")
--- setManifestid(3033641,"3303921962084573010")
+addappid(3033641, 1, "2d424e86757c887fd389c70fcff61cd859cf322d2a195d088527ccf709be1e07")

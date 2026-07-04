@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neon Echo
 addappid(2321210)
-addappid(2321211,0,"a877a212a1f3c9c9ea9192793c7b064ea1c8475f2b77ec8da0020bda426aca9b")
---setManifestid(2321211,"7722644842533978906")
+addappid(2321211, 1, "a877a212a1f3c9c9ea9192793c7b064ea1c8475f2b77ec8da0020bda426aca9b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aleph
 addappid(2387410)
-addappid(2387411,0,"eb17d92fd9cd03965e37ed82202364d1eb4a04d7d099ef3d2bd7346464951f02")
--- setManifestid(2387411,"4941582692578910348")
+addappid(2387411, 1, "eb17d92fd9cd03965e37ed82202364d1eb4a04d7d099ef3d2bd7346464951f02")

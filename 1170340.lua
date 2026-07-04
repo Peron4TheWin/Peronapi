@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Jigsaw Puzzle 2
 addappid(1170340)
--- setManifestid(229002,"7260605429366465749")
-addappid(1170341,0,"10d8a3b8a99b0e7948b3771cabb2bdc68fc62cee5f82b6f0cc9a58d268801fba")
--- setManifestid(1170341,"7230608783725258503")
+addappid(1170341, 1, "10d8a3b8a99b0e7948b3771cabb2bdc68fc62cee5f82b6f0cc9a58d268801fba")
+addappid(1182270)

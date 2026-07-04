@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Only Whores Survive 🔞
 addappid(3748790)
-addappid(3748791,0,"fcac35d1de655a1e0e2a20401ec5ef34281a505a30cefac32f83e1dcd3d53fe1")
--- setManifestid(3748791,"4164114088333003503")
+addappid(3748791, 1, "fcac35d1de655a1e0e2a20401ec5ef34281a505a30cefac32f83e1dcd3d53fe1")

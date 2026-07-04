@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost In Failures
 addappid(2813250)
-addappid(2813251,0,"ffe8a853b907acb8f20df8b1ff56395c3b798194b98ec5b0ec84276313a8ac18")
--- setManifestid(2813251,"2440697261437789071")
+addappid(2813251, 1, "ffe8a853b907acb8f20df8b1ff56395c3b798194b98ec5b0ec84276313a8ac18")

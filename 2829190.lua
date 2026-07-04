@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: All-In-One Summer Sports VR Demo
 addappid(2829190)
-addappid(2829191,0,"3af2786da3718c7cd361b3583edec6b14efcb6290771270a3ec3019287521e2c")
--- setManifestid(2829191,"1212115515331064157")
+addappid(2829191, 1, "3af2786da3718c7cd361b3583edec6b14efcb6290771270a3ec3019287521e2c")

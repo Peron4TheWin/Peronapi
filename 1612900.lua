@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Two Against the Legion
 addappid(1612900)
-addappid(1612901,0,"1efa841531cad154df9787e26b33cbc73d8d28bc6a2b7ab10f41077edec28829")
--- setManifestid(1612901,"507881126721167252")
+addappid(1612901, 1, "1efa841531cad154df9787e26b33cbc73d8d28bc6a2b7ab10f41077edec28829")

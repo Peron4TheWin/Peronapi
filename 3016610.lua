@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bopp File
 addappid(3016610)
-addappid(229007)
-addappid(3016611,0,"60937b43e073402885bbb33c7dc6ca59bbf7193d9756c4d5b5e88a0c26a31154")
+addappid(3016611, 1, "60937b43e073402885bbb33c7dc6ca59bbf7193d9756c4d5b5e88a0c26a31154")

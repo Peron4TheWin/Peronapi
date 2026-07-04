@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dr. Fetus' Mean Meat Machine
 addappid(2228030)
-addappid(2228031,0,"e98afe15b52fb6306c76e0730b0d6758f88f95a54027fc410fd533abe6786583")
--- setManifestid(2228031,"8761340721162816617")
+addappid(2228031, 1, "e98afe15b52fb6306c76e0730b0d6758f88f95a54027fc410fd533abe6786583")

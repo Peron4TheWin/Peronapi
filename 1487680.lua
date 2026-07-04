@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Broken Universe - Tower Defense
 addappid(1487680)
-addappid(1487681,0,"f3bd53c91c7fc4c4e5534a89f4d726976f9ff811e27a5109e88315a8f1f142d9")
--- setManifestid(1487681,"7675467788904448810")
+addappid(1487681, 1, "f3bd53c91c7fc4c4e5534a89f4d726976f9ff811e27a5109e88315a8f1f142d9")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 江湖十一 Demo
 addappid(1861240)
-addappid(1861241,0,"a1d938eb1fd0a6a3771a5216f9a6de1ede13e2c957e5420960ae0bab2b6f620f")
+addappid(1861241, 1, "a1d938eb1fd0a6a3771a5216f9a6de1ede13e2c957e5420960ae0bab2b6f620f")

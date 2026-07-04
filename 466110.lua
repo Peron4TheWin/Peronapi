@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shaolin vs Wutang
 addappid(466110)
-addappid(466111,0,"2c8bbcb46587d27649fb1ab0e30c84a0e56b96a4ff9f2935861ad265dec74e1d")
+addappid(466111, 1, "2c8bbcb46587d27649fb1ab0e30c84a0e56b96a4ff9f2935861ad265dec74e1d")

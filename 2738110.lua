@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vengeance Hunters
 addappid(2738110)
--- setManifestid(228989,"3514306556860204959")
-addappid(2738111,0,"3ec2193c403c973fcf4cfd2691d270b910ec37b0d89772af9f0389be457e8865")
--- setManifestid(2738111,"4379099090180770108")
+addappid(2738111, 1, "3ec2193c403c973fcf4cfd2691d270b910ec37b0d89772af9f0389be457e8865")

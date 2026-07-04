@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Moustache in the House
 addappid(1203770)
-addappid(1203771,0,"579b7f424dcd108d86be8d1c219ff296a75b2388de177efe8e810266614e34ad")
--- setManifestid(1203771,"3751558941361240558")
+addappid(1203771, 1, "579b7f424dcd108d86be8d1c219ff296a75b2388de177efe8e810266614e34ad")

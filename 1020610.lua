@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Apoapsis
 addappid(1020610)
-addappid(1020611,0,"dea318f46dda3a39115efcd47f06ea42a09633976b1fb92fef272801036749f5")
--- setManifestid(1020611,"5158713846064978595")
+addappid(1020611, 1, "dea318f46dda3a39115efcd47f06ea42a09633976b1fb92fef272801036749f5")

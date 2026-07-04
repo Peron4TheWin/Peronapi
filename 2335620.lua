@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Delve Into Pawssion
 addappid(2335620)
-addappid(2335621,0,"0039faa4f0d1fb0a98ab2d4afd4ced140091317702dd3d5708c53e27ff83c9ad")
--- setManifestid(2335621,"1808174551452883881")
+addappid(2335621, 1, "0039faa4f0d1fb0a98ab2d4afd4ced140091317702dd3d5708c53e27ff83c9ad")

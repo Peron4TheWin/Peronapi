@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crusade of Deitra
 addappid(1767730)
-addappid(1767731,0,"1ce4f0da6762fc3f4d372b002e792c2b8b24aaeb0b4d2a563d5bd167da39f33a")
--- setManifestid(1767731,"7908452340936412231")
+addappid(1767731, 1, "1ce4f0da6762fc3f4d372b002e792c2b8b24aaeb0b4d2a563d5bd167da39f33a")

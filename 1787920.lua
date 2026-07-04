@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 万界之门
 addappid(1787920)
-addappid(1787921,0,"7a18211f4111d79b5a225b24cf54e3edda75076ecd887abbfc80dbcc67a6fea3")
--- setManifestid(1787921,"6376331116703331282")
+addappid(1787921, 1, "7a18211f4111d79b5a225b24cf54e3edda75076ecd887abbfc80dbcc67a6fea3")

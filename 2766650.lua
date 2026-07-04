@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chicago Project
 addappid(2766650)
-addappid(2766651,0,"b41b2eb476353a282af15e9958bda0b141d50f05ddfa7152a93b55a4f8d7e3c2")
--- setManifestid(2766651,"529337536865665582")
+addappid(2766651, 1, "b41b2eb476353a282af15e9958bda0b141d50f05ddfa7152a93b55a4f8d7e3c2")

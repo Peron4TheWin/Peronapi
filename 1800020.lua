@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Unreal Mashup Playtest
 addappid(1800020)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1800021,0,"dd32ec027cb51c7f69fe300bc378d7f982b523eeb5699e86e03155a322563476")
+addappid(1800021, 1, "dd32ec027cb51c7f69fe300bc378d7f982b523eeb5699e86e03155a322563476")

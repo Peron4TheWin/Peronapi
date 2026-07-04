@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warlord: Awaji Demo
 addappid(3182460)
-addappid(3182461,0,"35cf7963b4285e73f40d29869a607744cf2c0430cdf8cc19a2addc9db94ce4b0")
--- setManifestid(3182461,"6741759622105694712")
+addappid(3182461, 1, "35cf7963b4285e73f40d29869a607744cf2c0430cdf8cc19a2addc9db94ce4b0")

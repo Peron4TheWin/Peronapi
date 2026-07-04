@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGO® The Lord of the Rings™
 addappid(214510)
-addappid(214511,0,"b350edf474fc7c130bad45e320962c01c7199096257f9a90bbb82ca8fd4addbf")
--- setManifestid(214511,"1362028623425855695")
+addappid(214511, 1, "b350edf474fc7c130bad45e320962c01c7199096257f9a90bbb82ca8fd4addbf")

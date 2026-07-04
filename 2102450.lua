@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Enotria: The Last Song
 addappid(2102450)
-addappid(228989)
-addappid(228990)
-addappid(2102451,0,"4ff61b91c2226debba14e316ae7bcd8ceaf0742273e88455dcc564ff892f3d61")
+addappid(2102451, 1, "4ff61b91c2226debba14e316ae7bcd8ceaf0742273e88455dcc564ff892f3d61")

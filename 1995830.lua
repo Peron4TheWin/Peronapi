@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 天若有情
 addappid(1995830)
-addappid(1995831,0,"39f2ff08508847f06506f097ec12dba24cf5a94ad116b5617ebf1d7ee262874f")
--- setManifestid(1995831,"1767554454469535090")
+addappid(1995831, 1, "39f2ff08508847f06506f097ec12dba24cf5a94ad116b5617ebf1d7ee262874f")

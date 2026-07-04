@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FOOT LOVERS
 addappid(3226330)
-addappid(3226331,0,"f36abd5a345b1b14420be0d53daefa80d16d663d783eb1ef868ee0066984779f")
--- setManifestid(3226331,"1139809659719158774")
+addappid(3226331, 1, "f36abd5a345b1b14420be0d53daefa80d16d663d783eb1ef868ee0066984779f")

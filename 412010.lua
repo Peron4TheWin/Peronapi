@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crossbow Warrior - The Legend of William Tell
 addappid(412010)
-addappid(412011,0,"677c4b5f58a4ef21e6f29e6b290688803bfd601f82af81d3175a0e2c953be02f")
--- setManifestid(412011,"4278807335750167625")
+addappid(412011, 1, "677c4b5f58a4ef21e6f29e6b290688803bfd601f82af81d3175a0e2c953be02f")

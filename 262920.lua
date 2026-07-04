@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Chain Crusher Horizon
 addappid(262920)
--- setManifestid(229012,"4353723233161159493")
-addappid(262921,0,"6eb97584feca89694da72255dd8553d330ef583cbf37cd02bc269db4f5405a28")
--- setManifestid(262921,"4278166416647985002")
+addappid(262921, 1, "6eb97584feca89694da72255dd8553d330ef583cbf37cd02bc269db4f5405a28")

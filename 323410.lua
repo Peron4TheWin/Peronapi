@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Risk of Rain Soundtrack
 addappid(323410)
-addappid(323411,0,"a739217898941864ad292fa12dff85e2bdbfda34fb2c9d9b9514a17632d8a108")
--- setManifestid(323411,"3135512279182890929")
+addappid(323411, 1, "a739217898941864ad292fa12dff85e2bdbfda34fb2c9d9b9514a17632d8a108")

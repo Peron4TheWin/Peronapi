@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Pony Factory
 addappid(2536530)
-addappid(2536531,0,"3976f621748f769cdfef6a1aea9854a9be1ceb632fbd9f9e481a38c6e490dede")
--- setManifestid(2536531,"3989103915548969260")
+addappid(2536531, 1, "3976f621748f769cdfef6a1aea9854a9be1ceb632fbd9f9e481a38c6e490dede")

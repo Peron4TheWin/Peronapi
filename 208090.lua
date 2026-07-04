@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loadout
 addappid(208090)
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(208091,0,"545c330a843ba47ab2bc4038b86893a410f3a6ecb3c96d5ef768673c86cf6027")
--- setManifestid(208091,"3336994663823820613")
+addappid(208091, 1, "545c330a843ba47ab2bc4038b86893a410f3a6ecb3c96d5ef768673c86cf6027")

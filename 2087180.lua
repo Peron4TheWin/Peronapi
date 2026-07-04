@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 都市媚影-CityFascination
 addappid(2087180)
-addappid(2087181,0,"4d0e34fab595a537f67b7b92cc481d44c24cae1d72f15d39d286b5103d310f3b")
--- setManifestid(2087181,"6828269954072009614")
+addappid(2087181, 1, "4d0e34fab595a537f67b7b92cc481d44c24cae1d72f15d39d286b5103d310f3b")

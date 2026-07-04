@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hunter
 addappid(985530)
-addappid(985531,0,"2f24b65c3a4d1d7a37b8ae6477042e4a58ca45fafd01807b3494cc4681aab091")
--- setManifestid(985531,"6168297926801812031")
+addappid(985531, 1, "2f24b65c3a4d1d7a37b8ae6477042e4a58ca45fafd01807b3494cc4681aab091")

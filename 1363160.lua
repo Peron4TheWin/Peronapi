@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Field of Flowers and Stars
 addappid(1363160)
-addappid(1363161,0,"f4d9afa5e2219e4af931174a81063902be122138840a1df49cd57b63bb4a1e38")
--- setManifestid(1363161,"7273066817824638622")
+addappid(1363161, 1, "f4d9afa5e2219e4af931174a81063902be122138840a1df49cd57b63bb4a1e38")

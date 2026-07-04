@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Grinch: Christmas Adventures
 addappid(1978210)
-addappid(1978211,0,"f5321f47ddc16c376743aac65457034d4c27eb8242cac9d34e524ed2ce6d6bef")
--- setManifestid(1978211,"8364192055718419555")
+addappid(1978211, 1, "f5321f47ddc16c376743aac65457034d4c27eb8242cac9d34e524ed2ce6d6bef")
 addappid(3694440)

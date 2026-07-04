@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AGO BRISTOL 1775: From Warship to Prison Hulk
 addappid(2605210)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2605211,0,"11e2ba1529d13116b104e3381d6e4ac3e45e750b38a9f37a33c85c330a626cb7")
+addappid(2605211, 1, "11e2ba1529d13116b104e3381d6e4ac3e45e750b38a9f37a33c85c330a626cb7")

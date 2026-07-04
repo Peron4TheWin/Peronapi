@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Few Nights With : Francesca
 addappid(3163170)
-addappid(3163171,0,"298ee9ee6b1571e825d581b05b69760489711500e3d601b7ae4d3cb658b51e84")
--- setManifestid(3163171,"7864621934826592593")
+addappid(3163171, 1, "298ee9ee6b1571e825d581b05b69760489711500e3d601b7ae4d3cb658b51e84")

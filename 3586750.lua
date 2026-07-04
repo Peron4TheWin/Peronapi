@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 猫猫旅行社欢迎你！ Momo's Revitalization Project!
 addappid(3586750)
-addappid(3586751,0,"22aaf4a7fb0acabdf3da18c61c8a251bd3d6797323a93bb643c446b2a4c5f612")
--- setManifestid(3586751,"986269602928681059")
+addappid(3586751, 1, "22aaf4a7fb0acabdf3da18c61c8a251bd3d6797323a93bb643c446b2a4c5f612")

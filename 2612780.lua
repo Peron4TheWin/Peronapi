@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 鬼鎮村の危険な因襲 - Dangerous Village Tradition -
 addappid(2612780)
-addappid(2612781,0,"b56f5a859cf0d5815aaf47e22b3bf5ef958d645fdc4f7a7046da932a7e47c8ce")
--- setManifestid(2612781,"937769184872493")
+addappid(2612781, 1, "b56f5a859cf0d5815aaf47e22b3bf5ef958d645fdc4f7a7046da932a7e47c8ce")

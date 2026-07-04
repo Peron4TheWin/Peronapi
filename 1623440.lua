@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TIME BREAKER
 addappid(1623440)
-addappid(1623441,0,"abe436c5dcbbd3d11638250f3821b716a1648f2924a2548c18f186ac1e512ec5")
--- setManifestid(1623441,"4802347928127495903")
+addappid(1623441, 1, "abe436c5dcbbd3d11638250f3821b716a1648f2924a2548c18f186ac1e512ec5")

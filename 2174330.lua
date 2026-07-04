@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Together With Me
 addappid(2174330)
-addappid(2174331,0,"6b12ca0f04627f122ebfe85d064e840ad057a9aef8273b0f74795a908e0179cb")
--- setManifestid(2174331,"7065633875343151537")
+addappid(2174331, 1, "6b12ca0f04627f122ebfe85d064e840ad057a9aef8273b0f74795a908e0179cb")

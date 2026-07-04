@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bish Bash Bots
 addappid(1424860)
-addappid(1424861,0,"b534aff2fef456a1101da0df31d9183de9742f896d5fb2bc3f9a99aebc4407ef")
--- setManifestid(1424861,"3346328545986242406")
+addappid(1424861, 1, "b534aff2fef456a1101da0df31d9183de9742f896d5fb2bc3f9a99aebc4407ef")

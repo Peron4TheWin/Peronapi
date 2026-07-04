@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sumotori Dreams Classic Demo
 addappid(1614720)
-addappid(1614721,0,"8b9c43f675542bf33df5d5d20e305b18ce02418cc6a6c7bb1087059257ce888a")
--- setManifestid(1614721,"7619973316494732624")
+addappid(1614721, 1, "8b9c43f675542bf33df5d5d20e305b18ce02418cc6a6c7bb1087059257ce888a")

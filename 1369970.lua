@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infinite Mana
 addappid(1369970)
-addappid(1369971,0,"6d720b6b8c3313de422469784a69b9f3e35c171c9fd38ed48f481029db65a7ef")
--- setManifestid(1369971,"1302985395848169732")
+addappid(1369971, 1, "6d720b6b8c3313de422469784a69b9f3e35c171c9fd38ed48f481029db65a7ef")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot Milf
 addappid(1800950)
-addappid(1800951,0,"fa683ccf38940fa141c7b0659972f31583efd7107336518cfcbdbefdef11781e")
--- setManifestid(1800951,"194238973273835528")
+addappid(1800951, 1, "fa683ccf38940fa141c7b0659972f31583efd7107336518cfcbdbefdef11781e")

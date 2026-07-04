@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Getaway Island
 addappid(605190)
-addappid(605191,0,"d12cb7014b50bf747c2dd1a0ae843f3ea6c6d6dce13ce74991d916c0f369d032")
--- setManifestid(605191,"1863193719417911441")
+addappid(605191, 1, "d12cb7014b50bf747c2dd1a0ae843f3ea6c6d6dce13ce74991d916c0f369d032")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cross Maid
 addappid(1424870)
-addappid(1424871,0,"3c81376aac15dbb11700f7d6b774fa6b4b0a3c6ba2de67f09ff57214bffd4bec")
--- setManifestid(1424871,"4124870194650006877")
+addappid(1424871, 1, "3c81376aac15dbb11700f7d6b774fa6b4b0a3c6ba2de67f09ff57214bffd4bec")

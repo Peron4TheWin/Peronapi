@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Earth Analog
 addappid(1203470)
-addappid(1203471,0,"3aa882ceb6ee5f339679991b7d66bd452f3813cc81416da147cad75e4fdfdee3")
--- setManifestid(1203471,"6039413283366452291")
+addappid(1203471, 1, "3aa882ceb6ee5f339679991b7d66bd452f3813cc81416da147cad75e4fdfdee3")

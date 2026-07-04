@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: American Conquest
 addappid(115210)
-addappid(115211,0,"4c6d10ba49c30a6d68d81a56069970f7894b47174ee24a4916734ed25b6a697f")
--- setManifestid(115211,"7831616157888191834")
+addappid(115211, 1, "4c6d10ba49c30a6d68d81a56069970f7894b47174ee24a4916734ed25b6a697f")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Shanghai
 addappid(3118580)
-addappid(3118581,0,"1b26163e51b71904efdc196d3ef27cf32e25e67f8138a748a4524734c1e02a54")
--- setManifestid(3118581,"9015574413245505212")
+addappid(3118581, 1, "1b26163e51b71904efdc196d3ef27cf32e25e67f8138a748a4524734c1e02a54")

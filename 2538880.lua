@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spirit X Strike
 addappid(2538880)
-addappid(2538881,0,"9506481c0c4259baed78cb030051d0756c74686ab42efba444cce3f08fad6698")
--- setManifestid(2538881,"5736926897273416474")
+addappid(2538881, 1, "9506481c0c4259baed78cb030051d0756c74686ab42efba444cce3f08fad6698")

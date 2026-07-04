@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ancient Gladiators Demo
 addappid(2136940)
-addappid(2136941,0,"9e966b6e8e344af51d809d29b94fb5796e46531f3478207ed047fb2c099f956b")
--- setManifestid(2136941,"1777301275182179146")
+addappid(2136941, 1, "9e966b6e8e344af51d809d29b94fb5796e46531f3478207ed047fb2c099f956b")

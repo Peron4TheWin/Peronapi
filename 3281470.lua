@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nova Drift Demo
 addappid(3281470)
-addappid(3281471,0,"f054630dc593915eb0f1080f42e0878cea93c9886c52942ff6e5def19a7da61c")
--- setManifestid(3281471,"2307669405786578966")
+addappid(3281471, 1, "f054630dc593915eb0f1080f42e0878cea93c9886c52942ff6e5def19a7da61c")

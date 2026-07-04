@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Volcano Princess
 addappid(1669980)
-addappid(1669981,0,"3a047ea5cbf7ba1277d2f1f7ed2016381bf2791e4678e42a7548f09fa03284e6")
+addappid(1669981, 1, "3a047ea5cbf7ba1277d2f1f7ed2016381bf2791e4678e42a7548f09fa03284e6")
+addappid(2582920)

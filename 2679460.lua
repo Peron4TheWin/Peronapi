@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Metaphor: ReFantazio
 addappid(2679460)
-addappid(2679461,0,"0a945c91ddfaaca28d19da03981f783f8eb23a6dcc1121fb8c0936bb17fe0adb")
+addappid(2679461, 1, "0a945c91ddfaaca28d19da03981f783f8eb23a6dcc1121fb8c0936bb17fe0adb")

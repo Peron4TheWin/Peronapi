@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 冒险与魔法
 addappid(2173550)
-addappid(2173551,0,"e99e64aeae3ab55c5302a42e4ad9b27560bdea153b882c69b2874383d2a81890")
--- setManifestid(2173551,"7196506854948822063")
+addappid(2173551, 1, "e99e64aeae3ab55c5302a42e4ad9b27560bdea153b882c69b2874383d2a81890")

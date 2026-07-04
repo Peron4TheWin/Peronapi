@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Laboratory of Nightmares
 addappid(1782960)
-addappid(1782961,0,"d18ccb1dce646841b52b5b0322f621f8c77736bf22851cd23b3f21f91219db9d")
--- setManifestid(1782961,"8016072923280634327")
+addappid(1782961, 1, "d18ccb1dce646841b52b5b0322f621f8c77736bf22851cd23b3f21f91219db9d")

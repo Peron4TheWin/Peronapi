@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vibrant Frame
 addappid(3016890)
-addappid(3016891,0,"9501d006a8a1d0c2336b472c408e18f877e01a35bf94fafd5012824dd221382e")
--- setManifestid(3016891,"4934792718492158174")
+addappid(3016891, 1, "9501d006a8a1d0c2336b472c408e18f877e01a35bf94fafd5012824dd221382e")

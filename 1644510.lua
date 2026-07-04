@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reigning
 addappid(1644510)
-addappid(1644511,0,"b54a4e21a380e1fd3165ef24803665250c04d28164f6f4be8b0621ca30c391ca")
--- setManifestid(1644511,"5747649360454771794")
+addappid(1644511, 1, "b54a4e21a380e1fd3165ef24803665250c04d28164f6f4be8b0621ca30c391ca")

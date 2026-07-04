@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Upgrade My Heart
 addappid(3644980)
-addappid(3644981,0,"6643ef01690871e476b1300a467c04c32f6a69b2c12d75f1b99215fb254d4e5a")
--- setManifestid(3644981,"8173694543206428529")
+addappid(3644981, 1, "6643ef01690871e476b1300a467c04c32f6a69b2c12d75f1b99215fb254d4e5a")

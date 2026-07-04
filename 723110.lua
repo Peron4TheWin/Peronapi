@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Scrap Galaxy
 addappid(723110)
-addappid(723111,0,"e6236c4d5284cdc1d215e7991085698ca5410fefc0541cbf02cfbab643cf7ce2")
--- setManifestid(723111,"10758900429505384")
+addappid(723111, 1, "e6236c4d5284cdc1d215e7991085698ca5410fefc0541cbf02cfbab643cf7ce2")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chill Corner
 addappid(1749630)
-addappid(1749631,0,"dd6da482a1932494817d0bf65e831bdd2b7cbab81e84373a4e424f26fa754803")
--- setManifestid(1749631,"8395494196969413755")
+addappid(1749631, 1, "dd6da482a1932494817d0bf65e831bdd2b7cbab81e84373a4e424f26fa754803")

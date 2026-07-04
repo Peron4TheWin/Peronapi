@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Mining Mechs
 addappid(2830150)
-addappid(2830151,0,"076593271881557f1f284cc21257d7b52e9d4bf878c09a5dbcf21c015342c7ce")
--- setManifestid(2830151,"9051539160796393063")
+addappid(2830151, 1, "076593271881557f1f284cc21257d7b52e9d4bf878c09a5dbcf21c015342c7ce")

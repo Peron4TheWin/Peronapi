@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Writeway
 addappid(2736740)
-addappid(2736741,0,"ea77b4de0a4ad1a8df90f6553ce9a12044bb4182b36dc938db3416fcdbbde603")
--- setManifestid(2736741,"1346232427767780089")
+addappid(2736741, 1, "ea77b4de0a4ad1a8df90f6553ce9a12044bb4182b36dc938db3416fcdbbde603")

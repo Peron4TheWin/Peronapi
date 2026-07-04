@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spill the Beans Demo
 addappid(3008550)
-addappid(3008551,0,"4cff8a2dc7f58ce52adf4ee8151d479816bb24739f37647a16d16cbe4a1d5d4a")
--- setManifestid(3008551,"4766829256969748329")
+addappid(3008551, 1, "4cff8a2dc7f58ce52adf4ee8151d479816bb24739f37647a16d16cbe4a1d5d4a")

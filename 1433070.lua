@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Into the Pyramid
 addappid(1433070)
-addappid(1433071,0,"05ca4e94b1f4d060eb13cae161f037237d57c149d07bc58aaa66821c56ef2b48")
--- setManifestid(1433071,"5143465942264450937")
+addappid(1433071, 1, "05ca4e94b1f4d060eb13cae161f037237d57c149d07bc58aaa66821c56ef2b48")

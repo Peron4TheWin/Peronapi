@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clay Soldiers
 addappid(2216750)
-addappid(2216751,0,"4a9042bf1bc0395a133ccd5f2311b3c0ece726de6cfdd1e2f59a174800d1ee53")
--- setManifestid(2216751,"2367940805085911117")
+addappid(2216751, 1, "4a9042bf1bc0395a133ccd5f2311b3c0ece726de6cfdd1e2f59a174800d1ee53")

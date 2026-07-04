@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY XVI DEMO
 addappid(2738000)
-addappid(2738001,0,"9dbbffbe4ef052726c5e85122e0089da01551e37c2d5f776b5c174dd3c2a8aac")
--- setManifestid(2738001,"3176780407310723874")
+addappid(2738001, 1, "9dbbffbe4ef052726c5e85122e0089da01551e37c2d5f776b5c174dd3c2a8aac")

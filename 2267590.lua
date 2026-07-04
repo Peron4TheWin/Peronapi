@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Her Feet
 addappid(2267590)
-addappid(2267591,0,"0ebb934192be947bfb0a47ec549a67a11fed31c40c71738e71e78ded52cd6414")
--- setManifestid(2267591,"8668338505400063329")
+addappid(2267591, 1, "0ebb934192be947bfb0a47ec549a67a11fed31c40c71738e71e78ded52cd6414")

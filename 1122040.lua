@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kaede the Eliminator / Eliminator 小枫
 addappid(1122040)
-addappid(1122041,0,"3561b6e06a8bc926d054a11857d38b709215099bfd778955111fc446a4310d08")
--- setManifestid(1122041,"2534130852952742411")
+addappid(1122041, 1, "3561b6e06a8bc926d054a11857d38b709215099bfd778955111fc446a4310d08")

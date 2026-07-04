@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BUSTAFELLOWS
 addappid(1494470)
-addappid(1494471,0,"512a95fa53d23d5b0b42223d63f3311ebdb055bcd5b3b32d54137ff4938fcb9b")
--- setManifestid(1494471,"5264017337726348674")
+addappid(1494471, 1, "512a95fa53d23d5b0b42223d63f3311ebdb055bcd5b3b32d54137ff4938fcb9b")

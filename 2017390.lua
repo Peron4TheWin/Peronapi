@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 人生畫廊 Demo
 addappid(2017390)
-addappid(2017391,0,"91f4f26fcdf7b04dd9844a4daec3e061c4d12eec246ab73168fbaec657381142")
--- setManifestid(2017391,"7657752296622831719")
+addappid(2017391, 1, "91f4f26fcdf7b04dd9844a4daec3e061c4d12eec246ab73168fbaec657381142")

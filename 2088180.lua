@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kritika Global
 addappid(2088180)
-addappid(2088181,0,"a3d992ecffa172c22ba47acd35c375701a55a1aabcb8a0e6f31d84b69cd4f9b0")
--- setManifestid(2088181,"5053491316339592499")
+addappid(2088181, 1, "a3d992ecffa172c22ba47acd35c375701a55a1aabcb8a0e6f31d84b69cd4f9b0")

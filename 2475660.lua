@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cozy Keep Demo
 addappid(2475660)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(2475661,0,"824d34a31ccf83d65c7ecba337b0741bec4d41d4c0db9442edfb8d5de438ac3e")
+addappid(2475661, 1, "824d34a31ccf83d65c7ecba337b0741bec4d41d4c0db9442edfb8d5de438ac3e")

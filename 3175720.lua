@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BM Love Cafe
 addappid(3175720)
-addappid(3175721,0,"71573c1731fb949527f6c97d8059f7fc0b56ca2cceec834c0e2e5b04160fc093")
--- setManifestid(3175721,"6244053837456599700")
+addappid(3175721, 1, "71573c1731fb949527f6c97d8059f7fc0b56ca2cceec834c0e2e5b04160fc093")

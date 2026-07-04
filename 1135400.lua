@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Captain fly and sexy students
 addappid(1135400)
-addappid(1135401,0,"5d8e12d2b722808288849128e801dfc6c8c6ff0431071395ef628a8c0554d0f6")
--- setManifestid(1135401,"3416540540120151475")
+addappid(1135401, 1, "5d8e12d2b722808288849128e801dfc6c8c6ff0431071395ef628a8c0554d0f6")

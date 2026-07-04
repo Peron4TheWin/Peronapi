@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zombie Army VR
 addappid(2058030)
-addappid(2058031,0,"0d54e331589650da120f533f76fc488cedf68cd52d891b44a538648c28aa2e9d")
--- setManifestid(2058031,"6460044365981986748")
+addappid(2058031, 1, "0d54e331589650da120f533f76fc488cedf68cd52d891b44a538648c28aa2e9d")

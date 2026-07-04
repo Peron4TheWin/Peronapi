@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zombie Carnage 2
 addappid(1699200)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1699201,0,"37a870a225e212ebbe9f8b8800411a43a6560969e6eb3d079cabf0d2b3b1d23f")
--- setManifestid(1699201,"4827216456792061518")
+addappid(1699201, 1, "37a870a225e212ebbe9f8b8800411a43a6560969e6eb3d079cabf0d2b3b1d23f")

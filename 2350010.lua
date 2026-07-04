@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ZOID ZOID TETSOIDEA
 addappid(2350010)
-addappid(2350011,0,"e935e5c7501d398462e59862ad8057e8738b0e95f4bcdd9fbf5981e0f9e367fd")
+addappid(2350011, 1, "e935e5c7501d398462e59862ad8057e8738b0e95f4bcdd9fbf5981e0f9e367fd")

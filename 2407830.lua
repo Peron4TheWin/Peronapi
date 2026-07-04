@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trash Goblin
 addappid(2407830)
-addappid(2407831,0,"ea23b0d0a0032c830f4a7465cffc83e39ed4632bf16182ddb029fadb0868cf80")
--- setManifestid(2407831,"6492466098422136876")
+addappid(2407831, 1, "ea23b0d0a0032c830f4a7465cffc83e39ed4632bf16182ddb029fadb0868cf80")

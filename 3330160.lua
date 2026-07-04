@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kingdom Ascension
 addappid(3330160)
-addappid(3330161,0,"8facfff2e5509d63eae6797e428067d4432333fb2669fc36a12908dae0c2adf1")
--- setManifestid(3330161,"4017441226190994281")
+addappid(3330161, 1, "8facfff2e5509d63eae6797e428067d4432333fb2669fc36a12908dae0c2adf1")

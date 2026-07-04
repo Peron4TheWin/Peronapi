@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beat the Beats VR Demo
 addappid(2751550)
-addappid(2751551,0,"0f710e4d2f30bcb783b828681d66816dc18d5758fc14048919157304b8e23d3e")
--- setManifestid(2751551,"2920958076810751110")
+addappid(2751551, 1, "0f710e4d2f30bcb783b828681d66816dc18d5758fc14048919157304b8e23d3e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Before The Night Demo
 addappid(1839530)
-addappid(1839531,0,"482ceac14439d8bbefccf35fd6a5b68130d5ea37e7c2858e086721b86fa61748")
--- setManifestid(1839531,"2670384418670579976")
+addappid(1839531, 1, "482ceac14439d8bbefccf35fd6a5b68130d5ea37e7c2858e086721b86fa61748")

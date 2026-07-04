@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pangeon
 addappid(983670)
-addappid(983671,0,"144d7c162c1d2dfa5cda8a71fb482c7cbbc21d7640227298b5494f255b671a8c")
--- setManifestid(983671,"3753515134905759510")
+addappid(983671, 1, "144d7c162c1d2dfa5cda8a71fb482c7cbbc21d7640227298b5494f255b671a8c")

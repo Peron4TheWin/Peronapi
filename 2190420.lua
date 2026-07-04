@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ALLON3
 addappid(2190420)
-addappid(2190421,0,"a5bfd0bf72a2ea16f5394f0e32e9545f29eedd012ba77d29abcb12952bac0e49")
--- setManifestid(2190421,"5772429651612825167")
+addappid(2190421, 1, "a5bfd0bf72a2ea16f5394f0e32e9545f29eedd012ba77d29abcb12952bac0e49")

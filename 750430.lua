@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sphinx and the Cursed Mummy: Authoring Tools
 addappid(750430)
-addappid(750431,0,"a8da53bbf7fc1180ad69c8ecde97be329b1ba6bd5e99173e915e33cf8546dd2e")
--- setManifestid(750431,"8269229798252186364")
+addappid(750431, 1, "a8da53bbf7fc1180ad69c8ecde97be329b1ba6bd5e99173e915e33cf8546dd2e")

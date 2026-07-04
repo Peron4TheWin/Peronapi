@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DonutCrabs
 addappid(2011130)
-addappid(2011131,0,"3e1c6fb126ce4613478cf860b0003534c9aa1851ec71f9311cbe785d57a55341")
+addappid(2011131, 1, "3e1c6fb126ce4613478cf860b0003534c9aa1851ec71f9311cbe785d57a55341")

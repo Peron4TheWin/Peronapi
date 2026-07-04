@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blood Bowl: Death Zone
 addappid(602490)
-addappid(602491,0,"9b689d6d349326091b20289785a6b4b0346d8b6f5a619e5d8c8071cd51c7a114")
--- setManifestid(602491,"8272855906402798860")
+addappid(602491, 1, "9b689d6d349326091b20289785a6b4b0346d8b6f5a619e5d8c8071cd51c7a114")

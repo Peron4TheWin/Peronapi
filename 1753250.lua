@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Planet 1
 addappid(1753250)
-addappid(1753251,0,"8d670400890d5b1dd4b85f405b0d95220422c0ce8e13226d60ece772993ffc97")
--- setManifestid(1753251,"5131081850633643893")
+addappid(1753251, 1, "8d670400890d5b1dd4b85f405b0d95220422c0ce8e13226d60ece772993ffc97")

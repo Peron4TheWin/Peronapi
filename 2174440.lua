@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jump'n'Brawl
 addappid(2174440)
-addappid(2174441,0,"20255d51ec3458f538ede968abf6ab66344a69e8bd642a2280168d73ce03d79d")
--- setManifestid(2174441,"8769693135174844146")
+addappid(2174441, 1, "20255d51ec3458f538ede968abf6ab66344a69e8bd642a2280168d73ce03d79d")

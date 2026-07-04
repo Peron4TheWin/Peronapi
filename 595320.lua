@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Polterheist
 addappid(595320)
-addappid(595321,0,"f09d5c11d7fd08923c681903dadc1f2d14596082579b2d9cbe4f5b159553fd5e")
--- setManifestid(595321,"5911163738604201892")
+addappid(595321, 1, "f09d5c11d7fd08923c681903dadc1f2d14596082579b2d9cbe4f5b159553fd5e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hot & Lewd: Miami
 addappid(2998880)
-addappid(2998881,0,"9ce05364592e2d5e03413ce4dd777eca4473cbc3eb5126626d1b203ad0f07c7c")
--- setManifestid(2998881,"4602314576459590575")
+addappid(2998881, 1, "9ce05364592e2d5e03413ce4dd777eca4473cbc3eb5126626d1b203ad0f07c7c")

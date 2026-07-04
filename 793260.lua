@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Army of Squirrels
 addappid(793260)
-addappid(793261,0,"3161d21cdc3007e8706d682d7c891c6df9b23549e58eb3f385737740c76e2bfd")
--- setManifestid(793261,"97947312750283360")
+addappid(793261, 1, "3161d21cdc3007e8706d682d7c891c6df9b23549e58eb3f385737740c76e2bfd")

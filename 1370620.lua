@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zodiac Girls
 addappid(1370620)
-addappid(1370621,0,"c79542921325dfecba698dea564baf1c72d99833cae6d19998bf0aba733b0029")
--- setManifestid(1370621,"2326414645178279174")
+addappid(1370621, 1, "c79542921325dfecba698dea564baf1c72d99833cae6d19998bf0aba733b0029")

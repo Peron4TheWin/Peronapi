@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Only Up !
 addappid(2842590)
-addappid(2842591,0,"e469650c8f4d077de08e2a218951bbcb3fc2f6f7c727bb4ab684816c214905ee")
--- setManifestid(2842591,"4623758129070527790")
+addappid(2842591, 1, "e469650c8f4d077de08e2a218951bbcb3fc2f6f7c727bb4ab684816c214905ee")

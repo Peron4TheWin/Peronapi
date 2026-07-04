@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Poly Jigsaw: Butterflies
 addappid(2375560)
-addappid(2375561,0,"e001aeed572131d2740045c404cbba0723e54b5d77b49c37135a79196455ba6f")
--- setManifestid(2375561,"5560378915591805662")
+addappid(2375561, 1, "e001aeed572131d2740045c404cbba0723e54b5d77b49c37135a79196455ba6f")

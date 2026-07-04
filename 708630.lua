@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little Adventurer II
 addappid(708630)
-addappid(708631,0,"db19c8fd6a474e3706572d583436f1c81ef06aafb985030116a97eeb2d514e03")
--- setManifestid(708631,"3367414389695549930")
+addappid(708631, 1, "db19c8fd6a474e3706572d583436f1c81ef06aafb985030116a97eeb2d514e03")

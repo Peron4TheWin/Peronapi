@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Dragonero
 addappid(2532770)
-addappid(2532771,0,"d706640166d660c5c3a5ca123aa5384aaf1788a0e317130b6b1ce404cedd00eb")
--- setManifestid(2532771,"7882264964921079743")
+addappid(2532771, 1, "d706640166d660c5c3a5ca123aa5384aaf1788a0e317130b6b1ce404cedd00eb")
+addappid(3238570)

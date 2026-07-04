@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AKER FERN - Visual Novel
 addappid(1344840)
-addappid(1344841,0,"529c1019e25647f1d0e3ba1592faea2ce89ed88e06c4563fe26960fcbab7f1a7")
--- setManifestid(1344841,"8207355754852620666")
+addappid(1344841, 1, "529c1019e25647f1d0e3ba1592faea2ce89ed88e06c4563fe26960fcbab7f1a7")

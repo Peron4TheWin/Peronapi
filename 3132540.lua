@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fuga: Melodies of Steel (Manga) Vol. 1
 addappid(3132540)
-addappid(3132541,0,"cd3e495999f321353088138a8cf9e06764182c642ce8ad1bc3036e2c9e99cc40")
--- setManifestid(3132541,"781185304898532365")
+addappid(3132541, 1, "cd3e495999f321353088138a8cf9e06764182c642ce8ad1bc3036e2c9e99cc40")

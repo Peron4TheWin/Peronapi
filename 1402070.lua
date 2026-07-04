@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SOK PRO Demo
 addappid(1402070)
-addappid(1402071,0,"5c11d1a0915cea0c55424f89aa0ecd53d51288d743e5260e537c498370e8eb96")
--- setManifestid(1402071,"841461275351466612")
+addappid(1402071, 1, "5c11d1a0915cea0c55424f89aa0ecd53d51288d743e5260e537c498370e8eb96")

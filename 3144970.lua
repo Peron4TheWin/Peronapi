@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: МЕМОЛОГИЯ: ЕГЭ ПО МЕМАМ Demo
 addappid(3144970)
-addappid(3144971,0,"4dbca7eafe87c5621d2c1159dd35ff6c7bad3d69aec23564ed1ddc3c7baa1aab")
--- setManifestid(3144971,"5914197088292010012")
+addappid(3144971, 1, "4dbca7eafe87c5621d2c1159dd35ff6c7bad3d69aec23564ed1ddc3c7baa1aab")

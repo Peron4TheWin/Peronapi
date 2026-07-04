@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Broken Sword 3 - the Sleeping Dragon (2003)
 addappid(33610)
-addappid(33611,0,"b63689e558ba8a1bb31130cef59669bf26e259b4790a57cc1562b67983774b4a")
+addappid(33611, 1, "b63689e558ba8a1bb31130cef59669bf26e259b4790a57cc1562b67983774b4a")

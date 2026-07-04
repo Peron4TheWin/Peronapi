@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Journey of the Fox
 addappid(849880)
-addappid(849881,0,"37e327a02a553179aab1c0d8de7935d156d8aa015b279301411146b5e3252ae2")
--- setManifestid(849881,"2283181050025440118")
+addappid(849881, 1, "37e327a02a553179aab1c0d8de7935d156d8aa015b279301411146b5e3252ae2")

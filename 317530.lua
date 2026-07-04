@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Congo
 addappid(317530)
-addappid(317531,0,"8f4b965cbdc8d513ed999d20ef150ce32ac59000d6a3c6e1ceebfaa37240a60c")
--- setManifestid(317531,"6478914428997538826")
+addappid(317531, 1, "8f4b965cbdc8d513ed999d20ef150ce32ac59000d6a3c6e1ceebfaa37240a60c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Promise Best Left Unkept
 addappid(2219000)
-addappid(2219001,0,"38e570b65bae7fd172f56d7cc23ce824736c6137580ef5a8630b23f1b699b2ed")
--- setManifestid(2219001,"8424534591437349317")
+addappid(2219001, 1, "38e570b65bae7fd172f56d7cc23ce824736c6137580ef5a8630b23f1b699b2ed")

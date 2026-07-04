@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Expeditions: Rome
 addappid(987840)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(987841,0,"14094ec59b39c55320b51fb59cea528683b720fd8402f74240da964dd3270f2d")
---setManifestid(987841,"7123983890343494925")
+addappid(987841, 1, "14094ec59b39c55320b51fb59cea528683b720fd8402f74240da964dd3270f2d")

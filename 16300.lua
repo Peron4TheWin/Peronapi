@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Everyday Shooter
 addappid(16300)
-addappid(16301,0,"2d449301f83a0030eb8c56a9d7dc61234e5bcd98b6f643578683cc937b93ee22")
--- setManifestid(16301,"5806325347222740811")
+addappid(16301, 1, "2d449301f83a0030eb8c56a9d7dc61234e5bcd98b6f643578683cc937b93ee22")

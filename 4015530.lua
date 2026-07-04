@@ -1,3 +1,4 @@
-addappid(4015530)
-addappid(4015531,0,"b560c7cd9497b0a08b869cd05ee3314e848c16967d2389b02efb45d57a112ff4")
---setManifestid(4015531,"2080051816750499532")
+-- Lua provided by SkyAPI 
+-- Game: MyVoiceZoo
+addappid(4015530)
+addappid(4015531, 1, "b560c7cd9497b0a08b869cd05ee3314e848c16967d2389b02efb45d57a112ff4")

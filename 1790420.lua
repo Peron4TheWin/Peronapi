@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystery Coin
 addappid(1790420)
-addappid(1790421,0,"4c10d421a33ff5cafe02771cef68080172bb71c1b1c6b611943ca3f5c0c2b5fa")
--- setManifestid(1790421,"4012284062248481225")
+addappid(1790421, 1, "4c10d421a33ff5cafe02771cef68080172bb71c1b1c6b611943ca3f5c0c2b5fa")

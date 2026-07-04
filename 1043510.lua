@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Hotdog Man
 addappid(1043510)
-addappid(1043511,0,"1c4d012d9df6e1817ac35f1864db5108e89ac36ccaf11ad3c0d6026bd50a9b6c")
--- setManifestid(1043511,"7420680778496905513")
+addappid(1043511, 1, "1c4d012d9df6e1817ac35f1864db5108e89ac36ccaf11ad3c0d6026bd50a9b6c")
+addappid(1115120)

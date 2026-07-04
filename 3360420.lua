@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Evil World HOPSCA
 addappid(3360420)
-addappid(3360421,0,"2e74f01ac557dcf39913d2d8ca36303e3ffa9167b302e64782ec2ed1597cfd22")
--- setManifestid(3360421,"7656534089773328612")
+addappid(3360421, 1, "2e74f01ac557dcf39913d2d8ca36303e3ffa9167b302e64782ec2ed1597cfd22")

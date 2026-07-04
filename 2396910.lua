@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 吞食天地2：誕生Reborn
 addappid(2396910)
-addappid(2396911,0,"7e5367783cda8232327ba6448bafc4480bb83971eadbdf88ef38afdd76e4d0ec")
--- setManifestid(2396911,"8046198542450122762")
+addappid(2396911, 1, "7e5367783cda8232327ba6448bafc4480bb83971eadbdf88ef38afdd76e4d0ec")

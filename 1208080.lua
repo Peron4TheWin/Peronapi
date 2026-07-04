@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Cable Guardian
 addappid(1208080)
-addappid(1208081,0,"a6deef6ad49edeb82825a6b3f259b4c092adcec81ff2c30b6d2d68c62da8461f")
--- setManifestid(1208081,"2878339086859533304")
+addappid(1208081, 1, "a6deef6ad49edeb82825a6b3f259b4c092adcec81ff2c30b6d2d68c62da8461f")
+addappid(1261250)

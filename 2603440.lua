@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: V-Girl Neighbor Chloe
 addappid(2603440)
-addappid(2603441,0,"bf8628f46ec16d51f600399fa38540de4001fc32dfec27d2caa5e5f285608391")
--- setManifestid(2603441,"6016895452627968247")
+addappid(2603441, 1, "bf8628f46ec16d51f600399fa38540de4001fc32dfec27d2caa5e5f285608391")

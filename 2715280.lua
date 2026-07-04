@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meet Your Oshi
 addappid(2715280)
-addappid(2715281,0,"b39fb225fbe671c3d1f200d447156e553b91dc094cd6225080d6d7270cad1a12")
--- setManifestid(2715281,"6713255779746046859")
+addappid(2715281, 1, "b39fb225fbe671c3d1f200d447156e553b91dc094cd6225080d6d7270cad1a12")

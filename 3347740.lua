@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Adventure With Succubus Demo
 addappid(3347740)
-addappid(3347741,0,"e43c3ab635c202446fa16f7927c955e7385069cc7e41c544ae196655a51df064")
--- setManifestid(3347741,"195742023178021330")
+addappid(3347741, 1, "e43c3ab635c202446fa16f7927c955e7385069cc7e41c544ae196655a51df064")

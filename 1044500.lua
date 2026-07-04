@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Girls
 addappid(1044500)
-addappid(1044501,0,"ac0863c5018121a11649b2f03641151bf79868a88d8e35ebbd7a1c6b5bdb0129")
--- setManifestid(1044501,"5426507132660310683")
+addappid(1044501, 1, "ac0863c5018121a11649b2f03641151bf79868a88d8e35ebbd7a1c6b5bdb0129")
+addappid(1099620)

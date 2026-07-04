@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heróis de Noname - Acesso Antecipado
 addappid(2427310)
-addappid(2427311,0,"e20920a0a6f244bcac404051ba05cba7177e2170e0129ae355d10ba5fc211374")
--- setManifestid(2427311,"4425152522039370527")
+addappid(2427311, 1, "e20920a0a6f244bcac404051ba05cba7177e2170e0129ae355d10ba5fc211374")

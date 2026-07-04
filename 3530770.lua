@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster City: A Monster College Story
 addappid(3530770)
-addappid(3530771,0,"83553cd2e6d4841db3948fdeed43718e46a19a14e601ca1c49c4f6525d33d159")
--- setManifestid(3530771,"4923797620471922199")
+addappid(3530771, 1, "83553cd2e6d4841db3948fdeed43718e46a19a14e601ca1c49c4f6525d33d159")

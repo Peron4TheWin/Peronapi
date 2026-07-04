@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Tales: C-D Girls
 addappid(3561560)
-addappid(3561561,0,"e2de701abdd7834be75417741ca5ec426218bf90213d618be007434d84c718c7")
--- setManifestid(3561561,"6664034547554161853")
+addappid(3561561, 1, "e2de701abdd7834be75417741ca5ec426218bf90213d618be007434d84c718c7")

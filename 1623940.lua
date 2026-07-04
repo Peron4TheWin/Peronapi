@@ -1,9 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bramble: The Mountain King
 addappid(1623940)
-addappid(229007)
--- setManifestid(229007,"4477590687906973371")
-addappid(229020)
--- setManifestid(229020,"5799761707845834510")
-addappid(229030)
--- setManifestid(229030,"1043465440436835055")
-addappid(1623941,0,"ecbb0a11ee67b804985728a61d9c2271c604efcf6346f846bbc171060a71f0b8")
--- setManifestid(1623941,"3023921532771426210")
+addappid(1623941, 1, "ecbb0a11ee67b804985728a61d9c2271c604efcf6346f846bbc171060a71f0b8")

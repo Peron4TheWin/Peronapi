@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Friendship Club
 addappid(332760)
-addappid(332761,0,"3de3a372937c0748884f8e386fa09c97a266b1fba7409d922381798b2d31adc3")
--- setManifestid(332761,"2410789049405293859")
+addappid(332761, 1, "3de3a372937c0748884f8e386fa09c97a266b1fba7409d922381798b2d31adc3")

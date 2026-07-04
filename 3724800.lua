@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Shift
 addappid(3724800)
-addappid(3724801,0,"76500ffccea2445ac8e3a690dd30117a232d8d5e6b30b63dd3a13f2ae812fc32")
--- setManifestid(3724801,"3569696860396961590")
+addappid(3724801, 1, "76500ffccea2445ac8e3a690dd30117a232d8d5e6b30b63dd3a13f2ae812fc32")

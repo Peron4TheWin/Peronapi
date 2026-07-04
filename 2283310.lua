@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TAL: Arctic 5
 addappid(2283310)
-addappid(2283311,0,"1965ee8973c1bbcb2e66efd3bfa3b08bc6e52f8943909fadb29783e4b391cf39")
--- setManifestid(2283311,"3690191026338034443")
+addappid(2283311, 1, "1965ee8973c1bbcb2e66efd3bfa3b08bc6e52f8943909fadb29783e4b391cf39")

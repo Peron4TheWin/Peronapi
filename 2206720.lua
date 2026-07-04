@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lab Inspect
 addappid(2206720)
-addappid(2206721,0,"1bf0624c70975b71be4c0f6b4e82e9ada7e15e615732f97f15be5e0ace91fabb")
--- setManifestid(2206721,"6211280004626294761")
+addappid(2206721, 1, "1bf0624c70975b71be4c0f6b4e82e9ada7e15e615732f97f15be5e0ace91fabb")

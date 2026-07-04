@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kate: Collateral Damage
 addappid(1623000)
-addappid(1623001,0,"e367e1f4c1010df9354f93e18dc5927dff5893ca8fa725bcd58151de7151144f")
--- setManifestid(1623001,"963184703264434840")
+addappid(1623001, 1, "e367e1f4c1010df9354f93e18dc5927dff5893ca8fa725bcd58151de7151144f")

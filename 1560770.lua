@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Tower of Waifus 2
 addappid(1560770)
-addappid(1560771,0,"3aa02449c5684f32c58b4adaa2a9637f6eef2cb6e120b14f1289a3cd7f4bb889")
--- setManifestid(1560771,"765749587980308625")
+addappid(1560771, 1, "3aa02449c5684f32c58b4adaa2a9637f6eef2cb6e120b14f1289a3cd7f4bb889")
+addappid(1639270)

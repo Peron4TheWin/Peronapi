@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DuneCrawl Demo
 addappid(3375100)
-addappid(3375101,0,"0d7a30fda3b53f4e86bd439fbb0fa712b8413ce6e7fc8f7324d6c2c17e389529")
--- setManifestid(3375101,"3417124344518305163")
+addappid(3375101, 1, "0d7a30fda3b53f4e86bd439fbb0fa712b8413ce6e7fc8f7324d6c2c17e389529")

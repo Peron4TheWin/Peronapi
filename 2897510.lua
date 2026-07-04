@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ココロシャッフル - Spirit Swap -
 addappid(2897510)
-addappid(2897511,0,"afa2b91bf743306bc3f7ff65e52ce43c4fad8ee95a190113653337b328828094")
--- setManifestid(2897511,"2354674674551643106")
+addappid(2897511, 1, "afa2b91bf743306bc3f7ff65e52ce43c4fad8ee95a190113653337b328828094")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yummy Girls
 addappid(2013420)
-addappid(2013421,0,"9c14cc1a8ae2a9b26a39db15e25354237ba74c65067cccfb029046f48ff44aeb")
--- setManifestid(2013421,"590351742749908889")
+addappid(2013421, 1, "9c14cc1a8ae2a9b26a39db15e25354237ba74c65067cccfb029046f48ff44aeb")

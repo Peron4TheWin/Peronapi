@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pirate Cove Simulator
 addappid(3290660)
-addappid(3290661,0,"55e9a0238f84b88383e27c1c39a916128f5c831dd45c20c22133f2b788b15f84")
--- setManifestid(3290661,"2976317368821452377")
+addappid(3290661, 1, "55e9a0238f84b88383e27c1c39a916128f5c831dd45c20c22133f2b788b15f84")

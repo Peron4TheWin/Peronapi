@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Street Hoop
 addappid(1189520)
-addappid(1189521,0,"5534bcd486ca6a07c1b471ee3ae608e23caaa11f47305af8b75e0dd5e4b261cf")
--- setManifestid(1189521,"4206655723075940256")
+addappid(1189521, 1, "5534bcd486ca6a07c1b471ee3ae608e23caaa11f47305af8b75e0dd5e4b261cf")

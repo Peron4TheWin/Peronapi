@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Legend of Dark Witch Renovation
 addappid(1160790)
-addappid(1160791,0,"563ba0e09bf2094ac91b72f06927bbeee4cc089c68dc371039c00f42d645cd60")
--- setManifestid(1160791,"6221617824620652375")
+addappid(1160791, 1, "563ba0e09bf2094ac91b72f06927bbeee4cc089c68dc371039c00f42d645cd60")

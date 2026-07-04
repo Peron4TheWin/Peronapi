@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Requiem
 addappid(1436210)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1436211,0,"e91dbeca7fa7f43858e1f475b2eb7586d4226834c5129deb90c785cc492e7fe5")
--- setManifestid(1436211,"1904554584923076089")
+addappid(1436211, 1, "e91dbeca7fa7f43858e1f475b2eb7586d4226834c5129deb90c785cc492e7fe5")

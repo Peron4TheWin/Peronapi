@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: E-Girl RoomMate
 addappid(2783560)
-addappid(2783561,0,"33795240e11a05d5cc67f26955f39d6cfc7f3205d51c235d4d2b8870069e643e")
--- setManifestid(2783561,"1937932322959561078")
+addappid(2783561, 1, "33795240e11a05d5cc67f26955f39d6cfc7f3205d51c235d4d2b8870069e643e")
+addappid(2882510)

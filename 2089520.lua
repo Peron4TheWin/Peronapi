@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reborn VR
 addappid(2089520)
-addappid(2089521,0,"e402ae06e826000029a04b6eb9c69186ebdea7357679a53d3a6a7982dda4c107")
--- setManifestid(2089521,"8971666456986059764")
+addappid(2089521, 1, "e402ae06e826000029a04b6eb9c69186ebdea7357679a53d3a6a7982dda4c107")

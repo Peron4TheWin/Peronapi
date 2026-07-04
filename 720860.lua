@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RAID: World War II Soundtrack
 addappid(720860)
-addappid(720861,0,"c36fe6f1ff1de1c920d44086427094c57e4b569881cf06ab4e9dd5acde452548")
--- setManifestid(720861,"2233576060323883982")
+addappid(720861, 1, "c36fe6f1ff1de1c920d44086427094c57e4b569881cf06ab4e9dd5acde452548")

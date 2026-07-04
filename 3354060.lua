@@ -1,9 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ELISSA ：Body in the bedroom Demo
 addappid(3354060)
-addappid(228981)
-addappid(228982)
-addappid(228983)
-addappid(228985)
-addappid(229007)
-addappid(229020)
-addappid(229030)
-addappid(3354061,0,"a9c03734077af28d62f47eb0bc4b7df1edc35418564fab5c08ade4f5ba7430d9")
+addappid(3354061, 1, "a9c03734077af28d62f47eb0bc4b7df1edc35418564fab5c08ade4f5ba7430d9")

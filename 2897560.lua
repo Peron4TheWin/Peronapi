@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 刷啊刷
 addappid(2897560)
-addappid(2897561,0,"4f6800e63cab91f63f375f7981ae5a70f796eb3f3ca4a624a41d7b15279d000a")
--- setManifestid(2897561,"375844443606526750")
+addappid(2897561, 1, "4f6800e63cab91f63f375f7981ae5a70f796eb3f3ca4a624a41d7b15279d000a")

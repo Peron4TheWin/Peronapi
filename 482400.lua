@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: System Shock
 addappid(482400)
-addappid(482401,0,"412c806b5c53587b7d89ead695e603da1e9d2d6bd7a3cc85e4387aa6f0565c23")
--- setManifestid(482401,"6364048025148953344")
+addappid(482401, 1, "412c806b5c53587b7d89ead695e603da1e9d2d6bd7a3cc85e4387aa6f0565c23")

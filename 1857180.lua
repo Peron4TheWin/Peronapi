@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Agony VR Demo
 addappid(1857180)
-addappid(1857181,0,"7633b403dffbe713f4252baedba34de6b5b0713d6bb9a0bc3a787ec147535576")
+addappid(1857181, 1, "7633b403dffbe713f4252baedba34de6b5b0713d6bb9a0bc3a787ec147535576")

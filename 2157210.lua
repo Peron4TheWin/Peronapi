@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dead of Darkness
 addappid(2157210)
-addappid(2157211,0,"b2d5c8830212525850d0f3e635e0cb30eca15d09382db6dec3063ef4d69742ae")
--- setManifestid(2157211,"4253008949161587405")
+addappid(2157211, 1, "b2d5c8830212525850d0f3e635e0cb30eca15d09382db6dec3063ef4d69742ae")

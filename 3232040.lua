@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BodyRecords
 addappid(3232040)
-addappid(3232041,0,"da1d750063dc152ed92f546b7e0fa06d9adb3944c4fa4b8797697e6f8e637f2d")
--- setManifestid(3232041,"7635449925138223101")
+addappid(3232041, 1, "da1d750063dc152ed92f546b7e0fa06d9adb3944c4fa4b8797697e6f8e637f2d")

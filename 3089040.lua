@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 泳装乱舞
 addappid(3089040)
-addappid(3089041,0,"c54caf9790efda2628041670f1070e1bb7498de219b5360742a0cea263b3ad46")
--- setManifestid(3089041,"2790123731696403759")
+addappid(3089041, 1, "c54caf9790efda2628041670f1070e1bb7498de219b5360742a0cea263b3ad46")

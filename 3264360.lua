@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Monster Ops 6
 addappid(3264360)
-addappid(3264361,0,"40d95016d42ca8e6b59ac6ca05667f8aa4ae09393d1300a166a2fb9d2c441f66")
--- setManifestid(3264361,"8260038627215751354")
+addappid(3264361, 1, "40d95016d42ca8e6b59ac6ca05667f8aa4ae09393d1300a166a2fb9d2c441f66")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sniper Wild West Shooting Simulator
 addappid(2565180)
-addappid(2565181,0,"6c35b313a04b2e5f7185c4940181a68a0ded12c640b17ecdb4658773401d860d")
--- setManifestid(2565181,"55725478703961674")
+addappid(2565181, 1, "6c35b313a04b2e5f7185c4940181a68a0ded12c640b17ecdb4658773401d860d")

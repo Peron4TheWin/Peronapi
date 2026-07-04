@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dreams Of Adventure
 addappid(1564840)
-addappid(1564841,0,"551efc3eae3ef8b21f62feac63bce428b5218822a6149b96061989d51f1f0472")
--- setManifestid(1564841,"5742387728789127121")
+addappid(1564841, 1, "551efc3eae3ef8b21f62feac63bce428b5218822a6149b96061989d51f1f0472")

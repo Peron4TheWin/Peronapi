@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CURSED NIGHT - The House
 addappid(1740570)
-addappid(1740571,0,"41f3abd9c1a9f194b05296e65992a0aea9de720fa3710a4267bc8df7ab866036")
--- setManifestid(1740571,"8207489714745367138")
+addappid(1740571, 1, "41f3abd9c1a9f194b05296e65992a0aea9de720fa3710a4267bc8df7ab866036")

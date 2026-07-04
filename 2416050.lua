@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cento
 addappid(2416050)
-addappid(2416051,0,"db9f67f3e1af4f8549a6f559de7d6de7818e453a17e44731d0c2f5148499a2f4")
--- setManifestid(2416051,"871157608034006520")
+addappid(2416051, 1, "db9f67f3e1af4f8549a6f559de7d6de7818e453a17e44731d0c2f5148499a2f4")

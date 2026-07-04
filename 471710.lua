@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rec Room
 addappid(471710)
--- setManifestid(228988,"6645201662696499616")
-addappid(471711,0,"34f5ec907095edfc605a68bb1ed56d6df884b1932fcbe7d2b26b91222384775e")
--- setManifestid(471711,"7050735886667230571")
+addappid(471711, 1, "34f5ec907095edfc605a68bb1ed56d6df884b1932fcbe7d2b26b91222384775e")

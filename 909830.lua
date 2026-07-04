@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Color by Number - Pixel Draw
 addappid(909830)
-addappid(909831,0,"dce5431697a0e142b3f16a6fcc174086d65238c74f1ccb9cec67d3878eca7a11")
--- setManifestid(909831,"2249787970788691053")
+addappid(909831, 1, "dce5431697a0e142b3f16a6fcc174086d65238c74f1ccb9cec67d3878eca7a11")
 addappid(918210)
 addappid(918290)
 addappid(924340)

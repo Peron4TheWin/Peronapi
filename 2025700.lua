@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fragile Feelings
 addappid(2025700)
-addappid(2025701,0,"480a9f11d3a51dc127deadfc2863f175189e65fdc1e5ed39f1372140c2dd8217")
--- setManifestid(2025701,"7957862502505106231")
+addappid(2025701, 1, "480a9f11d3a51dc127deadfc2863f175189e65fdc1e5ed39f1372140c2dd8217")

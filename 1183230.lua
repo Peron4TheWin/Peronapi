@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: A Pirate's Pleasure
 addappid(1183230)
-addappid(1183231,0,"7a1727db0be25108892839e9596e8e02036b86f2b04ddce223c3fdfb4a528e63")
--- setManifestid(1183231,"3642654130081944869")
+addappid(1183231, 1, "7a1727db0be25108892839e9596e8e02036b86f2b04ddce223c3fdfb4a528e63")
+addappid(1796460)

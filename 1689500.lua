@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dune: Imperium
 addappid(1689500)
-addappid(1689501,0,"3e373de600fd15359e36cc7c92050dce9e8395fc94d981e27f4d8ad79f168737")
--- setManifestid(1689501,"4685017678265555958")
+addappid(1689501, 1, "3e373de600fd15359e36cc7c92050dce9e8395fc94d981e27f4d8ad79f168737")

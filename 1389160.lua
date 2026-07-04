@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Fracture: Prologue
 addappid(1389160)
-addappid(1389161,0,"0de2238fa778251aa0ff453f730c48e369372ee80f1151c7f437e2884d34f261")
--- setManifestid(1389161,"8569343061057208656")
+addappid(1389161, 1, "0de2238fa778251aa0ff453f730c48e369372ee80f1151c7f437e2884d34f261")

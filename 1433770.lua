@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chesnakisnak
 addappid(1433770)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1433771,0,"1468d45ee9adafae6651a8ecb8b72f801149a22dec644e708e1237d42615e5e4")
--- setManifestid(1433771,"8137036874138343861")
+addappid(1433771, 1, "1468d45ee9adafae6651a8ecb8b72f801149a22dec644e708e1237d42615e5e4")

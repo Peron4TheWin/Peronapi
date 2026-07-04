@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backrooms: The Deep Dark
 addappid(3587260)
-addappid(3587261,0,"e4ab09e8b79b76f7a1bf9d97096306bacfbcc0249799901c628abe5b5b955b90")
--- setManifestid(3587261,"3521064873254890917")
+addappid(3587261, 1, "e4ab09e8b79b76f7a1bf9d97096306bacfbcc0249799901c628abe5b5b955b90")

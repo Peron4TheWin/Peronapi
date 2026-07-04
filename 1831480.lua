@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sandbox World
 addappid(1831480)
-addappid(1831481,0,"9b8d50d661b01fc940fe30df39ca6e2c929797453b55d07f574efff3570c8817")
+addappid(1831481, 1, "9b8d50d661b01fc940fe30df39ca6e2c929797453b55d07f574efff3570c8817")

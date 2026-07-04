@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Yars Rising
 addappid(2534370)
-addappid(2534371,0,"afe81b306f8b11d39a36bef2e54ffdca862afd8648b3adb02c60c4c1f661fc01")
--- setManifestid(2534371,"7226276057378443922")
+addappid(2534371, 1, "afe81b306f8b11d39a36bef2e54ffdca862afd8648b3adb02c60c4c1f661fc01")

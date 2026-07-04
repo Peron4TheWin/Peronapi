@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UNI
 addappid(1011300)
-addappid(1011301,0,"745b06ad37bf07447add7d2bff6808bca39c599a66a9227ed47cfd6f7616079e")
+addappid(1011301, 1, "745b06ad37bf07447add7d2bff6808bca39c599a66a9227ed47cfd6f7616079e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Erophone Re Soundtrack
 addappid(2447200)
-addappid(2447201,0,"150300dad9623e07faa62f7c28c216bf0cec785ba81d7ff15331ef6771488ed9")
--- setManifestid(2447201,"3628766013564953218")
+addappid(2447201, 1, "150300dad9623e07faa62f7c28c216bf0cec785ba81d7ff15331ef6771488ed9")

@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firescout
 addappid(1522010)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1522011,0,"e3daf35ce7dfb7b21484b50d3bae31ef9ebf0edbbd8b8daa406fe7e14801d6fc")
--- setManifestid(1522011,"3257847024730559490")
+addappid(1522011, 1, "e3daf35ce7dfb7b21484b50d3bae31ef9ebf0edbbd8b8daa406fe7e14801d6fc")

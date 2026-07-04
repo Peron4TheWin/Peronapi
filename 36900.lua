@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Angle of Attack
 addappid(36900)
-addappid(36901,0,"23ebbe1cb12478ce624544a59e0b3d9365ecbd672366e7deb19a4b084fc9a8ba")
--- setManifestid(36901,"8169854862430203268")
+addappid(36901, 1, "23ebbe1cb12478ce624544a59e0b3d9365ecbd672366e7deb19a4b084fc9a8ba")

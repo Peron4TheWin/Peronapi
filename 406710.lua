@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eclipse Edge of Light
 addappid(406710)
-addappid(406711,0,"248c6215fa56c7a2a52eb12eb25d14596a95b483c453520f876576cbe1496872")
--- setManifestid(406711,"5693105336733346606")
+addappid(406711, 1, "248c6215fa56c7a2a52eb12eb25d14596a95b483c453520f876576cbe1496872")

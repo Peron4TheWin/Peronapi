@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jungle Rumble
 addappid(1608210)
-addappid(1608211,0,"057fc3dfe00b8448cfdfdc0a1203216a83ded1d31c2a6acb02687436ff786797")
--- setManifestid(1608211,"3509260315892493262")
+addappid(1608211, 1, "057fc3dfe00b8448cfdfdc0a1203216a83ded1d31c2a6acb02687436ff786797")

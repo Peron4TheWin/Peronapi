@@ -1,9 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Darkness Within 2: The Dark Lineage
 addappid(298950)
-addappid(228985)
--- setManifestid(228985,"3966345552745568756")
-addappid(229032)
--- setManifestid(229032,"3616495131483866412")
-addappid(298951,0,"922ae44b61f249537d1869d180edbb91e460e41cac58dff32b6f337dca9e3b4a")
--- setManifestid(298951,"7117082515151925229")
-addappid(298952,0,"fc03d600a366df6638f81af0cf86c4b6f62afe4e9ca772be9545b0bdc3dee86e")
--- setManifestid(298952,"425252963337920395")
+addappid(298951, 1, "922ae44b61f249537d1869d180edbb91e460e41cac58dff32b6f337dca9e3b4a")
+addappid(414640)

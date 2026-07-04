@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ropebound
 addappid(3346790)
-addappid(3346791,0,"5a2e2c3df1367dafd93203710eda0c53a37d2be47d2a5e97c63ff7bb1f3d5cbc")
--- setManifestid(3346791,"3290011131969301360")
+addappid(3346791, 1, "5a2e2c3df1367dafd93203710eda0c53a37d2be47d2a5e97c63ff7bb1f3d5cbc")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Sky Soundtrack
 addappid(3215890)
-addappid(3215891,0,"51b39c6c427c20a14fa2bc9ad428f6dd63320e9ac114cb1c00d43b61231633dd")
+addappid(3215891, 1, "51b39c6c427c20a14fa2bc9ad428f6dd63320e9ac114cb1c00d43b61231633dd")

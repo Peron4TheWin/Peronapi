@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pizza Tower
 addappid(2231450)
-addappid(2231451,0,"04bf341f26f9a9b6cc4da858ea57d362a95437570d05b354ac0aff84ffbb243e")
+addappid(2231451, 1, "04bf341f26f9a9b6cc4da858ea57d362a95437570d05b354ac0aff84ffbb243e")

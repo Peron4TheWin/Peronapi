@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Canyon of Outlaws
 addappid(3688480)
-addappid(3688481,0,"a8cc226bf952564d66ff33fa9facafd762e8e649abe71a1f0931627782bc582f")
--- setManifestid(3688481,"7417821976157692846")
+addappid(3688481, 1, "a8cc226bf952564d66ff33fa9facafd762e8e649abe71a1f0931627782bc582f")

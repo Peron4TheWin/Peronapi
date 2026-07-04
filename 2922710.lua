@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Beneath the Cardboard: Be Happy
 addappid(2922710)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2922711,0,"8e0ff6b5b05bf6bf0f092b9b832732d368a2e7ea02db9f0e033b13969a245ceb")
--- setManifestid(2922711,"956172299109148513")
+addappid(2922711, 1, "8e0ff6b5b05bf6bf0f092b9b832732d368a2e7ea02db9f0e033b13969a245ceb")

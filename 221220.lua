@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: iPi Recorder 2
 addappid(221220)
-addappid(221221,0,"02f6b8fd67d444125f5997c62f3908d216b1a69ac106b51e6f95890ca54e8d6d")
--- setManifestid(221221,"4568322809366397972")
+addappid(221221, 1, "02f6b8fd67d444125f5997c62f3908d216b1a69ac106b51e6f95890ca54e8d6d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Logic Town
 addappid(2333240)
-addappid(2333241,0,"5067770f6ae0f95c9b6c031d5ad2f54990ead17f61f6c919f622bcbe401fd9af")
--- setManifestid(2333241,"3210961986030950043")
+addappid(2333241, 1, "5067770f6ae0f95c9b6c031d5ad2f54990ead17f61f6c919f622bcbe401fd9af")

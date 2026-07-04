@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Karters 2: Turbo Charged - Prologue
 addappid(2506950)
-addappid(2506951,0,"73c95f4c2a6df71fd6ed6c14fe6f571c3af75368b7a030bd5b73200476f2196a")
--- setManifestid(2506951,"1434620506544545573")
+addappid(2506951, 1, "73c95f4c2a6df71fd6ed6c14fe6f571c3af75368b7a030bd5b73200476f2196a")

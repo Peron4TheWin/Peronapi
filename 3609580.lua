@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 怪物塔 Monster Tower
 addappid(3609580)
-addappid(3609581,0,"b6dd201b6e9841ad6ee0b5a7f2d0b64b2065e1dba1681cc2dd75405606fca678")
--- setManifestid(3609581,"6212390242812891996")
+addappid(3609581, 1, "b6dd201b6e9841ad6ee0b5a7f2d0b64b2065e1dba1681cc2dd75405606fca678")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Midnight Heist Demo
 addappid(2453330)
-addappid(2453331,0,"c8c54f2a4942b0d7ac4a815f17b0fa7d1aaa4cc3c0cac3cb0279e0d404f4580e")
--- setManifestid(2453331,"8158229837586617036")
+addappid(2453331, 1, "c8c54f2a4942b0d7ac4a815f17b0fa7d1aaa4cc3c0cac3cb0279e0d404f4580e")

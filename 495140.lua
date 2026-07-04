@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NARUTO: Ultimate Ninja STORM
 addappid(495140)
-addappid(495141,0,"78542431af43146b9f53910d3bf2450a1cebf5ce5166f7d05cf474135be186ea")
--- setManifestid(495141,"8686507798773437685")
+addappid(495141, 1, "78542431af43146b9f53910d3bf2450a1cebf5ce5166f7d05cf474135be186ea")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Taxi
 addappid(315550)
-addappid(315551,0,"5bae8678a80701fb711f9abb61b866323c38d9ba7f93f669b59532f3e47a45e5")
--- setManifestid(315551,"251743525087915510")
+addappid(315551, 1, "5bae8678a80701fb711f9abb61b866323c38d9ba7f93f669b59532f3e47a45e5")

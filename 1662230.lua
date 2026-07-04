@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cowboy Life Simulator: Prologue
 addappid(1662230)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1662231,0,"befd9f4ceb4a05493156e2107de2a4abd12fbb1e92b9365baca6dce1b8785d0c")
--- setManifestid(1662231,"9046631230445956019")
+addappid(1662231, 1, "befd9f4ceb4a05493156e2107de2a4abd12fbb1e92b9365baca6dce1b8785d0c")

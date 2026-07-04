@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Oirbo
 addappid(1074280)
-addappid(1074281,0,"73674bee51f88f7ffb06f3ba7562c5eecef1e1421718ec8431d1475b7123d503")
--- setManifestid(1074281,"6582581575037414954")
+addappid(1074281, 1, "73674bee51f88f7ffb06f3ba7562c5eecef1e1421718ec8431d1475b7123d503")

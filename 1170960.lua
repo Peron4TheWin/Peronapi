@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Eye of Borrack
 addappid(1170960)
-addappid(1170961,0,"d41ef4700afbc838217a61f750d0fb406cd73fe50dc196a2cca843a521b6be4b")
--- setManifestid(1170961,"7421576722187789553")
+addappid(1170961, 1, "d41ef4700afbc838217a61f750d0fb406cd73fe50dc196a2cca843a521b6be4b")
+addappid(1495590)

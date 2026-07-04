@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 徹夜報告書 | Midnight Report
 addappid(2054060)
-addappid(2054061,0,"c27f24ac9482728cd91e86a8e427c5b2a5ea02be01dfb53cdc24ee9caccd15b4")
+addappid(2054061, 1, "c27f24ac9482728cd91e86a8e427c5b2a5ea02be01dfb53cdc24ee9caccd15b4")

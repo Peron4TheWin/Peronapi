@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Backpack Boy Demo
 addappid(3121480)
-addappid(3121481,0,"2b2d721d89d10805a1d17d602a13958cd20ca3cc1371b5774fb81f3f349aa7fc")
--- setManifestid(3121481,"5181323246838220350")
+addappid(3121481, 1, "2b2d721d89d10805a1d17d602a13958cd20ca3cc1371b5774fb81f3f349aa7fc")

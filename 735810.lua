@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyber Surf
 addappid(735810)
-addappid(735811,0,"4f4d58aec8b108fe6cbc2a6f7daa7c398ed0c7666f07c9eb8f1f943cb70910f1")
--- setManifestid(735811,"4034424413981304955")
+addappid(735811, 1, "4f4d58aec8b108fe6cbc2a6f7daa7c398ed0c7666f07c9eb8f1f943cb70910f1")

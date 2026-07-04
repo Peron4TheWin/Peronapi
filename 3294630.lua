@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Racer Car Shop Simulator
 addappid(3294630)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3294631,0,"bae17913ba1b92736a15c90428e10ad5d2b8e262defb11dd76307547f63dbdd7")
--- setManifestid(3294631,"4080334109453688590")
+addappid(3294631, 1, "bae17913ba1b92736a15c90428e10ad5d2b8e262defb11dd76307547f63dbdd7")

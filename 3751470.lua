@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neon Warfield
 addappid(3751470)
-addappid(3751471,0,"6690df52fe82278e5bc7e246c6ddfa553e0d0f1ae67df864ea1fb2647d82f9be")
--- setManifestid(3751471,"1457748280604057518")
+addappid(3751471, 1, "6690df52fe82278e5bc7e246c6ddfa553e0d0f1ae67df864ea1fb2647d82f9be")

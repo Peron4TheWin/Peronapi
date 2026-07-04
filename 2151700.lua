@@ -1,2 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Yokai's Wish
 addappid(2151700)
-addappid(2151701,0,"a95706090534e6469528ecf5bb762a89c3b771716ae52d059d3f3adf09f6a83f")
+addappid(2151701, 1, "a95706090534e6469528ecf5bb762a89c3b771716ae52d059d3f3adf09f6a83f")
+addappid(2201120)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FREAKOUT
 addappid(1334110)
-addappid(1334111,0,"f037c5917c05bd1798914c7cf48c7378c9d92d4605b0b729fafc9227f268cc8f")
--- setManifestid(1334111,"6547802282707317022")
+addappid(1334111, 1, "f037c5917c05bd1798914c7cf48c7378c9d92d4605b0b729fafc9227f268cc8f")

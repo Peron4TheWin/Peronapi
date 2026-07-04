@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY VII REMAKE Original Soundtrack Plus
 addappid(3365670)
-addappid(3365671,0,"87bf49cbb0d9a54f8b064181471f67550cf246c1715f6e484f169d68df01d6be")
--- setManifestid(3365671,"5317826766882873609")
+addappid(3365671, 1, "87bf49cbb0d9a54f8b064181471f67550cf246c1715f6e484f169d68df01d6be")

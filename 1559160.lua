@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: VR Hentai 18+
 addappid(1559160)
-addappid(1559161,0,"0e0f3ba374e9b815ad1ebebd214f635d1b992a340a30a8c672e5fc4ef8403202")
--- setManifestid(1559161,"3703256815799719184")
-addappid(1559162)
+addappid(1559161, 1, "0e0f3ba374e9b815ad1ebebd214f635d1b992a340a30a8c672e5fc4ef8403202")
+addappid(1563810)

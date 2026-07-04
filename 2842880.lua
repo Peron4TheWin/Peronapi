@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vox Populi: Europa 2024
 addappid(2842880)
-addappid(2842881,0,"37d85451358983bc917f6caee4c46c1effb3398348bd057458cf2f95481907f9")
--- setManifestid(2842881,"1262711851452071324")
+addappid(2842881, 1, "37d85451358983bc917f6caee4c46c1effb3398348bd057458cf2f95481907f9")

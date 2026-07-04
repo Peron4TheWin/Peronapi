@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HENTAI 18+
 addappid(2550030)
-addappid(2550031,0,"50d2eb90c3cdf16f30f5cd834d5f255ca9980eabf49ef5ef3edcb042bacc7c9f")
--- setManifestid(2550031,"9138616119284617243")
+addappid(2550031, 1, "50d2eb90c3cdf16f30f5cd834d5f255ca9980eabf49ef5ef3edcb042bacc7c9f")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Pet Chan
 addappid(1200910)
-addappid(1200911,0,"50439ff69584e2cda7aba474a4918d0c359c311efdc24dbdda962fcd688238df")
--- setManifestid(1200911,"2978582983962024176")
+addappid(1200911, 1, "50439ff69584e2cda7aba474a4918d0c359c311efdc24dbdda962fcd688238df")
+addappid(1201970)

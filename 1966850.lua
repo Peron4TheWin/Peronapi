@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: DEEP 8 Soundtrack
 addappid(1966850)
-addappid(1966851,0,"fed862fff9c520a6d1464be1c32f89b5cff5b1a40ab250e58b228d5fdbf598da")
--- setManifestid(1966851,"4474677218809454725")
+addappid(1966851, 1, "fed862fff9c520a6d1464be1c32f89b5cff5b1a40ab250e58b228d5fdbf598da")

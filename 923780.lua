@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Project Cybertronic
 addappid(923780)
-addappid(923781,0,"6b2cb866d1a16b5d6fe516d7bfac50917854d4ed08cb3b51f7a900a8c0a7f754")
--- setManifestid(923781,"5490527859980838488")
+addappid(923781, 1, "6b2cb866d1a16b5d6fe516d7bfac50917854d4ed08cb3b51f7a900a8c0a7f754")

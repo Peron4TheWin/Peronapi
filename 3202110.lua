@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Deadly Heart Gambit
 addappid(3202110)
-addappid(3202111,0,"49e5cab226d156cbc74eb84e80c3e1d6c1b0f84fe672bf20fd1a93acda0ed13f")
--- setManifestid(3202111,"795866947606312135")
+addappid(3202111, 1, "49e5cab226d156cbc74eb84e80c3e1d6c1b0f84fe672bf20fd1a93acda0ed13f")

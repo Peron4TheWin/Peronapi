@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Grimace Run
 addappid(1412820)
-addappid(1412821,0,"6cc387b419a62213c8e4d3ea68b491976474c31c87b2652bd4c4e93325fb4de1")
--- setManifestid(1412821,"1613274224487689344")
+addappid(1412821, 1, "6cc387b419a62213c8e4d3ea68b491976474c31c87b2652bd4c4e93325fb4de1")

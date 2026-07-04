@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Silk Roads: Caravan Kings
 addappid(1401840)
-addappid(1401841,0,"fcf5e976a1f7d8ce28dac308004ed5a516cee63341e7b3165185c281c010b735")
--- setManifestid(1401841,"3603019469787397156")
+addappid(1401841, 1, "fcf5e976a1f7d8ce28dac308004ed5a516cee63341e7b3165185c281c010b735")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: We Were Here Expeditions: The FriendShip
 addappid(2296990)
-addappid(2296991,0,"27bc64e8bc9748cccd892ab3401ed3c2e01b42aa7b496e9c0dd6ff0e06406f4c")
---setManifestid(2296991,"1708125293676376698")
+addappid(2296991, 1, "27bc64e8bc9748cccd892ab3401ed3c2e01b42aa7b496e9c0dd6ff0e06406f4c")

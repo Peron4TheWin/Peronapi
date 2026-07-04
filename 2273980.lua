@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Orcs Must Die! Deathtrap
 addappid(2273980)
-addappid(228989)
-addappid(228990)
-addappid(2273981,0,"179ec5c394c5940b45918894a57184084765edbab18b181584b305b0e9d917a7")
+addappid(2273981, 1, "179ec5c394c5940b45918894a57184084765edbab18b181584b305b0e9d917a7")

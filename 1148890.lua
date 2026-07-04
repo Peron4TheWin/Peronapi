@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Protect the campus
 addappid(1148890)
-addappid(1148891,0,"b3e191c4bd512a65784585edafb19422c134f0175e2425259acf4fcc97028221")
--- setManifestid(1148891,"5387941130443972056")
+addappid(1148891, 1, "b3e191c4bd512a65784585edafb19422c134f0175e2425259acf4fcc97028221")

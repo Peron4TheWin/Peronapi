@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VARIANTBIRTH
 addappid(3756360)
-addappid(3756361,0,"9f1f8e0ee887f627e7a242f1af9d7aebb0e5f012926ac48821650202bf752ac0")
--- setManifestid(3756361,"7709897400118796738")
+addappid(3756361, 1, "9f1f8e0ee887f627e7a242f1af9d7aebb0e5f012926ac48821650202bf752ac0")

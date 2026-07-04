@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Headbangers: Rhythm Royale - The Crumbs Compilation Soundtrack
 addappid(2624920)
-addappid(2624921,0,"7c067eb22e983a5226945cf8f30f43a6bce1dbc9608e7392f1c90874946ea0a8")
--- setManifestid(2624921,"4187395504375928873")
+addappid(2624921, 1, "7c067eb22e983a5226945cf8f30f43a6bce1dbc9608e7392f1c90874946ea0a8")

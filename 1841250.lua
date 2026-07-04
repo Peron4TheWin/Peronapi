@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hard Times at Sequoia State Park
 addappid(1841250)
-addappid(1841251,0,"9669107e4c5eb07059b9863a38d2cc73786d596021b24712840b893fd6e76b63")
--- setManifestid(1841251,"785666830188446435")
+addappid(1841251, 1, "9669107e4c5eb07059b9863a38d2cc73786d596021b24712840b893fd6e76b63")

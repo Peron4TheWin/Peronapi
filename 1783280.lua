@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghostlore
 addappid(1783280)
-addappid(1783281,0,"0d1ead4cea09777b847e74d2023f5cdaa28eb5b0ea6a0c85245014f7dbd521aa")
--- setManifestid(1783281,"6279918880485809476")
+addappid(1783281, 1, "0d1ead4cea09777b847e74d2023f5cdaa28eb5b0ea6a0c85245014f7dbd521aa")
+addappid(3204010)

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Makeover Desire - HENSHIN GANBO
 addappid(1053270)
--- setManifestid(228986,"8782296191957114623")
-addappid(1053271,0,"faba87ec2d7ef411362447451d4530df929cae10958d2c55a7692a69c6312a86")
--- setManifestid(1053271,"2355411317610038135")
+addappid(1053271, 1, "faba87ec2d7ef411362447451d4530df929cae10958d2c55a7692a69c6312a86")

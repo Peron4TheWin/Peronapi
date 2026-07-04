@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Furry Sex: Poker 🃏♥️
 addappid(2090150)
-addappid(2090151,0,"4e61c24a9110bae634bca3f2f81be4e728c301ded56c226bf0ccd5b6b7e9420f")
--- setManifestid(2090151,"2623345371887369660")
+addappid(2090151, 1, "4e61c24a9110bae634bca3f2f81be4e728c301ded56c226bf0ccd5b6b7e9420f")

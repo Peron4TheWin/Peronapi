@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cruise Ship Manager Demo
 addappid(2141190)
-addappid(2141191,0,"6ef58f8b08f23a344f1850ddb9d2d6402385702851437a333073ddaad5d49db3")
--- setManifestid(2141191,"6410614945379474371")
+addappid(2141191, 1, "6ef58f8b08f23a344f1850ddb9d2d6402385702851437a333073ddaad5d49db3")

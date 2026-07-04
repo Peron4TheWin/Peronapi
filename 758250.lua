@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Taste of Power
 addappid(758250)
-addappid(758251,0,"3dc4fe903e8bb0fe0428657745ff227bbc1d4141db1775f9e4fb12e8559cf7be")
+addappid(758251, 1, "3dc4fe903e8bb0fe0428657745ff227bbc1d4141db1775f9e4fb12e8559cf7be")

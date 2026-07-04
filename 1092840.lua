@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Celeste Soundtrack
 addappid(1092840)
-addappid(1092841,0,"c4c08701ff5bd1f0cdd2c602fd115ccca0d404d763de7c4148c43e1fe19e878c")
---setManifestid(1092841,"1556098567953304770")
+addappid(1092841, 1, "c4c08701ff5bd1f0cdd2c602fd115ccca0d404d763de7c4148c43e1fe19e878c")

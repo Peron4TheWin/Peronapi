@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nimblefoot
 addappid(2369600)
-addappid(2369601,0,"9da7cf29d9c67187dc3c3eb7d8ddd20e56e79b1c1fa05d1fdcd8ba09e5988d18")
--- setManifestid(2369601,"9072012663371051363")
+addappid(2369601, 1, "9da7cf29d9c67187dc3c3eb7d8ddd20e56e79b1c1fa05d1fdcd8ba09e5988d18")

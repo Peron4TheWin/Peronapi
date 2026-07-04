@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PAPA'S TIME MACHINE
 addappid(670320)
-addappid(670321,0,"c3ea17adf87fc4358f288fef0ef132ffa438fb981d0b6c03168c3691a5beeebf")
--- setManifestid(670321,"1575923428671210076")
+addappid(670321, 1, "c3ea17adf87fc4358f288fef0ef132ffa438fb981d0b6c03168c3691a5beeebf")

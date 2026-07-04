@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Seirei
 addappid(857480)
-addappid(857481,0,"bc38efcb7761fa470f05f516baa50498c69d1add29c78cfd727361369911bd3a")
--- setManifestid(857481,"3400180905753804050")
+addappid(857481, 1, "bc38efcb7761fa470f05f516baa50498c69d1add29c78cfd727361369911bd3a")

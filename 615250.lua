@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: M.A.X.: Mechanized Assault & Exploration
 addappid(615250)
-addappid(615251,0,"4591c2ac854ff8b62d531115e24d71b64a582e264881075b0513126bc86e6181")
--- setManifestid(615251,"2688339697844705217")
+addappid(615251, 1, "4591c2ac854ff8b62d531115e24d71b64a582e264881075b0513126bc86e6181")

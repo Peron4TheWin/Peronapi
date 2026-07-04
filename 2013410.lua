@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: One More Gate: A Wakfu Legend Demo
 addappid(2013410)
-addappid(2013411,0,"4013f33834b325381cc62a183da1c3e4aa5cc6810424baacbf1c8fe77b6ab0fd")
--- setManifestid(2013411,"6843097634761528261")
+addappid(2013411, 1, "4013f33834b325381cc62a183da1c3e4aa5cc6810424baacbf1c8fe77b6ab0fd")

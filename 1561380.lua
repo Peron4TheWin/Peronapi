@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RE:CALL
 addappid(1561380)
-addappid(1561381,0,"4f05bd7ea2074f4907ec73cedf91635f5224898c823b0d3b009fdc37dcda0f61")
--- setManifestid(1561381,"1622678177940678604")
+addappid(1561381, 1, "4f05bd7ea2074f4907ec73cedf91635f5224898c823b0d3b009fdc37dcda0f61")

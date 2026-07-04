@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 東方実在相 ～ Dream Logical World
 addappid(1664410)
-addappid(1664411,0,"420692be4d9b08838daa4e511fb82abb9bfa5ad6d5785ed9a095130090bbdf79")
--- setManifestid(1664411,"8723053158454863780")
+addappid(1664411, 1, "420692be4d9b08838daa4e511fb82abb9bfa5ad6d5785ed9a095130090bbdf79")

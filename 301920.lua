@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: War of the Human Tanks - ALTeR
 addappid(301920)
--- setManifestid(228984,"2547553897526095397")
-addappid(301921,0,"6125ff1a7b4eb5f0084c61b0408783f2df02248fd91d3ea2d7564742872dc2b0")
--- setManifestid(301921,"198329229314868529")
+addappid(301921, 1, "6125ff1a7b4eb5f0084c61b0408783f2df02248fd91d3ea2d7564742872dc2b0")

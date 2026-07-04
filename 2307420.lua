@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 探偵・癸生川凌介事件譚 Vol.9「五月雨は鈍色の調べ」
 addappid(2307420)
-addappid(2307421,0,"f2b342364802f888b077674d5d467e25adebf040bc2091788c787656620273f4")
--- setManifestid(2307421,"9084480283109918775")
+addappid(2307421, 1, "f2b342364802f888b077674d5d467e25adebf040bc2091788c787656620273f4")

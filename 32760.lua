@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tachyon: The Fringe
 addappid(32760)
-addappid(32761,0,"7f0219c9ee8d955651d3d1d3c33730980cfabfc65cdb9d495a7fbdf8fbc98c82")
--- setManifestid(32761,"5138456019970429112")
+addappid(32761, 1, "7f0219c9ee8d955651d3d1d3c33730980cfabfc65cdb9d495a7fbdf8fbc98c82")

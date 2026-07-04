@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Horny Villa
 addappid(2903690)
-addappid(2903691,0,"de70048cccd6cf0c67f3f8907f6073dd0c5bbff72e1733ed341d6af4c0be4a09")
--- setManifestid(2903691,"4480604998174790194")
+addappid(2903691, 1, "de70048cccd6cf0c67f3f8907f6073dd0c5bbff72e1733ed341d6af4c0be4a09")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Scratchers
 addappid(3697950)
-addappid(3697951,0,"360a2dabc4bcf7130dab9974b690da3e4a822732cefb7ac5d595849e3df51f8a")
--- setManifestid(3697951,"4060006142280435253")
+addappid(3697951, 1, "360a2dabc4bcf7130dab9974b690da3e4a822732cefb7ac5d595849e3df51f8a")

@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Geometry May. I swear it's a nice free game
 addappid(1057430)
-addappid(1057431,0,"669c8121eef7318955ed424228dca6e5b3ca29272bf834292371bb0158e071e9")
--- setManifestid(1057431,"4868174684749943517")
+addappid(1057431, 1, "669c8121eef7318955ed424228dca6e5b3ca29272bf834292371bb0158e071e9")
+addappid(1064970)

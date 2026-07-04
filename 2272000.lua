@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 玛娜指南 Demo
 addappid(2272000)
-addappid(2272001,0,"9e2547f1f1e0fb3ee6052d5511d9602caceb4319b2cac59c5b7d1658050d7696")
--- setManifestid(2272001,"3564725957113808308")
+addappid(2272001, 1, "9e2547f1f1e0fb3ee6052d5511d9602caceb4319b2cac59c5b7d1658050d7696")

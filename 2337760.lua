@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sky division
 addappid(2337760)
-addappid(2337761,0,"c3dd77b004219616f941df8b982aac09493eb6717cbf6ae28ace563f517ce24d")
--- setManifestid(2337761,"2244136181626714875")
+addappid(2337761, 1, "c3dd77b004219616f941df8b982aac09493eb6717cbf6ae28ace563f517ce24d")

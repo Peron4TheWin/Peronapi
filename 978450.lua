@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Data mining 3
 addappid(978450)
-addappid(978451,0,"084a554f25b649cd6fca50773af09700edcca808608317dff8348600cd2e1600")
--- setManifestid(978451,"5594244232684146501")
+addappid(978451, 1, "084a554f25b649cd6fca50773af09700edcca808608317dff8348600cd2e1600")

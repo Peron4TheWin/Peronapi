@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SOLAR BATTALION
 addappid(803570)
-addappid(803571,0,"1509ec9b8c04aede86d4b5f42015421fc3c178c0f81980496b9e8131be7db5f0")
--- setManifestid(803571,"4656586232062267494")
+addappid(803571, 1, "1509ec9b8c04aede86d4b5f42015421fc3c178c0f81980496b9e8131be7db5f0")

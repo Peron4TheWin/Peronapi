@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stellar Poetry Demo
 addappid(2993710)
-addappid(2993711,0,"44cad76902f3818dfdbd7351561aa83eae329976a48344bcb8703c94fd631208")
--- setManifestid(2993711,"7836705167873949122")
+addappid(2993711, 1, "44cad76902f3818dfdbd7351561aa83eae329976a48344bcb8703c94fd631208")

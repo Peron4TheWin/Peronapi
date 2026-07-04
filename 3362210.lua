@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: sea fight
 addappid(3362210)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(3362211,0,"48b7c41d0ee1bc6287c96f9d258ce159ebc6eed4260ff1b8d623b9758fd0b59f")
--- setManifestid(3362211,"8071851340595136326")
+addappid(3362211, 1, "48b7c41d0ee1bc6287c96f9d258ce159ebc6eed4260ff1b8d623b9758fd0b59f")

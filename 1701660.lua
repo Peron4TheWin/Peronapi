@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Demons Rise Up!
 addappid(1701660)
-addappid(1701661,0,"2007d019abf7b60003497fd33e81fdecca2b23725d8324457ccf360bfe90882b")
--- setManifestid(1701661,"7578484467690738403")
+addappid(1701661, 1, "2007d019abf7b60003497fd33e81fdecca2b23725d8324457ccf360bfe90882b")

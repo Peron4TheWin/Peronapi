@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Noblesse Oblige: Legacy of the Sorcerer Kings
 addappid(2537730)
-addappid(2537731,0,"480297cef472f66d2a1db7988636e3f050f1de29171607b2317b8af111d484ca")
--- setManifestid(2537731,"8804582335796340632")
+addappid(2537731, 1, "480297cef472f66d2a1db7988636e3f050f1de29171607b2317b8af111d484ca")

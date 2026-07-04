@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Card Streamer Simulator
 addappid(3592240)
-addappid(3592241,0,"6ff5110d16d6ca6fe555fa75fc86ccf0ceb0a264f34f87585f9e225c69bf5bb5")
--- setManifestid(3592241,"2986319822000431694")
+addappid(3592241, 1, "6ff5110d16d6ca6fe555fa75fc86ccf0ceb0a264f34f87585f9e225c69bf5bb5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SQUASER
 addappid(3345430)
-addappid(3345431,0,"87e5ea890b8ef57d85dc1103493f1c73a8e7a717f5d9ca8fa95d5ceef229b0bb")
--- setManifestid(3345431,"7818545332791141526")
+addappid(3345431, 1, "87e5ea890b8ef57d85dc1103493f1c73a8e7a717f5d9ca8fa95d5ceef229b0bb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hentai Memory
 addappid(1912760)
-addappid(1912761,0,"ad69ada7aa0e311004e2be1ca5ce72ab52abb78f3e6c0c3e9c3ed3ae0c009a9d")
--- setManifestid(1912761,"6294568219327455408")
+addappid(1912761, 1, "ad69ada7aa0e311004e2be1ca5ce72ab52abb78f3e6c0c3e9c3ed3ae0c009a9d")

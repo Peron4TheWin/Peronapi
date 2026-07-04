@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hang up Street
 addappid(1476360)
-addappid(1476361,0,"fd00f5c63622d0db5c0abaa26568650b701b81bfe759af9dd3c4eddd779e99f3")
--- setManifestid(1476361,"5448268137036030076")
+addappid(1476361, 1, "fd00f5c63622d0db5c0abaa26568650b701b81bfe759af9dd3c4eddd779e99f3")

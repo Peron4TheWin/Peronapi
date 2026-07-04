@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Critical Fishing Demo
 addappid(2884810)
-addappid(2884811,0,"8a0f17ad21ee81770fa207c13743fd964822b5c45d6c2bbeeafcc5dd84dbec1f")
--- setManifestid(2884811,"6819713492341687730")
+addappid(2884811, 1, "8a0f17ad21ee81770fa207c13743fd964822b5c45d6c2bbeeafcc5dd84dbec1f")

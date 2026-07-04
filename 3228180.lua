@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Click Mage
 addappid(3228180)
-addappid(3228181,0,"bfdbd64a77edbb619c3b3122f2c9002d6f542b240425b3563aa93e2d0e74235e")
--- setManifestid(3228181,"7191687618428690918")
+addappid(3228181, 1, "bfdbd64a77edbb619c3b3122f2c9002d6f542b240425b3563aa93e2d0e74235e")

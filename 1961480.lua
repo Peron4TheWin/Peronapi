@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Farm House
 addappid(1961480)
-addappid(1961481,0,"5d7d3820dee99c9fe181ff054941f8cfc79f11e184d2451eb7d403704c120056")
+addappid(1961481, 1, "5d7d3820dee99c9fe181ff054941f8cfc79f11e184d2451eb7d403704c120056")

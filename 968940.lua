@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A night with Natalie VR
 addappid(968940)
-addappid(968941,0,"25ee3ab0cc6fd33d032e2e24a2ab1608509f0a71dd50977bfde2a039ab186389")
--- setManifestid(968941,"7351321380134062520")
+addappid(968941, 1, "25ee3ab0cc6fd33d032e2e24a2ab1608509f0a71dd50977bfde2a039ab186389")

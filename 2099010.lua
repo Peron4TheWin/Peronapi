@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Isla Sinaloa
 addappid(2099010)
-addappid(2099011,0,"7af0388eb5fc8556b0d6492a52b3b59371c2f2f7198bfc054f3cfe9119d4aa5f")
+addappid(2099011, 1, "7af0388eb5fc8556b0d6492a52b3b59371c2f2f7198bfc054f3cfe9119d4aa5f")

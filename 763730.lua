@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ragtag Adventurers
 addappid(763730)
-addappid(763731,0,"987491f848217ae581d2251e3c8e74dc89c6df0025fd5c0c7728681446dae0ea")
--- setManifestid(763731,"7241352784695076273")
+addappid(763731, 1, "987491f848217ae581d2251e3c8e74dc89c6df0025fd5c0c7728681446dae0ea")

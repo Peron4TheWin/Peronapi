@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Guardian Stone
 addappid(1663860)
-addappid(1663861,0,"163c6d28179e009a616df40f850734a09876457c0145feef9816e9c8e95ee6d5")
--- setManifestid(1663861,"4699004860531925292")
+addappid(1663861, 1, "163c6d28179e009a616df40f850734a09876457c0145feef9816e9c8e95ee6d5")

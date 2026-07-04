@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ace Attorney Investigations Collection
 addappid(2401970)
-addappid(2401971,0,"6207c375742bbad4314f7dd29c0875182fdcb82428b948c4ae9205f86a920a3c")
--- setManifestid(2401971,"5676289079352931341")
+addappid(2401971, 1, "6207c375742bbad4314f7dd29c0875182fdcb82428b948c4ae9205f86a920a3c")
+addappid(2708760)

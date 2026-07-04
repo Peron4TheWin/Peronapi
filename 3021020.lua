@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AbyssalRestaurant
 addappid(3021020)
-addappid(3021021,0,"387981f051ee87b476c499d69a77dace810131995f56cc617fc72822f0bf6836")
--- setManifestid(3021021,"1461434453140280766")
+addappid(3021021, 1, "387981f051ee87b476c499d69a77dace810131995f56cc617fc72822f0bf6836")

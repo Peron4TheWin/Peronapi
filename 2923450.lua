@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Paintballers Playtest
 addappid(2923450)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2923451,0,"32efd194dd4e13777d4b542b5614741e214f8c534a92e6040c8ea46dbfd361db")
+addappid(2923451, 1, "32efd194dd4e13777d4b542b5614741e214f8c534a92e6040c8ea46dbfd361db")

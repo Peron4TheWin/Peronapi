@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lingua Fleur: Lily
 addappid(986280)
-addappid(986281,0,"cc8c735bdc58a98e634e090d7eea50f3e07211f5857846031915fe411bb8feaf")
--- setManifestid(986281,"2397016947549158287")
+addappid(986281, 1, "cc8c735bdc58a98e634e090d7eea50f3e07211f5857846031915fe411bb8feaf")

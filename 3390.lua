@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Feeding Frenzy 2 Deluxe
 addappid(3390)
-addappid(3391,0,"7dc003180be558f3af5c201bade330909be77d0ffff337d8a28c08768c7bf44e")
--- setManifestid(3391,"4846223393322219002")
+addappid(3391, 1, "7dc003180be558f3af5c201bade330909be77d0ffff337d8a28c08768c7bf44e")

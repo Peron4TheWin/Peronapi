@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Automachef Demo
 addappid(1046020)
-addappid(1046021,0,"d28a3f0ab106ce0e2d934b9ab745be23e9d561861b0150c1f050d58b92bf03b2")
+addappid(1046021, 1, "d28a3f0ab106ce0e2d934b9ab745be23e9d561861b0150c1f050d58b92bf03b2")

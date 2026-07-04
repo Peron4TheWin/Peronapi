@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Paradox Escape Route
 addappid(1106730)
-addappid(1106731,0,"fb3a691e937da193a3d4536f31daed4217b025645580e33481debe86688dc5fd")
--- setManifestid(1106731,"4847722295682546119")
+addappid(1106731, 1, "fb3a691e937da193a3d4536f31daed4217b025645580e33481debe86688dc5fd")

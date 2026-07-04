@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Iron Fisticle
 addappid(306700)
-addappid(306701,0,"45f2a8474d53391ace1b2f1fcec50a590ffa698941442e1b7e67429768673c67")
--- setManifestid(306701,"8296173468495416431")
+addappid(306701, 1, "45f2a8474d53391ace1b2f1fcec50a590ffa698941442e1b7e67429768673c67")

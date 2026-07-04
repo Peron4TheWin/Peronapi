@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Bear With Me: The Lost Robots
 addappid(1050000)
-addappid(1050001,0,"f1f91d494048f52600bb4e04a6ead50857d39b888ffd72276e0175af53854735")
--- setManifestid(1050001,"3340071240489995779")
+addappid(1050001, 1, "f1f91d494048f52600bb4e04a6ead50857d39b888ffd72276e0175af53854735")
+addappid(1056770)

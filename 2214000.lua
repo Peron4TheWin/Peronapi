@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Top Racer Collection
 addappid(2214000)
-addappid(2214001,0,"70070ece4f1e0d702c001aa27bd3a90fd923bb62d3e5ecb673649443a1733106")
--- setManifestid(2214001,"725564646164270482")
+addappid(2214001, 1, "70070ece4f1e0d702c001aa27bd3a90fd923bb62d3e5ecb673649443a1733106")
+addappid(3800320)

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Momoiro Closet
 addappid(800180)
-addappid(800181,0,"654251a0cfed9ba0b110c34ae9a21ee5376a2048d7d01a39ed757609b35f175e")
--- setManifestid(800181,"2232047756420700987")
+addappid(800181, 1, "654251a0cfed9ba0b110c34ae9a21ee5376a2048d7d01a39ed757609b35f175e")

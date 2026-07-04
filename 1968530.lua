@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bounda
 addappid(1968530)
-addappid(1968531,0,"13ccde010f6c6ded7e50af2322512ed7e7950736250bdd75315f3bb528b45002")
--- setManifestid(1968531,"3626149422985269962")
+addappid(1968531, 1, "13ccde010f6c6ded7e50af2322512ed7e7950736250bdd75315f3bb528b45002")

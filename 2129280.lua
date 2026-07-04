@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trap of MUSK:Europe Night
 addappid(2129280)
-addappid(2129281,0,"aa5cdc32410fc36ac304d2aa7f2019b4ce79704be24727fcf57ff368b6295850")
--- setManifestid(2129281,"1397599542144020999")
+addappid(2129281, 1, "aa5cdc32410fc36ac304d2aa7f2019b4ce79704be24727fcf57ff368b6295850")

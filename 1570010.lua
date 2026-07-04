@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FAR: Changing Tides
 addappid(1570010)
-addappid(1570011,0,"f3aa74143ab21ae7aed97c2ac67b8c6510b94a84a41f44157671da176d86303e")
+addappid(1570011, 1, "f3aa74143ab21ae7aed97c2ac67b8c6510b94a84a41f44157671da176d86303e")

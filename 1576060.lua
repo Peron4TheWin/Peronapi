@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suspects: Mystery Mansion
+addappid(1576060)
+addappid(1576061, 1, "eec1dd372548067e82ecc95e4f8758f98df9413a900a76a0b7f221a937e6efd3")

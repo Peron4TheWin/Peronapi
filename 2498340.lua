@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drop Pane : Not Only Match-3
 addappid(2498340)
-addappid(2498341,0,"6a7ded6ca3c2f2f20642c6d84dd52353d3e8e11e0d12af6268eee59daf7ce84c")
--- setManifestid(2498341,"4772117008037676685")
+addappid(2498341, 1, "6a7ded6ca3c2f2f20642c6d84dd52353d3e8e11e0d12af6268eee59daf7ce84c")

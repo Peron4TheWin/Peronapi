@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: World of Naples
 addappid(2128410)
-addappid(2128411,0,"c92f33d099dc902d272fbefa808522edb2189a32334b702b9dcf791e3224bace")
--- setManifestid(2128411,"8229208957685703106")
+addappid(2128411, 1, "c92f33d099dc902d272fbefa808522edb2189a32334b702b9dcf791e3224bace")

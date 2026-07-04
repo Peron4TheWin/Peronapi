@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Suzukuri Dungeon: Karin in the Mountain
 addappid(1552140)
--- setManifestid(228990,"1829726630299308803")
-addappid(1552141,0,"e014bcb78d8d655dd13423c9529ec812454b845c31c78df9a9352da9a20ae00b")
--- setManifestid(1552141,"828585899474123354")
+addappid(1552141, 1, "e014bcb78d8d655dd13423c9529ec812454b845c31c78df9a9352da9a20ae00b")

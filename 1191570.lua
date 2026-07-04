@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero Soul: I want to be a Hero!
 addappid(1191570)
-addappid(1191571,0,"2587c0f1d206db868a97b6d576e2ce7666a4995e64edb5b8b57cd3a9a579dd63")
--- setManifestid(1191571,"8126192840223261933")
+addappid(1191571, 1, "2587c0f1d206db868a97b6d576e2ce7666a4995e64edb5b8b57cd3a9a579dd63")

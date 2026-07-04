@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Taco Crew
 addappid(1754440)
-addappid(1754441,0,"3702368aceaf38355d3e73c3a72c5eba22688ebea79cd4250ae0e29c708d6e0f")
--- setManifestid(1754441,"242575543342450379")
+addappid(1754441, 1, "3702368aceaf38355d3e73c3a72c5eba22688ebea79cd4250ae0e29c708d6e0f")

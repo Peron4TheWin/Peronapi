@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Soul of War: Legions
 addappid(2571350)
-addappid(2571351,0,"cb21a094fbcebc8b4f310289a1dc75ded368bf28818d5e13cc556609ea32f655")
--- setManifestid(2571351,"2704022626481321092")
+addappid(2571351, 1, "cb21a094fbcebc8b4f310289a1dc75ded368bf28818d5e13cc556609ea32f655")

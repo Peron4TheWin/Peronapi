@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MadOut Ice Storm
 addappid(400500)
--- setManifestid(228985,"3966345552745568756")
-addappid(400501,0,"80ab91eafbb04fe8404fa958b26209b176874e00cab1f0d3ed22c1e6c221afa0")
--- setManifestid(400501,"581938961733507974")
+addappid(400501, 1, "80ab91eafbb04fe8404fa958b26209b176874e00cab1f0d3ed22c1e6c221afa0")

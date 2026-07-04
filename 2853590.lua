@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Void War
 addappid(2853590)
-addappid(2853591,0,"d5701bf19577767fbae5a71a1115ee2dc76fc65a52dcb920f924c98432166c46")
--- setManifestid(2853591,"3609121299034012368")
+addappid(2853591, 1, "d5701bf19577767fbae5a71a1115ee2dc76fc65a52dcb920f924c98432166c46")

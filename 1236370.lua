@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Northgard - The Official Soundtrack
 addappid(1236370)
-addappid(1236371,0,"5df18af649cbbe0facf2c0b6d17150b3003f03b1a9bd5bf3b1cbff38837fef74")
--- setManifestid(1236371,"4808349631386335890")
+addappid(1236371, 1, "5df18af649cbbe0facf2c0b6d17150b3003f03b1a9bd5bf3b1cbff38837fef74")

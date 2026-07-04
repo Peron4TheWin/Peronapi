@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Turbo Sliders Unlimited
 addappid(1478340)
-addappid(1478341,0,"44c8a125afbf4624870971239d01205da6f032cfb83ba94a3ff12c264929f750")
--- setManifestid(1478341,"1140990015648071987")
+addappid(1478341, 1, "44c8a125afbf4624870971239d01205da6f032cfb83ba94a3ff12c264929f750")

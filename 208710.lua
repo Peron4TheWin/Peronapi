@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Colour Bind
 addappid(208710)
-addappid(229020)
--- setManifestid(229020,"5799761707845834510")
-addappid(208711,0,"0f0cbb8176ee18aaa4ec3517282ada25ccad55539ee412490c8b59a29ad5a0ea")
--- setManifestid(208711,"4365874306935878717")
-addappid(208712)
-addappid(208713)
+addappid(208711, 1, "0f0cbb8176ee18aaa4ec3517282ada25ccad55539ee412490c8b59a29ad5a0ea")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HANGAR 8
 addappid(3204650)
-addappid(3204651,0,"9d60c5f4e1aab1770c3ae1627d57af33aad4ddce8b85328b423a07267cb6e9e3")
--- setManifestid(3204651,"3669567685160847651")
+addappid(3204651, 1, "9d60c5f4e1aab1770c3ae1627d57af33aad4ddce8b85328b423a07267cb6e9e3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: REBEL
 addappid(1904800)
-addappid(1904801,0,"9cf5c4e89a2dd55bb23df9ce319b6ec22551743d294dc7ad654e0a49bf249987")
--- setManifestid(1904801,"4400208408491661385")
+addappid(1904801, 1, "9cf5c4e89a2dd55bb23df9ce319b6ec22551743d294dc7ad654e0a49bf249987")

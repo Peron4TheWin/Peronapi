@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Champion Road
 addappid(2698690)
-addappid(2698691,0,"fff6e78c2c5a406c371257b11f9553f46c4b9b494dec826f11eef40c49fe5d0a")
--- setManifestid(2698691,"6049741092881718363")
+addappid(2698691, 1, "fff6e78c2c5a406c371257b11f9553f46c4b9b494dec826f11eef40c49fe5d0a")

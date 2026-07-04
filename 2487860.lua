@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nine Realms: Revolt Demo
 addappid(2487860)
-addappid(2487861,0,"b812118e77fe675949a439d20532b64f84fe02dd218eb7c1a4d0bcf8c401a2fd")
--- setManifestid(2487861,"2732251091551660803")
+addappid(2487861, 1, "b812118e77fe675949a439d20532b64f84fe02dd218eb7c1a4d0bcf8c401a2fd")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lustful Fingers
 addappid(3438100)
-addappid(3438101,0,"60e75554fa2fb58d3bad057a033f2a0216759f8dd43b0aa908c4706b91b66095")
--- setManifestid(3438101,"2699709628648573776")
+addappid(3438101, 1, "60e75554fa2fb58d3bad057a033f2a0216759f8dd43b0aa908c4706b91b66095")

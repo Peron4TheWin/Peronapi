@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gnomich
 addappid(3332730)
-addappid(3332731,0,"ab23a0d30f68d60c630dfdc136998f274a10191a4940a0e063bfaa6d99b7ad47")
--- setManifestid(3332731,"4004970147307705878")
+addappid(3332731, 1, "ab23a0d30f68d60c630dfdc136998f274a10191a4940a0e063bfaa6d99b7ad47")

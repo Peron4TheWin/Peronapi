@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hidden Breaking Bed Top-Down 3D
 addappid(2623560)
-addappid(2623561,0,"94a9e5608c441af8000058e5c24aeb54c6fc6b3baa24026adf1dc5e7bbf0b160")
--- setManifestid(2623561,"6776773882386842196")
+addappid(2623561, 1, "94a9e5608c441af8000058e5c24aeb54c6fc6b3baa24026adf1dc5e7bbf0b160")

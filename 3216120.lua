@@ -1,7 +1,4 @@
--- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
--- Redistribution of twentytwo's files is not allowed AT ALL
--- Join the server here: https://discord.com/invite/vwGWeTFTXW
-
+-- Lua provided by SkyAPI 
+-- Game: CUSTOM ORDER MAID 3D2&2.5+ X1 Dark+
 addappid(3216120)
-addappid(3216121,0,"9f92210cfbd0e9d3a44b4b3409c733cebca0d0cd86d49f22d650add617bf9aa7")
--- setManifestid(3216121,"5898724126879344865")
+addappid(3216121, 1, "9f92210cfbd0e9d3a44b4b3409c733cebca0d0cd86d49f22d650add617bf9aa7")

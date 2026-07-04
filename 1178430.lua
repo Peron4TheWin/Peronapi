@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Summer Games Heroes
 addappid(1178430)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(229020,"5799761707845834510")
-addappid(1178431,0,"a28edddf5eb4339554c5f3483820d060763df436ac1a373b78ef7995f42f4d51")
--- setManifestid(1178431,"6859540659188972804")
+addappid(1178431, 1, "a28edddf5eb4339554c5f3483820d060763df436ac1a373b78ef7995f42f4d51")
+addappid(1209340)

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Let's Minesweeper
 addappid(2865580)
-addappid(2865581,0,"bced34cca5e9674cbcd6cf05941a91eccf53b6a59fe0ca3aa72dff11e98cc6ec")
+addappid(2865581, 1, "bced34cca5e9674cbcd6cf05941a91eccf53b6a59fe0ca3aa72dff11e98cc6ec")

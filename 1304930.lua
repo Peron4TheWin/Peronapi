@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Outlast Trials
 addappid(1304930)
-addappid(1304931,0,"81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb")
--- setManifestid(1304931,"2422137543090985080")
+addappid(1304931, 1, "81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb")

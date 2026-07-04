@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BAIONLENJA
 addappid(3509160)
-addappid(3509161,0,"d04216ceb0f5b366310ff0d5ddbef46abd6d08717284112dd390a7a1e1dbae60")
--- setManifestid(3509161,"1744112583918505259")
+addappid(3509161, 1, "d04216ceb0f5b366310ff0d5ddbef46abd6d08717284112dd390a7a1e1dbae60")

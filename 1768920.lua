@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Splatter
 addappid(1768920)
-addappid(229006)
-addappid(1768921,0,"1bc131079f228c59a7bd37134c1893e99e7a76500b6397df9dc5f1e8ed620d13")
+addappid(1768921, 1, "1bc131079f228c59a7bd37134c1893e99e7a76500b6397df9dc5f1e8ed620d13")

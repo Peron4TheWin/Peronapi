@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Into the M.A.W. Demo
 addappid(3095520)
-addappid(3095521,0,"f91cd506a36312fa4810b40e7152f95d570494f76fc3a97897cedf1d2084248b")
--- setManifestid(3095521,"7228190119433063167")
+addappid(3095521, 1, "f91cd506a36312fa4810b40e7152f95d570494f76fc3a97897cedf1d2084248b")

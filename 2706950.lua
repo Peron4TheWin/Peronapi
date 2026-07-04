@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: かいき LoopDown
 addappid(2706950)
-addappid(2706951,0,"68f66318f3820cdabd124e4bd67202e2e2ab81857739fd4562b904ff854791bb")
--- setManifestid(2706951,"46596356536155427")
+addappid(2706951, 1, "68f66318f3820cdabd124e4bd67202e2e2ab81857739fd4562b904ff854791bb")

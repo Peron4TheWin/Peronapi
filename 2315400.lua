@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Knights in Tight Spaces
 addappid(2315400)
-addappid(2315401,0,"7bc82ef006cc54f59a83a8a8d5b497c94a4c4e17908a1bacc40e26b351ccdf2c")
--- setManifestid(2315401,"2966537357758614805")
+addappid(2315401, 1, "7bc82ef006cc54f59a83a8a8d5b497c94a4c4e17908a1bacc40e26b351ccdf2c")

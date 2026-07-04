@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: My Dear Frankenstein
 addappid(1550460)
-addappid(1550461,0,"4aa5564fc6766463f1f95d922223cb21f49a92b47e87e9f9dbf8df3b3fa4cfab")
--- setManifestid(1550461,"9192017877364481375")
+addappid(1550461, 1, "4aa5564fc6766463f1f95d922223cb21f49a92b47e87e9f9dbf8df3b3fa4cfab")

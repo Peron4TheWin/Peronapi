@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Warhammer Age of Sigmar: Soul Arena
 addappid(1606130)
-addappid(1606131,0,"58beb7bfd934f149e4a657fa47c0f271e0f52a2f82de5df88217f9184a435f94")
--- setManifestid(1606131,"6887215816722546714")
+addappid(1606131, 1, "58beb7bfd934f149e4a657fa47c0f271e0f52a2f82de5df88217f9184a435f94")

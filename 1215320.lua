@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Piczle Cross Adventure
 addappid(1215320)
--- setManifestid(228990,"1829726630299308803")
-addappid(1215321,0,"e0694c0daae63fad11b147bea63e39dac21655cf54b067c509daef5419b87926")
--- setManifestid(1215321,"2385004023317481566")
+addappid(1215321, 1, "e0694c0daae63fad11b147bea63e39dac21655cf54b067c509daef5419b87926")

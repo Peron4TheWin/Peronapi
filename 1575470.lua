@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Frogun
+addappid(1575470)
+addappid(1575471, 1, "132279b3cf4e1e879c737f9899501eedf90c8d392216edc6afbfe2abc661ad29")

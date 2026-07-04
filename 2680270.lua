@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hero's Adventure:Road to Passion Soundtrack
 addappid(2680270)
-addappid(2680271,0,"fbe9342c087a8749040fef7d66fc818dec7c79787b96c98b326d21511605fc51")
--- setManifestid(2680271,"7004318294318620163")
+addappid(2680271, 1, "fbe9342c087a8749040fef7d66fc818dec7c79787b96c98b326d21511605fc51")

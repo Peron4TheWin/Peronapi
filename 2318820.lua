@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Simple Increment
 addappid(2318820)
-addappid(2318821,0,"02afc96ef7a119f68401de1df3c32aed42433f8e2f2b0e97acc8c929cd676a54")
--- setManifestid(2318821,"6231806172835254179")
+addappid(2318821, 1, "02afc96ef7a119f68401de1df3c32aed42433f8e2f2b0e97acc8c929cd676a54")

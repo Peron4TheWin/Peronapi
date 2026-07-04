@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: LEGO® Harry Potter: Years 1-4
 addappid(21130)
-addappid(228981)
--- setManifestid(228981,"7613356809904826842")
-addappid(21131,0,"3ea7510f6573780b2f0ea3a52aaf43c95183f877283383b9af7e65a2699c2f1f")
--- setManifestid(21131,"1918178460208543378")
+addappid(21131, 1, "3ea7510f6573780b2f0ea3a52aaf43c95183f877283383b9af7e65a2699c2f1f")

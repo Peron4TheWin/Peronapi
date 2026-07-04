@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wima Magicamia Cute Girls Magic Battle 3DTPS
 addappid(3703280)
-addappid(3703281,0,"a2bff624f3656912154165cfecd1216e3fe4ab6d241505ff180cfe7be3e7c08e")
--- setManifestid(3703281,"780927126208342198")
+addappid(3703281, 1, "a2bff624f3656912154165cfecd1216e3fe4ab6d241505ff180cfe7be3e7c08e")

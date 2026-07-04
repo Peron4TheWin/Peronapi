@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Haunted Hotel: A Past Redeemed Collector's Edition
 addappid(1669820)
-addappid(1669821,0,"4d94ba0498bd8f8b7f181a7ecdc78364ab18a33b0a96d709f90cd03eab335075")
--- setManifestid(1669821,"8804938808011277173")
+addappid(1669821, 1, "4d94ba0498bd8f8b7f181a7ecdc78364ab18a33b0a96d709f90cd03eab335075")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Death Harvest
 addappid(2358600)
-addappid(2358601,0,"8e27f0d052d5ad721acbfd67517592acf6e825d4858064d79e6dc643e108aa40")
--- setManifestid(2358601,"6385076844665966952")
+addappid(2358601, 1, "8e27f0d052d5ad721acbfd67517592acf6e825d4858064d79e6dc643e108aa40")

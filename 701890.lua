@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Starzine
 addappid(701890)
-addappid(701891,0,"6428fcba60dd2d6ee22c7442e1ddaaa9704cef11a6dc7206e0a11cc5ccb474c5")
--- setManifestid(701891,"7363036277883759793")
+addappid(701891, 1, "6428fcba60dd2d6ee22c7442e1ddaaa9704cef11a6dc7206e0a11cc5ccb474c5")

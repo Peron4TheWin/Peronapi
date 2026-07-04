@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XiuzhenWorld
 addappid(2868430)
-addappid(2868431,0,"bac6d629f1c2ffd9ba0846e64cb2a42ffccbfd156891e5b07b30647129472b82")
--- setManifestid(2868431,"355851925243358250")
+addappid(2868431, 1, "bac6d629f1c2ffd9ba0846e64cb2a42ffccbfd156891e5b07b30647129472b82")

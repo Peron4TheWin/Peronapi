@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Foxlore
 addappid(3020130)
-addappid(3020131,0,"14054302617bc4156895b69a6adfbfea741f9eb96c5c5bb0b8de8862dc8f8d54")
--- setManifestid(3020131,"7508615559301513198")
+addappid(3020131, 1, "14054302617bc4156895b69a6adfbfea741f9eb96c5c5bb0b8de8862dc8f8d54")

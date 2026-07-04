@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Everholm Demo
 addappid(2536270)
-addappid(2536271,0,"f44032d23c71a6a3ab421d68a9a9d4e7753cf3285e097255a967ece4687a6424")
--- setManifestid(2536271,"2697095440390220747")
+addappid(2536271, 1, "f44032d23c71a6a3ab421d68a9a9d4e7753cf3285e097255a967ece4687a6424")

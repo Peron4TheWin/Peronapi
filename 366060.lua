@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Teddy Terror
 addappid(366060)
-addappid(366061,0,"5f18928f318793a1646c711f57449f5b29dde99a45b5a91f8b99d15c188af6b0")
--- setManifestid(366061,"5229427057841213714")
+addappid(366061, 1, "5f18928f318793a1646c711f57449f5b29dde99a45b5a91f8b99d15c188af6b0")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEX Massage 🔞
 addappid(2666200)
-addappid(2666201,0,"03e4d09c61a93a599c0394ddbf180dafd3be1c66009270b3135fa0c631e81758")
--- setManifestid(2666201,"8482278013398585910")
+addappid(2666201, 1, "03e4d09c61a93a599c0394ddbf180dafd3be1c66009270b3135fa0c631e81758")

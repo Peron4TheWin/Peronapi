@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Vienna
 addappid(3454210)
-addappid(3454211,0,"f0045f6b48e4754a85ae79b14f8f5676ce59628826df9c100cf25a4b3a55bdbe")
--- setManifestid(3454211,"7223145059497617536")
+addappid(3454211, 1, "f0045f6b48e4754a85ae79b14f8f5676ce59628826df9c100cf25a4b3a55bdbe")

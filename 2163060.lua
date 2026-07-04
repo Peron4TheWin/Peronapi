@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summer Crush
 addappid(2163060)
-addappid(2163061,0,"dfac7232179517a6bf02a2c313439355722499a0dbe842cba6098673dfa884b9")
--- setManifestid(2163061,"2130120428834127596")
+addappid(2163061, 1, "dfac7232179517a6bf02a2c313439355722499a0dbe842cba6098673dfa884b9")

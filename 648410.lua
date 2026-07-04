@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Colony Ship: A Post-Earth Role Playing Game
 addappid(648410)
--- setManifestid(228989,"3514306556860204959")
-addappid(648411,0,"a97d03641af448aa17fbe2613980631ed39b9eb74e746a8bfd164d5c13affbc7")
--- setManifestid(648411,"2908717012318376616")
+addappid(648411, 1, "a97d03641af448aa17fbe2613980631ed39b9eb74e746a8bfd164d5c13affbc7")

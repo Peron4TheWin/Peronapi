@@ -1,6 +1,7 @@
+-- Lua provided by SkyAPI 
+-- Game: Strayed
 addappid(2359470)
-addappid(2359471,0,"fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3")
--- setManifestid(2359471,"9188836220584601745")
+addappid(2359471, 1, "fae5ab274cd384def39251b423becea322c959a06e5ec256ba8460c38b2b79c3")
 addappid(3344210)
 addappid(3344220)
 addappid(3344230)

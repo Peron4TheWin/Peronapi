@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HVS: Hitler VS Stalin - Battle Of Moscow
 addappid(2136380)
-addappid(2136381,0,"82968fc0f0c68969a8da7c56df1305e3efa60c9932a0eaf9e9ffae0cb5dc65b6")
--- setManifestid(2136381,"7391018756184811379")
+addappid(2136381, 1, "82968fc0f0c68969a8da7c56df1305e3efa60c9932a0eaf9e9ffae0cb5dc65b6")

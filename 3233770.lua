@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Laundry Room Dilemma
 addappid(3233770)
-addappid(3233771,0,"8b36089db35f3800915ae8a280db197a0fee7735eea4ba8215638e9b1c00ccae")
--- setManifestid(3233771,"7451080181549473696")
+addappid(3233771, 1, "8b36089db35f3800915ae8a280db197a0fee7735eea4ba8215638e9b1c00ccae")

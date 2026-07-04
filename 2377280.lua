@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eriksholm: The Stolen Dream
 addappid(2377280)
-addappid(2377281,0,"58a58e579e7cd5eda9f52f2c969e712a18acb42d6abb0cbacca8916304b2ffc0")
--- setManifestid(2377281,"5787854888357232523")
+addappid(2377281, 1, "58a58e579e7cd5eda9f52f2c969e712a18acb42d6abb0cbacca8916304b2ffc0")

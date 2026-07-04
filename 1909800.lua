@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: UuultraC
 addappid(1909800)
-addappid(1909801,0,"b7fd1ffed737ac12941ef64e0c05fc987971d1b7c6319092de359f5d0ae0906c")
--- setManifestid(1909801,"566180414048557636")
+addappid(1909801, 1, "b7fd1ffed737ac12941ef64e0c05fc987971d1b7c6319092de359f5d0ae0906c")

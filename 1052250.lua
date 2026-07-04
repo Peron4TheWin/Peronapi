@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tiger Tank 59 Ⅰ Black Hill Fortress
 addappid(1052250)
-addappid(1052251,0,"ffc49de8e53eafa6b22768228dd95bf3b8108a85960bc5884743a21b2782afaa")
--- setManifestid(1052251,"7738733773640955294")
+addappid(1052251, 1, "ffc49de8e53eafa6b22768228dd95bf3b8108a85960bc5884743a21b2782afaa")

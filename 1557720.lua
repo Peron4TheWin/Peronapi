@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: RoboDunk
 addappid(1557720)
-addappid(1557721,0,"85510acbb4e0f8b0d52a1bdc200f92518fd23520eff42d5a5caef6eb79fc806d")
--- setManifestid(1557721,"1282992218300489335")
+addappid(1557721, 1, "85510acbb4e0f8b0d52a1bdc200f92518fd23520eff42d5a5caef6eb79fc806d")

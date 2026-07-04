@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Orbital Cascade
 addappid(3361030)
-addappid(3361031,0,"b3441850e0910e0f699ddecbb8ba123f9114b2710f29f73fc4dc64525c488e05")
--- setManifestid(3361031,"5724654210411364804")
+addappid(3361031, 1, "b3441850e0910e0f699ddecbb8ba123f9114b2710f29f73fc4dc64525c488e05")

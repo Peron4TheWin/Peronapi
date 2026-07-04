@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: In Fair Spirits
 addappid(2622770)
-addappid(2622771,0,"e3839ea664c36a80aef5ca3626aeb833ce9c3df04b5943519cd3ec26f3610b9a")
--- setManifestid(2622771,"1669740583535253566")
+addappid(2622771, 1, "e3839ea664c36a80aef5ca3626aeb833ce9c3df04b5943519cd3ec26f3610b9a")

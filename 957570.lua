@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Qaedon Wars - The Story Begins
 addappid(957570)
-addappid(957571,0,"c15c19e63f17abc2a52c2ecfd9991443c9097010bfa38c5492582c53a1e9bd9f")
--- setManifestid(957571,"4353344352898962827")
+addappid(957571, 1, "c15c19e63f17abc2a52c2ecfd9991443c9097010bfa38c5492582c53a1e9bd9f")

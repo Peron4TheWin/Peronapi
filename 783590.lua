@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Age of Gladiators II: Rome
 addappid(783590)
-addappid(783591,0,"391dd0ae6b8017a5d8d41098314b2dfc2f3e61164bf7aaa0a978a07eb34174a9")
--- setManifestid(783591,"5740383915855423239")
+addappid(783591, 1, "391dd0ae6b8017a5d8d41098314b2dfc2f3e61164bf7aaa0a978a07eb34174a9")

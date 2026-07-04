@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Star Dynasties Demo
 addappid(1448500)
-addappid(1448501,0,"860f0b2f9eb6a733c0182cc030dab642407db26996c0d5e05795a0ac1909cdd7")
--- setManifestid(1448501,"4488043587193532232")
+addappid(1448501, 1, "860f0b2f9eb6a733c0182cc030dab642407db26996c0d5e05795a0ac1909cdd7")

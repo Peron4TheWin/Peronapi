@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Coal Mining Simulator
 addappid(1118110)
-addappid(1118111,0,"13b9e8519a23c745a0308c75f2fbea76aafe67c740ea999a9175118e86fa243f")
--- setManifestid(1118111,"7982947191778757582")
+addappid(1118111, 1, "13b9e8519a23c745a0308c75f2fbea76aafe67c740ea999a9175118e86fa243f")

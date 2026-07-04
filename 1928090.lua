@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cook Serve Forever
 addappid(1928090)
-addappid(1928091,0,"c0967e878f7bb94a4470b065f57b26a4cd13b423a995ca97d487d54600c7b5c6")
--- setManifestid(1928091,"3844498530715360236")
+addappid(1928091, 1, "c0967e878f7bb94a4470b065f57b26a4cd13b423a995ca97d487d54600c7b5c6")

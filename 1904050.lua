@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Comrade Quack
 addappid(1904050)
-addappid(1904051,0,"53a1e5d5c2107c79d7d0709bad6fed9a368645d30ae09639cfd7388c628566ac")
--- setManifestid(1904051,"6106219659871468511")
+addappid(1904051, 1, "53a1e5d5c2107c79d7d0709bad6fed9a368645d30ae09639cfd7388c628566ac")

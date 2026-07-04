@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Died Of Fear
 addappid(663920)
-addappid(663921,0,"a0cf79804a0e438bb811a6de3c82ee3029754bca21fe3dbf5f9647c4b3a50bc7")
--- setManifestid(663921,"2594977269287209030")
+addappid(663921, 1, "a0cf79804a0e438bb811a6de3c82ee3029754bca21fe3dbf5f9647c4b3a50bc7")

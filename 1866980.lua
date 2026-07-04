@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Worlds of Aria
 addappid(1866980)
--- setManifestid(228989,"3514306556860204959")
-addappid(1866981,0,"d0a56afaad1bad91e9f936e956c66c7a3a100a94cbcd509efc35a35e13856411")
--- setManifestid(1866981,"4433519347931477888")
+addappid(1866981, 1, "d0a56afaad1bad91e9f936e956c66c7a3a100a94cbcd509efc35a35e13856411")

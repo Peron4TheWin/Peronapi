@@ -1,7 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: The Walking Dead: Saints & Sinners
 addappid(916840)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(916841,0,"f127aed00b61e75cbf38a72bd951cc5aa5cf670555c7fbf696f5181717ece843")
---setManifestid(916841,"5408154797553263251")
+addappid(916841, 1, "f127aed00b61e75cbf38a72bd951cc5aa5cf670555c7fbf696f5181717ece843")
+addappid(1237830)

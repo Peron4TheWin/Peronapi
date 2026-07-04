@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Solitaire Christmas. Match 2 Cards
 addappid(428510)
-addappid(428511,0,"ba3bb041e841f9cf74e13d2b2fa3b2213e56df17cb4a5eeff9be962ef5566a72")
--- setManifestid(428511,"4269943394595742169")
+addappid(428511, 1, "ba3bb041e841f9cf74e13d2b2fa3b2213e56df17cb4a5eeff9be962ef5566a72")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meor Playtest
 addappid(1544260)
-addappid(1544261,0,"70b01d08a30db72bcee5a75db27ec4a16c227a9b46aa13b11eb46e416fb20fb4")
--- setManifestid(1544261,"6202223820267957140")
+addappid(1544261, 1, "70b01d08a30db72bcee5a75db27ec4a16c227a9b46aa13b11eb46e416fb20fb4")

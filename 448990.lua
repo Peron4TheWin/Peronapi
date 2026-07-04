@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Phlyndir
 addappid(448990)
-addappid(448991,0,"a1583d8c4462d6cbe366fb206b212f07b583a25538909bceba209314952626ff")
+addappid(448991, 1, "a1583d8c4462d6cbe366fb206b212f07b583a25538909bceba209314952626ff")

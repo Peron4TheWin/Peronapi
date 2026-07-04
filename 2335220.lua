@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dolls
 addappid(2335220)
-addappid(2335221,0,"27763ab55f1a32e43270bb096bf4e103acef713123efb894cebce26421f66947")
--- setManifestid(2335221,"626523388291585573")
+addappid(2335221, 1, "27763ab55f1a32e43270bb096bf4e103acef713123efb894cebce26421f66947")

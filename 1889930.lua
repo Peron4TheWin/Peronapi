@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Baldur's Gate: Dark Alliance II
 addappid(1889930)
-addappid(1889931,0,"c271a57d12525930ad8de02c5de1699b688dd35e1558bf77d95c147389ec6ba3")
--- setManifestid(1889931,"6789340646862609413")
+addappid(1889931, 1, "c271a57d12525930ad8de02c5de1699b688dd35e1558bf77d95c147389ec6ba3")

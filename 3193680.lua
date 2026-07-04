@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Out of Hand: Deluxe
 addappid(3193680)
-addappid(3193681,0,"bfb854fc0291e84ee8e405a92d9251cf4729dab70982a6efc5d0d5e540006c61")
--- setManifestid(3193681,"699175967728578335")
+addappid(3193681, 1, "bfb854fc0291e84ee8e405a92d9251cf4729dab70982a6efc5d0d5e540006c61")

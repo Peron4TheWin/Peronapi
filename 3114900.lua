@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dread Flats
 addappid(3114900)
-addappid(3114901,0,"edf860798dc72b4e2772f638655e92816bb02c130ff60b5a2c2fe460e48f2b45")
--- setManifestid(3114901,"7464856130162700130")
+addappid(3114901, 1, "edf860798dc72b4e2772f638655e92816bb02c130ff60b5a2c2fe460e48f2b45")

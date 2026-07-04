@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cat Lottery Shop
 addappid(3438950)
-addappid(3438951,0,"d11f3598ccb674e7b2ec396ec0e52d76a7d57446e635cee539db0cec25e7eff3")
--- setManifestid(3438951,"8308293955366809537")
+addappid(3438951, 1, "d11f3598ccb674e7b2ec396ec0e52d76a7d57446e635cee539db0cec25e7eff3")

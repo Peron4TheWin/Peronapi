@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: XorceD - Sashiro's Laedrum
 addappid(454170)
-addappid(454171,0,"bcb81ab9286fdce1f59d8ab2c6a0d7c4a786ece2c8b2c259c34830139944a00f")
--- setManifestid(454171,"8921165047518377280")
+addappid(454171, 1, "bcb81ab9286fdce1f59d8ab2c6a0d7c4a786ece2c8b2c259c34830139944a00f")

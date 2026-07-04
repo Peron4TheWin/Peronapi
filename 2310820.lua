@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tricky Tracks - Early Access Demo
 addappid(2310820)
-addappid(2310821,0,"86e37738c60d4d15cceadbc7d03626b8cc149e8eaafcffb2b101cdc044952784")
--- setManifestid(2310821,"2029630771250105528")
+addappid(2310821, 1, "86e37738c60d4d15cceadbc7d03626b8cc149e8eaafcffb2b101cdc044952784")

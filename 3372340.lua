@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FINAL FANTASY XV Original Soundtrack
 addappid(3372340)
-addappid(3372341,0,"db1c488ab6037f4f1153200605cad9d9f22ea12d99387c441c2d7d8e18c8251c")
--- setManifestid(3372341,"5579186600670066646")
+addappid(3372341, 1, "db1c488ab6037f4f1153200605cad9d9f22ea12d99387c441c2d7d8e18c8251c")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rooftops & Alleys - Soundtrack
 addappid(3774740)
-addappid(3774741,0,"cce2250f8f9305417c348297a76926af196ae6e34ab2e19f3476cd1b92415c1e")
--- setManifestid(3774741,"9159011079583902844")
+addappid(3774741, 1, "cce2250f8f9305417c348297a76926af196ae6e34ab2e19f3476cd1b92415c1e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Maiden Astrologer Divines the Future
 addappid(2162950)
-addappid(2162951,0,"01bfd8ea9dcbb9ca2b2ee39ee5e433749f00bcce91457ea597bac8b4c7107336")
--- setManifestid(2162951,"6949881544969737360")
+addappid(2162951, 1, "01bfd8ea9dcbb9ca2b2ee39ee5e433749f00bcce91457ea597bac8b4c7107336")

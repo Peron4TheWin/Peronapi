@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stray Path
 addappid(2531940)
-addappid(2531941,0,"244ab4875c5a3b6bf227340e40a4ea3f207b55a6ac8d427f656a5906c2e3961d")
--- setManifestid(2531941,"8646202389097593589")
+addappid(2531941, 1, "244ab4875c5a3b6bf227340e40a4ea3f207b55a6ac8d427f656a5906c2e3961d")

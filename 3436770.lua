@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 极乐不羡仙
 addappid(3436770)
-addappid(3436771,0,"1d06b3df8d9c98ec8d376431c579692f69fc2ce20fe7e165644f5b84b88c2f35")
--- setManifestid(3436771,"2621472787800587188")
+addappid(3436771, 1, "1d06b3df8d9c98ec8d376431c579692f69fc2ce20fe7e165644f5b84b88c2f35")

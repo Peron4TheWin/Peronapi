@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Downroll
 addappid(1837870)
-addappid(1837871,0,"1c84d72d51f5c5e77ea013a85ad77a9389f50deb5cb396fc574a9c1e9db3f1c5")
--- setManifestid(1837871,"3572518484513688123")
+addappid(1837871, 1, "1c84d72d51f5c5e77ea013a85ad77a9389f50deb5cb396fc574a9c1e9db3f1c5")

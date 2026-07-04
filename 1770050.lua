@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Total Tank Generals
 addappid(1770050)
-addappid(1770051,0,"bf432590813abe5a0bd3d4730399c64740da3d54e84e25cda88c78352717f4e6")
--- setManifestid(1770051,"5370742652894968201")
+addappid(1770051, 1, "bf432590813abe5a0bd3d4730399c64740da3d54e84e25cda88c78352717f4e6")

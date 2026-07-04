@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Paribneur Combination
 addappid(1838670)
-addappid(1838671,0,"9ab3fd24145c8c90f5829ba3cf5b240c103457f3af2ba7ed7472b1b6327b96fc")
--- setManifestid(1838671,"913242462182600604")
+addappid(1838671, 1, "9ab3fd24145c8c90f5829ba3cf5b240c103457f3af2ba7ed7472b1b6327b96fc")

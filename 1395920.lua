@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GrappleWell
 addappid(1395920)
-addappid(1395921,0,"8a934d8debf630e3769b8ec75f778a34cde3c0a87a8a62d065fc259c81992808")
--- setManifestid(1395921,"5799179126403296222")
+addappid(1395921, 1, "8a934d8debf630e3769b8ec75f778a34cde3c0a87a8a62d065fc259c81992808")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Wizordum
 addappid(1715590)
-addappid(1715591,0,"8568263432c963194015f895f9a5eea7abea645f6c010f408eff7f063af3a312")
+addappid(1715591, 1, "8568263432c963194015f895f9a5eea7abea645f6c010f408eff7f063af3a312")

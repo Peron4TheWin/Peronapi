@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A.V.I
 addappid(1215060)
-addappid(1215061,0,"1b53824d96cd2826e4ba15fded81722abd007e4e8a422a960cda769b3d3c8c8b")
--- setManifestid(1215061,"7360420498867022846")
+addappid(1215061, 1, "1b53824d96cd2826e4ba15fded81722abd007e4e8a422a960cda769b3d3c8c8b")

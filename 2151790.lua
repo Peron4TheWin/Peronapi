@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Hermit Chronicles
 addappid(2151790)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(2151791,0,"a6dc46d11315be0d759afe61ddb289b69aff04b7c35bb7b110932d5170351192")
--- setManifestid(2151791,"3968715131019217476")
+addappid(2151791, 1, "a6dc46d11315be0d759afe61ddb289b69aff04b7c35bb7b110932d5170351192")

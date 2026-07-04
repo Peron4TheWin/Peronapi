@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ENTROPOLY
 addappid(2226160)
-addappid(2226161,0,"9ad7cab2ccbcef580cc21ef5923e7790e92d65eb19682e175727f4015cae5280")
--- setManifestid(2226161,"7150063013131139158")
+addappid(2226161, 1, "9ad7cab2ccbcef580cc21ef5923e7790e92d65eb19682e175727f4015cae5280")

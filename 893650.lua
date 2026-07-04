@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CSI VR: Crime Scene Investigation
 addappid(893650)
-addappid(893651,0,"afa9822ac6936405550ddeefaa027812654aa58555aad6e9512b035d99ddda41")
--- setManifestid(893651,"2215990351273729793")
+addappid(893651, 1, "afa9822ac6936405550ddeefaa027812654aa58555aad6e9512b035d99ddda41")

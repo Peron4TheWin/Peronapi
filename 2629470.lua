@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Clear Plan
 addappid(2629470)
-addappid(2629471,0,"f7bc6d2a5bfb5c661e58b007358cc4c393d94f83cfb23b7f782a176a6e0cb122")
+addappid(2629471, 1, "f7bc6d2a5bfb5c661e58b007358cc4c393d94f83cfb23b7f782a176a6e0cb122")

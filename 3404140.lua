@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloody Night Cult
 addappid(3404140)
-addappid(3404141,0,"5bfd8d76a730c894c108389ef9c9fbff202e9ce722bce4ba8aa388c00f749a4d")
--- setManifestid(3404141,"2506767496196908740")
+addappid(3404141, 1, "5bfd8d76a730c894c108389ef9c9fbff202e9ce722bce4ba8aa388c00f749a4d")

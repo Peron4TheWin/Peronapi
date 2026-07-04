@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Personal Space
 addappid(1973450)
-addappid(1973451,0,"701ccf271a59ac45ef22f8832ae0603afd3c2cefd7f07c7216de666cdb2cabdf")
--- setManifestid(1973451,"6171488434300054348")
+addappid(1973451, 1, "701ccf271a59ac45ef22f8832ae0603afd3c2cefd7f07c7216de666cdb2cabdf")

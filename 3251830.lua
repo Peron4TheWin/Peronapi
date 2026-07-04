@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aquatic Store Simulator Demo
 addappid(3251830)
-addappid(3251831,0,"1c42303b75eac4f9507d2a0e8d35744c4be93b3afd874b8586337ce31627791b")
--- setManifestid(3251831,"123153903906129833")
+addappid(3251831, 1, "1c42303b75eac4f9507d2a0e8d35744c4be93b3afd874b8586337ce31627791b")

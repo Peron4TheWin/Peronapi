@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Commando Collection
 addappid(3059010)
-addappid(3059011,0,"0f60e5e2e1c7e3a45d14d6b1fcf6c228e0102bfe05e325313c53b9cfed38f8a7")
--- setManifestid(3059011,"1279424295371729850")
+addappid(3059011, 1, "0f60e5e2e1c7e3a45d14d6b1fcf6c228e0102bfe05e325313c53b9cfed38f8a7")

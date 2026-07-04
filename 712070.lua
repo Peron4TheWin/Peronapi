@@ -1,5 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Lantern of Worlds
 addappid(712070)
-addappid(722270,0,"840071b6733e6a5bdcfc8b4a0140a72533b62a253aaabb2c259e57dc86e5f58e")
-addappid(742320,0,"b0f875874ebbaf0e9bfceabbdf3a411964ef0a1e8c4c98354e9e5f082abb2af1")
-addappid(712071,0,"091ea37b026105ede48e34e6dc3b2adea423f8a11ba1bcdcfcdc8306d7650701")
-addappid(712072,0,"5d7d3672d9299ad57920368cc33fe59da24e4080db92cf50e9f0ecc76c175bce")
+addappid(712071, 1, "091ea37b026105ede48e34e6dc3b2adea423f8a11ba1bcdcfcdc8306d7650701")
+addappid(722270)
+addappid(742320)

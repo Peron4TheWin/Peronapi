@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hyper Space
 addappid(2444290)
-addappid(2444291,0,"815a5bceb72017db4c0c97362a6474bffd20d1678df6e3663199961f6644b801")
+addappid(2444291, 1, "815a5bceb72017db4c0c97362a6474bffd20d1678df6e3663199961f6644b801")

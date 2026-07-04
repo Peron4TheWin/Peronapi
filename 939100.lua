@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Darksburg
 addappid(939100)
-addappid(939101,0,"2d0a76d30b1a84715b229e681ba75d25cb6dd107a9099a5bd323bd3c28c3fe6e")
--- setManifestid(939101,"8411915959101358123")
+addappid(939101, 1, "2d0a76d30b1a84715b229e681ba75d25cb6dd107a9099a5bd323bd3c28c3fe6e")

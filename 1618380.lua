@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spellmasons
 addappid(1618380)
-addappid(1618381,0,"73b59d122bc607f560ad7ec96098492cc814e8422218ddabad14a17a4503cb92")
--- setManifestid(1618381,"4285085957084893626")
+addappid(1618381, 1, "73b59d122bc607f560ad7ec96098492cc814e8422218ddabad14a17a4503cb92")

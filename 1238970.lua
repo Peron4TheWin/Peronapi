@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sudd City Adventures
 addappid(1238970)
-addappid(1238971,0,"16d1d0865abde4bac80d135ff2d3bdd1ce2704b51f182c80f04926520220076c")
--- setManifestid(1238971,"7906353097723967958")
+addappid(1238971, 1, "16d1d0865abde4bac80d135ff2d3bdd1ce2704b51f182c80f04926520220076c")

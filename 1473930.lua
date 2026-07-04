@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Head Worms
 addappid(1473930)
-addappid(1473931,0,"f11f2ef29a577058ce6d1525f51b82376efb47f2ba004ba2af2f9ab6e8e5a8c4")
+addappid(1473931, 1, "f11f2ef29a577058ce6d1525f51b82376efb47f2ba004ba2af2f9ab6e8e5a8c4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Ledgehop: Double Laser
 addappid(787070)
-addappid(787071,0,"6ec17e9769e06fb09218d9d181acbe543781fc5413c1370ee72192a2a301b540")
--- setManifestid(787071,"1755084693183612746")
+addappid(787071, 1, "6ec17e9769e06fb09218d9d181acbe543781fc5413c1370ee72192a2a301b540")

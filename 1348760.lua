@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KARM
 addappid(1348760)
--- setManifestid(228989,"550968249685141759")
--- setManifestid(228990,"1829726630299308803")
-addappid(1348761,0,"02705aa34e15260e64bd52fb3f11cbe8b4b95b00bed58ef1aacc76434be37f56")
--- setManifestid(1348761,"5815655608024877631")
+addappid(1348761, 1, "02705aa34e15260e64bd52fb3f11cbe8b4b95b00bed58ef1aacc76434be37f56")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: War Untold
 addappid(3584360)
-addappid(3584361,0,"695072aa0f23572c39fcd3e1ea7050007e46e17fd97cbd616866409eda80c4e9")
--- setManifestid(3584361,"428321108609971287")
+addappid(3584361, 1, "695072aa0f23572c39fcd3e1ea7050007e46e17fd97cbd616866409eda80c4e9")

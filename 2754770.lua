@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: dont🔥red: SIM💾Trading
 addappid(2754770)
-addappid(2754771,0,"e2ae0f80102baa1bffb6b5f3cc37aefb9d300ef6a2a384ca2efa3bc25395afa7")
--- setManifestid(2754771,"4702554306378826278")
+addappid(2754771, 1, "e2ae0f80102baa1bffb6b5f3cc37aefb9d300ef6a2a384ca2efa3bc25395afa7")

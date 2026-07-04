@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: La Jetée
 addappid(1849300)
-addappid(1849301,0,"880454a7e29d0bd52323da3c23b46b7882b0a8edfff10ce19626d33bb6ee9283")
+addappid(1849301, 1, "880454a7e29d0bd52323da3c23b46b7882b0a8edfff10ce19626d33bb6ee9283")

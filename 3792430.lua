@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tekkout2 - Balls Of Rust
 addappid(3792430)
-addappid(3792431,0,"450a46730a0cfc2c089778cecca0b7845442517cd0f427df3234299a0cfe93b6")
--- setManifestid(3792431,"2679854360024919682")
+addappid(3792431, 1, "450a46730a0cfc2c089778cecca0b7845442517cd0f427df3234299a0cfe93b6")

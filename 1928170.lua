@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ManServant: Yaoi BL Gay Visual Novel Demo
 addappid(1928170)
-addappid(1928171,0,"f77b635c6e753dfbeafa84c1351c9c05fcfdf490441141dab60a7a47ec921e4e")
--- setManifestid(1928171,"3956678795917313035")
+addappid(1928171, 1, "f77b635c6e753dfbeafa84c1351c9c05fcfdf490441141dab60a7a47ec921e4e")

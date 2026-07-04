@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Drone Swarm - Soundtrack
 addappid(1390610)
-addappid(1390611,0,"2a4eeb70766c11d696dacdf02d5b9c32ec18a0489d2a3d070604d47c08a90bf5")
--- setManifestid(1390611,"658425764692209253")
+addappid(1390611, 1, "2a4eeb70766c11d696dacdf02d5b9c32ec18a0489d2a3d070604d47c08a90bf5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Boxing Gym Story
 addappid(1947950)
-addappid(1947951,0,"b30454da0f1e89f72d6c6a0e151353a3a7662cfbf6ec8196f316d205da420242")
--- setManifestid(1947951,"4905452970235004724")
+addappid(1947951, 1, "b30454da0f1e89f72d6c6a0e151353a3a7662cfbf6ec8196f316d205da420242")

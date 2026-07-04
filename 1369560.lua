@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Obsolete
 addappid(1369560)
-addappid(1369561,0,"b531e1fc26b6dd6aeac5c7bf4c8f0519905d644ee161ff41d3f941e74d44b34c")
--- setManifestid(1369561,"3295796099434555354")
+addappid(1369561, 1, "b531e1fc26b6dd6aeac5c7bf4c8f0519905d644ee161ff41d3f941e74d44b34c")

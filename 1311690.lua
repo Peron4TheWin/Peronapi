@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bubble Tea : game for thinking and imagination
 addappid(1311690)
--- setManifestid(228982,"6413394087650432851")
-addappid(1311691,0,"eedd6520bad6936dba75cdb7c0bd855c204459706a14502f247a0fe9d959468c")
--- setManifestid(1311691,"6375348966684505002")
-addappid(1311692,0,"d19a4f3809f2ec76c2cdfa10f5c20e575b46f023b7824e3034a6b892c40b1279")
--- setManifestid(1311692,"6936810233992519652")
+addappid(1311691, 1, "eedd6520bad6936dba75cdb7c0bd855c204459706a14502f247a0fe9d959468c")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Super Treasure Arena
 addappid(338330)
-addappid(338331,0,"50c275b500248b66ac7d70edf348c4b960eef3e6d00d2dba2589c4220dd18a82")
--- setManifestid(338331,"5808064024908840154")
-addappid(338332)
+addappid(338331, 1, "50c275b500248b66ac7d70edf348c4b960eef3e6d00d2dba2589c4220dd18a82")

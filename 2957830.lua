@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kajun's Lucid Room
 addappid(2957830)
-addappid(2957831,0,"cf170c9f188faa422330bbd7815ea19d09cf289e4bf5c60bd3e80b5295fed978")
--- setManifestid(2957831,"6339766536344407209")
+addappid(2957831, 1, "cf170c9f188faa422330bbd7815ea19d09cf289e4bf5c60bd3e80b5295fed978")

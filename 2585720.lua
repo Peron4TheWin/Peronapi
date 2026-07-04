@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Apocalypse 2
 addappid(2585720)
-addappid(2585721,0,"e932bc4d6ffbeeddc250d24bc5e252fbf93b6ddbabb15d917e404cd2bf812d34")
--- setManifestid(2585721,"4395285756561857089")
+addappid(2585721, 1, "e932bc4d6ffbeeddc250d24bc5e252fbf93b6ddbabb15d917e404cd2bf812d34")

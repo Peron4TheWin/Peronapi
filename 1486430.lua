@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 约会模拟器：原型
 addappid(1486430)
-addappid(1486431,0,"6eeaf99945efffe0c7184354eb12357ece5af2d58b252678e5797b274e53bb68")
--- setManifestid(1486431,"1759351381448417470")
+addappid(1486431, 1, "6eeaf99945efffe0c7184354eb12357ece5af2d58b252678e5797b274e53bb68")

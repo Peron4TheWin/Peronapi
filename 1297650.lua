@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: About Gretel
 addappid(1297650)
-addappid(1297651,0,"d02e95c5bebc9d2fc33a447c294d8d6e85d39c8e40b265dd4f6adbb97e7cbe59")
--- setManifestid(1297651,"6060908868243119223")
+addappid(1297651, 1, "d02e95c5bebc9d2fc33a447c294d8d6e85d39c8e40b265dd4f6adbb97e7cbe59")

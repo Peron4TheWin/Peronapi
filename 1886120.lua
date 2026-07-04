@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Voice of Chernobyl
 addappid(1886120)
-addappid(1886121,0,"2b53011f8a6931ac605e20e9dc6535bc22d1d0ee87883be8585b563c6959c3ff")
--- setManifestid(1886121,"886602607415898494")
+addappid(1886121, 1, "2b53011f8a6931ac605e20e9dc6535bc22d1d0ee87883be8585b563c6959c3ff")

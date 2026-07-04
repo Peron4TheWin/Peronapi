@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magic University
 addappid(2872730)
-addappid(2872731,0,"ca86abcd2e1c7a3fdcca6e0eb2b051383b437a344ad43dc95f4261de2acbdbe7")
--- setManifestid(2872731,"7188130963706183426")
+addappid(2872731, 1, "ca86abcd2e1c7a3fdcca6e0eb2b051383b437a344ad43dc95f4261de2acbdbe7")

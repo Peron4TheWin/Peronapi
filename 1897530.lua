@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meat Saw
 addappid(1897530)
-addappid(1897531,0,"544bcf4fd12ef9abd43cb4f3970e452bf23d08cdc020b5c971a55cec395e7ae7")
--- setManifestid(1897531,"6589115274659003003")
+addappid(1897531, 1, "544bcf4fd12ef9abd43cb4f3970e452bf23d08cdc020b5c971a55cec395e7ae7")

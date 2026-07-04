@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Perfect Gold Demo
 addappid(1325750)
-addappid(1325751,0,"b36a042d38a25af4cb17c3d854c657bb7cd07db012a369e5057b6ca3143d705c")
--- setManifestid(1325751,"2278775648227097777")
+addappid(1325751, 1, "b36a042d38a25af4cb17c3d854c657bb7cd07db012a369e5057b6ca3143d705c")

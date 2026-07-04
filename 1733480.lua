@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Diner Bros Inc
 addappid(1733480)
-addappid(1733481,0,"154959c3ce4047f959af33b26883f4ebbed2e6b64a7f0bad061ff2c72ebdeecc")
--- setManifestid(1733481,"5724103675164603196")
+addappid(1733481, 1, "154959c3ce4047f959af33b26883f4ebbed2e6b64a7f0bad061ff2c72ebdeecc")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Singled Out
 addappid(1144150)
-addappid(1144151,0,"35df5da39933eb4d56ad127819fd1ebedf87e8d068505f121ea69a04d5081a20")
--- setManifestid(1144151,"4831877335380347393")
+addappid(1144151, 1, "35df5da39933eb4d56ad127819fd1ebedf87e8d068505f121ea69a04d5081a20")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pressured
 addappid(292620)
--- setManifestid(229012,"4353723233161159493")
-addappid(292621,0,"09bfee949f0f91256aaf4ced48337ad7d88b684cd033d240b891035653299df8")
--- setManifestid(292621,"4074511467886156349")
+addappid(292621, 1, "09bfee949f0f91256aaf4ced48337ad7d88b684cd033d240b891035653299df8")

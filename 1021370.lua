@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slave RPG
 addappid(1021370)
-addappid(1021371,0,"2f0d286c186fcf0e2a3264f442e9a9e926b0aef91874d225614d1d68af852c31")
--- setManifestid(1021371,"3673986864637728302")
+addappid(1021371, 1, "2f0d286c186fcf0e2a3264f442e9a9e926b0aef91874d225614d1d68af852c31")

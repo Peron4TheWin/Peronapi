@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fears of Glasses o-o World War
 addappid(2244840)
-addappid(2244841,0,"211bbe066148b6e1396abe6f3df0a4ab4ea7b2ed19c3d0a04f01b9bc600f1392")
--- setManifestid(2244841,"4483794481903015625")
+addappid(2244841, 1, "211bbe066148b6e1396abe6f3df0a4ab4ea7b2ed19c3d0a04f01b9bc600f1392")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Color Escape 🌈 Playtest
 addappid(3374330)
-addappid(3374331,0,"ae4d94c68dfe0e5b24e95f012db15bc7f2be2528bb571772f857ef7e34c5449a")
--- setManifestid(3374331,"4044260115399956213")
+addappid(3374331, 1, "ae4d94c68dfe0e5b24e95f012db15bc7f2be2528bb571772f857ef7e34c5449a")

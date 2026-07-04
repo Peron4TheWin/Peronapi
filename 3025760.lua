@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark the Dead
 addappid(3025760)
-addappid(3025761,0,"58d651a78c8255b92618be00512ce97ae16c2343250b4471cbfebec1fcc244b5")
--- setManifestid(3025761,"3583781609051410441")
+addappid(3025761, 1, "58d651a78c8255b92618be00512ce97ae16c2343250b4471cbfebec1fcc244b5")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Magical Massage Playtest
 addappid(3488830)
-addappid(3488831,0,"68c9ea1975c87fbfc4a105da6b00938cfe750944e24864f32ad93612f1904272")
--- setManifestid(3488831,"457182095895350745")
+addappid(3488831, 1, "68c9ea1975c87fbfc4a105da6b00938cfe750944e24864f32ad93612f1904272")

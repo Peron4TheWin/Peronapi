@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 月出之时
 addappid(1863540)
-addappid(1863541,0,"bec6e0ed44d1fb50cf956c7c79940ed6705b0f76013e1bca793318324ab6edee")
--- setManifestid(1863541,"3295405848803495283")
+addappid(1863541, 1, "bec6e0ed44d1fb50cf956c7c79940ed6705b0f76013e1bca793318324ab6edee")

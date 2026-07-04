@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zero Punctuation: Hatfall - Hatters Gonna Hat Edition
 addappid(403700)
-addappid(403701,0,"2ecac3b42830cb0153d586ce0c439cceedbe49e6a7ce3eb573f7fd1e4b38c05a")
--- setManifestid(403701,"2016635157006933869")
+addappid(403701, 1, "2ecac3b42830cb0153d586ce0c439cceedbe49e6a7ce3eb573f7fd1e4b38c05a")

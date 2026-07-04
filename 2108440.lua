@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lawless West
 addappid(2108440)
-addappid(2108441,0,"a631c9cfc688af1cbfd72d409116899357f0b7551f9207bbbe5f883e161f84f6")
--- setManifestid(2108441,"5897366527795399764")
+addappid(2108441, 1, "a631c9cfc688af1cbfd72d409116899357f0b7551f9207bbbe5f883e161f84f6")

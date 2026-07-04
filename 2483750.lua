@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Research Story Soundtrack
 addappid(2483750)
-addappid(2483751,0,"e4c05ff6a5c598fd10597c7f7ef972580117cb4af60cc8ac3237a77470001ebc")
--- setManifestid(2483751,"6238877225876284803")
+addappid(2483751, 1, "e4c05ff6a5c598fd10597c7f7ef972580117cb4af60cc8ac3237a77470001ebc")

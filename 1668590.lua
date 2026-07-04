@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Neokaiju
 addappid(1668590)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1668591,0,"2ef439423d4847b1cd5035c46bdee1cf202b72095c90f7e1afdf26ea7a23b6e4")
--- setManifestid(1668591,"6242763425317093622")
+addappid(1668591, 1, "2ef439423d4847b1cd5035c46bdee1cf202b72095c90f7e1afdf26ea7a23b6e4")

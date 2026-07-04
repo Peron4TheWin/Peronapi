@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Last Bloody Snack
 addappid(2499880)
-addappid(2499881,0,"08f685cd58f7548be31515f0a27fb5185c236d663e1d15f67582cb7dc5f8ac17")
--- setManifestid(2499881,"6640492630081314106")
+addappid(2499881, 1, "08f685cd58f7548be31515f0a27fb5185c236d663e1d15f67582cb7dc5f8ac17")

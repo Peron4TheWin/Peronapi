@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 리프 인 부트스트랩 - LEAP IN BOOTSTRAP
 addappid(2544590)
-addappid(2544591,0,"a2a6282e724ebb6e35e21f6c300123192b0faec6d0d2118fdbe6239bceb47431")
--- setManifestid(2544591,"5376408496168611406")
+addappid(2544591, 1, "a2a6282e724ebb6e35e21f6c300123192b0faec6d0d2118fdbe6239bceb47431")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Rosefinch Curse（Ning's Wing 1）
 addappid(530500)
-addappid(530501,0,"4ec4b23d8ad7f77b529750e6eb546f31dca437a0cb99804f839984eb5dee3f2d")
--- setManifestid(530501,"8514332112511917679")
+addappid(530501, 1, "4ec4b23d8ad7f77b529750e6eb546f31dca437a0cb99804f839984eb5dee3f2d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BATTLESCAR: Punk Was Invented By Girls
 addappid(1367270)
-addappid(1367271,0,"913868bf8d9164b40f704127a7a5a590468d89900feb6fa75fabeebcc91d036a")
--- setManifestid(1367271,"7330107670686450325")
+addappid(1367271, 1, "913868bf8d9164b40f704127a7a5a590468d89900feb6fa75fabeebcc91d036a")

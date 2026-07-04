@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Romancing SaGa 2: Revenge of the Seven
 addappid(2455640)
-addappid(2455641,0,"e203486d7b9a34f0df0728458d20a368e5abc9a4a9bcfcf7d3987af942a8be9c")
--- setManifestid(2455641,"3682751951894722619")
+addappid(2455641, 1, "e203486d7b9a34f0df0728458d20a368e5abc9a4a9bcfcf7d3987af942a8be9c")

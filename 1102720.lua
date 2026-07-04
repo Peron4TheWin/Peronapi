@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: THE UNCLEARNESS
 addappid(1102720)
-addappid(1102721,0,"527d67a78614a5811a3fadb2642a0831b7bfac6f8054f6d4974e9aceb2dcbf3b")
--- setManifestid(1102721,"8498490174680922276")
+addappid(1102721, 1, "527d67a78614a5811a3fadb2642a0831b7bfac6f8054f6d4974e9aceb2dcbf3b")

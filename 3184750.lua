@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Five Nights at Restroom 2: A Hellish Soundtrack
 addappid(3184750)
-addappid(3184751,0,"0778c4b842d584148282224491ad802595ac9373a6b54622619588b4ba2ff789")
--- setManifestid(3184751,"5509873513630651684")
+addappid(3184751, 1, "0778c4b842d584148282224491ad802595ac9373a6b54622619588b4ba2ff789")

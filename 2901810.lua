@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Supermrket: El Videojuego de Gestión de Supermercado
 addappid(2901810)
-addappid(2901811,0,"643fa995b4d7c8c5ae45014441b22d8e7d9b294ef57c09cde1c0a88fee8534b9")
--- setManifestid(2901811,"4983460139437654747")
+addappid(2901811, 1, "643fa995b4d7c8c5ae45014441b22d8e7d9b294ef57c09cde1c0a88fee8534b9")

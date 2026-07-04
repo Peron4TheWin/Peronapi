@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Operation Desert Road
 addappid(727320)
-addappid(727321,0,"f2503e86d508424118d891823a19f652a209d4569bf264e46f843bb7d24cac9a")
--- setManifestid(727321,"5971758808940460925")
+addappid(727321, 1, "f2503e86d508424118d891823a19f652a209d4569bf264e46f843bb7d24cac9a")

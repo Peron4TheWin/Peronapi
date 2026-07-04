@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Where wh..? Demo
 addappid(3277380)
-addappid(3277381,0,"10e0cb008b869db81c3fc5f95ed173a99a9cbd349584ba195f838e9ed872d8eb")
--- setManifestid(3277381,"6001580382012226906")
+addappid(3277381, 1, "10e0cb008b869db81c3fc5f95ed173a99a9cbd349584ba195f838e9ed872d8eb")

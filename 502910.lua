@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Return Home Remastered
 addappid(502910)
--- setManifestid(228990,"1829726630299308803")
-addappid(502911,0,"aa0bc2fe517d93996ed37e962c136489fb12ea089dedc486684e710549419808")
--- setManifestid(502911,"8181714944819425840")
+addappid(502911, 1, "aa0bc2fe517d93996ed37e962c136489fb12ea089dedc486684e710549419808")

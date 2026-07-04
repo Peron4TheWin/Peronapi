@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 【VR】イタズラ身体測定 Demo
 addappid(2262140)
-addappid(2262141,0,"eb3e99e57e214a0c61c511a3e0399afded22b4afc567ea786975280f1d27e274")
--- setManifestid(2262141,"4439844313149151192")
+addappid(2262141, 1, "eb3e99e57e214a0c61c511a3e0399afded22b4afc567ea786975280f1d27e274")

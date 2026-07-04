@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: NHRA Championship Drag Racing: Speed For All
 addappid(1681880)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(1681881,0,"0af574fee59dfe8273b36f9446fcd87a0b57fe6e2a28e938712101a1482dde70")
--- setManifestid(1681881,"115254993208182448")
+addappid(1681881, 1, "0af574fee59dfe8273b36f9446fcd87a0b57fe6e2a28e938712101a1482dde70")

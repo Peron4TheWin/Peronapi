@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Axilon: Legend of Artifacts - Prologue
 addappid(1745550)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1745551,0,"4eed9a2a918b7185258b4797a795fc88df3cca15fa5ee9e5cf01d316d2742ed8")
--- setManifestid(1745551,"574806696297422628")
+addappid(1745551, 1, "4eed9a2a918b7185258b4797a795fc88df3cca15fa5ee9e5cf01d316d2742ed8")

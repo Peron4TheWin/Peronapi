@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mannequin The Passing
 addappid(1867590)
-addappid(1867591,0,"33e4ceef4be17ccf4562e9d597e7c430ee7db0d0fd4ecd7193f7bb40592852c1")
--- setManifestid(1867591,"5058393612801664188")
+addappid(1867591, 1, "33e4ceef4be17ccf4562e9d597e7c430ee7db0d0fd4ecd7193f7bb40592852c1")

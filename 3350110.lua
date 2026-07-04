@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Alchemist & His Battle-Scarred Homunculus
 addappid(3350110)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(3350111,0,"6ec28f806a66590f5ffc14d64b32091101b7773ec4a730bb1b3a97d1505c1593")
--- setManifestid(3350111,"6608389959731590292")
+addappid(3350111, 1, "6ec28f806a66590f5ffc14d64b32091101b7773ec4a730bb1b3a97d1505c1593")

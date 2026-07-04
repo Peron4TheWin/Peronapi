@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Insider – interactive movie
 addappid(1304620)
-addappid(1304621,0,"015d534e11ca358bff492fbbd5afdbd3a6e48d68378d8cf7d2d16dfcf422c9d2")
--- setManifestid(1304621,"1295804743526170844")
+addappid(1304621, 1, "015d534e11ca358bff492fbbd5afdbd3a6e48d68378d8cf7d2d16dfcf422c9d2")

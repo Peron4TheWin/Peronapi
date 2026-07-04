@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeon Defenders: Awakened
 addappid(1101190)
-addappid(228987)
-addappid(229005)
-addappid(229033)
-addappid(1101191,0,"6a43114e90d71b1716d5395bd8413a6239add746332f4fc11290d8c4d1e80b0c")
+addappid(1101191, 1, "6a43114e90d71b1716d5395bd8413a6239add746332f4fc11290d8c4d1e80b0c")

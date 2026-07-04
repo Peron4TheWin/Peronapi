@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ego's Spark
 addappid(2579430)
-addappid(2579431,0,"fc02cd196afc6dcab3fa4ba6b1fb019e175bbc1dfc8d4495af9e4c628ce38e62")
--- setManifestid(2579431,"5976060616378871336")
+addappid(2579431, 1, "fc02cd196afc6dcab3fa4ba6b1fb019e175bbc1dfc8d4495af9e4c628ce38e62")

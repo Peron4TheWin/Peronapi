@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AIKAGI
 addappid(1655190)
--- setManifestid(228990,"1829726630299308803")
-addappid(1655191,0,"7bd57e178c9459cde204324258141fa84a5ed4fa076eb262af5be59fbe5f216f")
--- setManifestid(1655191,"3866760673352300163")
+addappid(1655191, 1, "7bd57e178c9459cde204324258141fa84a5ed4fa076eb262af5be59fbe5f216f")

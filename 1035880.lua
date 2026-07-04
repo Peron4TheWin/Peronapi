@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Block Dodge Challenge
 addappid(1035880)
-addappid(1035881,0,"9919e3a1f571c05e4e17a2bf34e365fdccdfbe1e8cee58c1c71a5c9e617f659f")
--- setManifestid(1035881,"113587838944296417")
+addappid(1035881, 1, "9919e3a1f571c05e4e17a2bf34e365fdccdfbe1e8cee58c1c71a5c9e617f659f")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gaucho and the Grassland
 addappid(1670830)
-addappid(1670831,0,"25d97a9c2c1ce80be627123ed6ea94ce1426a9e98ec8bad632731e11737180bf")
+addappid(1670831, 1, "25d97a9c2c1ce80be627123ed6ea94ce1426a9e98ec8bad632731e11737180bf")

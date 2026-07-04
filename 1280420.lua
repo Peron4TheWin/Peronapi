@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mannequin Character Generator
 addappid(1280420)
-addappid(1280421,0,"70f61105b645192b0611a9f846ff09f52918aa66c4756760a6cadd70ced4ff0c")
--- setManifestid(1280421,"5882036724907628856")
+addappid(1280421, 1, "70f61105b645192b0611a9f846ff09f52918aa66c4756760a6cadd70ced4ff0c")

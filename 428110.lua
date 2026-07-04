@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Save Halloween: City of Witches
 addappid(428110)
-addappid(428111,0,"d027d69ab4c17c79472c83238a72187bc2dcdeb8034cf3a579e7b8150f3160c7")
--- setManifestid(428111,"7608817104295646552")
+addappid(428111, 1, "d027d69ab4c17c79472c83238a72187bc2dcdeb8034cf3a579e7b8150f3160c7")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rogue Citadel
 addappid(2782540)
-addappid(2782541,0,"e7a655e8e6d85f7eca94a90bc44053ee1b1b476df0f8bbd5f941171232c5c845")
--- setManifestid(2782541,"5786625611712672843")
+addappid(2782541, 1, "e7a655e8e6d85f7eca94a90bc44053ee1b1b476df0f8bbd5f941171232c5c845")

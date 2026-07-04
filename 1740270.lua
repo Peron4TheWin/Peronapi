@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dynarog 2
 addappid(1740270)
-addappid(1740271,0,"08eab558ac70d216c6af82a228ae7d996fd420fdcf0e8068cc4f1b6d1e3c4457")
--- setManifestid(1740271,"8527589785223654742")
+addappid(1740271, 1, "08eab558ac70d216c6af82a228ae7d996fd420fdcf0e8068cc4f1b6d1e3c4457")

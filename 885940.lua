@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Meritocracy of the Oni & Blade
 addappid(885940)
-addappid(885941,0,"8297c5dc050302f85d9ab6ae4936dabe453bc986ade531e01411885be45ba253")
--- setManifestid(885941,"2891294706720563182")
+addappid(885941, 1, "8297c5dc050302f85d9ab6ae4936dabe453bc986ade531e01411885be45ba253")

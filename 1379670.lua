@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crash'em Derby
 addappid(1379670)
-addappid(1379671,0,"4722b5e3552589d76a909133e29cf9e25c1b9d78a1d243f940baddaea1bde7d7")
--- setManifestid(1379671,"7249993315549147447")
+addappid(1379671, 1, "4722b5e3552589d76a909133e29cf9e25c1b9d78a1d243f940baddaea1bde7d7")

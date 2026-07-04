@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Creepy Tale 2 Soundtrack
 addappid(1688410)
-addappid(1688411,0,"a6747ff09cd607474ac7afd3cf71a6fcb48932ad18419737b7bc199b27f6f67b")
--- setManifestid(1688411,"1809332404475337572")
+addappid(1688411, 1, "a6747ff09cd607474ac7afd3cf71a6fcb48932ad18419737b7bc199b27f6f67b")

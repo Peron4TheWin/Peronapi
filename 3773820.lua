@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Tales: Under Her Watch Forbidden Lessons
 addappid(3773820)
-addappid(3773821,0,"6ce3b47676ae6c1362d26d1b56325711646b7cfde82ae0c75542f801937523d2")
--- setManifestid(3773821,"3718046399255030250")
+addappid(3773821, 1, "6ce3b47676ae6c1362d26d1b56325711646b7cfde82ae0c75542f801937523d2")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mi Mi Mi
 addappid(1097810)
-addappid(1097811,0,"d734ae317f90bbef6fba72ce2e90a4673ba914a4109737c8cbe74da9b842bd15")
--- setManifestid(1097811,"7563605963956905757")
+addappid(1097811, 1, "d734ae317f90bbef6fba72ce2e90a4673ba914a4109737c8cbe74da9b842bd15")

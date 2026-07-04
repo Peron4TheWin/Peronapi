@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GAUGE
+addappid(272990)
+addappid(272991, 1, "4152017286365ca7c9898eec268ca97f64a2f1a0477fb17005065ce47b9368d5")

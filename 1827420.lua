@@ -1,6 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Truck Mechanic: Dangerous Paths - Prologue Playtest
 addappid(1827420)
-addappid(228988)
--- setManifestid(228988,"6645201662696499616")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(1827421,0,"ee7cfae26320db22f559565da380d2ec00567250320e15ff8321f3ef721a81c9")
+addappid(1827421, 1, "ee7cfae26320db22f559565da380d2ec00567250320e15ff8321f3ef721a81c9")

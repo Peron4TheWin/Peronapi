@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Simple Ball: Extended Edition
 addappid(487530)
-addappid(487531,0,"f1ff63bbc8fa9d6bf129eef19fd45a8cf212acbabc2bf036083525408b1fd194")
--- setManifestid(487531,"6764197732581067898")
+addappid(487531, 1, "f1ff63bbc8fa9d6bf129eef19fd45a8cf212acbabc2bf036083525408b1fd194")

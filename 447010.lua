@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bird of Light
 addappid(447010)
-addappid(447011,0,"977accd50098deca48fb4e6ef2d06261abd2336967b3aff68bf12344c2445f87")
--- setManifestid(447011,"8202967991548096095")
+addappid(447011, 1, "977accd50098deca48fb4e6ef2d06261abd2336967b3aff68bf12344c2445f87")

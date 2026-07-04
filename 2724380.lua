@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 夏日事件簿 Summer Fantasy Demo
 addappid(2724380)
-addappid(2724381,0,"30d4089633ab2d466e9b12f4685ce2888fb134190b0b2d142df201a2862c072c")
--- setManifestid(2724381,"6131661740180172477")
+addappid(2724381, 1, "30d4089633ab2d466e9b12f4685ce2888fb134190b0b2d142df201a2862c072c")

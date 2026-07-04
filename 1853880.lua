@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fluid FX
 addappid(1853880)
-addappid(1853881,0,"5c53394cc9a71be03bdea445ea4d6d24c017b915534c0eec6711439dd40fd18d")
--- setManifestid(1853881,"5716021427944801664")
+addappid(1853881, 1, "5c53394cc9a71be03bdea445ea4d6d24c017b915534c0eec6711439dd40fd18d")

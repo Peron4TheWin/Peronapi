@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sex Adventures - Mile High Club
 addappid(1925230)
-addappid(1925231,0,"7cbe6c2ff75799e634165ff2786ec65949fc42a4ab433c207b30ed3f742d3b65")
--- setManifestid(1925231,"5689430845967567223")
+addappid(1925231, 1, "7cbe6c2ff75799e634165ff2786ec65949fc42a4ab433c207b30ed3f742d3b65")

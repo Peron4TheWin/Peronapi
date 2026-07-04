@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lost Daughter
 addappid(1008690)
-addappid(1008691,0,"bbf7c7135f0dab142a30ccec9c96e2503a32888630b2ede6a4bb5bff5ce56e4a")
--- setManifestid(1008691,"2127101679444587516")
+addappid(1008691, 1, "bbf7c7135f0dab142a30ccec9c96e2503a32888630b2ede6a4bb5bff5ce56e4a")

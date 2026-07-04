@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Whore New Ball Game
 addappid(3041500)
-addappid(3041501,0,"903064fbcd62fd88cf2aebcc3275533cbe8f920eb9506afe41c1cbc8c244d790")
--- setManifestid(3041501,"9046990146765451221")
+addappid(3041501, 1, "903064fbcd62fd88cf2aebcc3275533cbe8f920eb9506afe41c1cbc8c244d790")

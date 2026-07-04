@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Caroline's Fantasies
 addappid(2291690)
-addappid(2291691,0,"f7b109338c6e8fd5ae59099b972737b112b2566ed44ff73b3511cc7a12272357")
--- setManifestid(2291691,"9209877018959667318")
+addappid(2291691, 1, "f7b109338c6e8fd5ae59099b972737b112b2566ed44ff73b3511cc7a12272357")

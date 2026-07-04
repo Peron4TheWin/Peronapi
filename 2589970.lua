@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Oh Yeah
 addappid(2589970)
-addappid(2589971,0,"bcac96be5f6d7942ec3816a8f665e71dfb9749f6f7f51537c790fb241b975e9d")
--- setManifestid(2589971,"8772978282896544540")
+addappid(2589971, 1, "bcac96be5f6d7942ec3816a8f665e71dfb9749f6f7f51537c790fb241b975e9d")

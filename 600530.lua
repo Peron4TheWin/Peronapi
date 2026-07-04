@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kautic - The Bald Wizard
 addappid(600530)
-addappid(600531,0,"052cf44b3a1a311cf7a2fd868f0be48683e77d11df1668d1a2c203b2bdc80ac8")
--- setManifestid(600531,"5319137153532683791")
+addappid(600531, 1, "052cf44b3a1a311cf7a2fd868f0be48683e77d11df1668d1a2c203b2bdc80ac8")

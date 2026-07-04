@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Caprice: Domina Noctis
 addappid(3473960)
-addappid(3473961,0,"b70107bbd7074c2eff1b514c72c32520274c72e7e27557405fa243b2471e5363")
--- setManifestid(3473961,"7620853550188739499")
+addappid(3473961, 1, "b70107bbd7074c2eff1b514c72c32520274c72e7e27557405fa243b2471e5363")

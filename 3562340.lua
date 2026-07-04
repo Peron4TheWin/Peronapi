@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Castle Crumble
 addappid(3562340)
-addappid(3562341,0,"034daa3c1ffb1007c688900dd216736bcdc27ef896380ebb6adbb5a18c2231eb")
--- setManifestid(3562341,"9191352857788241981")
+addappid(3562341, 1, "034daa3c1ffb1007c688900dd216736bcdc27ef896380ebb6adbb5a18c2231eb")

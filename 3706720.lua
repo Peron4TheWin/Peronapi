@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 建国同志爱加税TaxKing
 addappid(3706720)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3706721,0,"cc5b7bf1c81bd80701a2c9649e2b5a3a9485eb6945af4891f933b828cd7dbcba")
--- setManifestid(3706721,"1991126046377721636")
+addappid(3706721, 1, "cc5b7bf1c81bd80701a2c9649e2b5a3a9485eb6945af4891f933b828cd7dbcba")

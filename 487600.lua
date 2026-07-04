@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Puzzles Under The Hill
 addappid(487600)
-addappid(487601,0,"cdd4aaa6ee923b21d71a683fb832b27867d2b140b4ff695992d1aa7a4f11b774")
--- setManifestid(487601,"1519880281633917719")
+addappid(487601, 1, "cdd4aaa6ee923b21d71a683fb832b27867d2b140b4ff695992d1aa7a4f11b774")

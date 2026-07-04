@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hashtag Dungeon
 addappid(342130)
-addappid(342131,0,"06ece5c107003a24013388e3d6534f9cc7b3e937ae7122130e2d938ce5e99811")
--- setManifestid(342131,"7316501345810388875")
+addappid(342131, 1, "06ece5c107003a24013388e3d6534f9cc7b3e937ae7122130e2d938ce5e99811")

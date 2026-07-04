@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 三国：我是主公
 addappid(2690160)
-addappid(2690161,0,"224abb10fe6a47c1f7024d4a55c3e76098419be0bd61a338a83714465c3a9bfd")
--- setManifestid(2690161,"4760034934859445372")
+addappid(2690161, 1, "224abb10fe6a47c1f7024d4a55c3e76098419be0bd61a338a83714465c3a9bfd")

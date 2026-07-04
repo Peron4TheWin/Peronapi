@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Ys: The Oath in Felghana
 addappid(207320)
+addappid(207321, 1, "debd8d5675f7e8478017cd8809ea239b5257f2b2b04ddbe4c732910bd6d7f096")
 addappid(228982)
-addappid(207321,0,"debd8d5675f7e8478017cd8809ea239b5257f2b2b04ddbe4c732910bd6d7f096")

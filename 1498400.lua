@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jigsaw Puzzle - Pixel Art Master
 addappid(1498400)
-addappid(1498401,0,"5e56dadd99be15940a99b46b4117b69b43b4a7b05f433a6e12838c3692eb7c7a")
--- setManifestid(1498401,"774644931000161146")
+addappid(1498401, 1, "5e56dadd99be15940a99b46b4117b69b43b4a7b05f433a6e12838c3692eb7c7a")

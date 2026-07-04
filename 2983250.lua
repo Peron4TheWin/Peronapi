@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AIR
 addappid(2983250)
-addappid(2983251,0,"1d2f3c4b812333c9525df635402db7ba20966dc65af74a25b60762dbdfc2691d")
--- setManifestid(2983251,"8381237800707405748")
+addappid(2983251, 1, "1d2f3c4b812333c9525df635402db7ba20966dc65af74a25b60762dbdfc2691d")

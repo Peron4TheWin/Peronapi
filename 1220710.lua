@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ace In Space
 addappid(1220710)
-addappid(1220711,0,"f847baefa7d2aa3ac1ebc59252899cbbc4e4d7c2b0fce87c124972dd673c2379")
--- setManifestid(1220711,"3311345725859750609")
+addappid(1220711, 1, "f847baefa7d2aa3ac1ebc59252899cbbc4e4d7c2b0fce87c124972dd673c2379")

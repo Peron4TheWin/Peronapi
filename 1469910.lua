@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Slobbish Dragon Princess
 addappid(1469910)
-addappid(1469911,0,"5ede1498ec442e31a6bcfc7cc14f07d3fd2d1e8b0a39567c0cc269ac99d668a8")
--- setManifestid(1469911,"544349664981923467")
+addappid(1469911, 1, "5ede1498ec442e31a6bcfc7cc14f07d3fd2d1e8b0a39567c0cc269ac99d668a8")

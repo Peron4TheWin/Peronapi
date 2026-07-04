@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MetaDOS
 addappid(2018740)
-addappid(2018741,0,"eb4d7defacca456b2a0b06946a8018dd3a670f91259b080d49d51201d65b4e97")
--- setManifestid(2018741,"4791387524985093166")
+addappid(2018741, 1, "eb4d7defacca456b2a0b06946a8018dd3a670f91259b080d49d51201d65b4e97")

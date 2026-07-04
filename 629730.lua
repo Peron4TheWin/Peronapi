@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Blade and Sorcery
 addappid(629730)
-addappid(629731,0,"d545f9c050f40882240b3a912f0ff28459b1cef3f95099c86c74a67d0a0e1541")
--- setManifestid(629731,"5670781749314393010")
+addappid(629731, 1, "d545f9c050f40882240b3a912f0ff28459b1cef3f95099c86c74a67d0a0e1541")

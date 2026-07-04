@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MySims™
 addappid(3328900)
-addappid(3328901,0,"cd9abf8d8967b437cfc5d367ea79581dcafcac4bb3d985771448a154d25add28")
--- setManifestid(3328901,"6409707742396952301")
+addappid(3328901, 1, "cd9abf8d8967b437cfc5d367ea79581dcafcac4bb3d985771448a154d25add28")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zeroptian Invasion
 addappid(974110)
-addappid(974111,0,"9a0035ca2a42a83b20a3e488628580f943d6ed8c773a160d9a7e7b6c42fc7386")
--- setManifestid(974111,"6906312067204678785")
+addappid(974111, 1, "9a0035ca2a42a83b20a3e488628580f943d6ed8c773a160d9a7e7b6c42fc7386")

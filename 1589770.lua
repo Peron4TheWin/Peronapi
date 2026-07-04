@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Engine Evolution 2021
 addappid(1589770)
-addappid(1589771,0,"82691a0e2eb97991fe1a36e7b81690e76db146d029852b1ccc6e0281c320c2ae")
--- setManifestid(1589771,"2127432364325488099")
+addappid(1589771, 1, "82691a0e2eb97991fe1a36e7b81690e76db146d029852b1ccc6e0281c320c2ae")

@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Guardian Force - Saturn Tribute
 addappid(1708820)
--- setManifestid(228988,"6645201662696499616")
-addappid(1708821,0,"e225c38f3573d487051bfd94f2ea1cc7d42e7685bc3be06b5b1ce738e4dd7fb3")
--- setManifestid(1708821,"1562854054964850693")
+addappid(1708821, 1, "e225c38f3573d487051bfd94f2ea1cc7d42e7685bc3be06b5b1ce738e4dd7fb3")

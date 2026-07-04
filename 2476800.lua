@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Firefighter Connor - Original Soundtrack
 addappid(2476800)
-addappid(2476801,0,"da5a52b9592a4904304b29780691754f3743be72649d44f41f6f7325f7d9c0a0")
+addappid(2476801, 1, "da5a52b9592a4904304b29780691754f3743be72649d44f41f6f7325f7d9c0a0")

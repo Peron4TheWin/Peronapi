@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mega Man Battle Network Legacy Collection Vol. 1
 addappid(1798010)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1798011,0,"f335202577fd5aab93465e55b2615c01d000af76e2c0abe8cbf3e332a5b7144f")
--- setManifestid(1798011,"6583874429443952093")
+addappid(1798011, 1, "f335202577fd5aab93465e55b2615c01d000af76e2c0abe8cbf3e332a5b7144f")

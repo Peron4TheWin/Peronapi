@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aces Under the Moonlight™
 addappid(1913550)
-addappid(1913551,0,"558cc6d0c92f5f5c290c21886d6bdde71a08549076385e87bb57a7ecce53f55b")
--- setManifestid(1913551,"6170312189860453681")
+addappid(1913551, 1, "558cc6d0c92f5f5c290c21886d6bdde71a08549076385e87bb57a7ecce53f55b")

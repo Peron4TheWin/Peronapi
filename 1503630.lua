@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Arm of Revenge Re-Edition
 addappid(1503630)
-addappid(1503631,0,"45c7e1f0896614cf1c95bc71be35255448ddc6f1caeadc8603264279dc7a5097")
--- setManifestid(1503631,"6042275089771989663")
+addappid(1503631, 1, "45c7e1f0896614cf1c95bc71be35255448ddc6f1caeadc8603264279dc7a5097")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ultra Foodmess 2 Demo
 addappid(2616660)
-addappid(2616661,0,"9fbb30448e08e3730e68e45701a6b2b280fb7c6044cbb0c358dbf0b09de1a1de")
--- setManifestid(2616661,"6880138440520569012")
+addappid(2616661, 1, "9fbb30448e08e3730e68e45701a6b2b280fb7c6044cbb0c358dbf0b09de1a1de")

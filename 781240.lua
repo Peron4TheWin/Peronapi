@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mystical
 addappid(781240)
-addappid(781241,0,"0083ed9a41fefcb3ae35f36de7fe7ab1e6c77851ebfda34941ca58d10a8685ee")
--- setManifestid(781241,"4005058646402154105")
+addappid(781241, 1, "0083ed9a41fefcb3ae35f36de7fe7ab1e6c77851ebfda34941ca58d10a8685ee")

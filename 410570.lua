@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gunjack
 addappid(410570)
--- setManifestid(228985,"3966345552745568756")
--- setManifestid(228990,"1829726630299308803")
-addappid(410571,0,"c3bad4d52eb48b5988f9f81f30da9d2ac4f19c01f10ad0d807aaaf714634a958")
--- setManifestid(410571,"910390335763568672")
+addappid(410571, 1, "c3bad4d52eb48b5988f9f81f30da9d2ac4f19c01f10ad0d807aaaf714634a958")

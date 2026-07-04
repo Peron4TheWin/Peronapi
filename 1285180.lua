@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Maneuver Warfare
 addappid(1285180)
-addappid(1285181,0,"35f59e403d5f9997934b1f2d260e1ac2fbf8e79ef1c57a6512405f5fb7b57346")
--- setManifestid(1285181,"7185795174274889129")
+addappid(1285181, 1, "35f59e403d5f9997934b1f2d260e1ac2fbf8e79ef1c57a6512405f5fb7b57346")

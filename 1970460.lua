@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Garden Galaxy
 addappid(1970460)
-addappid(1970461,0,"7806e0b7701defe8a0d127303ad0fac47982080137280f3c5a94a821f5e4d39a")
--- setManifestid(1970461,"9042865804515896203")
+addappid(1970461, 1, "7806e0b7701defe8a0d127303ad0fac47982080137280f3c5a94a821f5e4d39a")

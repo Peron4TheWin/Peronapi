@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GW: Legacy
 addappid(1585530)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1585531,0,"22abbff8dc91a72a180edc54ebe5ee6dbb2f7acebe1b3e1631db5be6c5ee0181")
--- setManifestid(1585531,"5907073544516843477")
+addappid(1585531, 1, "22abbff8dc91a72a180edc54ebe5ee6dbb2f7acebe1b3e1631db5be6c5ee0181")

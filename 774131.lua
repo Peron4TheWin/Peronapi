@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Nostradamus - The Four Horsemen of the Apocalypse
 addappid(774131)
-addappid(774132,0,"a85ee311f7564e14de9d0fe0fb1d11e20bb9b5f63b3023d422ca27a83c71b0c1")
--- setManifestid(774132,"1049959824005400443")
+addappid(774132, 1, "a85ee311f7564e14de9d0fe0fb1d11e20bb9b5f63b3023d422ca27a83c71b0c1")

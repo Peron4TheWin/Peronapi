@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Eco
 addappid(382310)
-addappid(382312,1,"d0efd69c2526add85dbda57dd9dd17d97f284da29533e13a250a9b8ca031b2f0")
---setManifestid(382312,"3880293562948147542", 0)
+addappid(382311, 1, "3fbe09853da1a7ac7b1aa15652be1895746da18714c1807b011212858c982f51")

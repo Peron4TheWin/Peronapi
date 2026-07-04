@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Inferno
 addappid(615690)
-addappid(615691,0,"e6600fa9f644a31141ea2a2698353df351d4acfc9cb9f40a0dc10a9098cebcde")
--- setManifestid(615691,"2612909653332610904")
+addappid(615691, 1, "e6600fa9f644a31141ea2a2698353df351d4acfc9cb9f40a0dc10a9098cebcde")
+addappid(1421070)

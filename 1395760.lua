@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Reshaping Mars
 addappid(1395760)
-addappid(1395761,0,"758fdf91a59261be0e8aee59f20affd885abafa75557f366806b84fddc83760a")
--- setManifestid(1395761,"8953232690011192812")
+addappid(1395761, 1, "758fdf91a59261be0e8aee59f20affd885abafa75557f366806b84fddc83760a")

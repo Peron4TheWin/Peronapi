@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Just Futanari
 addappid(2257290)
-addappid(2257291,0,"9acff22187ca7e56e65ba03b374f864e7662d49d737228c2f3df9627c5324e0e")
+addappid(2257291, 1, "9acff22187ca7e56e65ba03b374f864e7662d49d737228c2f3df9627c5324e0e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 100 Italy Cats
 addappid(3141130)
-addappid(3141131,0,"a031a5a52cfba1769268c1df773853eca5acca6c5ba2eada1f5f9a4666d7e73d")
--- setManifestid(3141131,"1628375309897612259")
+addappid(3141131, 1, "a031a5a52cfba1769268c1df773853eca5acca6c5ba2eada1f5f9a4666d7e73d")

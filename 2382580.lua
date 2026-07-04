@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: A Game Called Paako
 addappid(2382580)
-addappid(2382581,0,"2f8c8d38240ded01ab76a948500a821eeff40a6744e45f3acc1e65388ad2e3ab")
--- setManifestid(2382581,"3651056540478141054")
+addappid(2382581, 1, "2f8c8d38240ded01ab76a948500a821eeff40a6744e45f3acc1e65388ad2e3ab")
+addappid(2854330)

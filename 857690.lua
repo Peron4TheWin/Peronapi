@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Lagoon Lounge : The Poisonous Fountain
 addappid(857690)
-addappid(857691,0,"eae2e22a2695b6b4f5960e8bc92405df36744dd97a56de12a908f0c5333a587c")
--- setManifestid(857691,"8215490019814479004")
+addappid(857691, 1, "eae2e22a2695b6b4f5960e8bc92405df36744dd97a56de12a908f0c5333a587c")

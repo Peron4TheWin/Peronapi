@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Heroine of the Sniper
 addappid(851950)
-addappid(851951,0,"a357f552bf625a5c8582053fcbbcc4b164324cd70798fcdf5f74cf7c0d4024a9")
+addappid(851951, 1, "a357f552bf625a5c8582053fcbbcc4b164324cd70798fcdf5f74cf7c0d4024a9")

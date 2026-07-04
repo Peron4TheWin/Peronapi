@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sports Bar VR
+addappid(269170)
+addappid(269171, 1, "9a60e9258e22dfcd114e0a1e0b0263ea6d64419cada2a212d7167a5693f466d6")

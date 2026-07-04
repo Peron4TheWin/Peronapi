@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Destiny Star Girlfriend 2
 addappid(2361740)
-addappid(2361741,0,"0b7d8c44dec2f16695405760ccf6c8a8f70411176cce9b1d7c4fb3d672533a0e")
--- setManifestid(2361741,"8408056801611040080")
+addappid(2361741, 1, "0b7d8c44dec2f16695405760ccf6c8a8f70411176cce9b1d7c4fb3d672533a0e")

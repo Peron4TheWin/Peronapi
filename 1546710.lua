@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Vernal Edge
 addappid(1546710)
-addappid(1546711,0,"578fc7607faca3cc714281494a29381c314b482a69da97fb74be258d443cc608")
--- setManifestid(1546711,"73649164517312380")
+addappid(1546711, 1, "578fc7607faca3cc714281494a29381c314b482a69da97fb74be258d443cc608")

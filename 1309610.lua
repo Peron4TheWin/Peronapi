@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Line War
 addappid(1309610)
-addappid(1309611,0,"3dfaf6fe9e949792916333af7a2fb75f03850e8c6b7d5eb63e2ec6e58171fb1d")
--- setManifestid(1309611,"7971397047889364847")
+addappid(1309611, 1, "3dfaf6fe9e949792916333af7a2fb75f03850e8c6b7d5eb63e2ec6e58171fb1d")

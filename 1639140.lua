@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mouse adventure
 addappid(1639140)
-addappid(1639141,0,"d71069e944cf6640a0e90d2232a687797ff4f7a998f8ac1c017dea06be6aaa85")
--- setManifestid(1639141,"8120941688445527204")
+addappid(1639141, 1, "d71069e944cf6640a0e90d2232a687797ff4f7a998f8ac1c017dea06be6aaa85")

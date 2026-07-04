@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Marco & The Galaxy Dragon - Animation Soundtrack
 addappid(1245190)
-addappid(1245191,0,"1903b8055d474c2d9d4a5e066156ca40a671978d8ed6e5dff11b424494912f79")
--- setManifestid(1245191,"5397944307321832117")
+addappid(1245191, 1, "1903b8055d474c2d9d4a5e066156ca40a671978d8ed6e5dff11b424494912f79")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Detroit: Become Human Demo
 addappid(1224230)
-addappid(1224231,0,"a612d52ff30d0fa42cb72462da1807a094453883731b4b9962deee527f59125b")
---setManifestid(1224231,"845649125603801531")
+addappid(1224231, 1, "a612d52ff30d0fa42cb72462da1807a094453883731b4b9962deee527f59125b")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Car Money Chase
 addappid(1493410)
-addappid(1493411,0,"1ee46ee5d4fd7da67d6b0a20a606ef94c1e11e9cb87dd3289ffc3f73ac6a668a")
--- setManifestid(1493411,"1494551862964651867")
+addappid(1493411, 1, "1ee46ee5d4fd7da67d6b0a20a606ef94c1e11e9cb87dd3289ffc3f73ac6a668a")

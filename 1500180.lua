@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Decline's Drops
 addappid(1500180)
-addappid(1500181,0,"8676263f8f81119e5c225e4a75f8913a6cf307e7ffdb5f9541b919bc9416ffc6")
--- setManifestid(1500181,"5207944168500814832")
+addappid(1500181, 1, "8676263f8f81119e5c225e4a75f8913a6cf307e7ffdb5f9541b919bc9416ffc6")

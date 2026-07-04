@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Succubus Heaven Demo
 addappid(2529040)
-addappid(2529041,0,"a152a3baada151ab2a63ae82140314c081ba8ffc30f8a4bf8c425d9f31c7cc98")
--- setManifestid(2529041,"5689326225211036144")
+addappid(2529041, 1, "a152a3baada151ab2a63ae82140314c081ba8ffc30f8a4bf8c425d9f31c7cc98")

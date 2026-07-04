@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: An English Haunting Demo
 addappid(2659590)
-addappid(2659591,0,"652618cedc2e8a244aad28b083685e1e0f0bff602f6cb80639ae429b30153a59")
--- setManifestid(2659591,"1424420024848068627")
+addappid(2659591, 1, "652618cedc2e8a244aad28b083685e1e0f0bff602f6cb80639ae429b30153a59")

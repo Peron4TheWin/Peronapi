@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Crafting
 addappid(1989200)
-addappid(1989201,0,"cd976d224d31036be386443ee1ccdadbf12b213deead3ff9e00ba37ebf3f718f")
--- setManifestid(1989201,"8119145240278189194")
+addappid(1989201, 1, "cd976d224d31036be386443ee1ccdadbf12b213deead3ff9e00ba37ebf3f718f")

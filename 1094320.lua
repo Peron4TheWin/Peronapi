@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 莫比乌斯之环-不属于任何人的交响悲歌-MOBIUS & ELEGY BELONGS TO NOBODY
 addappid(1094320)
-addappid(1094321,0,"5a90843fc4004d71ff3f8407d6cebbe7832c0389558c5c15d5b94a44b8a4c199")
--- setManifestid(1094321,"1772543898218224571")
+addappid(1094321, 1, "5a90843fc4004d71ff3f8407d6cebbe7832c0389558c5c15d5b94a44b8a4c199")

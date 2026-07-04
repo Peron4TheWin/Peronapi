@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Crystal sword
 addappid(1513710)
-addappid(1513711,0,"dc0ddcd8dd02775ca5c3b63f7513eaa1ed1084169c5c445a75e3d54f1532191b")
+addappid(1513711, 1, "dc0ddcd8dd02775ca5c3b63f7513eaa1ed1084169c5c445a75e3d54f1532191b")

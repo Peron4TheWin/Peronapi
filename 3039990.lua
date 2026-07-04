@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: KannaSchool
 addappid(3039990)
-addappid(3039991,0,"ff8af1da02cd16d0b9ec367bc536128062eea4e5e9fa2ae373e6a3d0639804f1")
+addappid(3039991, 1, "ff8af1da02cd16d0b9ec367bc536128062eea4e5e9fa2ae373e6a3d0639804f1")

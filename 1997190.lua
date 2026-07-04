@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Big Tits
 addappid(1997190)
-addappid(1997191,0,"2e0f5d13e9db158eb35c69118e640d165861fb98b1e18db0ddec2396a7ef0d5a")
+addappid(1997191, 1, "2e0f5d13e9db158eb35c69118e640d165861fb98b1e18db0ddec2396a7ef0d5a")

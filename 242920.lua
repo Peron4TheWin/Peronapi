@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Banished
 addappid(242920)
-addappid(242921,0,"5af9db507a72f90aaddccef9f67da11317da1c5267370db1149d6d83eca4622f")
--- setManifestid(242921,"3040704736299968944")
+addappid(242921, 1, "5af9db507a72f90aaddccef9f67da11317da1c5267370db1149d6d83eca4622f")

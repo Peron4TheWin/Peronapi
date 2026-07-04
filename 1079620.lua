@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infinity: Battlescape
 addappid(1079620)
-addappid(1079621,0,"7d6fd42be97f375f0ebc01c829fe2de09a55a58935c1b889e2385d9649726985")
--- setManifestid(1079621,"2703444172386073618")
+addappid(1079621, 1, "7d6fd42be97f375f0ebc01c829fe2de09a55a58935c1b889e2385d9649726985")

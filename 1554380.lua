@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cyberpunk Madness
 addappid(1554380)
-addappid(1554381,0,"91210b99956cdd7a49d070a4b1ccd5a453a970ca706bc71f44668415a1dcc160")
--- setManifestid(1554381,"7194595948846352641")
+addappid(1554381, 1, "91210b99956cdd7a49d070a4b1ccd5a453a970ca706bc71f44668415a1dcc160")

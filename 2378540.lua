@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Dream
 addappid(2378540)
-addappid(2378541,0,"a157813363f6713864f6bc850323df1cb0bf36faf17e1d4a14313bf376ed2acb")
--- setManifestid(2378541,"3745986185116880200")
+addappid(2378541, 1, "a157813363f6713864f6bc850323df1cb0bf36faf17e1d4a14313bf376ed2acb")

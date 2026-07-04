@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: AURORA FLIGHT (オーロラ・フライト)
 addappid(3496950)
-addappid(3496951,0,"6dc6b06ef3c33516d9660698e9537568ee7e4f613a4a4fc3b173bd5aba3e8cde")
--- setManifestid(3496951,"329271086756902459")
+addappid(3496951, 1, "6dc6b06ef3c33516d9660698e9537568ee7e4f613a4a4fc3b173bd5aba3e8cde")

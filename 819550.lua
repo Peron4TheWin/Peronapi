@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Cheese Maze
 addappid(819550)
-addappid(819551,0,"018e508be5dda46de8daca686562ed89019fcafa3a25e141f7fdec0e9a4a7a19")
--- setManifestid(819551,"1051609701070712145")
+addappid(819551, 1, "018e508be5dda46de8daca686562ed89019fcafa3a25e141f7fdec0e9a4a7a19")

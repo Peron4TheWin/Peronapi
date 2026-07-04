@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Polygon Fantasy Battle Simulator
 addappid(2603280)
-addappid(2603281,0,"003477c8c09fd265aed862d659d25139021070513a02aae0019e2d5e64341557")
--- setManifestid(2603281,"680195825029360793")
+addappid(2603281, 1, "003477c8c09fd265aed862d659d25139021070513a02aae0019e2d5e64341557")

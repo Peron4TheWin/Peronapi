@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sunblaze
 addappid(1525660)
-addappid(1525661,0,"05e3edcc8477ecd4d2564e00844915fae0c0cc21f77275101728fb86ef22fed2")
--- setManifestid(1525661,"1873939381144307222")
+addappid(1525661, 1, "05e3edcc8477ecd4d2564e00844915fae0c0cc21f77275101728fb86ef22fed2")

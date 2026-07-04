@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Jetborne Racing
 addappid(1397650)
-addappid(1397651,0,"f3b63776f95b149ef94e99b31df768a616e21cff1a4aa83df04186368819bbfd")
--- setManifestid(1397651,"8623107963311198532")
+addappid(1397651, 1, "f3b63776f95b149ef94e99b31df768a616e21cff1a4aa83df04186368819bbfd")

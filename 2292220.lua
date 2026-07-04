@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dungeons of the Obelisk
 addappid(2292220)
-addappid(2292221,0,"e344244bceb8e12801de19a47eef0853eb8a380110d2f4faf4ff93dbb899690e")
--- setManifestid(2292221,"385860771967955289")
+addappid(2292221, 1, "e344244bceb8e12801de19a47eef0853eb8a380110d2f4faf4ff93dbb899690e")

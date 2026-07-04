@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A TAVERN FOR TEA
 addappid(2319470)
-addappid(2319471,0,"2feb57cc36b4d3c3e24028f23124ee02b8d429d8e4f4ac37c33153e271f4644e")
--- setManifestid(2319471,"5128861044541717663")
+addappid(2319471, 1, "2feb57cc36b4d3c3e24028f23124ee02b8d429d8e4f4ac37c33153e271f4644e")

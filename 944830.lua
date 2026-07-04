@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Swap Swap
 addappid(944830)
-addappid(944831,0,"5a8e8f4f1f9abff7a218323f11bec2bb9bd9b5034d9c1296c1c58aa4b435fc51")
--- setManifestid(944831,"58536493704910794")
+addappid(944831, 1, "5a8e8f4f1f9abff7a218323f11bec2bb9bd9b5034d9c1296c1c58aa4b435fc51")

@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mutant Meltdown
 addappid(2085790)
-addappid(2085791,0,"d1383fe688022c1150042746d280a9f30d8d4ae3183ce36526dd4fa632f71e24")
--- setManifestid(2085791,"7878232333020190846")
-addappid(2085792)
-addappid(2085793)
+addappid(2085791, 1, "d1383fe688022c1150042746d280a9f30d8d4ae3183ce36526dd4fa632f71e24")

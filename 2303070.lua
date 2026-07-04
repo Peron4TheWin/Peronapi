@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Infection Free Zone Playtest
 addappid(2303070)
-addappid(2303071,0,"0c3388a810dab0c654335a04bea2770454a7a74420238c74fe2fab8b67a8a657")
--- setManifestid(2303071,"1508129220846392264")
+addappid(2303071, 1, "0c3388a810dab0c654335a04bea2770454a7a74420238c74fe2fab8b67a8a657")

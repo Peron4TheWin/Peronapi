@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SEXTS
 addappid(2279510)
-addappid(2279511,0,"4fbf057d19f0d6d7537825caaabaf206f93a8947c400ba4187b509601e2a26f9")
--- setManifestid(2279511,"3975114826090783592")
+addappid(2279511, 1, "4fbf057d19f0d6d7537825caaabaf206f93a8947c400ba4187b509601e2a26f9")

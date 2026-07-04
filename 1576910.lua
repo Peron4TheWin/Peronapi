@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hellgate VR
 addappid(1576910)
-addappid(1576911,0,"b72208b153986d1c8baf5c9867a20ad01441653535f37d92a543bab041bbf032")
+addappid(1576911, 1, "b72208b153986d1c8baf5c9867a20ad01441653535f37d92a543bab041bbf032")

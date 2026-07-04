@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Backrooms Experiment
 addappid(2283870)
-addappid(228989)
--- setManifestid(228989,"550968249685141759")
-addappid(228990)
--- setManifestid(228990,"1829726630299308803")
-addappid(2283871,0,"f8189daf891e2783c001ef929169afd4b673312efa35c4a76ca38c8f5cd308cc")
--- setManifestid(2283871,"4458043591853547993")
+addappid(2283871, 1, "f8189daf891e2783c001ef929169afd4b673312efa35c4a76ca38c8f5cd308cc")

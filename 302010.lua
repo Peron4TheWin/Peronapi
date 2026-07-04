@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Blue Flamingo
 addappid(302010)
-addappid(302011,0,"d9bb6393ada1ae048c575764005d20a1b5c1f204796f522e5184ebd9e15ac20e")
--- setManifestid(302011,"3926992306580625976")
+addappid(302011, 1, "d9bb6393ada1ae048c575764005d20a1b5c1f204796f522e5184ebd9e15ac20e")

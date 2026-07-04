@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Temtem: Swarm
 addappid(2510960)
-addappid(2510961,0,"6298e19f83a2a76669f5695059fbdd6bb50c0bd28a05a54f178486de4283e7c4")
--- setManifestid(2510961,"3493714126978554832")
+addappid(2510961, 1, "6298e19f83a2a76669f5695059fbdd6bb50c0bd28a05a54f178486de4283e7c4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Bit Attack
 addappid(458290)
-addappid(458291,0,"8d3f6e61377c9fb630177630f65c0d4e0d0e66ca152743614b98d8df262bbdc3")
--- setManifestid(458291,"5781987518578336516")
+addappid(458291, 1, "8d3f6e61377c9fb630177630f65c0d4e0d0e66ca152743614b98d8df262bbdc3")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Chronicles: Wasteland Assault
 addappid(1683400)
-addappid(1683401,0,"abbbd35ef49d68bafe3d7b0a3558f1148b6a59ab2a88a8a8b8065c6ca132502a")
--- setManifestid(1683401,"6929594180284869948")
+addappid(1683401, 1, "abbbd35ef49d68bafe3d7b0a3558f1148b6a59ab2a88a8a8b8065c6ca132502a")

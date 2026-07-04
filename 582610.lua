@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Z-End
 addappid(582610)
--- setManifestid(228983,"8124929965194586177")
-addappid(582611,0,"41e4dddbed24ff085e8cf56d5a83d628393e320505cf3d47dc0db5436d39b40d")
--- setManifestid(582611,"8438052979426411790")
+addappid(582611, 1, "41e4dddbed24ff085e8cf56d5a83d628393e320505cf3d47dc0db5436d39b40d")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 修真大陆
 addappid(2742140)
-addappid(2742141,0,"1db4e69000be0e9f2181c89605ca836a25fb3c2f599c3eb18a7ccad78a9090c1")
--- setManifestid(2742141,"2960611361199183297")
+addappid(2742141, 1, "1db4e69000be0e9f2181c89605ca836a25fb3c2f599c3eb18a7ccad78a9090c1")

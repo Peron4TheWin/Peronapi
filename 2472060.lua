@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Formula Evolution 2024 Demo
 addappid(2472060)
-addappid(2472061,0,"62cef6a6c79bd3130ca04d74461dde090e4e1f7700957079305b55ea51453e41")
--- setManifestid(2472061,"8897092590854071465")
+addappid(2472061, 1, "62cef6a6c79bd3130ca04d74461dde090e4e1f7700957079305b55ea51453e41")

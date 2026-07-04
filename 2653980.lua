@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Croakoloco Demo
 addappid(2653980)
-addappid(2653981,0,"65404c1f335d518af4ccfe842a00d90cd1b4bae6d6816703db3c5ab551ff6d03")
--- setManifestid(2653981,"3551086498955747875")
+addappid(2653981, 1, "65404c1f335d518af4ccfe842a00d90cd1b4bae6d6816703db3c5ab551ff6d03")

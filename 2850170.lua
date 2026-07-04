@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: TORIDAMA2: Brave Challenge
 addappid(2850170)
-addappid(2850171,0,"bc90cbc7945022fc801981cfde37942aa91f489031afc6f58536fb35d08eced4")
--- setManifestid(2850171,"6702366167952465017")
+addappid(2850171, 1, "bc90cbc7945022fc801981cfde37942aa91f489031afc6f58536fb35d08eced4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aero Tales Online: The World - Anime MMORPG
 addappid(1943610)
-addappid(1943611,0,"5c8e320787e2c06c5a8b631c4ed4513d80fe27fb3895c99bdb358657948dc14c")
--- setManifestid(1943611,"3272038562269599843")
+addappid(1943611, 1, "5c8e320787e2c06c5a8b631c4ed4513d80fe27fb3895c99bdb358657948dc14c")

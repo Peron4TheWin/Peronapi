@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Profi Girls
 addappid(2350370)
-addappid(2350371,0,"95413fffe91984efe09f6aebdfe3f669128d1a66a1bd797d769e3d3ffe3ca38b")
--- setManifestid(2350371,"3034152896385001385")
+addappid(2350371, 1, "95413fffe91984efe09f6aebdfe3f669128d1a66a1bd797d769e3d3ffe3ca38b")
+addappid(2369270)

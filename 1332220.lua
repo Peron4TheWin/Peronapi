@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mightyy's FPS Aim Trainer
 addappid(1332220)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1332221,0,"d50c62898f30a18f0c758ab2ddcedf92d24177fde0ebe683190e253724bbc501")
--- setManifestid(1332221,"3776596789767187310")
+addappid(1332221, 1, "d50c62898f30a18f0c758ab2ddcedf92d24177fde0ebe683190e253724bbc501")

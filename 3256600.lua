@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GUG Demo
 addappid(3256600)
-addappid(3256601,0,"be234326eef0f01aed0d24f37cb42a99c734b3ae961c9bf7268825315933b3ef")
--- setManifestid(3256601,"6306347339019786349")
+addappid(3256601, 1, "be234326eef0f01aed0d24f37cb42a99c734b3ae961c9bf7268825315933b3ef")

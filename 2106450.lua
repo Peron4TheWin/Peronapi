@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brave survivors
 addappid(2106450)
-addappid(2106451,0,"99b429fa06cb244f9d2ddec21aac3b9dd1db398472e86b3b87bcdbbd5bf327b0")
--- setManifestid(2106451,"4686574270672235213")
+addappid(2106451, 1, "99b429fa06cb244f9d2ddec21aac3b9dd1db398472e86b3b87bcdbbd5bf327b0")

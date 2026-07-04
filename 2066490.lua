@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Robot Resistors
 addappid(2066490)
-addappid(2066491,0,"00ddbe82f01507fa0057e648399afb1685c3f12f2c2d016362c2f7a12b22dd87")
--- setManifestid(2066491,"8918179762598687648")
+addappid(2066491, 1, "00ddbe82f01507fa0057e648399afb1685c3f12f2c2d016362c2f7a12b22dd87")

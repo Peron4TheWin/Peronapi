@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - Pizza Shop 1
 addappid(3120300)
-addappid(3120301,0,"987e481fafb2124813fd5311361c0eb12179da3ee5392ab84134a5e19bbc94a4")
--- setManifestid(3120301,"2255954901410703187")
+addappid(3120301, 1, "987e481fafb2124813fd5311361c0eb12179da3ee5392ab84134a5e19bbc94a4")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bad Sector HDD
 addappid(531910)
-addappid(531911,0,"994641595350cae0071e2be44bab1aaa26923f690bbcf30e45e1dbc4bdcf8498")
--- setManifestid(531911,"6812865556390258695")
+addappid(531911, 1, "994641595350cae0071e2be44bab1aaa26923f690bbcf30e45e1dbc4bdcf8498")

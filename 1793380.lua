@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Roll The Cat
 addappid(1793380)
-addappid(1793381,0,"7c8e73dc52b459afca50077693a45e0ab53789dca65d9bfbd4873a655d7d698a")
--- setManifestid(1793381,"9054509509716740988")
+addappid(1793381, 1, "7c8e73dc52b459afca50077693a45e0ab53789dca65d9bfbd4873a655d7d698a")

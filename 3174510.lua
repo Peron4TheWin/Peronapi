@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Who Killed
 addappid(3174510)
-addappid(3174511,0,"03a5f96cce3ed453e7950236f19f264566b1182b9954c6039ff391a5e6ccbdb4")
--- setManifestid(3174511,"2098862614659178831")
+addappid(3174511, 1, "03a5f96cce3ed453e7950236f19f264566b1182b9954c6039ff391a5e6ccbdb4")

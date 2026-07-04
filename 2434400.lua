@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost Simulator
 addappid(2434400)
-addappid(2434401,0,"5d35ca8b47580d846416b344103c60ff1176aed3a6cfc0fbbb5874310c3c3699")
--- setManifestid(2434401,"4629114692126704637")
-addappid(2434402)
-addappid(2434403)
+addappid(2434401, 1, "5d35ca8b47580d846416b344103c60ff1176aed3a6cfc0fbbb5874310c3c3699")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Akatori: Сhapter One
 addappid(2524680)
-addappid(2524681,0,"75f2ffa2aeb2119aa6cfa2b0c741c4705e768a5a976d7cb83674afaa587c0744")
--- setManifestid(2524681,"8929565752267152835")
+addappid(2524681, 1, "75f2ffa2aeb2119aa6cfa2b0c741c4705e768a5a976d7cb83674afaa587c0744")

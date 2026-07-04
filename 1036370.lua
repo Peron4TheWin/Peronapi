@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Flying Red Barrel - The Diary of a Little Aviator
 addappid(1036370)
-addappid(1036371,0,"bff80371a875ed3db2507a62f4a22e2828f9cdbd7be11489f857fcb770aee8f0")
--- setManifestid(1036371,"4872655783519780457")
+addappid(1036371, 1, "bff80371a875ed3db2507a62f4a22e2828f9cdbd7be11489f857fcb770aee8f0")

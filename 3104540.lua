@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SNAP SNAP
 addappid(3104540)
-addappid(3104541,0,"c8ff53b0bfd016ae637f3a3b6753a4e2be959a7fb0155d9c064692482ea54350")
--- setManifestid(3104541,"3087585458698494493")
+addappid(3104541, 1, "c8ff53b0bfd016ae637f3a3b6753a4e2be959a7fb0155d9c064692482ea54350")

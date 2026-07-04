@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SHINRAI - Broken Beyond Despair
 addappid(499910)
-addappid(499911,0,"c38c2e3315b2e55aa77c5fad8ecc362192f7bbbb2fe7bd571f0a42a832965db6")
--- setManifestid(499911,"1711569406442461131")
+addappid(499911, 1, "c38c2e3315b2e55aa77c5fad8ecc362192f7bbbb2fe7bd571f0a42a832965db6")

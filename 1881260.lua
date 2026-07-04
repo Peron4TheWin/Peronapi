@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Greedy Rabbit
 addappid(1881260)
-addappid(1881261,0,"70e24d7ce2c7e0f1b3aff877593a3a05533a4d79be6bd6e76728b7003b44077e")
--- setManifestid(1881261,"8441317803691661330")
+addappid(1881261, 1, "70e24d7ce2c7e0f1b3aff877593a3a05533a4d79be6bd6e76728b7003b44077e")

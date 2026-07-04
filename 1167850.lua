@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Penguin Park 3D
 addappid(1167850)
-addappid(1167851,0,"4435e64b9172c2ed97ad1e86cb77ea14d598834c296df61ace4bc13e7eee2d38")
--- setManifestid(1167851,"6738024967158578575")
+addappid(1167851, 1, "4435e64b9172c2ed97ad1e86cb77ea14d598834c296df61ace4bc13e7eee2d38")

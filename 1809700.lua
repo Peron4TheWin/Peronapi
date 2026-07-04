@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Persona 3 Portable
 addappid(1809700)
-addappid(1809701,0,"e677f23186a5ae4ebe6796b07212f513e806c73871d8ca39e79420bc7c5c7e3c")
--- setManifestid(1809701,"8257035438884176766")
+addappid(1809701, 1, "e677f23186a5ae4ebe6796b07212f513e806c73871d8ca39e79420bc7c5c7e3c")

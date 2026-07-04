@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Contraband Police: Prologue
 addappid(1396240)
-addappid(1396241,0,"c49f850a8ed604c11ed85e7e6279f7b1ebac6f9bddc9b03b73c47431820437c9")
--- setManifestid(1396241,"5537347681244164573")
+addappid(1396241, 1, "c49f850a8ed604c11ed85e7e6279f7b1ebac6f9bddc9b03b73c47431820437c9")

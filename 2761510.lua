@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Handsome Me with 100 Girlfriends!
 addappid(2761510)
-addappid(2761511,0,"16d6a26d0dcbb97c1ff66bd132b37cdb531eb109b2caf4e4cefb37539dac44d6")
--- setManifestid(2761511,"3785655523526797167")
+addappid(2761511, 1, "16d6a26d0dcbb97c1ff66bd132b37cdb531eb109b2caf4e4cefb37539dac44d6")

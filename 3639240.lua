@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: We Are Busy Digging A Hole
 addappid(3639240)
-addappid(3639241,0,"2bd3ddacdc52b9f77d8942b2fa4875e85c161dce44581bf0092d8faa8a0b4959")
--- setManifestid(3639241,"7900718530275943279")
+addappid(3639241, 1, "2bd3ddacdc52b9f77d8942b2fa4875e85c161dce44581bf0092d8faa8a0b4959")

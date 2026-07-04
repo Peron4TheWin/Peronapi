@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: corpo/ghost
 addappid(2844660)
-addappid(2844661,0,"2302961f7fd72429bb9b4ce2394b878cae999f32ee0c8bb07dee55c2c88aa9bc")
--- setManifestid(2844661,"6485540153713769540")
+addappid(2844661, 1, "2302961f7fd72429bb9b4ce2394b878cae999f32ee0c8bb07dee55c2c88aa9bc")

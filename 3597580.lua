@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Earthion
 addappid(3597580)
-addappid(3597581,0,"86019d14a0a621f503dcbc105e3ed6e3e8f0abc3f05c54e50a0385247b95ef12")
--- setManifestid(3597581,"5376952991131874338")
+addappid(3597581, 1, "86019d14a0a621f503dcbc105e3ed6e3e8f0abc3f05c54e50a0385247b95ef12")

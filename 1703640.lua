@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BattleGrounds : War, Tanks And Nukes
 addappid(1703640)
-addappid(1703641,0,"02d17fdc96fedc2b9f3e65222ae11eaec99a0501f1f4a2e0ca8c44a468241d11")
--- setManifestid(1703641,"8706310047115503209")
+addappid(1703641, 1, "02d17fdc96fedc2b9f3e65222ae11eaec99a0501f1f4a2e0ca8c44a468241d11")

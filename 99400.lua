@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Garshasp: The Monster Slayer
 addappid(99400)
-addappid(99401,0,"b103385949025d0c0cda89dbcaa3cbbdf3a59db2977f193326c16d2cc4ce95b6")
--- setManifestid(99401,"2474228653591818614")
+addappid(99401, 1, "b103385949025d0c0cda89dbcaa3cbbdf3a59db2977f193326c16d2cc4ce95b6")

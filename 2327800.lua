@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: STRIPPERS
 addappid(2327800)
-addappid(2327801,0,"70b2ee75a2f941828a5dd40c0ed0764f6f755863a2450ebf50c7f58a28e0d9ca")
--- setManifestid(2327801,"1334531491578349715")
+addappid(2327801, 1, "70b2ee75a2f941828a5dd40c0ed0764f6f755863a2450ebf50c7f58a28e0d9ca")

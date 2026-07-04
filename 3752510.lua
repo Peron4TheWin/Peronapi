@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Mermaid Sirena
 addappid(3752510)
-addappid(3752511,0,"6b8cb4dee36e1ffd781fb216b74e7fb5b947319421acc0dcf7d74dc43072fdcf")
--- setManifestid(3752511,"1633630623282421720")
+addappid(3752511, 1, "6b8cb4dee36e1ffd781fb216b74e7fb5b947319421acc0dcf7d74dc43072fdcf")

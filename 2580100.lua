@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rhythm Master
 addappid(2580100)
-addappid(2580101,0,"96f7e94e8efddb23d453f12528252a1cda3865d4e46c6230dc54f7993f03c6ac")
--- setManifestid(2580101,"7409407525883634801")
+addappid(2580101, 1, "96f7e94e8efddb23d453f12528252a1cda3865d4e46c6230dc54f7993f03c6ac")

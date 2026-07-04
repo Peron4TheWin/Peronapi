@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SUCCUBUS: Prologue
 addappid(1344350)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1344351,0,"7438f7e16f13eeff2663eae9bf57077350ad22a8e0bf14b8f2c4016c868ca157")
--- setManifestid(1344351,"970381106473098355")
+addappid(1344351, 1, "7438f7e16f13eeff2663eae9bf57077350ad22a8e0bf14b8f2c4016c868ca157")

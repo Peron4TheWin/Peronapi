@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Artifact
 addappid(532920)
-addappid(532921,0,"301baa1a59e191a86142cc1de6ff3e1e57c9a08ce9b53f3ebff0a563238280af")
--- setManifestid(532921,"8314844815601900162")
+addappid(532921, 1, "301baa1a59e191a86142cc1de6ff3e1e57c9a08ce9b53f3ebff0a563238280af")

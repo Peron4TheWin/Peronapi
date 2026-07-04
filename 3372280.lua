@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: STORMBLOOD: FINAL FANTASY XIV Original Soundtrack
 addappid(3372280)
-addappid(3372281,0,"238914f54210c1e50aa7a04bc4cda8df17cda8a00a464d52dffa505e0d8a7846")
--- setManifestid(3372281,"7616212957150627920")
+addappid(3372281, 1, "238914f54210c1e50aa7a04bc4cda8df17cda8a00a464d52dffa505e0d8a7846")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Line of War
 addappid(1599210)
-addappid(1599211,0,"dcdb4bc2408fe50aa31a0db1e31501f160a795ab9a80cc3aec97b0ab43b655bb")
--- setManifestid(1599211,"5045817791998464689")
+addappid(1599211, 1, "dcdb4bc2408fe50aa31a0db1e31501f160a795ab9a80cc3aec97b0ab43b655bb")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hypnosis
 addappid(343430)
-addappid(343431,0,"2999782da237069008f3a7c195e4fa061725fcbf9fb8f369cbce9cfec5da2745")
--- setManifestid(343431,"5144434823704902437")
+addappid(343431, 1, "2999782da237069008f3a7c195e4fa061725fcbf9fb8f369cbce9cfec5da2745")

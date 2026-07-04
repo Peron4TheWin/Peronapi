@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Divine Orders
 addappid(3263480)
-addappid(3263481,0,"4e70667795fe15b56387ac9b4ce4984f75ba893db9d07b9a199fafcf9e6b8ed7")
--- setManifestid(3263481,"1073896743991817090")
+addappid(3263481, 1, "4e70667795fe15b56387ac9b4ce4984f75ba893db9d07b9a199fafcf9e6b8ed7")

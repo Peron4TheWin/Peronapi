@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Math Rescue
+addappid(358200)
+addappid(358201, 1, "7478fceb6b1b68ce17e2b64ed5e628ba6209ff223f124bbe76781a5a59f47920")

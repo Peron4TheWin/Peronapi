@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: QuiVr Vanguard
 addappid(581460)
-addappid(228983)
-addappid(581461,0,"935ef491465ee3f1b97da4fa7531424e28ed6b1217c8f5dbd9ed178dcc330aa4")
+addappid(581461, 1, "935ef491465ee3f1b97da4fa7531424e28ed6b1217c8f5dbd9ed178dcc330aa4")

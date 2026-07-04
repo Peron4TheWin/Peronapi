@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Minesweeper Ultimate
 addappid(1736630)
-addappid(1736631,0,"4aa0bb02b29c63442161865df582c78d759d454fcabc12a299d3bc2ec28d2d25")
--- setManifestid(1736631,"4101173757370603134")
+addappid(1736631, 1, "4aa0bb02b29c63442161865df582c78d759d454fcabc12a299d3bc2ec28d2d25")

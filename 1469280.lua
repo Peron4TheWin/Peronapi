@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SuchArt: Creative Space
 addappid(1469280)
-addappid(1469281,0,"19c7916a149f4c8ef28d06ffede21559c8c79db94c0b689d6cb031972ecaa0e5")
--- setManifestid(1469281,"7478784072924892677")
+addappid(1469281, 1, "19c7916a149f4c8ef28d06ffede21559c8c79db94c0b689d6cb031972ecaa0e5")

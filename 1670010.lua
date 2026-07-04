@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Inverse Evolver
 addappid(1670010)
-addappid(1670011,0,"3fc588c1a171bec84bacf0776c15cfa98bed3908035d842294064b702e8a06bb")
--- setManifestid(1670011,"8836661231474207916")
+addappid(1670011, 1, "3fc588c1a171bec84bacf0776c15cfa98bed3908035d842294064b702e8a06bb")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sweet Candy
 addappid(1625020)
-addappid(1625021,0,"2678015b34dc9d217cb44e63c2e3023cbb5d2383791a62f186fed1024ddcddb1")
+addappid(1625021, 1, "2678015b34dc9d217cb44e63c2e3023cbb5d2383791a62f186fed1024ddcddb1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Don’t Tell Mom: I Fed My Stepsister 💦😳
 addappid(3718550)
-addappid(3718551,0,"f71caaf91d4ba19ae00a82a9cb0e9a48971877ccdda34385b105bd62ad2fec63")
--- setManifestid(3718551,"926231270843087180")
+addappid(3718551, 1, "f71caaf91d4ba19ae00a82a9cb0e9a48971877ccdda34385b105bd62ad2fec63")

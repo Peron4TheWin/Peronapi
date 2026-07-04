@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Axxx: Taught and fucked
 addappid(3200590)
-addappid(3200591,0,"b7267ce572e83e799b25f3e8276a38896f4b1500f2cb6ef838a3c33d17f515f8")
--- setManifestid(3200591,"5737822176278015567")
+addappid(3200591, 1, "b7267ce572e83e799b25f3e8276a38896f4b1500f2cb6ef838a3c33d17f515f8")

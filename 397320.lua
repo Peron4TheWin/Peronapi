@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CTU: Counter Terrorism Unit
+addappid(397320)
+addappid(397321, 1, "752015b06beb79c9a6cd7ba719451063e071414a938e168f9fba59a917eef4ed")

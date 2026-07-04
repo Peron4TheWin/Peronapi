@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Casino Slot Machines
 addappid(769150)
-addappid(769151,0,"f5360ac2bf447f35327393878868d409a61f50e3cb56e6d796aeb7509308f07d")
--- setManifestid(769151,"2626016740305830908")
+addappid(769151, 1, "f5360ac2bf447f35327393878868d409a61f50e3cb56e6d796aeb7509308f07d")

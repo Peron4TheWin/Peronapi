@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pantless Demo
 addappid(2993030)
-addappid(2993031,0,"1e12903651a77e2eec329b1d4ccf1ac2b94bd62d5d04543d574581239538b5ad")
--- setManifestid(2993031,"2038283602585208634")
+addappid(2993031, 1, "1e12903651a77e2eec329b1d4ccf1ac2b94bd62d5d04543d574581239538b5ad")

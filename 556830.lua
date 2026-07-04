@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: GemWars
+addappid(556830)
+addappid(556831, 1, "ffcea5914e4ff8f4c93be9e076e4a49457a0bed979f32c2ad8b8d9b521ed0adf")

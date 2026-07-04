@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: G-MODEアーカイブス+ 怒首領蜂大往生DX
 addappid(1751100)
-addappid(1751101,0,"f98d3b09ed8e6763792369a1cff021962ce5a129adf038e9b4e409c2984f6a1e")
--- setManifestid(1751101,"6092230098579472833")
+addappid(1751101, 1, "f98d3b09ed8e6763792369a1cff021962ce5a129adf038e9b4e409c2984f6a1e")

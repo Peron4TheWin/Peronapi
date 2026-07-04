@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Stickman Racer Road Draw 2
 addappid(1004550)
-addappid(1004551,0,"833116d6255d83ec546def7cc5998c214ad482d4cdb1ec2b3863794a24b4276a")
--- setManifestid(1004551,"6649236401778939616")
+addappid(1004551, 1, "833116d6255d83ec546def7cc5998c214ad482d4cdb1ec2b3863794a24b4276a")

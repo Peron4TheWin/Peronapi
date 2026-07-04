@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ARC SEED
 addappid(2332970)
-addappid(2332971,0,"9c6e426e18e62fb015eb102beb68d01ebacfe18e2c5ceb0493e984089f09b36e")
--- setManifestid(2332971,"4857158828148650391")
+addappid(2332971, 1, "9c6e426e18e62fb015eb102beb68d01ebacfe18e2c5ceb0493e984089f09b36e")

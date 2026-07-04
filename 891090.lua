@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: JUST a Game
 addappid(891090)
-addappid(891091,0,"03f150d9d6011deb9f55d7a25f8869fa0fc95b7fd53a89d1337b2c54c7591b9f")
--- setManifestid(891091,"6567133190298126655")
+addappid(891091, 1, "03f150d9d6011deb9f55d7a25f8869fa0fc95b7fd53a89d1337b2c54c7591b9f")

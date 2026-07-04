@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Zombie Rush - Heroes
 addappid(1414840)
-addappid(1414841,0,"e5947f8204743bc233d17859fbfe3b91116cb4e43ae50fc96f5766d58b21bfb4")
--- setManifestid(1414841,"5109660039229257343")
+addappid(1414841, 1, "e5947f8204743bc233d17859fbfe3b91116cb4e43ae50fc96f5766d58b21bfb4")

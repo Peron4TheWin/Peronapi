@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Slingshot VR
 addappid(496950)
-addappid(496951,0,"43d158ceac726bc538ab1464b43cd22dd8b96120cf6bf5a26e11a662659dfd48")
--- setManifestid(496951,"1307712885187443758")
+addappid(496951, 1, "43d158ceac726bc538ab1464b43cd22dd8b96120cf6bf5a26e11a662659dfd48")

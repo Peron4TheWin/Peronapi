@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CastingPlz
 addappid(2831910)
-addappid(2831911,0,"4a1e01f16cc19c6733c81f52ea09dae9c6c59990dba9c518cebaf15cb0bc8818")
--- setManifestid(2831911,"9081353844584702760")
+addappid(2831911, 1, "4a1e01f16cc19c6733c81f52ea09dae9c6c59990dba9c518cebaf15cb0bc8818")

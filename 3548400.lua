@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: How Much Items - Vegetation
 addappid(3548400)
-addappid(3548401,0,"fb583b4f18760739286781d6c929f0272c04cb41f1c3ffcd036801d27b79e047")
--- setManifestid(3548401,"2741299538713275440")
+addappid(3548401, 1, "fb583b4f18760739286781d6c929f0272c04cb41f1c3ffcd036801d27b79e047")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Little Cube Trip
 addappid(1715290)
-addappid(1715291,0,"56160dda07282e60ed95c41f1b093e7894457f9ce22a96e366cd73f033ddb299")
--- setManifestid(1715291,"5613573344159894126")
+addappid(1715291, 1, "56160dda07282e60ed95c41f1b093e7894457f9ce22a96e366cd73f033ddb299")

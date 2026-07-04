@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Forest Home
 addappid(1145970)
-addappid(1145971,0,"0f291ab802444fd888d5e533d663ff047174fea0e3a3cc03a907cae6e36e9d11")
--- setManifestid(1145971,"5410309792719789428")
+addappid(1145971, 1, "0f291ab802444fd888d5e533d663ff047174fea0e3a3cc03a907cae6e36e9d11")

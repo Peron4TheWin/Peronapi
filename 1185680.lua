@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: White Wings ホワイトウィングス
 addappid(1185680)
--- setManifestid(228985,"3966345552745568756")
--- setManifestid(228990,"1829726630299308803")
-addappid(1185681,0,"a0dde99ee657f5a61a2e536c6fd061bfd111245478d0509d027b8a6af66825e1")
--- setManifestid(1185681,"876791438201194767")
+addappid(1185681, 1, "a0dde99ee657f5a61a2e536c6fd061bfd111245478d0509d027b8a6af66825e1")

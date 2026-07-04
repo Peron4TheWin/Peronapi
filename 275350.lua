@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sentinel 3: Homeworld
 addappid(275350)
-addappid(275351,0,"4af0970a03d78b4db2befdc73f28af445c9c75f71bde31176438e5b1bdfe7bd0")
--- setManifestid(275351,"1073883197060089874")
+addappid(275351, 1, "4af0970a03d78b4db2befdc73f28af445c9c75f71bde31176438e5b1bdfe7bd0")

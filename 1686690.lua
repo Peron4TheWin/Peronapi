@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 408 - The Forbidden Room
 addappid(1686690)
-addappid(1686691,0,"80c0961c64c0a8f3b0dfe00f943b5fd2dce70e1b1abd681ece25c7ef8da1c95f")
+addappid(1686691, 1, "80c0961c64c0a8f3b0dfe00f943b5fd2dce70e1b1abd681ece25c7ef8da1c95f")

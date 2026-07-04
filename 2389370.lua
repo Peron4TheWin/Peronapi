@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Minigolf Blast Demo
 addappid(2389370)
-addappid(2389371,0,"1be08c8b27359801669114b36c09dcc75c8ae51ad3b95710b5597410ce6a52a1")
--- setManifestid(2389371,"197394213767991306")
+addappid(2389371, 1, "1be08c8b27359801669114b36c09dcc75c8ae51ad3b95710b5597410ce6a52a1")

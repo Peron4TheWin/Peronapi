@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hellwatch
 addappid(2468720)
-addappid(2468721,0,"fb2edba494f90cac58d1ffa959f16fae97a8efe81e922810b43136c13bc4be2b")
--- setManifestid(2468721,"4187852217634701883")
+addappid(2468721, 1, "fb2edba494f90cac58d1ffa959f16fae97a8efe81e922810b43136c13bc4be2b")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twickles
 addappid(695110)
-addappid(695111,0,"b836d18110aaca3874b4f36d911043a0da379424ed9bbedbb6cfc6ef6199f71a")
+addappid(695111, 1, "b836d18110aaca3874b4f36d911043a0da379424ed9bbedbb6cfc6ef6199f71a")

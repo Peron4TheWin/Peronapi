@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Finnish Cottage 8
 addappid(3297630)
-addappid(3297631,0,"69f295c140b9d2d3557abc852cd21fc1635d8ea1c1cb47af8995dbc9bf5a460a")
+addappid(3297631, 1, "69f295c140b9d2d3557abc852cd21fc1635d8ea1c1cb47af8995dbc9bf5a460a")

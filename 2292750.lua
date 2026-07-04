@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mind The Pipes!
 addappid(2292750)
-addappid(2292751,0,"bc69c490447d0a88edad7f8326fd88faac67b07b823d0b2389d1f1bece09007f")
--- setManifestid(2292751,"4907018265284004816")
+addappid(2292751, 1, "bc69c490447d0a88edad7f8326fd88faac67b07b823d0b2389d1f1bece09007f")

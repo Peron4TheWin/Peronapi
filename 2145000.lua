@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Twilight Of The Gods
 addappid(2145000)
-addappid(2145001,0,"a1ce616ab342c643a569516170653bd1432e89db9d8291920fbe70d60fae2a04")
--- setManifestid(2145001,"8195780941062964156")
+addappid(2145001, 1, "a1ce616ab342c643a569516170653bd1432e89db9d8291920fbe70d60fae2a04")

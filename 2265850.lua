@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 觅长生 原声带
 addappid(2265850)
-addappid(2265851,0,"263e1ca29eb134b77ea9400b83cd563cfff27f55bf7430922bcc23ee0d751867")
--- setManifestid(2265851,"5939702254273369189")
+addappid(2265851, 1, "263e1ca29eb134b77ea9400b83cd563cfff27f55bf7430922bcc23ee0d751867")

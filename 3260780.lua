@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hyper Flux Demo
 addappid(3260780)
-addappid(3260781,0,"a6e42f2a90daa4493491510d83e9dfa4ba49585c0e6b149c598f1978a24fd875")
--- setManifestid(3260781,"2950292871605897496")
+addappid(3260781, 1, "a6e42f2a90daa4493491510d83e9dfa4ba49585c0e6b149c598f1978a24fd875")

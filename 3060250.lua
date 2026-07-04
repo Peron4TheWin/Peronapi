@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tropical Monster Girls
 addappid(3060250)
-addappid(3060251,0,"10faf374ab755aee0b0b7ee8cca6ecda9f081c2ea84dda8884ea9ff1333ebcc8")
--- setManifestid(3060251,"6048763090228271791")
+addappid(3060251, 1, "10faf374ab755aee0b0b7ee8cca6ecda9f081c2ea84dda8884ea9ff1333ebcc8")

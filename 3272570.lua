@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ghost Frequency Demo
 addappid(3272570)
-addappid(3272571,0,"8f1d8d5c53bf949aa5af07c0f86616107a0ad7845e70101f5615d02c133b167b")
--- setManifestid(3272571,"9038828495531584264")
+addappid(3272571, 1, "8f1d8d5c53bf949aa5af07c0f86616107a0ad7845e70101f5615d02c133b167b")

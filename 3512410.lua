@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Natsuki
 addappid(3512410)
-addappid(3512411,0,"d2a3a34349dfb373b8b148863c65abf1d71a52df4e40b92b9821939c735c7487")
--- setManifestid(3512411,"2450031170590533836")
+addappid(3512411, 1, "d2a3a34349dfb373b8b148863c65abf1d71a52df4e40b92b9821939c735c7487")

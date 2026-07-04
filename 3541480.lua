@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: MIRROR MIRROR
 addappid(3541480)
--- setManifestid(228989,"3514306556860204959")
--- setManifestid(228990,"1829726630299308803")
-addappid(3541481,0,"3c19cbae470f0dbcfe52285502eff136245f5c336eb6324ae64386b1e3fe04a3")
--- setManifestid(3541481,"4500351467106993709")
+addappid(3541481, 1, "3c19cbae470f0dbcfe52285502eff136245f5c336eb6324ae64386b1e3fe04a3")

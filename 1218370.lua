@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gravity Escape Demo
 addappid(1218370)
-addappid(1218371,0,"37b279515aeaa20f08f23620ec8c88710b38b04673f353a0a1aa17017ee9888f")
--- setManifestid(1218371,"685637129918820930")
+addappid(1218371, 1, "37b279515aeaa20f08f23620ec8c88710b38b04673f353a0a1aa17017ee9888f")

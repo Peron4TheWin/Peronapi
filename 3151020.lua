@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Easy Ball Game
 addappid(3151020)
-addappid(3151021,0,"d557891ebb35427b41efca3b1b4634a3a8e060bb67ea747884d2be91c3c2ef1a")
--- setManifestid(3151021,"1378588533378662411")
+addappid(3151021, 1, "d557891ebb35427b41efca3b1b4634a3a8e060bb67ea747884d2be91c3c2ef1a")

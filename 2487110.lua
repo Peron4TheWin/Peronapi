@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alchemy Deck
 addappid(2487110)
-addappid(2487111,0,"61fa3e9fb9a71985407a2471555bda497ab60be017d681a7aedf1c1c4baa491b")
--- setManifestid(2487111,"8812081558346492475")
+addappid(2487111, 1, "61fa3e9fb9a71985407a2471555bda497ab60be017d681a7aedf1c1c4baa491b")

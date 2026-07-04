@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Touhou Multi Scroll Shooting
 addappid(1125000)
--- setManifestid(228986,"8782296191957114623")
--- setManifestid(228990,"1829726630299308803")
-addappid(1125001,0,"1ca748ebf9daa041d0d3066ea5a38648a0674f9dd01bda25c57e73f04413ce14")
--- setManifestid(1125001,"6616349394690133898")
+addappid(1125001, 1, "1ca748ebf9daa041d0d3066ea5a38648a0674f9dd01bda25c57e73f04413ce14")

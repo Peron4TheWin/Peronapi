@@ -1,4 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desolate City: Last Show
 addappid(2687960)
--- setManifestid(228989,"3514306556860204959")
-addappid(2687961,0,"05ac3c627af505fd24d61818a93ad79f128bbef1d9023b33e2ceee66cacb57b7")
--- setManifestid(2687961,"3986674867191654211")
+addappid(2687961, 1, "05ac3c627af505fd24d61818a93ad79f128bbef1d9023b33e2ceee66cacb57b7")

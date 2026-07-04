@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shaped Beats
 addappid(1783180)
-addappid(1783181,0,"2beab4f5a5892c20d66fd602a33a3765c923a6f01b082452161a5c2b027867aa")
--- setManifestid(1783181,"6045465239435901542")
+addappid(1783181, 1, "2beab4f5a5892c20d66fd602a33a3765c923a6f01b082452161a5c2b027867aa")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Idling Idol
 addappid(1826450)
-addappid(1826451,0,"983086a1b73aafe5445a86da27d0e1599b83fabc5cb5fc4d79c0b26520249767")
--- setManifestid(1826451,"1929931299261800182")
+addappid(1826451, 1, "983086a1b73aafe5445a86da27d0e1599b83fabc5cb5fc4d79c0b26520249767")

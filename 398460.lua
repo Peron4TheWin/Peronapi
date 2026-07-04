@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mooch
+addappid(398460)
+addappid(398461, 1, "5898a9d7627441d70ecc2c8ef8ec6df3ed99313061e626c879fd4703f5730c9d")

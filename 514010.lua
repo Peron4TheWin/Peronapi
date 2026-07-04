@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Football Mogul 15
 addappid(514010)
-addappid(514011,0,"c17c9678e5bf31944cbff3583b1f0d15667a0b84c69b64e84b128b9c918ba39d")
--- setManifestid(514011,"7562245537127008561")
+addappid(514011, 1, "c17c9678e5bf31944cbff3583b1f0d15667a0b84c69b64e84b128b9c918ba39d")

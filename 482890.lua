@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fantasy Kingdom Simulator
 addappid(482890)
-addappid(482891,0,"e4a3f99e99db05497e95c6fc945f41609ae2491402624ff239d6211f8827b8b3")
--- setManifestid(482891,"6757635703680779701")
+addappid(482891, 1, "e4a3f99e99db05497e95c6fc945f41609ae2491402624ff239d6211f8827b8b3")

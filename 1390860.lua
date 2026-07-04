@@ -1,5 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Re: Award
 addappid(1390860)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1390861,0,"f76fa2df10d70517c030f6eaee7849a55aa4b3df20b933ba44f180829bf8c585")
--- setManifestid(1390861,"1951774311571847877")
+addappid(1390861, 1, "f76fa2df10d70517c030f6eaee7849a55aa4b3df20b933ba44f180829bf8c585")
+addappid(1864760)

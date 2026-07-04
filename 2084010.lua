@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CosmoOdyssey:Trip to Mars
 addappid(2084010)
-addappid(2084011,0,"a17b0dd75bafcc900675e81c2bd8036aec038f873e26fe0034827fdedae42326")
--- setManifestid(2084011,"6046817151765515073")
+addappid(2084011, 1, "a17b0dd75bafcc900675e81c2bd8036aec038f873e26fe0034827fdedae42326")

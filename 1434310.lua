@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: PAW Patrol The Movie: Adventure City Calls
 addappid(1434310)
-addappid(1434311,0,"4977cb9a9b46e50971758a0cd55ae5013f7234c125425aa650cd2423b31756d1")
--- setManifestid(1434311,"7187117819042592980")
+addappid(1434311, 1, "4977cb9a9b46e50971758a0cd55ae5013f7234c125425aa650cd2423b31756d1")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Brutalism22
 addappid(2326720)
-addappid(2326721,0,"c806c886b1acf849e904239dafc0d09ccbf287060aa3756fd38f188741f705f6")
--- setManifestid(2326721,"4347982727658761449")
+addappid(2326721, 1, "c806c886b1acf849e904239dafc0d09ccbf287060aa3756fd38f188741f705f6")

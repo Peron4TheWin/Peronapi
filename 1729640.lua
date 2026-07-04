@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: COROCONNECT
 addappid(1729640)
-addappid(1729641,0,"fbc8cdeeb499cc366acb297c2b411b871863dc8278cce63bfda0b6c8a53c4c1b")
--- setManifestid(1729641,"4116298359827740401")
+addappid(1729641, 1, "fbc8cdeeb499cc366acb297c2b411b871863dc8278cce63bfda0b6c8a53c4c1b")

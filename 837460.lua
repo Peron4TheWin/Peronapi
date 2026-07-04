@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Batbarian: Testament of the Primordials
 addappid(837460)
-addappid(837461,0,"31604419cb623099cd2b262eaacd059b5c2be7f7c9c380045057a9c7035f55f3")
--- setManifestid(837461,"1564084889960891361")
+addappid(837461, 1, "31604419cb623099cd2b262eaacd059b5c2be7f7c9c380045057a9c7035f55f3")

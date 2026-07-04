@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Chef Chen Demo
 addappid(1690170)
-addappid(1690171,0,"cb6bae25f16472762c9a678af1ad938b1eb8a11c5379739f34271ecf2170c927")
--- setManifestid(1690171,"2788757623731106707")
+addappid(1690171, 1, "cb6bae25f16472762c9a678af1ad938b1eb8a11c5379739f34271ecf2170c927")

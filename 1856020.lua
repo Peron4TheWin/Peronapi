@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Gav-Gav Odyssey
 addappid(1856020)
-addappid(1856021,0,"9a3ba979d4bca34f7191569c85483c4bd83300e0911d505d2c37f8c4d1ab4b48")
--- setManifestid(1856021,"7683724875292138932")
+addappid(1856021, 1, "9a3ba979d4bca34f7191569c85483c4bd83300e0911d505d2c37f8c4d1ab4b48")

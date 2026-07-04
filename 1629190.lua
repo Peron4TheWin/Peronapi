@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Spin the World
 addappid(1629190)
-addappid(1629191,0,"26a0aa420223e9bf369f2c821f7ce20a8ac29798b1b22608d20255ecbedbd2ba")
--- setManifestid(1629191,"834627362695898009")
+addappid(1629191, 1, "26a0aa420223e9bf369f2c821f7ce20a8ac29798b1b22608d20255ecbedbd2ba")

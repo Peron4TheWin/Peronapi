@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Game Dev Story
 addappid(1847240)
-addappid(1847241,0,"316b58f994e1005791c2f53ca2cab51044379eef9d51a1fdea4c72cc0e7fd0dd")
--- setManifestid(1847241,"8735648231807345950")
+addappid(1847241, 1, "316b58f994e1005791c2f53ca2cab51044379eef9d51a1fdea4c72cc0e7fd0dd")

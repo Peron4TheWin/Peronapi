@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Summertime Madness
 addappid(1360550)
-addappid(1360551,0,"88e96a4750f64907997164c910e3f37164d77eb97bcd78e2aaad0d0b48626576")
--- setManifestid(1360551,"2017691528117915934")
+addappid(1360551, 1, "88e96a4750f64907997164c910e3f37164d77eb97bcd78e2aaad0d0b48626576")

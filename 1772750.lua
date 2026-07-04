@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 知更鸟-The Robin
 addappid(1772750)
-addappid(1772751,0,"0503da90b3ae6239597e5c705fb43dd0e5e61377e3f56569af08260367939cac")
--- setManifestid(1772751,"6954215465293901935")
+addappid(1772751, 1, "0503da90b3ae6239597e5c705fb43dd0e5e61377e3f56569af08260367939cac")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ignition
 addappid(577990)
-addappid(577991,0,"6a2759a6f45be3210ddd55d7e5e098b5f797d13af09d8113d9613707e049ab19")
--- setManifestid(577991,"2800999711706544689")
+addappid(577991, 1, "6a2759a6f45be3210ddd55d7e5e098b5f797d13af09d8113d9613707e049ab19")

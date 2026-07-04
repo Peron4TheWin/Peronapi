@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Streng Check
 addappid(295650)
-addappid(295651,0,"0764158fa8c6180394b819302d495dfbb4cd954d8ffc357a33bb58ddc934d387")
+addappid(295651, 1, "0764158fa8c6180394b819302d495dfbb4cd954d8ffc357a33bb58ddc934d387")

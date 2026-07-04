@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Dark Destruction
 addappid(2969220)
-addappid(2969221,0,"36697b1089f0ef683eb823c882721819aee6e5e9cf310576f2e71ff33f9be2e2")
--- setManifestid(2969221,"1713629003794691926")
+addappid(2969221, 1, "36697b1089f0ef683eb823c882721819aee6e5e9cf310576f2e71ff33f9be2e2")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Loplight
 addappid(2074690)
-addappid(2074691,0,"6fdfb5e68d876010ac534f1e61efec5515711ab47fdc86e16a14915da14192b7")
--- setManifestid(2074691,"5691669491226488077")
+addappid(2074691, 1, "6fdfb5e68d876010ac534f1e61efec5515711ab47fdc86e16a14915da14192b7")

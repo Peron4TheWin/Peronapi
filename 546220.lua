@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Red Comrades 3: Return of Alaska. Reloaded
 addappid(546220)
-addappid(546221,0,"b744d30c693041db167dd73f04fabc67e93fdef5dc8ab2bccc9c8ded271d9888")
--- setManifestid(546221,"1998058206530286645")
+addappid(546221, 1, "b744d30c693041db167dd73f04fabc67e93fdef5dc8ab2bccc9c8ded271d9888")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Naughty Elves
 addappid(750620)
-addappid(750621,0,"f59740924d666cc5501eeb2ce677d3c1a09351f3077a8cb566d70cd7b9d112ef")
--- setManifestid(750621,"2659379778157294315")
+addappid(750621, 1, "f59740924d666cc5501eeb2ce677d3c1a09351f3077a8cb566d70cd7b9d112ef")

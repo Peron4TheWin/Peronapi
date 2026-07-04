@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Dragoness: Command of the Flame
 addappid(1413580)
-addappid(1413581,0,"de7a4df3b6293909ff32bec044f23df6b72be11a7a08b580ac928a588f50676c")
--- setManifestid(1413581,"2056247311303772774")
+addappid(1413581, 1, "de7a4df3b6293909ff32bec044f23df6b72be11a7a08b580ac928a588f50676c")

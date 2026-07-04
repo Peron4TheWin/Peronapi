@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Epic Ninja
 addappid(2167830)
-addappid(2167831,0,"5477085bd0b077cd24bf42f2e475b58bf9485f73659c3e2a45540644c0ff7041")
+addappid(2167831, 1, "5477085bd0b077cd24bf42f2e475b58bf9485f73659c3e2a45540644c0ff7041")

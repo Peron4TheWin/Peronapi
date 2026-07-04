@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Shards of Azuria
 addappid(498340)
-addappid(498341,0,"7365644aaeb8a84d2a905930f699c0a132b68d759f2e4aab8388748e0715ffca")
--- setManifestid(498341,"4297376890890868961")
+addappid(498341, 1, "7365644aaeb8a84d2a905930f699c0a132b68d759f2e4aab8388748e0715ffca")

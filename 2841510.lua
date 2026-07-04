@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hell Survivors
 addappid(2841510)
-addappid(2841511,0,"1032287b6c2a300b2e1f60fb98fbaa7eafa7fe0807c0d2d5e6d67cf3dc675eb1")
--- setManifestid(2841511,"839119844432356833")
+addappid(2841511, 1, "1032287b6c2a300b2e1f60fb98fbaa7eafa7fe0807c0d2d5e6d67cf3dc675eb1")

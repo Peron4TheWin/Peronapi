@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Trash Patrol - Academic Version
 addappid(1969130)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1969131,0,"6c5ba7cd3cb1cdaf1339116b0239367dbc1754f764079c6a0b1b3476a8163e34")
--- setManifestid(1969131,"5479525938376339012")
+addappid(1969131, 1, "6c5ba7cd3cb1cdaf1339116b0239367dbc1754f764079c6a0b1b3476a8163e34")

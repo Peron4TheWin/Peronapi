@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Space Memory: Cats
 addappid(3188840)
-addappid(3188841,0,"91e7d362f535528a0055ee0577198cf6dfe91037514316c81c4a1c19c5c3fc29")
--- setManifestid(3188841,"1607537070330534092")
+addappid(3188841, 1, "91e7d362f535528a0055ee0577198cf6dfe91037514316c81c4a1c19c5c3fc29")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 101 Cats in Barcelona
 addappid(3725360)
-addappid(3725361,0,"81b9fd89f33eb124e53cb55d3642d32ebad5ccfade4486d3dcd459b6428e518e")
--- setManifestid(3725361,"653908630029504352")
+addappid(3725361, 1, "81b9fd89f33eb124e53cb55d3642d32ebad5ccfade4486d3dcd459b6428e518e")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pixel Puzzles Musical
 addappid(1005230)
-addappid(1005231,0,"c118c7f8752f3e4917309809cf8702dd1c75648a4b6d76d540d50c6b38f82230")
--- setManifestid(1005231,"1488671269485681945")
+addappid(1005231, 1, "c118c7f8752f3e4917309809cf8702dd1c75648a4b6d76d540d50c6b38f82230")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Disillusion
 addappid(1490060)
-addappid(1490061,0,"0c790ee53fc6ff2598ec1cc3b8dc029f0313a5ac921f4847020833add49e8596")
--- setManifestid(1490061,"4033542740180994343")
+addappid(1490061, 1, "0c790ee53fc6ff2598ec1cc3b8dc029f0313a5ac921f4847020833add49e8596")

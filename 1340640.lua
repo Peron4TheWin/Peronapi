@@ -1,7 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: HORROR TALES: The Wine
 addappid(1340640)
-addappid(228988)
---setManifestid(228988,"6645201662696499616")
-addappid(228990)
---setManifestid(228990,"5087715316087945828")
-addappid(1340641,0,"83c5bd6cc2bfc156943de3a99386d601af5d1949d6a39d2ff1d00031a7cc4377")
---setManifestid(1340641,"6792274349771122596")
+addappid(1340641, 1, "83c5bd6cc2bfc156943de3a99386d601af5d1949d6a39d2ff1d00031a7cc4377")

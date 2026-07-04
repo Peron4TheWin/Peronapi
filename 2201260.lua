@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Fiend Heart
 addappid(2201260)
-addappid(2201261,0,"5a8fcf74d10a9527a129c5a59fc80554c826cf3d364ec05ad7c95191e953dc9e")
--- setManifestid(2201261,"472960044666451626")
+addappid(2201261, 1, "5a8fcf74d10a9527a129c5a59fc80554c826cf3d364ec05ad7c95191e953dc9e")
+addappid(2223210)

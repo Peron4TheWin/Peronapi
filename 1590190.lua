@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Self-Delusion
 addappid(1590190)
-addappid(1590191,0,"ab997772a93e5e05bd05270da8ef242023dedf34708932abdf89cace134e45af")
--- setManifestid(1590191,"2998114731784353961")
+addappid(1590191, 1, "ab997772a93e5e05bd05270da8ef242023dedf34708932abdf89cace134e45af")

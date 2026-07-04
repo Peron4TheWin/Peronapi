@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hired 2 Die Demo
 addappid(2456940)
-addappid(2456941,0,"03d95fac258ecc3163ee5d60c5d72fe61d4544f9ba000a875a37f67efb06bb02")
--- setManifestid(2456941,"5120466825444054650")
+addappid(2456941, 1, "03d95fac258ecc3163ee5d60c5d72fe61d4544f9ba000a875a37f67efb06bb02")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Battlemon
 addappid(2236220)
-addappid(2236221,0,"14d99a1ada07267ab4d46c15184ae44bee9caf112afd353e03098a24e3d0b337")
--- setManifestid(2236221,"2063923073262158973")
+addappid(2236221, 1, "14d99a1ada07267ab4d46c15184ae44bee9caf112afd353e03098a24e3d0b337")

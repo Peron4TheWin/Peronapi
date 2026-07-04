@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: VALHALL: Harbinger
 addappid(908740)
-addappid(908741,0,"6a4ef14a9a771dec545a2dce729836be397b17132eaf6af86be9584cec9d93ed")
--- setManifestid(908741,"2569687084683368726")
+addappid(908741, 1, "6a4ef14a9a771dec545a2dce729836be397b17132eaf6af86be9584cec9d93ed")

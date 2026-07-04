@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Circle Up
 addappid(663410)
-addappid(663411,0,"0f5c6c076238ddf52aeed42e2a1536b31d33eb9d728640ac32c4bde43898ea69")
--- setManifestid(663411,"721650980412561056")
+addappid(663411, 1, "0f5c6c076238ddf52aeed42e2a1536b31d33eb9d728640ac32c4bde43898ea69")

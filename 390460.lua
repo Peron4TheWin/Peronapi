@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tyler
 addappid(390460)
-addappid(390461,0,"0735aacadbea54f09fa7da961bbc01235b80deb06e9487a0746fd55027945c0f")
--- setManifestid(390461,"6693688192181023575")
+addappid(390461, 1, "0735aacadbea54f09fa7da961bbc01235b80deb06e9487a0746fd55027945c0f")

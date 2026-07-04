@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Bloodstained: Curse of the Moon 2
 addappid(1257360)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(1257361,0,"6fb123b654ad793d825819c53cd2937c2a1921fc1761afb911616ad5b45d8359")
--- setManifestid(1257361,"3403333915653844307")
+addappid(1257361, 1, "6fb123b654ad793d825819c53cd2937c2a1921fc1761afb911616ad5b45d8359")

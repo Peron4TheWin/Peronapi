@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: ❂ Hexaluga ❂ Weapon and Shield ☯
 addappid(845200)
-addappid(845201,0,"56b726e62b2d497599deeb7abaee0d86df0646430350cdce3f80db35f8e01296")
--- setManifestid(845201,"1349105833299664117")
+addappid(845201, 1, "56b726e62b2d497599deeb7abaee0d86df0646430350cdce3f80db35f8e01296")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Hentai Milf
 addappid(2827500)
-addappid(2827501,0,"20a53c33547ec66eb054ee7a73fa367f73ff5036db37200b3deb325b42bab72b")
--- setManifestid(2827501,"9079777796102402665")
+addappid(2827501, 1, "20a53c33547ec66eb054ee7a73fa367f73ff5036db37200b3deb325b42bab72b")

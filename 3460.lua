@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Talismania Deluxe
 addappid(3460)
-addappid(3461,0,"d0b332b94e91489cdea7e27b457cc310ad1c1da984526e96de9c835c49984c05")
--- setManifestid(3461,"6086080748248042571")
+addappid(3461, 1, "d0b332b94e91489cdea7e27b457cc310ad1c1da984526e96de9c835c49984c05")

@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: TEST RE
 addappid(1704550)
--- setManifestid(228990,"1829726630299308803")
-addappid(1704551,0,"9d4f106a64d3b5e74609c3abe5e19f5b3e457ef4efded9ada1dc64f3f7375124")
--- setManifestid(1704551,"7291156637100728754")
+addappid(1704551, 1, "9d4f106a64d3b5e74609c3abe5e19f5b3e457ef4efded9ada1dc64f3f7375124")
+addappid(3588720)

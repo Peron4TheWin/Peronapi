@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Plus Point
 addappid(812740)
-addappid(812741,0,"d9c73b450a16475e989c75f805d6d7bdd6f8add8834618ab9b5186b9e03cfd4e")
--- setManifestid(812741,"7078955945877341841")
+addappid(812741, 1, "d9c73b450a16475e989c75f805d6d7bdd6f8add8834618ab9b5186b9e03cfd4e")

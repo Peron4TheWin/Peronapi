@@ -1,3 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Criminal Archives: Blade of Deceit Collector's Edition
 addappid(3036760)
-addappid(3036761,0,"c2cbecf8d578fa4767f77153ecbf5135c77ca90d295d614c3b78cb67f7705db4")
--- setManifestid(3036761,"3774716645447845350")
+addappid(3036761, 1, "c2cbecf8d578fa4767f77153ecbf5135c77ca90d295d614c3b78cb67f7705db4")
+addappid(3036920)

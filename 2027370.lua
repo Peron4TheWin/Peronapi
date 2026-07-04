@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Ball Torture
 addappid(2027370)
-addappid(2027371,0,"c63bd45e0a08fe3f0bfc59e0ddb8fae755b0b3b4f5cd85bcd315ea331f715254")
+addappid(2027371, 1, "c63bd45e0a08fe3f0bfc59e0ddb8fae755b0b3b4f5cd85bcd315ea331f715254")

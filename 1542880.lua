@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Kinkoi Demo
 addappid(1542880)
-addappid(1542881,0,"ac869a7ae96a37dfb0a197d5f7fb90be1c64a5244a06790d6e1cb8629994fc54")
--- setManifestid(1542881,"7477544360858148896")
+addappid(1542881, 1, "ac869a7ae96a37dfb0a197d5f7fb90be1c64a5244a06790d6e1cb8629994fc54")

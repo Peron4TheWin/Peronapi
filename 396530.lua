@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fireflies
 addappid(396530)
-addappid(396531,0,"133c384c17d906ea04a460526961078b47cceadd1edd26f8ab99a634d2fc7e7a")
--- setManifestid(396531,"7946877012275109692")
+addappid(396531, 1, "133c384c17d906ea04a460526961078b47cceadd1edd26f8ab99a634d2fc7e7a")

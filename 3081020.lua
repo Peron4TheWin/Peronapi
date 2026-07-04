@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: まいにち男女入れ替わり生活！？ ～My Body Your Body～
 addappid(3081020)
-addappid(3081021,0,"fcec21963e8e93eadecec12c9f395b44ec5c58dbabc9d7de94cf40dea947cf38")
--- setManifestid(3081021,"2146521006884975499")
+addappid(3081021, 1, "fcec21963e8e93eadecec12c9f395b44ec5c58dbabc9d7de94cf40dea947cf38")

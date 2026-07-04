@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Art Plunge
 addappid(570900)
-addappid(570901,0,"6159bf64826d3d8c7f1a2c9d9a0ac12e7947be864fd6162ce4ad1b782b946137")
--- setManifestid(570901,"4549429005756648848")
+addappid(570901, 1, "6159bf64826d3d8c7f1a2c9d9a0ac12e7947be864fd6162ce4ad1b782b946137")

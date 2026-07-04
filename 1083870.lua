@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CountryBalls Heroes
 addappid(1083870)
-addappid(1083871,0,"9d46005a91967ed1a160ad57d98b0b4e15c04671722699845dba0be7d348e4f5")
--- setManifestid(1083871,"8262380013655401775")
+addappid(1083871, 1, "9d46005a91967ed1a160ad57d98b0b4e15c04671722699845dba0be7d348e4f5")

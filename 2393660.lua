@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: CHARGED: RC Racing - Starter Edition
 addappid(2393660)
-addappid(2393661,0,"3f80dacbb9dccfb01ab0c7f180bed5f6f8d6e36e4a70d182c5128c7b8589d8db")
--- setManifestid(2393661,"2859210999300379769")
+addappid(2393661, 1, "3f80dacbb9dccfb01ab0c7f180bed5f6f8d6e36e4a70d182c5128c7b8589d8db")

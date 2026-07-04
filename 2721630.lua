@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Symbiant Re:Union Demo
 addappid(2721630)
-addappid(2721631,0,"2f6b5f79300c709ae7cd600256914f2d09c2c69188ae255672e8b2e9654649ec")
--- setManifestid(2721631,"628947544053266942")
+addappid(2721631, 1, "2f6b5f79300c709ae7cd600256914f2d09c2c69188ae255672e8b2e9654649ec")

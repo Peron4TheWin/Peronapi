@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Worn Thin
 addappid(1530150)
-addappid(1530151,0,"27863e466d4ddb78ec99327ba25446c38cb794f70bb0c081acaf81fcb89b56cb")
--- setManifestid(1530151,"1336014872984915873")
+addappid(1530151, 1, "27863e466d4ddb78ec99327ba25446c38cb794f70bb0c081acaf81fcb89b56cb")

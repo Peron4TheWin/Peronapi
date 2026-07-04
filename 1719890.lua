@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mummy, mummy, mummy!
 addappid(1719890)
-addappid(1719891,0,"778a003feb4874bc4d79a1a78484229c7a7a226c2fd22c73c2ce880b7600a6cb")
--- setManifestid(1719891,"1519183816349672430")
+addappid(1719891, 1, "778a003feb4874bc4d79a1a78484229c7a7a226c2fd22c73c2ce880b7600a6cb")

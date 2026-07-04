@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: The Great Voyage - Visual Novel
 addappid(932820)
-addappid(932821,0,"8310ea491985b12895dc000ff96547299a00530330ed1969ae5d023292d86be0")
--- setManifestid(932821,"1582764287420558382")
+addappid(932821, 1, "8310ea491985b12895dc000ff96547299a00530330ed1969ae5d023292d86be0")

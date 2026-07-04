@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: SkyDrift Demo
 addappid(91110)
-addappid(91111,0,"756b152d332751ef4f3c5248e5d5058693d79821ba0b74d1993baa83b78419d6")
--- setManifestid(91111,"7077625276954172042")
+addappid(91111, 1, "756b152d332751ef4f3c5248e5d5058693d79821ba0b74d1993baa83b78419d6")

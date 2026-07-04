@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: No Players Online Demo
 addappid(2856520)
-addappid(2856521,0,"36ecd4d744862d788a5760b6a12af9697648c94223dea349b5d8c6d26f95824e")
--- setManifestid(2856521,"3153175082143076612")
+addappid(2856521, 1, "36ecd4d744862d788a5760b6a12af9697648c94223dea349b5d8c6d26f95824e")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: A Magical High School Girl / 魔法の女子高生
+addappid(555630)
+addappid(555631, 1, "335ec1d7232098134fcbd5b4d78596e1406a2cbc7e13c916d93705b3e28d4920")

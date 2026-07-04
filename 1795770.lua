@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Pretty Girls Rivers (Shisen-Sho)
 addappid(1795770)
-addappid(1795771,0,"1373a36b4bb7242de322b0a18e31b5082309207a28934d877b8f7f59dcfc8234")
--- setManifestid(1795771,"6778579918668674619")
+addappid(1795771, 1, "1373a36b4bb7242de322b0a18e31b5082309207a28934d877b8f7f59dcfc8234")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Desktop Explorer Demo
 addappid(2533590)
-addappid(2533591,0,"d654dfcebf08536d1bda985945ebea5224df6c3bc84c226886a0aebe8f79485a")
+addappid(2533591, 1, "d654dfcebf08536d1bda985945ebea5224df6c3bc84c226886a0aebe8f79485a")

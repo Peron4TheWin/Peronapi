@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Legacy of Vane
 addappid(1555570)
-addappid(1555571,0,"6bc46a09eb07e71d85b7fa5c4b9ed04bfbc1397d7b45ca01d9ae6e867dfc9d48")
--- setManifestid(1555571,"3969933736788255607")
+addappid(1555571, 1, "6bc46a09eb07e71d85b7fa5c4b9ed04bfbc1397d7b45ca01d9ae6e867dfc9d48")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tactic Boxing
 addappid(2740280)
-addappid(2740281,0,"ef29f751a9739d8085a82f083d762667ec556ed33dcdd3f5beda492efe955c55")
+addappid(2740281, 1, "ef29f751a9739d8085a82f083d762667ec556ed33dcdd3f5beda492efe955c55")

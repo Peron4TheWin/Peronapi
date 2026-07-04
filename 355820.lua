@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: FutureGrind
 addappid(355820)
-addappid(355821,0,"d30e1a31f2656660fc0de8faf8d8066ba432b10a13bf7d4a043ba8c380684284")
--- setManifestid(355821,"5683432722131385296")
+addappid(355821, 1, "d30e1a31f2656660fc0de8faf8d8066ba432b10a13bf7d4a043ba8c380684284")

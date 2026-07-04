@@ -1,5 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Taiwan Coolfox
 addappid(3615920)
--- setManifestid(228988,"6645201662696499616")
--- setManifestid(228990,"1829726630299308803")
-addappid(3615921,0,"a4a2b3fa051cb0f4140a49bbda45fe2bf4f3ccb50c95617486267bd047eecac8")
--- setManifestid(3615921,"6685557259360955299")
+addappid(3615921, 1, "a4a2b3fa051cb0f4140a49bbda45fe2bf4f3ccb50c95617486267bd047eecac8")

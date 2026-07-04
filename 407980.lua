@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Sakura Beach 2
 addappid(407980)
-addappid(407981,0,"b1a4eee8b6aa4020cdd40f746ac5e83aa27427d3b00ab7ce2702c45a1298ea57")
+addappid(407981, 1, "b1a4eee8b6aa4020cdd40f746ac5e83aa27427d3b00ab7ce2702c45a1298ea57")

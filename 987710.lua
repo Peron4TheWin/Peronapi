@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: BLASK
 addappid(987710)
-addappid(987711,0,"a6383fea9fb331f9f33ce129046b7171c54f847f94d08213b03dc95d8dc80bec")
--- setManifestid(987711,"5540392397373873418")
+addappid(987711, 1, "a6383fea9fb331f9f33ce129046b7171c54f847f94d08213b03dc95d8dc80bec")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Streamer Life Simulator 2
 addappid(2890830)
-addappid(2890831,0,"f266168cbca0fdbad69d36ca8ed9187480ed8adf90c68090ebea91b92757a77e")
--- setManifestid(2890831,"7379383359389134719")
+addappid(2890831, 1, "f266168cbca0fdbad69d36ca8ed9187480ed8adf90c68090ebea91b92757a77e")

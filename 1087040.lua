@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Alien invasion
 addappid(1087040)
-addappid(1087041,0,"b9d8629657e69fd10b27d98a824913ef8a44e3ffef90baa3e02cd7470e71f9e9")
--- setManifestid(1087041,"2104255082483173861")
+addappid(1087041, 1, "b9d8629657e69fd10b27d98a824913ef8a44e3ffef90baa3e02cd7470e71f9e9")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Aussie Sports VR 2016
 addappid(508250)
-addappid(508251,0,"6bf9a66f33991e0d742d99a3196c712325ad9a8a90c8d3d4bf8f5c6459e94eff")
--- setManifestid(508251,"6231586114520163022")
+addappid(508251, 1, "6bf9a66f33991e0d742d99a3196c712325ad9a8a90c8d3d4bf8f5c6459e94eff")

@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: City of Fools
+addappid(359250)
+addappid(359251, 1, "5f150720c13c6ff656c51456529bba967abb6f7a4a75a4a6511d13bb2ab54dd1")

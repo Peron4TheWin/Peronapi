@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Corrupted Hospital : Part1
 addappid(1440870)
-addappid(1440871,0,"9243a81f69ac67ee67ae028de833f01daa5e1523fc24faaa9dcebf665eb411b0")
--- setManifestid(1440871,"2789049410100083633")
+addappid(1440871, 1, "9243a81f69ac67ee67ae028de833f01daa5e1523fc24faaa9dcebf665eb411b0")

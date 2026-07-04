@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3 O'clock Horror
 addappid(1683070)
-addappid(1683071,0,"b646149dbdd1d2529e8b6641d8723ec4ad0b7a22017874c1a6cc9a2a9c488316")
--- setManifestid(1683071,"1343283088880556799")
+addappid(1683071, 1, "b646149dbdd1d2529e8b6641d8723ec4ad0b7a22017874c1a6cc9a2a9c488316")

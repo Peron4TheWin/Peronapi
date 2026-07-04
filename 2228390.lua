@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Fairy Fencer F: Refrain Chord
 addappid(2228390)
-addappid(2228391,0,"488ecc02c39c44b5128e5f9a646eef24476eb0fbd9fcbac1b6ffdd3e32b5f455")
--- setManifestid(2228391,"366307501040617101")
+addappid(2228391, 1, "488ecc02c39c44b5128e5f9a646eef24476eb0fbd9fcbac1b6ffdd3e32b5f455")

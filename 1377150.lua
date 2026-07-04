@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Operation: Tango - Friend Pass
 addappid(1377150)
-addappid(1377151,0,"bb898cdc9d90b324534c75daeda6d2ffea591d1a015f0d2c4d09819b511703c5")
--- setManifestid(1377151,"192330919534593992")
+addappid(1377151, 1, "bb898cdc9d90b324534c75daeda6d2ffea591d1a015f0d2c4d09819b511703c5")

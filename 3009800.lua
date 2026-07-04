@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: 3D PUZZLE - OutPost
 addappid(3009800)
-addappid(3009801,0,"76901f0ddafd53dcb190ab3ab9a2885a41a01c36958a554049613d6b8065ccea")
--- setManifestid(3009801,"4104748047001906222")
+addappid(3009801, 1, "76901f0ddafd53dcb190ab3ab9a2885a41a01c36958a554049613d6b8065ccea")

@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Omi Domini
 addappid(1478080)
-addappid(1478081,0,"b09eacb131f5cbd4729316ded93d4b22ca8c355f4930d26cff2ff60967680bf3")
--- setManifestid(1478081,"2304902026453591303")
+addappid(1478081, 1, "b09eacb131f5cbd4729316ded93d4b22ca8c355f4930d26cff2ff60967680bf3")

@@ -1,4 +1,5 @@
+-- Lua provided by SkyAPI 
+-- Game: Laika 2.0 - Sekret Pravda
 addappid(675140)
-addappid(675141,0,"238ea7b7e7d49591d5fb91beaab8bb7767a5d6c2920c0afe9195a0878e17bae0")
--- setManifestid(675141,"657667828130943255")
+addappid(675141, 1, "238ea7b7e7d49591d5fb91beaab8bb7767a5d6c2920c0afe9195a0878e17bae0")
 addappid(1400580)

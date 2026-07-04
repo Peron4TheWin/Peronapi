@@ -1,3 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Atonement 2: Ruptured by Despair
 addappid(533820)
-addappid(533821,0,"28af9d0271191eb7122df26451a4be36610d280bc77395e47387a2cd86f4e557")
--- setManifestid(533821,"5650524939117117630")
+addappid(533821, 1, "28af9d0271191eb7122df26451a4be36610d280bc77395e47387a2cd86f4e557")

@@ -1,2 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Mini Island: Summer
 addappid(1601790)
-addappid(1601791,0,"396746e059aaadeee5a0d8fd18d6d2fbaf98b17d67bf7bd2b09ba1d85fd4ec5f")
+addappid(1601791, 1, "396746e059aaadeee5a0d8fd18d6d2fbaf98b17d67bf7bd2b09ba1d85fd4ec5f")
