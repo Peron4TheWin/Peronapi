@@ -1,4 +1,2 @@
--- Lua provided by SkyAPI 
--- Game: BrokenLore: FOLLOW
-addappid(2846530)
+addappid(2846530) -- BrokenLore: FOLLOW
 addappid(2846531, 1, "cb1c119f53135eaccde366c97613cbeb361b3139e30fe0143c8422a959abb388")

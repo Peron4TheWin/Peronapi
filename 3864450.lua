@@ -1,4 +1,2 @@
--- Lua provided by SkyAPI 
--- Game: AppID 3864450
-addappid(3864450)
+addappid(3864450, 1, "9a2d4f3902ef124ace5b269d3fa764dbbe88a31770d42582bf09c0978d6b0f2b") -- Goblin Company
 addappid(3864451, 1, "2c180598182ffa3f889528a2728cb95186951f9de68749df9c7dff20a9e73d58")
