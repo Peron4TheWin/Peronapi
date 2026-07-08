@@ -1,6 +1,6 @@
 -- Lua provided by SkyAPI 
 -- Game: Assasin's creed Shadows
-ddappid(3159330, 1, "87c39548810f05cc0cf12c9a6a9ff7ae58bbba17ba6fc67d463491b8381b3772") -- Assassin's Creed Shadows
+addappid(3159330, 1, "87c39548810f05cc0cf12c9a6a9ff7ae58bbba17ba6fc67d463491b8381b3772") -- Assassin's Creed Shadows
 -- MAIN APP DEPOTS
 addappid(3159331, 1, "a1a2865a35a1aa7255e0d1a8d6cedab23f2b34346e4a359a283f1a5ceb826ddf") -- Depot 3159331
 -- setManifestid(3159331, "4595780502794590393", 158221014025)
