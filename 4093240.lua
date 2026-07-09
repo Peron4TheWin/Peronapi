@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Tokyo Valkyries
+addappid(4093240)
+addappid(4093241, 1, "798eee11b2ab4f71937a86781b2aa2b2ef44abc5674620ad9a0320e342f138c2")
