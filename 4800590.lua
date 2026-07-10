@@ -1,4 +1,4 @@
 -- Lua provided by SkyAPI 
 -- Game: Supermarket Chaos
 addappid(4800590)
-addappid(4800591, 1, "96914473ba48921d6f31b7753bec7dbeaac2e5ba8f983227bd6b51b8ebbed306")
+addappid(4800591, 1, "96914473ba48921d6f31b7753bec7dbeaac2e5ba8f983227bd6b51b8ebbed306")
