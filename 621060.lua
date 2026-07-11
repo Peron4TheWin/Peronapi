@@ -5,8 +5,6 @@ addtoken(621060, "8473074716846024589")
 addappid(621061, 1, "1d1b57e233552bf36e85de21663fda41d1160d3d446649bf0f1013a8d344ef01") -- PC Building Simulator PC - 32bit
 -- setManifestid(621061, "8059996378040224226", 23950326345)
 addappid(621062, 1, "d762715b8415a1f887f261e5a1736c7e86ad1fe5f77d2e945fcd61b255689df4") -- PC Building Simulator PC - 64bit
--- setManifestid(621062, "5241418081171311864", 23975265925)
--- SHARED DEPOTS (from other apps)
 addappid(228984, 1, "df7df98d3134f5e0009d5ebcaaf3bbb91ea2f7cbad81a37a9d16bc1835f57068") -- VC 2012 Redist (Shared from App 228980)
 -- setManifestid(228984, "2547553897526095397", 13742505)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
