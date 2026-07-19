@@ -23,3 +23,6 @@ addappid(4521840)
 addappid(4601250)
 addappid(4626160)
 addappid(4707780)
+
+-- att para funcionar voices38
+-- setManifestid(3768761, "7322178669849310269")
