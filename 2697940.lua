@@ -1,0 +1,6 @@
+-- Lua provided by SkyAPI 
+-- Game: Ascend to ZERO
+addappid(2697940, 1, "104a8d0cf337b481a9af6651ef8d757f5e9457e86a92be8817aa5e691eb51a38")
+-- MAIN APP DEPOTS
+addappid(2697941, 1, "6425240483352d0f9aa08a06730dbed1e5a8ec489a48d39d0617cd0574ca96a1") -- Depot 2697941
+-- setManifestid(2697941, "7176469673527118804", 2361324188)
