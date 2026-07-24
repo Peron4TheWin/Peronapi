@@ -2,3 +2,6 @@
 -- Game: The First Berserker: Khazan
 addappid(2680010)
 addappid(2680011, 1, "fe9a3ee6a263260b75cf97d27ffc4eeda8c9eebc8019bdc57c247a546f450077")
+
+-- travar att
+-- setManifestid(2680011, "6765731590953570327")
