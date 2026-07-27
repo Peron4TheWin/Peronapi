@@ -9,3 +9,10 @@ addappid(3859920)
 addappid(3859920, 1, "1fb811843160e2a11211f5bba90ece0ef2dac5994c19936e50ff85faf2f80423") -- PRAGMATA Outfit Set - Neo Bushido  Neo Kunoichi - Depot 3859920
 addappid(3859930)
 addappid(3859930, 1, "14001799a6877a14751af43adbd59ca3cc037cf202aa5615e0c70e057090ddce") -- PRAGMATA Shelter Variety Pack - Depot 3859930
+
+
+-- voices38 travar atualizacao
+-- setManifestid(3357651, "2417499809052404547")
+-- setManifestid(3357652, "5639705324720691310")
+-- setManifestid(3859920, "4731286747379700304")
+-- setManifestid(3859930, "6714427611547107917")
