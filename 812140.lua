@@ -1,5 +1,5 @@
 -- Lua provided by SkyAPI 
--- Game: AppID 812140
+-- Game: assasins creed odyssey
 addappid(812140)
 addappid(812141, 1, "0d69b986695af676b593ce6d217a24a47bceeb630dbd8ac61eaba88b72a17819")
 addappid(812142, 1, "500a7b45788ab393ea848fa1f13f8c94450e34112be4f429c609035df4d6e1e9")
@@ -34,3 +34,6 @@ addappid(1113150)
 addappid(1254000)
 addappid(1254010)
 addappid(1716751, 0, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675")
+
+-- travar att
+-- setManifestid(812141,"7369859942329036273")
