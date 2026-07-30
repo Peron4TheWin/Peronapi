@@ -21,3 +21,4 @@ addappid(3310650) -- DRAGON BALL Sparking ZERO HERO OF JUSTICE Pack
 addappid(3456600) -- DRAGON BALL Sparking ZERO - Dragon Ball DAIMA Character Pack 1
 addappid(3456610) -- DRAGON BALL Sparking ZERO - Dragon Ball DAIMA Character Pack 2
 addappid(3693250) -- DRAGON BALL Sparking ZERO - Shallot (DRAGON BALL LEGENDS)
+addappid(4433900) -- DRAGON BALL Sparking ZERO - Super Limit-Breaking NEO
