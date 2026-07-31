@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: Rubinite
+addappid(1845250)
+addappid(1845251, 1, "25598ffd90253ab700d539a8bff576b1cb82853b6dea1bc4ca8d74e368b07f3c")
