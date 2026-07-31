@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Glint Translator
+
+-- MAIN APPLICATION
+addappid(4636530)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4636531,0,"c12382f3ec2933b8502e388efd34e08c788bf1ebd18d976c38d826aa94ff28da")
+

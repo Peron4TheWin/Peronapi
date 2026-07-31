@@ -1,0 +1,12 @@
+-- Lua provided by RyzenAPI
+-- Game: Vending Machine Co.
+
+-- MAIN APPLICATION
+addappid(3622640)
+addappid(4585810)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3622641,0,"beec5643a86ba10a04c36be36408f578c8e8301c3124f89d23ebda5560435f82")
+addappid(3622642,0,"2ae50ee58e5bd34c28da3decb3eeffe67a47f15779949c47a3971bf72602bfd4")
+addappid(3622643,0,"d9364417551ab197e230f2ee66596010e6a29472b04ac80c8bc1baf3fedc6f51")
+

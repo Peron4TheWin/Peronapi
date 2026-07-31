@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Astral Lords
+
+-- MAIN APPLICATION
+addappid(3324250)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3324251,0,"ef4963255307346a312d59bcdf0898ca435e4a9037ab34101da44f017a971470")
+

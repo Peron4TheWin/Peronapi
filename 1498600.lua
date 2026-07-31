@@ -1,0 +1,10 @@
+-- Lua provided by RyzenAPI
+-- Game: Neko Chan
+
+-- MAIN APPLICATION
+addappid(1498600)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(1498600,0,"27be23c87230c9df6e43836eb42a2fdd33dcecffc0e3c925383edaeda38e7081")
+addappid(1498601,0,"d68cef0d8d592269c943b82e4da7911fffb74200f31331763ec19b31389aed4a")
+

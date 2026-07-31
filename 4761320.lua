@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: MEGABOOBS 🔞
+
+-- MAIN APPLICATION
+addappid(4761320)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4761321,0,"9455b0a87787b06ebf5a75e6bf8022728be742673dd52fe8c8cb672e89f2cd4f")
+

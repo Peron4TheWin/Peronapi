@@ -1,0 +1,10 @@
+-- Lua provided by RyzenAPI
+-- Game: Ghost Keeper
+
+-- MAIN APPLICATION
+addappid(2708880)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2708881,0,"00e0518a18d1fea804cb7fc81d51e9a345ce8c263c2e41c1c391ad5e7024d9e8")
+addappid(4348730,0,"584f037dba29b65599695fb65353589ee716733ae7062cead2590d5c6c74e1d2")
+

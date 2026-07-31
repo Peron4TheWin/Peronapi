@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: Yet Another Incremental Game (but this time about coding)
+
+-- MAIN APPLICATION
+addappid(3729810)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3729811,0,"7458584be9ae77d511af38f69e12d6ed7bf065caea348672b12e3ddcbbe4de9e")
+addappid(3729812,0,"0f264fb0b42252b7fccb4141e7635afa913f31ed130ef907f742dcd94c701153")
+addappid(3729813,0,"2d6732554f640841ef87e0337d811891592e8efdfe541dbb8da4159a4c6f8de1")
+

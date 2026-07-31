@@ -1,0 +1,7 @@
+-- Lua provided by RyzenAPI
+-- Game: MineGeon: Renegades
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3227240, 1, "1a63b9269774cd8d8842b035c7fec29367a3f6dfaee29bba4a958daeaea61699") -- MineGeon: Renegades
+addappid(3227241, 1, "ff5f7f5718574af232b1d632d3f8aa14c66c0b36add2b5aa44263e2740eb4d73") -- Depot 3227241
+

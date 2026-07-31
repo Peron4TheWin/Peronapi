@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Aris Arcanum
+
+-- MAIN APPLICATION
+addappid(3006080)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3006081,0,"290d3e89c0f848f9b840aee9c99684dec1f6a117c13fd6caf3d99b560cb619a3")
+

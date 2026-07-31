@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: INFLATION Inc.
+
+-- MAIN APPLICATION
+addappid(3453040) -- INFLATION Inc.
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3453041, 1, "e93875c644cc3d6bc5a03616d5f9620392048e8b33fe0fe0950c7ba0a5540a57") -- Depot 3453041
+

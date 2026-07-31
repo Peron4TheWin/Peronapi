@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Arcane Merchant
+
+-- MAIN APPLICATION
+addappid(4086760)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4086761,0,"c69859c190be91acf19af6b38f9934f30baa1f494abc053895eacf589fdd64e1")
+

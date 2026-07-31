@@ -1,0 +1,6 @@
+-- Lua provided by RyzenAPI
+-- Game: Trashy Cashy
+
+
+addappid(4631110) -- Trashy Cashy
+addappid(4631111, 1, "38172572480c0a2bd94b559ef670c371b0c9140d671e33e96f3cd1b7f272a810") -- Depot 4631111

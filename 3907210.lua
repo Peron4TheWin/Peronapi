@@ -1,0 +1,10 @@
+-- Lua provided by RyzenAPI
+-- Game: Married Into Hell
+
+-- MAIN APPLICATION
+addappid(3907210)
+addappid(4347060)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3907211,0,"9115b152cbb8ab5b2550874aff099232d39184e43841cfeba8e346774d902229")
+addappid(4347061,0,"356a8d143d63b7a4c1eb9363919f0db5a7cd49bd611794a8309900125ccb9571")

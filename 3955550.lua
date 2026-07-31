@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Catto Boi Collection
+
+-- MAIN APPLICATION
+addappid(3955550)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3955551,0,"a977c6c6740aa627bb4d55a61c926bd7973bb2613ff3e027c669d8e51847e4bc")
+

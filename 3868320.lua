@@ -1,0 +1,7 @@
+-- Lua provided by RyzenAPI
+-- Game: Forage Wizard
+
+
+addappid(3868320, 1, "c614aa405eb6a7426e460f0e07607e77d7a12be3ad2b22b26038ef466d224596") -- Forage Wizard
+addappid(3868323, 1, "9e28b51aa4740d06ca3b37fe73b23b365a51c318798a53a4bd622d73b76e476d") -- Depot 3868323
+addappid(3868324, 1, "f4af623014d8ab542b4ee710fbf0367d18a3b80b44b3b74b692a35c9f43bb2c7") -- Depot 3868324

@@ -1,0 +1,15 @@
+-- Lua provided by RyzenAPI
+-- Game: KAZUMA KANEKO'S TSUKUYOMI
+
+-- MAIN APPLICATION
+addappid(4677110) -- KAZUMA KANEKO'S TSUKUYOMI
+addappid(4781340)
+addappid(4781350)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+addappid(4677111, 1, "3bf940089e580c453fcb7c6f1585a83ec22435518e5d10808bb5d684a95fc613") -- Depot 4677111
+addappid(4677112, 1, "b792a3b5b116950a464d62fd5d4937fab642411f945c99a5a90a5224e1621bae") -- KAZUMA KANEKO Refined Arts Pack vol.1 - Depot 4677112
+addappid(4677113, 1, "c48ef9201c4c2c0466806ab439e40a58cc7930eb5505a8f507395060bbbee74d") -- KAZUMA KANEKO Refined Arts Pack vol.2 - Depot 4677113
+

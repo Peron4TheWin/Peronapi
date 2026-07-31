@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: Bowling Alley Simulator
+
+-- MAIN APPLICATION
+addappid(4465600)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4465601,0,"d1893f4fd66a63308d918ae6c2e4ec20d631641cd374c660336363957eda84ca")
+addappid(4465602,0,"f9a63f1257ccb7e01af35d85fc8aa60000ab5a2f2b37ae1a563f48cbbf3b9489")
+addappid(4465603,0,"55e84b2de3068d2ea3e7527c100e686edcea7e484ab632b869a7da34f3391b43")
+

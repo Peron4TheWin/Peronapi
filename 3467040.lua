@@ -1,0 +1,10 @@
+-- Lua provided by RyzenAPI
+-- Game: Bookshop Simulator
+
+-- MAIN APPLICATION
+addappid(3467040)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3467040,0,"76c37eaeddab1223319be57cf6fdc0fda1a4a3f4f9c66ab79933f17add81cfbd")
+addappid(3467041,0,"7416c54d61cf32054ec624e2d1c4e3a825c272e5e79cd38461665165df5e7e61")
+

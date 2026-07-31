@@ -1,0 +1,8 @@
+-- Lua provided by RyzenAPI
+-- Game: Hentai Clicker: Alerinna is streaming
+
+-- MAIN APPLICATION
+addappid(3766590)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3766592,0,"89c9f1ed1cb55106ce4921fe69c4cec9238f3ab010838ec8be6f333372a5c87c")

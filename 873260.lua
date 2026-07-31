@@ -1,0 +1,7 @@
+-- Lua provided by RyzenAPI
+-- Game: Wizard Gold
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(873260, 1, "5375442d1f738185482a337465323efa8c3f914b0c6f89b993925bcf3218ef02") -- Wizard Gold
+addappid(873262, 1, "9b4649ddbd98ae5ed7afbcdcf4aefb69da969f15e8fcf60c072004ddbea3e220") -- Depot 873262
+

@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: Master Healer Kale with useless party
+
+-- MAIN APPLICATION
+addappid(4634490)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4634491,0,"e598f38cfb25f78a16f54658fe45e371e9a1a2e4da81044e32c653e65ba0e770")
+addappid(4634492,0,"bbb293da092b134c1d5af8fdf3a67c5f814beffb485cf51a5da9ed3216380bc7")
+addappid(4634493,0,"b1fe8194280bf0ae3ad08130463991f436ae013b6a3d738cc6b579f218397a9e")
+

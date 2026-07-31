@@ -1,0 +1,8 @@
+-- Lua provided by RyzenAPI
+-- Game: Gambonanza
+
+
+addappid(3509230, 1, "edc94e1dd8ec2226d97acc7118c5a6b7a35e8b335e79a18043ca80d8f20441a6") -- Gambonanza
+addappid(3509231, 1, "2b25d268f4553699e2683e63aa8fd16e8ca8f3b2cd709ddf9534264c92337525") -- Depot 3509231
+addappid(3509232, 1, "e1fb07d77144d880fbbe761bb34573dcd8977dc3fc137d62e97dba2f45dfa306") -- Depot 3509232
+addappid(3509233, 1, "6f18c74d120d5739d8f8bad5a6ca465392922f26da0014062cdb4fa4e2a08ee6") -- Depot 3509233

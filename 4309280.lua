@@ -1,0 +1,6 @@
+-- Lua provided by RyzenAPI
+-- Game: Caravan Village: Farming Life
+
+
+addappid(4309280) -- Caravan Village: Farming Life
+addappid(4309281, 1, "81de419aae5022ddb5faa6f7d874628c8863b2b996300ad2605f20b042f40fb9") -- Depot 4309281

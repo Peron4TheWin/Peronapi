@@ -1,0 +1,10 @@
+-- Lua provided by RyzenAPI
+-- Game: Mutant Football League 2
+
+-- MAIN APPLICATION
+addappid(1657320)
+addappid(4492310)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(1657321,0,"102656c7cec383dbc3e7ae073ee0ea21908e1aa6b3eaffab1d44b695e9579298")
+

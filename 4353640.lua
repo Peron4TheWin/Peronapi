@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: The Dungeon of Lulu Farea: Rebirth
+
+-- MAIN APPLICATION
+addappid(4353640) -- The Dungeon of Lulu Farea: Rebirth
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4353641, 1, "37dd2b09a70a1914b8de0d2ff3e3f3ac2c1e8bdf6a69a3f8f6aa0cd02e00c1ac") -- Depot 4353641
+addappid(4353642, 1, "75158d8a09a946ffbf2e39134a7ef11f5b2bfa487b33eea1a41a2a48519b3f3d") -- Depot 4353642
+addappid(4353643, 1, "c912f9ca5d6462a478748b5aa411d1b52e2f0c40acaff4035313996fca576a21") -- Depot 4353643
+

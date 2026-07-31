@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Turbo Fat
+
+-- MAIN APPLICATION
+addappid(2213410)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2213411,0,"6b60687237c2cb33c0a0bf4e3a3bfb8702dbaa31f16fc65f4413c9471fb61e76")
+

@@ -1,0 +1,7 @@
+-- Lua provided by RyzenAPI
+-- Game: Dolls: The Hunt
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3065180, 1, "887ee6deb098eb24e23032b4f4009eae21a573e3a5a190bb41c2282e27001ad8") -- Dolls: The Hunt
+addappid(3065181, 1, "d33e7c488705598ea3f69e93d1586cf681a8636544dd2890804fcc73fcb2952f") -- Depot 3065181
+

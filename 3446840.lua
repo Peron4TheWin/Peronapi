@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: RogueJack21
+
+-- MAIN APPLICATION
+addappid(3446840)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3446841,0,"627075d7600e3d31a63d7ab559ab01d8da7ffa51b356696098d89cbb27bc93b4")
+addappid(3446842,0,"1c2e7eabe34a1a95f6a89e3974589f5491b4a49493132d67e601a131ca1345b1")
+addappid(3446843,0,"c8e20e00d092eacb211fbfddf47596472abd34f3bb432fb35e6f7fd1f825a761")
+

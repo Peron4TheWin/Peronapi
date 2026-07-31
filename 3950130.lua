@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: Database Detective: Minor Crimes Division
+
+-- MAIN APPLICATION
+addappid(3950130)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3950131,0,"f71cfc5a880cff814c30939fc3b642ed54a00dc429ce29a6333681418f9bf41f")
+addappid(3950132,0,"8bb76a467df4f48f36883302b0000eef3079b3ce25f0ed7ab7405ee74421061c")
+addappid(3950133,0,"b6fa6f55c035d857f08d60d5547b7c59dda95ea2b579ad9998247711bd706d69")
+

@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: MEAT TRAIN
+
+-- MAIN APPLICATION
+addappid(3216230)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3216231,0,"1b9d4f7becfe9a6275bedb74b2d101514d799dbe55a341842ba5dc2b4152149a")
+

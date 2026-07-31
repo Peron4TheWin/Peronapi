@@ -1,0 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: SnekromancY
+
+-- MAIN APPLICATION
+addappid(4314770) -- SnekromancY
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4314771, 1, "f224edaa7da2f82812e5e57d33174d69a73b27f2c677e76f42ab04f88e959584") -- Depot 4314771
+addappid(4314772, 1, "329e1d1802d35b8fc05b433120c65d84f2ff2b134b7b0596c62e96292bc7c939") -- Depot 4314772
+addappid(4314773, 1, "a094d02542746c30461e0e1946534b1ebdca03d7a5a8ec6d7c6e1c5450c1b1c0") -- Depot 4314773
+

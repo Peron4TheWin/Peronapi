@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Storebound
+
+-- MAIN APPLICATION
+addappid(3417410)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3417411,0,"024b0ff46317123542be818df0c9824148797191d2ef56b7899230c456f16a69")
+

@@ -1,0 +1,6 @@
+-- Lua provided by RyzenAPI
+-- Game: Visseron Idle
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4601670, 1, "552d2f6e6ca0e7b558300f2c5a887f35413cf61783c27302fc5eca0188307954") -- Visseron Idle
+addappid(4601671, 1, "30ffc5660eb20a99ebbb0efd0f5a9b051b9931d8af027e5ab918d1cc824b3564") -- Depot 4601671

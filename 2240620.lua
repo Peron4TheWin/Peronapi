@@ -1,0 +1,14 @@
+-- Lua provided by RyzenAPI
+-- Game: UNBEATABLE
+
+-- MAIN APPLICATION
+addappid(3951650)
+addappid(4796640)
+-- addappid(4118720)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2240620, 1, "0b9f9476af9653b00b10e7ab09243919b4f73092c54831ca40fd8d3f22b89570") -- UNBEATABLE
+addappid(2240621, 1, "80b19fbd6c9057548e637a2e743cb48d753af68fa08227be8200dc8e3cc33753") -- Depot 2240621
+addappid(2240622, 1, "edc969336542b43d505d010672a2062c10303456f95a9e556f157ebdad629e05") -- UNBEATABLE - The Jamie Paige Content Companion - Depot 2240622
+addappid(3951650, 1, "706689526031d649f39c7ce4ed4c578bfffbc570afae867b5c7464e12b7259ed") -- UNBEATABLE - Breakout Edition Upgrade - Depot 3951650
+

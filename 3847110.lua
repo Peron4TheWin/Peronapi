@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: One More Delve
+
+-- MAIN APPLICATION
+addappid(3847110)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3847111,0,"d20b77013c032fa25e4709053b1b05232f57b6627a399dbe57684e71e47067bc")
+

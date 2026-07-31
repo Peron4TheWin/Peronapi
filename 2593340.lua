@@ -1,0 +1,12 @@
+-- Lua provided by RyzenAPI
+-- Game: Wonderia
+
+-- MAIN APPLICATION
+addappid(2593340) -- Wonderia
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2593341, 1, "208e232b6e1a892ffce6084d22bc1cc8756715474738ad62aea7330051b76e2b") -- Depot 2593341
+addappid(2593342, 1, "14657320bd53c1a27f31edd6960f16a18a02aa801b97b7bcc0dee54c6d64d29d") -- Depot 2593342
+addappid(2593343, 1, "5a2ca35821fad6d662a0f41c587708a7abad2878530ce584e978902b12c6c9b0") -- Depot 2593343
+addtoken(2593340, "8000724797120855815")
+

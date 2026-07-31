@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: SoulQuest
+
+-- MAIN APPLICATION
+addappid(2512450)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2512451,0,"8c0d4b93f033466e6f02a78300901e6612247a91af79d42b9dd0cf5b94b1835a")
+

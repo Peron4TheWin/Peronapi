@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Glob Dash
+
+-- MAIN APPLICATION
+addappid(1745880)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(1745881,0,"9e167227cb24d2901c434b379ecae67b4709ba9a780698c40553f6734b381234")
+

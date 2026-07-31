@@ -1,0 +1,6 @@
+-- Lua provided by RyzenAPI
+-- Game: Morbid Metal
+
+
+addappid(1866130, 1, "01daaa5c7f8aa5c48e42d9d51c1893db3337ec5d35276806e0c20014987d1436") -- Morbid Metal
+addappid(1866131, 1, "9a7af3314bcdbbdffc8786b07b14c52230f77ae27ddc1479f060fca1b6c96d7f") -- Depot 1866131

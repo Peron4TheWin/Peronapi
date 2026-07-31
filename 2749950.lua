@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: setManifestid(2749951,"3494556541894600369")
+
+-- MAIN APPLICATION
+addappid(2749950)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(2749951,0,"bbca891b03feb6b30b61373f1fdb51376656cf5ab5fee47855c742e6878b0598")
+

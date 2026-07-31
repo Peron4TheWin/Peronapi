@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: MOBU
+
+-- MAIN APPLICATION
+addappid(4404580) -- MOBU
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4404581, 1, "1c23ba927ad56e227d4c37f0a0df9f46859106f65ff1a904ab9266794978ecef") -- Depot 4404581
+

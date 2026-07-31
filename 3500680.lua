@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Cropdeck
+
+-- MAIN APPLICATION
+addappid(3500680)
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3500681,0,"23f6633875ca138f232d470ec79587fd49a336449734b36b99773549c627795c")
+

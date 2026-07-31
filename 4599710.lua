@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: IDLE_DIRECTIVE
+
+-- MAIN APPLICATION
+addappid(4599710) -- IDLE_DIRECTIVE
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(4599711, 1, "8ae7dfe28f9b0333443240a8873902afe2df04e635767eea4c3f4ab81a39bae3") -- Depot 4599711
+

@@ -1,0 +1,9 @@
+-- Lua provided by RyzenAPI
+-- Game: Treasure Beach
+
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3939700, 1, "050b762ebcb23ddceee5a4d7a41b169b9e6b14e50dd73af3d294301f8b9491fd") -- Treasure Beach
+addappid(3939701, 1, "d6eab72a349ddee89aa8879e5b54190c5db0c557b3c33a77ea126e371d5057d0") -- Depot 3939701
+addappid(3939702, 1, "60827c51256b141b1b1ae4e4e7f18282b9e2a27992cb1bc04b006fa081fafcc7") -- Depot 3939702
+addappid(3939703, 1, "41964a44d88498f43a248b304ce8bf7c1600a3c1d0f677df16191a23bc01d046") -- Depot 3939703
+
