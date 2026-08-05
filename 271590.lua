@@ -13,3 +13,7 @@ addappid(362003)
 addappid(413180)
 addappid(771300)
 addappid(1899671, 0, "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b")
+
+
+-- travar att para funcionar
+-- setManifestid(271591, "6768057890420400504")
