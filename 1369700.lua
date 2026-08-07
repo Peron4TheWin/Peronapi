@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI
+-- Game: Solar Expanse - Space Exploration Manager
+addappid(1369700)
+addappid(1369701,0,"fe48e5a5ffc346b569f0f993f42403f5e1c53bc87068ac9eb8e123a069b9873e") -- Main

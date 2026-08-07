@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI
+-- Game: ChromaGun 2: Dye Hard
+addappid(2982340)
+addappid(2982341,0,"d4640329f3571710c7709c26194a250b71799d709ee1f06093a78061dd844964") -- Main
