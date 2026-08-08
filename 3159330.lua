@@ -23,3 +23,6 @@ addappid(1716751, 1, "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c
 -- Assassins Creed Shadows - Claws of Awaji (AppID: 3362550)
 addappid(3362550)
 addappid(3159339, 1, "bf213689d9d9dbd0ec6f827e3af29ed5783bb4da152bbefe251a4af6197755f5") -- Assassins Creed Shadows - Claws of Awaji - Depot 3159339
+
+-- travar depot
+-- setManifestid(3159331, "4595780502794590393")
