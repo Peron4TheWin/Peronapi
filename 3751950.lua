@@ -47,4 +47,4 @@ addappid(4519940) -- Assassins Creed Black Flag Resynced - Standard Edition - Pr
 addappid(4519950) -- Assassins Creed Black Flag Resynced - Deluxe Edition - Prepurchase - Ubisoft Activation
 addappid(4872930) -- Assassins Creed Black Flag Resynced - Standard Edition - PREVIEW - Ubisoft Activation
 addappid(4892480) -- Assassins Creed Black Flag Resynced - Deluxe Edition - PREVIEW - Ubisoft Activation
--- setManifestid(3751951,"6244593628330629913") -- Fix Voices
+-- setManifestid(3751951,"4397710407098141927") -- Fix Voices
