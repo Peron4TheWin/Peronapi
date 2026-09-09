@@ -1,15 +1,19 @@
 -- Lua provided by SkyAPI 
--- Game: DRAGON BALL Sparking zero
+--  Game:  DRAGON BALL: Sparking! ZERO
 addappid(1790600, 1, "5c8b5e47bb9da92fe0a31a0d56554bb62851cb9f846cc5f89fac68501d9964ff")
 addtoken(1790600, "4807984869702339794")
 addappid(1790601, 1, "0721a07eb97ba7b4e59e31606ae9f0d67c66309cc467c5da1aa79a924c34e7d8") -- Depot 1790601
+-- setManifestid(1790601, "8617588857786990249", 36829648802)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+-- setManifestid(228989, "5753583882400741046", 25674515)
 addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
--- DRAGON BALL Sparking ZERO Anime Music Pack 1
+-- setManifestid(228990, "1829726630299308803", 102931551)
 addappid(2957480)
 addappid(2957480, 1, "a8bbd2bdc3022cc2edc229e300b7583436b29d0e469662a8a277cf066798aa9f") -- DRAGON BALL Sparking ZERO Anime Music Pack 1 - Depot 2957480
+-- setManifestid(2957480, "2926878599274088682", 25771532)
 addappid(2957490)
 addappid(2957490, 1, "1b1f85ab25eb92147de8a0c1531d9ed57f3e01cfd46c9bb37be377251c2d24cd") -- DRAGON BALL Sparking ZERO Anime Music Pack 2 - Depot 2957490
+-- setManifestid(2957490, "6336205044388274470", 41112630)
 addappid(2957460) -- DRAGON BALL Sparking ZERO Pre-Order Pack
 addappid(2957470) -- DRAGON BALL Sparking ZERO Ultimate Upgrade Pack
 addappid(2957500) -- DRAGON BALL Sparking ZERO Victory Pack
