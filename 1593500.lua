@@ -1,4 +1,7 @@
--- Lua provided by SkyAPI 
+-- Lua provided by SkyApi (fixed manifest
 -- Game: God of War
 addappid(1593500)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358")
 addappid(1593501, 1, "77f7390a115063bccc41240f71e0bf27d42c6a7c0424657756fe3f99f26a287a")
+-- setManifestid(228988, "6645201662696499616")
+-- setManifestid(1593501, "2535153423663269664")
