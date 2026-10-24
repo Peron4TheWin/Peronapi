@@ -1,13 +1,6 @@
--- Generated with Luie edit by peek @ https://lua.tools/
--- 1938090 - Call of Duty®
--- Version-locked to Build 25909941 — released 2026-10-15 16:01:24 UTC
--- Generated 2026-10-17 20:07:55 UTC
--- # Depots (Total/DLC/Shared): 360/339/1
-
--- Main AppID
+-- Lua provided by Skyapi
+-- Game: Call Of Duty
 addappid(1938090, 1, "528c9c096376c028af9c875c9286a3b7fa6915e75459ba7bfdfb59663eb5d56c")
-
--- Main Depots
 addappid(1938091, 1, "f793d14324c44b23e03af1297626dc11756f9d2d8c77d510f3399e468fff5e87")
 -- setManifestid(1938091, "158378123183721837")
 addappid(1938092, 1, "94172c4bdb1ed3af957ce904a340f691e4c584b83c9c4eae0ffea087903c8811")
@@ -48,9 +41,7 @@ addappid(2014089, 1, "a0093394c26ae411bae2bb007d31210523d1547731dc448f8454382b72
 -- setManifestid(2014089, "6432332008604582622")
 addappid(2021995, 1, "f80041120508fd0fe83f89c013b93bbae03dafc837cc4564cd090b905e9896c5") -- Thai
 -- setManifestid(2021995, "5507410896286774269")
-
--- DLC's (with depot keys)
--- Call of Duty®: Modern Warfare® 4 (AppID: 4435490)
+-- Call of Duty®: Modern Warfare® 4 
 addappid(4435490)
 addtoken(4435490, "4241600889320268380")
 addappid(5092423, 1, "13b7a859fb4316970bd58aaf8d4d8f91bbad42741b0af24f2af68476ba026d86")
@@ -87,5 +78,4 @@ addappid(5177108, 1, "2dce291f92ef058c8ef5e4f1fa7be587af8a599f4cfeb6751b7e8636de
 -- setManifestid(5177108, "8098812335376996632")
 addappid(5177109, 1, "36565fb2948548dcc2f69c7412480e1f64fbdbebf468130564f77e29b59f925f")
 -- setManifestid(5177109, "5958345040510098253")
-addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
-
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") 
