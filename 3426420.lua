@@ -1,5 +1,6 @@
 -- Lua provided by SkyAPI 
--- Game: LUST CURSE
+-- Game: lust curse
+addappid(3426420)
 addappid(3426421, 1, "0199e4ea3002b2a76e12258179c140828f38651752ee738f16a9f7f330ee857f")
 -- setManifestid(3426421, "578321308907188120", 9311881898)
 addappid(5452150)
