@@ -11,3 +11,7 @@ addappid(3265140) -- The First Berserker Khazan Pre-Order Bonus
 addtoken(3265140, "3403688366037590208")
 addappid(3265150) -- The First Berserker Khazan Deluxe Bonus
 addappid(3265160) -- The First Berserker Khazan Sound Track  Art Book
+
+
+-- voices38fix
+-- setManifestid(2680011, "6765731590953570327", 56614426437)
