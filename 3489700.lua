@@ -11,6 +11,6 @@ addappid(3489701, 1, "2266ca31f6f2666ebe75906201e72f9398694030ff1c8214aacebcf74d
 addappid(3596180, 1, "a55f79607c32a7e24a388464ddc3cfbc91b2dcee6691061bca3fb32d231ccb32") -- Stellar Blade™ x NieR:Automata
 addappid(3596190, 1, "1e65f8baa259f487dcdc1d3dce1e198dd23c9f7b77236e4e56fcc9f6b915a449") -- Stellar Blade™ x GODDESS OF VICTORY: NIKKE
 -- voices
--- setManifestid(3489701, "2747626496734343426")
+-- setManifestid(3489701,"3495742353909195412")
 -- setManifestid(3596180, "8344797041293440177")
 -- setManifestid(3596190, "6588499701851943951")
